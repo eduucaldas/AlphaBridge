@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 20 16:19:41 2017
-
 @author: eduai_000
 """
 ##you gotta take out the newline in the beginning of the file
@@ -39,7 +38,7 @@ def vectorizing(handText):
         end = handText.find(SUITS[suit+1])
         for i in range(begin,end):
             hand[suit*13 + CARDMAP[handText[i]]-2] = 1
-    return hand[0]
+    return hand
         
 # colocar um nome melhor
 #return who entamed, in terms of S, W, E, N, with the players hands in the orther they`ll be played
@@ -87,4 +86,4 @@ def archiveTreat(filename):
 #print(treatingDudu(horribleInput))
 filename = "temp_final.DAT"
 vectorForZigfrid = archiveTreat(filename)
-
+print(vectorForZigfrid)
