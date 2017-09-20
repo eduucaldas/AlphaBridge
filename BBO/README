@@ -1,0 +1,17 @@
+Files related to BBO
+
+--->raw_lin_data
+Folder containing some scripts to manipulate LIN files from BBO.
+Downloaded the LIN files from: https://github.com/eitazhou/bridge_played_hands/tree/master/raw_lin_data
+
+--->downBBOp2.py
+This program will download in the format .lin all the results from a search from the URL:
+http://www.bridgebase.com/vugraph_archives/vugraph_archives.php
+Python v2.7
+
+--->downBBOp3.py
+This program will download in the format .lin all the results from a search from the URL:
+http://www.bridgebase.com/vugraph_archives/vugraph_archives.php
+Python v3.5
+
+
