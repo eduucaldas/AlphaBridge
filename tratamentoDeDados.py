@@ -75,7 +75,7 @@ def treatingDudu(horribleInput):
     #print(found)
     #print(PLAYERS[found])
     
-    return hands ##,PLAYERS[found]
+    return hands[0] ##,PLAYERS[found]
 
 #appele treating pour une 'file'
 def archiveTreat(filename):
