@@ -39,7 +39,7 @@ def vectorizing(handText):
         end = handText.find(SUITS[suit+1])
         for i in range(begin,end):
             hand[suit*13 + CARDMAP[handText[i]]-2] = 1
-    return hand
+    return hand[0]
         
 # colocar um nome melhor
 #return who entamed, in terms of S, W, E, N, with the players hands in the orther they`ll be played
@@ -47,8 +47,8 @@ def treatingDudu(horribleInput):
     #handsText com in the format [13],...
     #uniformilizing the inputs
     handsText, entame = pretreat(horribleInput)
-    print(handsText)
-    print(entame)
+    #print(handsText)
+    #print(entame)
     handsText = handsText.split(',')
     suitEntame = entame[0]
     rankEntame = entame[1]
