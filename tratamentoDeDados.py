@@ -4,11 +4,9 @@ Created on Wed Sep 20 16:19:41 2017
 
 @author: eduai_000
 """
-
+##you gotta take out the newline in the beginning of the file
 import numpy as np
-import re
-from collections import deque
-from functools import cmp_to_key
+
 PLAYERS = {0:'E', 1:'S', 2:'W', 3:'N'}
 SUITMAP = {'S':0, 'H':1, 'D':2, 'C':3}
 ##added by me
@@ -77,7 +75,7 @@ def treatingDudu(horribleInput):
     #print(found)
     #print(PLAYERS[found])
     
-    return PLAYERS[found], hands
+    return hands ##,PLAYERS[found]
 
 #appele treating pour une 'file'
 def archiveTreat(filename):
@@ -86,7 +84,7 @@ def archiveTreat(filename):
     return [treatingDudu(inp) for inp in horribleInputs]
     
 #horribleInput = "SAK62H32DAKT6CA84,SJT7HAJ4DQJ982C63,S83HT876D75CKQ752,SQ954HKQ95D43CJT9|DQ"
-
-filename = "terrificInput.txt"
-print(archiveTreat(filename))
 #print(treatingDudu(horribleInput))
+filename = "temp_final.DAT"
+vectorForZigfrid = archiveTreat(filename)
+
