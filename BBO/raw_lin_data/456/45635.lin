@@ -1,0 +1,290 @@
+vg|France   Netherlands,R4,I,1,12,France,166,Netherlands,194|
+rs|2SW+2,4SW-1,2SW+1,2SW+1,3NW-2,3NE-2,3NS+1,3NS+1,6SW=,6SW=,2SS-2,3SS-3,2HE=,3SE=,4SE=,4SE+1,3NS+2,5CN=,4HS=,5HSx-2,3NW-1,2NW=,4SE+1,4SE+1|
+pn|Guillemin,Caris,Boulin,Dupont,NIJSENN,BASLER,OVERVELDE,FRAGOLA|pg||
+qx|o1|st||md|3ST53HJ72DKQ7CAQ84,SAKQ9874HAQDJ4CT7,SJHK9853D9865CK93,S62HT64DAT32CJ652|sv|o|mb|p|mb|p|mb|1C|mb|d|mb|1H|mb|p|mb|1N|mb|2S|mb|p|mb|p|mb|p|pc|h3|pc|h4|pc|hJ|pc|hQ|pg||
+pc|sA|pc|sJ|pc|s2|pc|s3|pg||
+pc|sK|pc|h5|pc|s6|pc|s5|pg||
+pc|sQ|mc|10|pg||
+qx|c1|st||md|3ST53HJ72DKQ7CAQ84,SAKQ9874HAQDJ4CT7,SJHK9853D9865CK93,S62HT64DAT32CJ652|sv|o|mb|p|mb|p|mb|1C|mb|d|mb|1H|mb|p|mb|p|mb|2S|mb|d|mb|p|mb|3H|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c3|pc|c2|pc|cA|pc|c7|pg||
+pc|h2|pc|hQ|pc|hK|pc|h4|pg||
+pc|h9|pc|h6|pc|h7|pc|hA|pg||
+pc|sA|pc|sJ|pc|s2|pc|s3|pg||
+pc|sK|pc|h3|pc|s6|pc|s5|pg||
+pc|sQ|pc|h5|pc|d2|pc|sT|pg||
+pc|cT|pc|cK|pc|c5|pc|c4|pg||
+pc|d6|pc|dA|pc|d7|pc|d4|pg||
+pc|hT|pc|hJ|pc|s4|pc|h8|pg||
+pc|s9|mc|9|pg||
+qx|o2|st||md|4S3HT873DA2CQJT932,SAQJ654HKDKT94C54,SK87HAJ52D753CA86,ST92HQ964DQJ86CK7|sv|n|mb|p|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|d3|pc|dQ|pc|dA|pc|d9|pg||
+pc|d2|pc|dT|pc|d7|pc|d6|pg||
+pc|sA|pc|s7|pc|s2|pc|s3|pg||
+pc|s4|pc|s8|pc|s9|pc|cQ|pg||
+pc|h4|pc|h8|pc|hK|pc|hA|pg||
+pc|sK|pc|sT|pc|c2|pc|s5|pg||
+pc|cA|pc|c7|pc|c3|pc|c4|pg||
+mc|9|pg||
+qx|c2|st||md|4S3HT873DA2CQJT932,SAQJ654HKDKT94C54,SK87HAJ52D753CA86,ST92HQ964DQJ86CK7|sv|n|mb|p|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|d3|pc|dQ|pc|dA|pc|d4|pg||
+pc|d2|pc|d9|pc|d5|pc|dJ|pg||
+pc|s9|pc|s3|pc|s4|pc|sK|pg||
+pc|c6|pc|cK|pc|cQ|pc|c4|pg||
+pc|s2|pc|c2|pc|sJ|pc|s7|pg||
+pc|sA|pc|s8|pc|sT|pc|c3|pg||
+pc|hK|pc|hA|pc|h4|pc|h3|pg||
+pc|cA|pc|c7|pc|c9|pc|c5|pg||
+mc|9|pg||
+qx|o3|st||md|1S943HT954DAQ54CT3,SKQTH763D6CAQ9754,S876HAQJ2D973CKJ8,SAJ52HK8DKJT82C62|sv|e|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|2D!|an|GF|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|pc|hK|pc|h4|pc|h6|pg||
+pc|c2|pc|cT|pc|cQ|pc|cK|pg||
+pc|hA|pc|h8|pc|hT|pc|h3|pg||
+pc|hJ|pc|d2|pc|h9|pc|h7|pg||
+pc|h2|pc|d8|pc|h5|pc|c4|pg||
+pc|dA|pc|d6|pc|d3|pc|dT|pg||
+pc|c3|pc|c9|pc|cJ|pc|c6|pg||
+mc|7|pg||
+qx|c3|st||md|1S943HT954DAQ54CT3,SKQTH763D6CAQ9754,S876HAQJ2D973CKJ8,SAJ52HK8DKJT82C62|sv|e|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|2C|mb|d|mb|3N|mb|p|mb|p|mb|p|pc|hT|pc|h3|pc|h2|pc|hK|pg||
+pc|c6|pc|c3|pc|cQ|pc|cK|pg||
+pc|hA|pc|h8|pc|h4|pc|h6|pg||
+pc|hQ|pc|d2|pc|h5|pc|h7|pg||
+pc|hJ|pc|c2|pc|h9|pc|c4|pg||
+pc|d3|pc|dT|pc|dQ|pc|d6|pg||
+pc|dA|pc|c5|pc|d7|pc|d8|pg||
+mc|7|pg||
+qx|o4|st||md|2S7HT8DAQJ92CJT983,SA43HAQ76D7653C54,SKJ965HKJDKT4CAQ2,SQT82H95432D8CK76|sv|b|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d3|pc|d4|pc|d8|pc|dQ|pg||
+pc|cJ|pc|c4|pc|c2|pc|c6|pg||
+pc|c3|pc|c5|pc|cQ|pc|cK|pg||
+pc|h3|pc|h8|pc|hA|pc|hJ|pg||
+pc|h6|pc|hK|pc|h2|pc|hT|pg||
+pc|cA|pc|c7|pc|c8|pc|d5|pg||
+pc|dK|pc|s2|pc|d2|pc|d7|pg||
+pc|dT|pc|h5|pc|dA|pc|d6|pg||
+pc|dJ|pc|s3|pc|s5|pc|h4|pg||
+pc|d9|pc|s4|pc|s6|pc|s8|pg||
+pc|cT|pc|h7|pc|s9|pc|h9|pg||
+pc|c9|pc|hQ|pc|sJ|pc|sT|pg||
+pc|s7|pc|sA|pc|sK|pc|sQ|pg||
+pg||
+qx|c4|st||md|2S7HT8DAQJ92CJT983,SA43HAQ76D7653C54,SKJ965HKJDKT4CAQ2,SQT82H95432D8CK76|sv|b|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d6|pc|d4|pc|d8|pc|dA|pg||
+pc|cJ|pc|c4|pc|c2|pc|cK|pg||
+pc|h5|pc|h8|pc|hA|pc|hJ|pg||
+pc|h6|pc|hK|pc|h2|pc|hT|pg||
+mc|10|pg||
+qx|o5|st||md|3S4HQ3DQJ93CQJT986,SAKQT2HK9DT842CK5,S653H654DAK65C732,SJ987HAJT872D7CA4|sv|n|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|4D|mb|p|nt|adriaantje:  good evening to all|pg||
+mb|4H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|6S|mb|p|mb|p|mb|p|nt|adriaantje:  This is the 4th session (out of 12) of a practice match between the Dutch and French youngsters teams, practicing for the World Youth Team Championships, starting on 5 August in Salsomaggiore, Italy|pg||
+pc|dA|nt|adriaantje:  This match is currently taking place in Paris, until Sunday|pg||
+pc|d7|pc|d3|pc|d4|pg||
+pc|c2|pc|c4|pc|c8|pc|cK|pg||
+pc|sA|pc|s3|nt|adriaantje:  While the match was quite tight after the first 2 sessions, the Netherlands are now in a comfortable lead|pg||
+pc|s7|pc|s4|pg||
+pc|sK|pc|s5|pc|s9|pc|c6|pg||
+pc|sQ|pc|s6|pc|s8|pc|c9|pg||
+pc|hK|pc|h4|pc|h2|pc|h3|pg||
+pc|h9|pc|h6|pc|hA|pc|hQ|pg||
+mc|12|pg||
+qx|c5|st||md|3S4HQ3DQJ93CQJT986,SAKQT2HK9DT842CK5,S653H654DAK65C732,SJ987HAJT872D7CA4|sv|n|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|dA|pc|d7|pc|d3|pc|d2|pg||
+pc|c2|pc|c4|pc|c8|pc|cK|pg||
+pc|sA|pc|s3|pc|s7|pc|s4|pg||
+pc|sK|pc|s5|pc|s8|pc|c6|pg||
+pc|sQ|pc|s6|pc|sJ|pc|c9|pg||
+pc|hK|pc|h4|pc|h2|pc|h3|pg||
+pc|h9|pc|h5|pc|hA|pc|hQ|pg||
+mc|12|pg||
+qx|o6|st||md|4SAKQ876HJ74DQ84C8,ST543H32DA963C764,S2HQ8DJT752CKQJ32,SJ9HAKT965DKCAT95|sv|e|nt|adriaantje:  4@D is quite an aggressive bid on a 10-count but, if anything, it was very very good timing by Dupont because that fitted Caris's hand really well|pg||
+mb|1H|mb|1S|mb|p|nt|adriaantje:  north's options are limited here|pg||
+nt|adriaantje:  you'd like to bid something, but what?|pg||
+nt|adriaantje:  2@C or 2@D show slightly stronger hands than this one in most systems|pg||
+mb|1N|mb|2H|nt|adriaantje:  and game is not likely while it is likely that east will bid something rather than making a one-level bid the final contract|pg||
+mb|2S|mb|p|nt|adriaantje:  lol I|pg||
+mb|p|mb|p|nt|adriaantje:  am clearly a bit tired, because I had missed the @HQ|pg||
+pc|h2|nt|adriaantje:  I think 2@C would not be a bad bid at all and certainly preferable over 1NT without a @H stopper|pg||
+pc|h8|nt|adriaantje:  EW are one of the very few Dutch pairs who play Polish leads, which includes leading low from a doubleton|pg||
+pc|hK|pc|h7|pg||
+pc|hA|pc|h4|pc|h3|pc|hQ|pg||
+pc|h5|pc|hJ|pc|s3|nt|adriaantje:  2@S will be down a few|pg||
+pc|d2|pg||
+nt|adriaantje:  2@H would have just been made I reckon|pg||
+pc|dA|pc|d5|pc|dK|pc|d8|pg||
+pc|d6|pc|d7|pc|s9|pc|dQ|pg||
+nt|adriaantje:  if Dupont plays a @H now, declarer just ditches his @C loser|pg||
+nt|adriaantje:  So, for 2 down, he has to cash the @CA|pg||
+pc|cA|pc|c8|pc|c4|pc|c2|pg||
+pc|h6|pc|sQ|pc|d3|nt|adriaantje:  well done!|pg||
+pc|c3|pg||
+pc|sA|pc|s4|pc|s2|pc|sJ|pg||
+pc|sK|pc|s5|pc|dT|pc|c9|pg||
+mc|6|nt|adriaantje:  if he had cashed the @DK earlier on, the contract could have been down 3|pg||
+nt|adriaantje:  but that was also not easy|pg||
+pg||
+qx|c6|st||md|4SAKQ876HJ74DQ84C8,ST543H32DA963C764,S2HQ8DJT752CKQJ32,SJ9HAKT965DKCAT95|sv|e|mb|1H|mb|1S|mb|p|mb|p|mb|2C|mb|2S|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|h3|pc|h8|pc|hK|pc|h4|pg||
+pc|hA|pc|h7|pc|h2|pc|hQ|pg||
+pc|h5|pc|hJ|pc|s3|pc|d2|pg||
+pc|c7|pc|cK|pc|cA|pc|c8|pg||
+pc|hT|pc|d4|pc|s4|pc|c2|pg||
+pc|dA|pc|d5|pc|dK|pc|d8|pg||
+pc|d9|pc|d7|pc|sJ|pc|dQ|pg||
+pc|h9|pc|sA|pc|d3|pc|c3|pg||
+pc|sK|pc|s5|pc|s2|pc|s9|pg||
+mc|6|pg||
+qx|o7|st||md|1S98HQ753DAK75CAKJ,SHKJT964DJ982CT73,ST764H82DQ3CQ9542,SAKQJ532HADT64C86|sv|b|nt|adriaantje:  and whatever, +50 more or less|pg||
+mb|1N|mb|2D!|mb|p|nt|adriaantje:  soo where will this lead|pg||
+nt|adriaantje:  2@D a single-suited major|pg||
+nt|adriaantje:  east may not be able to bid his spades now|pg||
+nt|adriaantje:  as 2@S would be pass or correct|pg||
+mb|2H|nt|adriaantje:  as would 3@S probably|pg||
+mb|p|mb|p|nt|adriaantje:  2@H also pass/correct|pg||
+nt|adriaantje:  that leaves him with the option of settling for 2@H, or trying 4@S immediately which is quite optimistic with a 1NT opening to your left|pg||
+mb|p|nt|adriaantje:  a 3rd option will be bidding 2@S, being aware of the fact that's pass/correct but then correcting your partner's 3@H to 3@S again!|pg||
+pc|cA|pc|c3|pc|c9|pc|c6|pg||
+pc|cK|pc|c7|nt|adriaantje:  some pairs play 3@C or 3@D in this sequence as "bid the major suit that's NOT your suit" so they can play in the better suit of the two|pg||
+pc|c2|pc|c8|pg||
+pc|cJ|pc|cT|pc|cQ|pc|hA|pg||
+pc|sA|pc|s8|pc|d2|pc|s4|pg||
+pc|sK|pc|s9|pc|d8|pc|s6|pg||
+pc|sQ|pc|h7|pc|h9|nt|adriaantje:  but one may also play that as natural - although you could consider how useful that would be for 3@D because you could also pass 2@D with a lot of diamonds|pg||
+pc|s7|pg||
+pc|hK|pc|h2|pc|d4|pc|h3|pg||
+pc|hJ|pc|h8|pc|s2|pc|hQ|pg||
+pc|dA|pc|d9|pc|d3|pc|d6|pg||
+pc|dK|pc|dJ|pc|dQ|pc|dT|pg||
+nt|adriaantje:  meanwhile NS weren't quick enough in cashing their top tricks and 2@H is made|pg||
+pc|d7|pc|h6|pc|c4|pc|s3|pg||
+pc|hT|pc|sT|pc|s5|pc|h5|pg||
+pc|h4|pc|c5|pc|sJ|pc|d5|pg||
+pg||
+qx|c7|st||md|1S98HQ753DAK75CAKJ,SHKJT964DJ982CT73,ST764H82DQ3CQ9542,SAKQJ532HADT64C86|sv|b|mb|1N|mb|2D|an|one major|mb|2N|an|!c|mb|d!|mb|p|mb|3C|an|!h weak|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|cA|pc|c3|pc|c9|pc|c6|pg||
+pc|cK|pc|c7|pc|c4|pc|c8|pg||
+pc|cJ|pc|cT|pc|cQ|pc|s2|pg||
+pc|sA|pc|s8|pc|h4|pc|s4|pg||
+pc|sK|pc|s9|pc|h6|pc|s6|pg||
+pc|sQ|pc|h7|pc|h9|pc|s7|pg||
+pc|sJ|pc|h3|pc|d2|pc|sT|pg||
+pc|hA|pc|h5|pc|hT|pc|h2|pg||
+pc|s5|pc|d5|pc|d8|pc|h8|pg||
+pc|d4|pc|dA|pc|d9|pc|d3|pg||
+pc|dK|pc|dJ|pc|dQ|pc|d6|pg||
+pc|d7|mc|9|pg||
+qx|o8|st||md|2ST65HK6D6432CT964,SQ42H9753DQ7CA852,SKHQJ4DJT95CKQJ73,SAJ9873HAT82DAK8C|sv|o|nt|adriaantje:  a funny contract to be in and may as well win them some imps, considering that it's easy to get too high on the east hand|pg||
+mb|p|mb|1C|mb|d|mb|p|mb|1N|mb|p|nt|adriaantje:  and yep as some specs say, 2@D is quite aggressive on the west hand - but you can clearly see that east was aware of his partner's style, so then the only problem is you sometimes write a telephone number in the 'they' column|pg||
+nt|adriaantje:  meanwhile..|pg||
+mb|4S|mb|p|mb|p|mb|p|pc|cT|nt|adriaantje:  west conceals his 4crd @H|pg||
+nt|adriaantje:  and instead bids 1NT|pg||
+pc|cA|pc|c3|pc|h2|pg||
+pc|sQ|pc|sK|pc|sA|pc|s5|pg||
+pc|sJ|pc|s6|pc|s2|nt|adriaantje:  well nothing really matters now, but east could certainly have bid 2@S right?|pg||
+nt|adriaantje:  also showing his hand quite well|pg||
+mc|10|nt|adriaantje:  or 2@C to show majors if that's your agreement in this sequence|pg||
+pg||
+qx|c8|st||md|2ST65HK6D6432CT964,SQ42H9753DQ7CA852,SKHQJ4DJT95CKQJ73,SAJ9873HAT82DAK8C|sv|o|mb|p|mb|1C|mb|1S|mb|p|mb|2S|mb|d|mb|4C|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|s5|pc|s2|pc|sK|pc|sA|pg||
+pc|sJ|pc|s6|pc|s4|pc|c3|pg||
+pc|s3|pc|sT|pc|sQ|pc|dJ|pg||
+pc|cA|pc|c7|pc|h2|pc|c4|pg||
+pc|h3|pc|h4|pc|h8|pc|hK|pg||
+pc|cT|pc|c2|pc|cJ|pc|s7|pg||
+pc|s9|pc|c6|pc|c5|pc|cQ|pg||
+pc|dA|pc|d2|pc|d7|pc|d5|pg||
+pc|d8|pc|d3|pc|dQ|pc|d9|pg||
+pc|h5|pc|hJ|pc|hA|pc|h6|pg||
+mc|11|pg||
+qx|o9|st||md|3S42HA8DAK6CQJ8642,SJ63H7532DJ853C53,SAT97HKQ6D742CA97,SKQ85HJT94DQT9CKT|sv|e|nt|adriaantje:  handling of the trumps was not the best but still finished home with 10 tricks|pg||
+nt|adriaantje:  the best - double dummy that is|pg||
+nt|adriaantje:  north might as well have held KTx|pg||
+mb|1C|mb|d|mb|r|mb|1D|mb|1S|mb|p|nt|adriaantje:  with his @C fit, south is not really interested in doubled defence, which is what rdbl is primarily aimed at|pg||
+mb|3N|nt|adriaantje:  that's why many pairs play 2NT after 1x-(dbl) as inv+ with a fit|pg||
+mb|p|mb|p|mb|p|nt|adriaantje:  because you don't need it in its natural meaning, because you rdbl with those hands|pg||
+pc|h2|nt|adriaantje:  I think 1@S should show an unbalanced hand which is more offensive|pg||
+pc|h6|pc|h9|pc|hA|pg||
+nt|adriaantje:  you can safely pass (forcing) after your partner has told you that your side has the majority of the HCP|pg||
+pc|cQ|pc|c3|pc|c7|pc|cK|pg||
+mc|11|nt|adriaantje:  but oh well - they were always going to land in 3NT and that was always going to make with the double stopper in every suit|pg||
+pg||
+qx|c9|st||md|3S42HA8DAK6CQJ8642,SJ63H7532DJ853C53,SAT97HKQ6D742CA97,SKQ85HJT94DQT9CKT|sv|e|mb|1C|mb|p|mb|2C!|an|forcing|mb|p|mb|2N|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|5C|mb|p|mb|p|mb|p|pc|hJ|pc|hA|pc|h5|pc|h6|pg||
+pc|cQ|pc|c3|pc|c7|pc|cK|pg||
+mc|11|pg||
+qx|o10|st||md|4SHAKJT97DQT3CKQJ5,ST874H432DA8CA986,SK652H86DK965C432,SAQJ93HQ5DJ742CT7|sv|b|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|3C|mb|p|nt|adriaantje:  4@H is a fine game|pg||
+mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|adriaantje:  I don't know NS agreements but 3@C is GF for most pairs - that seems really pushy opposite a 6+ bid|pg||
+nt|adriaantje:  considering 3NT, this was also GF|pg||
+nt|adriaantje:  but never argue with success, they landed in the best game |pg||
+pc|h2|nt|adriaantje:  declarer has to guess the @Ds correctly to get home|pg||
+pc|h6|pc|hQ|pc|hA|pg||
+nt|adriaantje:  West has to keep all his @Cs to make it as difficult for decl as possible|pg||
+pc|hK|pc|h3|pc|h8|pc|h5|pg||
+pc|hJ|pc|h4|pc|s2|pc|s3|pg||
+pc|dQ|pc|dA|pc|d5|pc|d2|pg||
+pc|cA|pc|c2|pc|c7|pc|c5|pg||
+nt|adriaantje:  whoops|pg||
+pc|s4|pc|sK|pc|sA|pc|h7|pg||
+pc|hT|pc|d8|pc|s5|pc|s9|pg||
+pc|cK|pc|c6|pc|c3|pc|cT|pg||
+nt|adriaantje:  declarer guessed incorrectly, but then west immediately handed the contract back by cashing the @CA - was there any rush for that?|pg||
+pc|cQ|pc|c8|pc|c4|pc|sQ|pg||
+pc|cJ|pc|c9|pc|s6|pc|sJ|pg||
+pc|dT|pc|s7|pc|dK|pc|d4|pg||
+pc|d6|pc|dJ|pc|d3|pc|s8|pg||
+pc|d7|pc|h9|pc|sT|pc|d9|pg||
+pg||
+qx|c10|st||md|4SHAKJT97DQT3CKQJ5,ST874H432DA8CA986,SK652H86DK965C432,SAQJ93HQ5DJ742CT7|sv|b|mb|2S|an|5!s + 1 minor weak|mb|d|mb|4S|mb|p|mb|p|mb|5H|mb|d|mb|p|mb|p|mb|p|pc|s8|pc|s2|pc|sJ|pc|h9|pg||
+pc|hA|pc|h3|pc|h6|pc|h5|pg||
+pc|hK|pc|h2|pc|h8|pc|hQ|pg||
+pc|hJ|pc|h4|pc|c2|pc|s9|pg||
+pc|cK|pc|cA|pc|c3|pc|c7|pg||
+pc|s4|pc|s5|pc|sQ|pc|h7|pg||
+pc|dQ|pc|dA|pc|d5|pc|d4|pg||
+pc|sT|pc|s6|pc|s3|pc|hT|pg||
+pc|cQ|pc|c6|pc|c4|pc|cT|pg||
+pc|cJ|pc|c8|pc|sK|pc|d2|pg||
+pc|dT|pc|d8|pc|d6|pc|dJ|pg||
+pc|sA|pc|d3|pc|s7|pc|d9|pg||
+pc|d7|pc|c5|pc|c9|pc|dK|pg||
+pg||
+qx|o11|st||md|1ST53HT7D972CKQT42,SA92HAJ83DAQ3CA83,SKJ7HK654DK85CJ65,SQ864HQ92DJT64C97|sv|o|mb|p|mb|1C!|mb|p|mb|1D|mb|p|nt|adriaantje:  1@C 2+|pg||
+mb|2N!|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|adriaantje:  1@D just natural - EW used to play t-walsh but they had to abandon that convention in order to get on the world championships team|pg||
+pc|sJ|pc|s4|pc|s3|nt|adriaantje:  3NT is a pushy contract on E's meagre 5-count|pg||
+pc|sA|pg||
+nt|adriaantje:  a spec enlightened me on the previous board - 4@H was always made by starting with the @DQ and then letting the T run - east can do nothing to prevent declarer from pitching his small @C|pg||
+nt|adriaantje:  so @CA made no difference|pg||
+pc|s9|pc|s7|pc|s6|pc|sT|pg||
+nt|adriaantje:  but on this board - I reckon 3NT is a bit too pushy for declarer|pg||
+nt|adriaantje:  especially after getting the spades wrong now|pg||
+nt|adriaantje:  but he would have been short 1 trick for sure|pg||
+nt|adriaantje:  don't we all hate those high 3NT contracts where our optimistic partners launch us in and we spend a long time counting but never coming close to 9 tricks|pg||
+pc|s5|pc|s2|pc|sK|pc|s8|pg||
+nt|adriaantje:  a @C switch is best now - obvious for us seeing declarer's @H AJ and @D AQ, less obvious for north who knows west opened in clubs|pg||
+pc|d5|pc|dJ|pc|d2|pc|d3|pg||
+nt|adriaantje:  this is helpful for declarer, but will probably still not make|pg||
+pc|sQ|pc|c2|pc|c3|pc|c5|pg||
+pc|h9|pc|hT|pc|hJ|pc|hK|pg||
+pc|cJ|pc|c7|pc|cQ|pc|c8|pg||
+pc|d9|pc|dQ|pc|dK|pc|d4|pg||
+mc|8|nt|adriaantje:  fate is sealed - although it was already for quite a while|pg||
+pg||
+qx|c11|st||md|1ST53HT7D972CKQT42,SA92HAJ83DAQ3CA83,SKJ7HK654DK85CJ65,SQ864HQ92DJT64C97|sv|o|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|h4|pc|h2|pc|hT|pc|hJ|pg||
+pc|h3|pc|hK|pc|h9|pc|h7|pg||
+pc|sJ|pc|sQ|pc|s3|pc|s2|pg||
+pc|dJ|pc|d2|pc|d3|pc|d5|pg||
+pc|d4|pc|d7|pc|dQ|pc|dK|pg||
+pc|h5|pc|hQ|pc|c2|pc|h8|pg||
+pc|d6|pc|d9|pc|dA|pc|d8|pg||
+pc|s9|pc|sK|pc|s4|pc|s5|pg||
+pc|cJ|pc|c7|pc|c4|mc|8|pg||
+qx|o12|st||md|2SKTHKQ632DKTCQT82,SJ952HJT75DQ3CAJ6,S87HA984DJ874C954,SAQ643HDA9652CK73|sv|n|nt|adriaantje:  this is the last board of the session and consequently of today|pg||
+mb|p|mb|p|mb|1S|nt|adriaantje:  the players need a good night's sleep and I need a cup of hot chocolate|pg||
+mb|d|mb|2C!|an|drury|mb|p|mb|2D|mb|p|nt|adriaantje:  tomorrow play resumes at 10.30 CEST with the 5th session|pg||
+mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hK|nt|vugraphzcs: last board ty all :) |pg||
+pc|h5|nt|adriaantje:  for the specs who don't know - drury is a convention in place after 3rd and 4th seat openings, showing a fit for partner's opening suit and at least invitational values|pg||
+pc|h9|pc|s3|pg||
+pc|d2|nt|adriaantje:  agreements on 2@D differ among those who play this convention - but in this case it clearly did not show a minimum (or not necessarily)|pg||
+pc|dK|pc|d3|pc|d8|pg||
+nt|adriaantje:  this contract should encounter no real difficulties|pg||
+pc|cT|pc|cJ|pc|c4|pc|c3|pg||
+pc|dQ|pc|d4|pc|d5|pc|dT|pg||
+pc|s2|pc|s7|pc|sA|pc|sT|pg||
+pc|d6|pc|h6|pc|s5|pc|d7|pg||
+pc|sJ|pc|s8|pc|s4|pc|sK|pg||
+mc|11|nt|adriaantje:  thanks to all productive specs and to Johan for operating - see you soon!|pg||
+pg||
+qx|c12|st||md|2SKTHKQ632DKTCQT82,SJ952HJT75DQ3CAJ6,S87HA984DJ874C954,SAQ643HDA9652CK73|sv|n|mb|p|mb|p|mb|1S|mb|d|mb|2C|nt|vugraphzcu: le charriot met du temps|pg||
+mb|d|mb|2D|mb|2H|mb|2S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hK|pc|h5|pc|h4|pc|s3|pg||
+pc|d2|pc|dK|pc|d3|pc|d4|pg||
+pc|c2|pc|cJ|pc|c4|pc|c3|pg||
+pc|s2|pc|s7|pc|sQ|pc|sK|pg||
+pc|sT|pc|sJ|pc|s8|pc|s4|pg||
+pc|dQ|pc|d7|pc|d5|pc|dT|pg||
+pc|c6|pc|c5|mc|11|pg||

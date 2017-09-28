@@ -1,0 +1,760 @@
+vg|BBO3-2016WBG,O-R16-1_6,I,1,16,SPAIN,0,USA,0|
+rs|1NW=,3CE-1,6SE-1,4SE+2,4DE+1,4CW=,2NE-3,2SW=,3NN=,6CS=,4SW=,4SW+1,4HW-1,4HW-1,3HW-2,3HW-1,2HS=,2HS=,4HW=,4HW=,5DW=,4DW+2,3NN=,3NN+1,3HN=,3CS-1,4SS=,4SNx+1,3NE-2,4HE=,3DS+2,6DNx-1|
+pn|LANTARON,GRECO,F GODED,HAMPSON,DIAMOND,G GODED,PLATNICK,SABATE|pg||
+qx|o1|st||md|3SQT83HJ73DK53CK64,SJ7HA9DQJT94CQT87,SK652HKT84D82CA32,SA94HQ652DA76CJ95|sv|o|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h4|pc|hQ|pc|h3|pc|h9|pg||
+pc|dA|pc|d3|pc|d4|pc|d2|pg||
+pc|d6|pc|d5|pc|dQ|pc|d8|pg||
+pc|dJ|nt|East4Evil:  Hi all|pg||
+pc|s2|pc|d7|pc|dK|pg||
+pc|sT|pc|sJ|pc|sK|pc|sA|pg||
+pc|h2|pc|h7|pc|hA|pc|h8|pg||
+pc|dT|pc|c2|pc|c5|pc|s3|pg||
+pc|d9|pc|c3|pc|c9|pc|c4|pg||
+pc|c7|pc|cA|pc|cJ|pc|c6|pg||
+mc|7|pg||
+qx|c1|st||md|3SQT83HJ73DK53CK64,SJ7HA9DQJT94CQT87,SK652HKT84D82CA32,SA94HQ652DA76CJ95|sv|o|mb|1D!|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|2N!|mb|p|mb|3C|nt|pilogen:  Good morning everyone|pg||
+nt|pilogen:  Today we start the KOs round of the Games|pg||
+mb|p|mb|p|mb|p|nt|MrAce:  hi all|pg||
+nt|MrAce:  Hi Giovanni|pg||
+nt|pilogen:  You can watch the tables of this match here https://www.youtube.com/channel/UC1Hp5N8n2kKVBRQPRll8OGw/feed?activity_view=6|pg||
+nt|pilogen:  Hi TImo|pg||
+pc|c4|nt|pilogen:  Diamond and Platcnick play a Precision-based system: http://livebridge.net/bbo/wbf/cc/15700-15701.pdf|pg||
+pc|c7|nt|pilogen:  Goded-Sabate also  play a strong club: http://www.ecatsbridge.com/documents/files/2016WroclawSystems/OpenTeams/Spain/Goded-Sabate.pdf|pg||
+nt|MrAce:  3@C rates to go down.  Outcome of 2@S seems like depending on @S losers, |pg||
+nt|pilogen:  Running scores for all matches: http://www.worldbridge.org/repository/tourn/wroclaw.16/Microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=1240&qphase=16|pg||
+pc|cA|pc|c5|pg||
+pc|s6|pc|s4|pc|sQ|pc|s7|pg||
+nt|pilogen:  Our vugraph operator is Dawid, correct?|pg||
+nt|MrAce:  no idea|pg||
+nt|vugraphc3: Correct|pg||
+nt|pilogen:  Hi Dawid!|pg||
+nt|MrAce:  he confirmed, Hi David :)|pg||
+nt|MrAce:  Dawid*|pg||
+nt|vugraphc3: Hello :)|pg||
+pc|h3|pc|hA|pc|h8|pc|h5|pg||
+pc|cT|pc|c3|pc|c9|pc|cK|pg||
+pc|hJ|pc|h9|pc|hK|pc|h2|pg||
+pc|sK|pc|sA|pc|s3|pc|sJ|pg||
+pc|cJ|pc|c6|pc|cQ|pc|c2|pg||
+pc|dQ|pc|d8|pc|d6|pc|dK|pg||
+mc|8|nt|MrAce:  seems like a +4 imp for USA|pg||
+pg||
+qx|o2|st||md|4STHQ8653DKT953C62,SQ86HKT74DA42CQ98,SJ742H9DQJ876CKJ7,SAK953HAJ2DCAT543|sv|n|mb|1C|mb|p|nt|East4Evil:  Greco saw no need to risk the contract for overtricks in case there was a silly lie of the cards, so he'll take his tricks and run|pg||
+nt|East4Evil:  1@c = 16+ artificial|pg||
+mb|1H!|mb|p|mb|1S|mb|p|mb|1N|nt|East4Evil:  1@h = most 8-11 hands, could rarely be stronger|pg||
+mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|nt|East4Evil:  to make 6@s, Hampson would have to pick up the spade suit and guess @cs for one loser. He could do both double dummy|pg||
+nt|roghog:  Hi everyone. Good morning from Europe|pg||
+nt|East4Evil:  the timing has to be good to pull it off though|pg||
+nt|East4Evil:  Morning Roger|pg||
+mb|6S|mb|p|mb|p|nt|roghog:  Hi Alex. Dodgy slam, this one|pg||
+mb|p|pc|d3|nt|East4Evil:  he will likely pick up the spades|pg||
+nt|East4Evil:  but he has limited entries, and so he will have to choose how to play the clubs|pg||
+nt|roghog:  yes, he will see @s10 under the Ace |pg||
+pc|d2|pc|d6|pc|s3|pg||
+pc|sA|pc|sT|pc|s6|pc|s2|pg||
+pc|s5|pc|h3|pc|sQ|pc|s4|pg||
+nt|East4Evil:  playing @cA and low will give him a guess whenever an honor doesn't show up|pg||
+nt|roghog:  yes, may bang out @cA first in case N has a singleton |pg||
+pc|s8|nt|East4Evil:  playing an honor off dummy picks up both honors onside, plus Kx or Jx onside. But he can only do it once|pg||
+pc|s7|pc|s9|nt|East4Evil:  *only cross to dummy once|pg||
+pc|d5|pg||
+pc|sK|pc|h8|pc|d4|pc|sJ|pg||
+nt|East4Evil:  I mean, he can cross twice. But then he needs the heart finesse too :)|pg||
+pc|cA|pc|c2|pc|c8|pc|c7|pg||
+pc|c3|pc|c6|nt|roghog:  unlucky, but that was the normal play|pg||
+nt|East4Evil:  seemed reasonable to me|pg||
+mc|11|nt|East4Evil:  This match is 96 boards long (16 x 6), with 4 sets played today and 2 tomorrow|pg||
+pg||
+qx|c2|st||md|4STHQ8653DKT953C62,SQ86HKT74DA42CQ98,SJ742H9DQJ876CKJ7,SAK953HAJ2DCAT543|sv|n|nt|pilogen:  Yes, EW were allowed to play and make 1NT in the other room|pg||
+mb|1C!|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|nt|pilogen:  2@C shows 9-11 balanced|pg||
+mb|2H|mb|p|nt|MrAce:  Platnic had the advantage of opening a precision 1@S with 10, playing natural balanced 10 is not the most encouraging hand for an opener|pg||
+mb|2S!|nt|MrAce:  1@D|pg||
+nt|MrAce:  not 1@S|pg||
+mb|p|mb|3H!|nt|MrAce:  this can be made 6@S despite 4-1 break if declarer guesses everything correctly|pg||
+nt|MrAce:  or 6@C|pg||
+nt|pilogen:  You need no @S losers and at most 1 @C loser|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|nt|MrAce:  in 6@C and on @S lead declarer will have to play @CQ from dummy in order to clean south from trumps. |pg||
+nt|pilogen:  Do we consider that a good slam?|pg||
+nt|MrAce:  oh well 4@S it is|pg||
+pc|c6|pc|c8|nt|MrAce:  no we dont Giovanni |pg||
+pc|cJ|pc|cA|pg||
+pc|sK|pc|sT|pc|s6|pc|s2|pg||
+nt|pilogen:  The lead probably means that East relayed all the way and didn't show much about his hand|pg||
+pc|s3|pc|d5|pc|sQ|nt|MolvaM: any slam that makes is a good one. if it involves a couple of finesses, so much better :)|pg||
+pc|s4|pg||
+nt|pilogen:  You wouldn't lead into declarer's second suit otherwise|pg||
+pc|s8|nt|MrAce:  hehe|pg||
+pc|s7|pc|s9|mc|12|nt|MrAce:  USA is in 6@S|pg||
+nt|MrAce:  in other room|pg||
+pg||
+qx|o3|st||md|1S8632HAT8652D6C73,SJ95HQDKQJCAKQJ95,SKT4HKJ43DA92C864,SAQ7H97DT87543CT2|sv|e|mb|2D!|nt|East4Evil:  Spain finished 8th overall (3rd in their group) after the RR and so got the last choice of the 9-16 teams|pg||
+nt|East4Evil:  The USA was left over, so here we are|pg||
+nt|roghog:  Helgemo took @dA and played @cQ at once, a spec tells me. very good shot, that|pg||
+mb|d|nt|East4Evil:  true, the @dA was a dummy entry|pg||
+mb|2S!|nt|East4Evil:  I am not sure of the N/S system, but 2@d is probably weak with 1 major|pg||
+nt|East4Evil:  and 2@s is pass or correct|pg||
+nt|roghog:  West decides he is too strong to bid 3@c over the Multi|pg||
+nt|East4Evil:  a bit conservative from N, but maybe he thinks he can buy the contract at a lower level|pg||
+mb|p|nt|East4Evil:  either that or N/S agree to play VERY aggressive favorable preempts|pg||
+nt|roghog:  The Multi was invented in the UK. Europeans won't be able to use it any more after Brexit...|pg||
+mb|3H|nt|East4Evil:  :)|pg||
+mb|d|nt|East4Evil:  2nd X from greco is takeout|pg||
+nt|East4Evil:  I guess the first one was too, but here he's decided he can show all his suits|pg||
+mb|p|nt|roghog:  the problem with double - rather than 3@c - is that you haven't shown those nice @c|pg||
+mb|4D|mb|p|nt|East4Evil:  4@d seems wimpy to me on this auction, but Hampson may not like his shape, even with 6 diamonds and the spades over N|pg||
+nt|roghog:  Dutch spec tells me British players won't be allowed to use Muiderburg Twos any more. Hmmm, we need another referendum|pg||
+nt|East4Evil:  You'll need a new name for the @d9 too|pg||
+nt|East4Evil:  or Europe will anyway|pg||
+mb|p|mb|p|pc|hA|pc|hQ|nt|East4Evil:  I agree with Greco here; he's done enough, and his partner can hear the bidding too|pg||
+nt|roghog:  yes, if you are playing against a Scot and they don't lead @d9, they haven't got it. It is a curse and they get rid of it as soon as possible|pg||
+pc|h3|pc|h7|pg||
+nt|East4Evil:  this lead will help declarer|pg||
+pc|h6|pc|dJ|pc|h4|pc|h9|pg||
+pc|dK|pc|dA|pc|d3|pc|d6|pg||
+pc|s4|pc|sA|pc|s2|pc|s5|pg||
+pc|d4|pc|h2|pc|dQ|pc|d2|pg||
+nt|East4Evil:  repeated clubs would have threatened to kill dummy|pg||
+pc|c5|pc|c4|pc|cT|pc|c3|pg||
+pc|dT|nt|roghog:  I am asked about the Multi. It was invented in Northern Ireland, but championed by Terence Reese and Jeremy Flint|pg||
+nt|East4Evil:  but declarer could still time the contract to make|pg||
+mc|11|nt|roghog:  OK, back to the bridge|pg||
+pg||
+qx|c3|st||md|1S8632HAT8652D6C73,SJ95HQDKQJCAKQJ95,SKT4HKJ43DA92C864,SAQ7H97DT87543CT2|sv|e|mb|p|mb|1C!|mb|p|mb|1D!|nt|pilogen:  Playing 6@S once you see 4@Ss in North you can play @Cs the worng way|pg||
+nt|pilogen:  Assuming South is probably longer|pg||
+nt|pilogen:  But that would be not be the case here|pg||
+mb|2H|mb|3C|nt|pilogen:  1@D = 0-7(8) any dist|pg||
+mb|3H|mb|d|nt|pilogen:  And apparently he misguessed @Cs|pg||
+nt|MrAce:  he did|pg||
+nt|pilogen:  He also has only 1 dummy entry to play @Cs|pg||
+nt|pilogen:  So he cannot play twice the double finesse anyway|pg||
+nt|MrAce:  not the way he started|pg||
+nt|pilogen:  So it was a bad slam after all!|pg||
+nt|MrAce:  if played @DA  at trick one he could|pg||
+nt|pilogen:  This is another slam|pg||
+nt|pilogen:  Sorry|pg||
+nt|pilogen:  5@D|pg||
+nt|MrAce:  2 aces :)|pg||
+nt|pilogen:  5@Cs incurs a @d ruff|pg||
+nt|MrAce:  5@C is down due to @D ruff|pg||
+mb|p|mb|4C|mb|p|mb|p|mb|p|nt|pilogen:  But East never gets to show his suit|pg||
+nt|MrAce:  preempts by NS succesfully prevented EW to find their @D fit|pg||
+nt|pilogen:  Good preempt by NS|pg||
+nt|pilogen:  Right|pg||
+nt|MrAce:  I expect other table to bid game, the right one or the wrong one is another story|pg||
+pc|h4|pc|h7|pc|hA|pc|hQ|pg||
+pc|d6|pc|dJ|nt|MrAce:  But I think other table will get it right since E opened weak 2@D |pg||
+pc|dA|pc|d3|pg||
+pc|d2|pc|d4|pc|c3|pc|dK|pg||
+pc|h2|nt|MrAce:  sorry S opened 2@D multi|pg||
+mc|10|pg||
+qx|o4|st||md|2SQ7HQ63DJ9743CKT6,SAJ543HKT9D85CQ52,SKT62HJ72DQ62CA73,S98HA854DAKTCJ984|sv|b|mb|p|nt|East4Evil:  1 IMP back to the US for playing in @ds|pg||
+mb|p|mb|1D!|mb|p|nt|East4Evil:  1@d = 11-15, 2+@d|pg||
+mb|1S|mb|p|mb|1N|nt|East4Evil:  if Hampson were NV, it could be as little as 10|pg||
+mb|p|mb|2N|mb|p|mb|p|mb|p|nt|East4Evil:  Hampson capped at 13, but vulnerable Greco is making a game try anyway|pg||
+pc|d4|pc|d5|pc|dQ|pc|dA|pg||
+nt|roghog:  that vul game bonus lures us too high very often|pg||
+nt|East4Evil:  sorry, Hampson capped at 14|pg||
+pc|c4|nt|East4Evil:  15-17 in 3/4 Red|pg||
+pc|c6|pc|cQ|pc|cA|pg||
+nt|roghog:  three seven card fits to choose from. needs good guessing|pg||
+pc|d6|pc|dT|pc|dJ|pc|d8|pg||
+pc|d7|nt|East4Evil:  Lantaron got off to a good lead, and he still has his club entry|pg||
+pc|h9|pc|d2|pc|dK|pg||
+nt|East4Evil:  2 in fact|pg||
+pc|s8|nt|roghog:  https://www.youtube.com/watch?v=o0Qm9cRuNwo for live video from this table|pg||
+pc|s7|pc|sJ|pc|sK|pg||
+pc|c7|pc|c9|pc|cT|pc|c2|pg||
+pc|d9|pc|s3|pc|h7|pc|h4|pg||
+pc|d3|pc|c5|pc|c3|pc|h5|pg||
+nt|East4Evil:  This looks like it'll be 9 more to Spain|pg||
+pc|sQ|pc|sA|pc|s2|pc|s9|pg||
+pc|s4|pc|s6|pc|c8|pc|h3|pg||
+pc|sT|mc|5|pg||
+qx|c4|st||md|2SQ7HQ63DJ9743CKT6,SAJ543HKT9D85CQ52,SKT62HJ72DQ62CA73,S98HA854DAKTCJ984|sv|b|nt|pilogen:  Is the West hand an opening bid for them?|pg||
+nt|vugraphc3: As I heard NS do not open multi with 64MM|pg||
+mb|p|mb|p|mb|1D!|nt|MrAce:  they play strong @C so it is IMO|pg||
+mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|nt|pilogen:  Thanks Dawid|pg||
+nt|pilogen:  That's common sense, but sometimes you can forget about 8 high suits|pg||
+pc|h2|nt|pilogen:  "suits"|pg||
+nt|MrAce:  they are playing 4@D, the previous board |pg||
+nt|pilogen:  East shows a minimum balanced hand and West does not get excited|pg||
+nt|pilogen:  It's debatable whether to pass 1NT or not|pg||
+nt|MrAce:  this is definitely not the best lead for defense|pg||
+pc|h4|pc|hQ|pc|hK|pg||
+nt|pilogen:  I think I would pass|pg||
+pc|s4|pc|s2|pc|s8|pc|sQ|pg||
+nt|MrAce:  me too|pg||
+nt|pilogen:  You have to be pretty damn sure partner cannot hold a singleton @S before you even think of taking out to 2@S|pg||
+nt|MrAce:  i would not bid 2@S even if i was % 100 sure he has 2 of them |pg||
+pc|h6|pc|hT|nt|pilogen:  Also, if your style is to raise @Ss on 3 card support and a suitable hand|pg||
+pc|hJ|pc|hA|pg||
+pc|s9|nt|pilogen:  there still less incentive to bid 2@S|pg||
+pc|s7|pc|sA|pc|s6|pg||
+nt|MrAce:  why would i want to play 1 level higher with 22-23 hcp and balanced hand?|pg||
+pc|s3|pc|sT|pc|c4|nt|pilogen:  In any case, they stayed low enough that it's only a matter of overtrick imps|pg||
+nt|MrAce:  Spain will gain from this board too, as EW in O.R ended up playing 2 NT|pg||
+pc|h3|pg||
+nt|pilogen:  Yes, despite our comments @Ss play better than NT in this deal|pg||
+pc|cA|pc|c8|nt|MrAce:  it could be defeated i guess on @D lead|pg||
+pc|c6|pc|c5|pg||
+pc|c3|pc|c9|nt|MrAce:  not sure|pg||
+pc|cK|pc|c2|pg||
+nt|pilogen:  Which neatly shows why we are not playing the final phase of a world championship while they are...|pg||
+mc|8|nt|MrAce:  did u play in round rubin phase? :)|pg||
+pg||
+qx|o5|st||md|3ST2HKDA98742CKJT4,SQ96H8742DJT653C9,SKJ85HAJT9DCAQ863,SA743HQ653DKQC752|sv|n|nt|East4Evil:  Hampson can't catch a break on these early guesses|pg||
+mb|1C|mb|d|nt|East4Evil:  three tough ones in a row|pg||
+mb|1S!|nt|roghog:  yes, bridge can be a cruel mistress|pg||
+mb|p|mb|2C|mb|p|nt|roghog:  I sound like Shakespeare, a spec tells me flatteringly|pg||
+nt|East4Evil:  if E had passed, 1@s would show @d or a balanced hand|pg||
+nt|East4Evil:  looks like it's still on here|pg||
+mb|3C|mb|p|nt|roghog:  must be in a forcing situation|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|East4Evil:  Even if 3@c was an invite, Goded has an easy game bid|pg||
+pc|h3|nt|East4Evil:  Hampson's t/o X was a bit off shape, but it's fairly common for pairs to agree to emphasize the majors with their 1 level Xs and not worry about having all 3 suits|pg||
+pc|hK|pc|h7|pc|hA|pg||
+pc|hJ|pc|hQ|pc|d2|pc|h2|pg||
+pc|dK|pc|dA|pc|d3|nt|roghog:  NS needed to think about 6@c. South has few losers when they've found a fit|pg||
+pc|s5|pg||
+nt|East4Evil:  Makes on the lie, though non-trivial to play|pg||
+mc|9|pg||
+qx|c5|st||md|3ST2HKDA98742CKJT4,SQ96H8742DJT653C9,SKJ85HAJT9DCAQ863,SA743HQ653DKQC752|sv|n|nt|MrAce:  ugh big hand|pg||
+nt|MrAce:  6@C on @S decision|pg||
+nt|pilogen:  Do they open 2@D with the North hand?|pg||
+mb|2D!|mb|p|nt|pilogen:  Or do they consider it too strong?|pg||
+nt|MrAce:  they do :P|pg||
+nt|MrAce:  apparently|pg||
+nt|pilogen:  That shows a minimum (11-15) hand with short @Ds|pg||
+nt|ahollan4: 2@D = 11-15, 4415 minus 1 card|pg||
+nt|pilogen:  I doubt they will get to slam after this opening bid|pg||
+mb|2N!|mb|p|nt|pilogen:  South cannot like his holding too much|pg||
+mb|3N!|nt|ahollan4: 2N = RELAY // 3N = MAX, 4405|pg||
+mb|p|nt|pilogen:  Al knows more systems than I know Beatles songsÃ¹|pg||
+nt|pilogen:  Ask him anything|pg||
+nt|MrAce:  Al does not know only the bids of his pd :)|pg||
+nt|pilogen:  :)|pg||
+mb|4H!|mb|p|nt|ahollan4: i wish i knew meaning of 4@C and 4@D over the 3N bid|pg||
+nt|MrAce:  even if they bid slam, who will be declaring?|pg||
+nt|ahollan4: 4@H sounds too passable|pg||
+nt|MrAce:  it is a little safer from N|pg||
+nt|pilogen:  The have to have bids that show major fits|pg||
+mb|5D!|mb|p|mb|6C|mb|p|mb|p|mb|p|nt|ahollan4: duh   4@C = some slam try  forces 4@D   4@D = force 4@H to signoff  4@H/@S/NT = RKC in @C/@H/@S|pg||
+nt|pilogen:  Well, South sure took an aggressive view|pg||
+nt|pilogen:  North had to cooperate with a super max|pg||
+nt|MrAce:  so 4@D can be sign off in any major, Al ? |pg||
+nt|ahollan4: 4@D then any suit = signoff|pg||
+pc|c9|nt|pilogen:  This rules out a complete crossruff|pg||
+nt|MrAce:  @D has some decisions to make|pg||
+nt|ahollan4: some use 3N-4N and 3N-4@D-4@H-4N to differentiate strength of Quantitiative raise   others use relay to ask RKC in the short suit|pg||
+pc|c3|pc|c5|pc|cK|pg||
+nt|MrAce:  he may play for 4-3@D|pg||
+nt|MrAce:  which obviously will not work on this deal|pg||
+nt|pilogen:  He might discard a couple of @Ss on the @HA and another|pg||
+nt|pilogen:  But does that yield enough tricks?|pg||
+nt|MrAce:  @D ruff-@HK-@Druff-@HA and @C ro hand and ruff 3rd @D |pg||
+nt|ahollan4: btw - many of the USA big clubbers use this convention after one hand has shown complete shape for 3-suiter or quasi-3 suiter|pg||
+nt|MrAce:  if he will go for @Ds, as Andy Bowles suggests it may be better to start with @DA to learn how they break earlier|pg||
+nt|ahollan4: it is called either Mulberry or Woody  [i only learned 2nd name a few minutes ago when reminded that is what NS use]|pg||
+pc|dA|pc|d3|pc|s5|nt|MrAce:  and he did |pg||
+pc|dQ|pg||
+pc|d2|pc|d5|pc|c8|pc|dK|pg||
+pc|h9|pc|h3|pc|hK|pc|h4|pg||
+nt|MrAce:  @D again |pg||
+pc|d9|pc|d6|pc|cQ|pc|s4|pg||
+nt|MrAce:  ruff with Q and see 5-2|pg||
+nt|MrAce:  will have to guess @H now|pg||
+nt|pilogen:  And @Ss|pg||
+nt|MrAce:  he may not need to guess @S|pg||
+nt|MrAce:  i think he has to |pg||
+nt|pilogen:  This is not the kind of slam you want to play first in in the morning|pg||
+pc|c6|pc|c2|pc|cJ|pc|h7|pg||
+pc|sT|pc|sQ|pc|sK|pc|sA|pg||
+pc|c7|nt|MrAce:  was not really a guess when covered|pg||
+pc|c4|pc|dT|pc|cA|pg||
+pc|hA|pc|h5|pc|d4|pc|h2|pg||
+pc|hJ|pc|hQ|pc|cT|pc|h8|pg||
+pc|s2|pc|s6|pc|s8|pc|s3|pg||
+pc|sJ|nt|MrAce:  ok this EW is covering all Jacks! |pg||
+pc|s7|pc|d7|pc|s9|pg||
+mc|12|nt|MrAce:  and Ts|pg||
+nt|pilogen:  Just take a bunch of finesses, no big deal|pg||
+pg||
+qx|o6|st||md|4ST943HT74DT63CQT8,SAKJ865H32DK85CJ2,SHAK98DQJ742CK975,SQ72HQJ65DA9CA643|sv|e|nt|roghog:  the double tells you the ruffing finesse is OK in 6@c, I guess|pg||
+nt|East4Evil:  Diamond/Platnick are in 6@c at the other table|pg||
+mb|1D!|mb|p|nt|East4Evil:  But no X from E|pg||
+mb|1S|nt|roghog:  we hear a strident call of Director on the audio. Not from this table|pg||
+mb|d|mb|r|nt|East4Evil:  N opened 2@d showing a 3 suiter|pg||
+nt|East4Evil:  XX = 3@s|pg||
+mb|2C|mb|4S|mb|p|mb|p|nt|East4Evil:  Greco can kick it in without worrying about slam due to the limited opening|pg||
+mb|p|pc|hA|nt|roghog:  North's double is like doubling an 1@s opening. you ignore the amorphous 1@d|pg||
+pc|h5|pc|h7|pc|h2|pg||
+pc|cK|nt|East4Evil:  2@c was an interesting call, and not a bad one here, as it makes the switch easier for N at trick 2|pg||
+pc|cA|pc|c8|pc|c2|pg||
+pc|sQ|pc|s3|pc|s5|pc|d2|pg||
+pc|s7|pc|s4|pc|s8|pc|c7|pg||
+pc|sA|pc|d4|pc|s2|pc|s9|pg||
+pc|sK|pc|c9|nt|East4Evil:  had he switched to a diamond, a 2nd heart up would have provided a @c discard|pg||
+pc|c4|pc|sT|pg||
+pc|h3|nt|roghog:  imaginative 2@c. perhaps pass means something over the redouble|pg||
+nt|East4Evil:  but he'll take the @d discard anyway|pg||
+pc|h8|pc|hQ|pc|h4|pg||
+pc|c3|pc|cQ|pc|cJ|pc|c5|pg||
+pc|d3|mc|10|nt|East4Evil:  a @h back would have initiated a double squeeze, but Lantaron got everything right|pg||
+pg||
+qx|c6|st||md|4ST943HT74DT63CQT8,SAKJ865H32DK85CJ2,SHAK98DQJ742CK975,SQ72HQJ65DA9CA643|sv|e|mb|1D!|mb|p|mb|1S|nt|MrAce:  that is because of bad @D and @C break though, it was actually not that bad of a slam |pg||
+mb|d|mb|r!|an|3s|mb|p|nt|MrAce:  4@S coming from W|pg||
+mb|4S|mb|p|mb|p|mb|p|nt|pilogen:  A relaxing board to chill the table|pg||
+pc|hA|pc|h5|pc|h4|nt|MrAce:  defense needs to shift to @C at trick 2 to hold to 10 tricks|pg||
+pc|h3|pg||
+nt|MrAce:  priority signal of S is "I am not ruffing 3rd @H"|pg||
+pc|hK|nt|MrAce:  so suggestions by kibs that @H4 is a @C signal may not be accurate|pg||
+pc|h6|pc|h7|pc|h2|pg||
+pc|dQ|pc|d9|mc|11|pg||
+qx|o7|st||md|1SQ75HAT2DKT843CK4,SA4HKQJ854DACAT86,SKT983H6DJ952CQ73,SJ62H973DQ76CJ952|sv|b|mb|1D|mb|d|mb|1S|mb|p|mb|1N|mb|3H|nt|roghog:  don't need much for 4@h to be on. but the auction tells you partner is very weak|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|nt|East4Evil:  yes, and Hampson must feel he has plenty for his bump to game|pg||
+pc|d5|nt|East4Evil:  N/S have to be very careful on defense here. An entry to dummy or a @c play hands over the contract|pg||
+pc|d6|pc|dT|pc|dA|pg||
+nt|East4Evil:  And from either defender's point of view, the other could have clubs|pg||
+nt|roghog:  yes, if only he could get to dummy|pg||
+pc|hK|pc|h6|pc|h3|pc|h2|pg||
+nt|East4Evil:  Greco will hope the @hT falls, but alas|pg||
+pc|hQ|pc|s3|pc|h7|pc|hA|pg||
+nt|roghog:  I guess @S3 showed values there, but a passive defence looks in order|pg||
+pc|hT|pc|hJ|pc|d2|pc|h9|pg||
+nt|East4Evil:  Yes, the signal is a suggestion, not a demand|pg||
+nt|roghog:  ..but partner may glare if you don't comply|pg||
+nt|East4Evil:  Partner can glare into the screen all he or she wants :)|pg||
+nt|roghog:  always nice to play witjh screens. especially if you have a very ugly partner|pg||
+nt|East4Evil:  Oof|pg||
+nt|East4Evil:  On board 5, USA wins 13 when 6@c came home|pg||
+nt|East4Evil:  so its back to a 2 IMP match|pg||
+pc|c8|pc|c7|pc|c2|pc|cK|pg||
+pc|c4|pc|cA|pc|c3|pc|c5|pg||
+pc|c6|pc|cQ|pc|c9|pc|d3|pg||
+pc|dJ|pc|dQ|pc|dK|pc|h4|pg||
+mc|9|nt|roghog:  doomed to fail by one trick|pg||
+pg||
+qx|c7|st||md|1SQ75HAT2DKT843CK4,SA4HKQJ854DACAT86,SKT983H6DJ952CQ73,SJ62H973DQ76CJ952|sv|b|nt|pilogen:  North tried to find a beat rather than stop the overtricks|pg||
+mb|1D!|mb|d|nt|pilogen:  Hoping to find the @Dk in South instead of the @CQ|pg||
+mb|1H!|mb|p|nt|pilogen:  And a doubleton @H of course|pg||
+nt|MrAce:  how would that help? |pg||
+nt|pilogen:  Declarer only has 9 tricks|pg||
+nt|MrAce:  maybe @H 42? yes|pg||
+nt|pilogen:  Exactly|pg||
+mb|1S!|mb|4H|mb|p|mb|p|mb|p|pc|d2|pc|d6|pc|dT|pc|dA|pg||
+pc|hQ|pc|h6|nt|pilogen:  Unluckily there are 0 entries to play @Cs here|pg||
+pc|h3|nt|MrAce:  but then declarer would score 6@S+2@H+2 aces, no?|pg||
+nt|pilogen:  One @H would get ruffed|pg||
+nt|pilogen:  Declarer could do with just one @C finesse|pg||
+nt|pilogen:  Thaks to Hx in South|pg||
+nt|pilogen:  But no dice|pg||
+pc|h2|pg||
+pc|hJ|pc|sT|pc|h7|pc|hA|pg||
+nt|pilogen:  He may not want to break @Ss despite North's signal|pg||
+nt|pilogen:  In case N has the Ace|pg||
+nt|pilogen:  He can just continue @HS|pg||
+nt|MrAce:  or @D K |pg||
+nt|pilogen:  Should not play partner for the @CA after the @S signal|pg||
+nt|pilogen:  That would be a disaster...|pg||
+pc|s5|pc|s4|pc|sK|pc|s2|pg||
+pc|dJ|pc|d7|pc|d8|pc|h4|pg||
+pc|hK|nt|MrAce:  @S play would cost had declarer held Kx @S and  AQJx @C, @H was safest exit as Giovanni said it|pg||
+pc|s3|pc|h9|pc|hT|pg||
+pc|cA|pc|c3|pc|c2|pc|c4|pg||
+pc|c6|pc|c7|pc|cJ|pc|cK|pg||
+mc|9|nt|MrAce:  AQxx @C i meant|pg||
+pg||
+qx|o8|st||md|2S8652HT5DQT87CA52,SKHAK98764DKJ5C73,SQJ3HQJ32DA943CK4,SAT974HD62CQJT986|sv|o|mb|1H|mb|p|mb|1S|nt|East4Evil:  Greco may have been trying to induce his opponents to play diamonds. He did, but they played them from the correct side|pg||
+mb|p|mb|3H|nt|East4Evil:  Hampson is thrilled to hear 3@h|pg||
+mb|p|mb|p|mb|p|pc|sJ|pc|s4|pc|s2|pc|sK|pg||
+pc|hA|pc|h2|pc|c6|pc|h5|pg||
+pc|hK|pc|h3|pc|c8|pc|hT|pg||
+pc|h9|pc|hJ|nt|roghog:  another struggle. noo hope for declarer|pg||
+pc|c9|pc|d7|pg||
+pc|c4|pc|cT|nt|roghog:  although the defence will run out of exit cards|pg||
+pc|cA|pc|c3|pg||
+pc|d8|pc|dJ|pc|dA|pc|d2|pg||
+pc|d3|pc|d6|pc|dQ|pc|dK|pg||
+pc|c7|pc|cK|pc|cJ|pc|c2|pg||
+pc|hQ|pc|s7|pc|s5|pc|h4|pg||
+pc|d4|pc|s9|pc|dT|pc|d5|pg||
+nt|East4Evil:  accurate defense for -2|pg||
+mc|7|pg||
+qx|c8|st||md|2S8652HT5DQT87CA52,SKHAK98764DKJ5C73,SQJ3HQJ32DA943CK4,SAT974HD62CQJT986|sv|o|mb|1H|mb|p|mb|1S|mb|p|mb|3H|nt|pilogen:  This is already too high, but hardly avoidable|pg||
+nt|pilogen:  North has a very successful double if he can find it|pg||
+mb|p|mb|p|mb|p|pc|dA|pc|d2|pc|d8|pc|d5|pg||
+pc|d3|pc|d6|pc|dQ|pc|dK|pg||
+pc|hA|pc|h2|pc|c6|pc|h5|pg||
+pc|hK|pc|h3|pc|s4|pc|hT|pg||
+pc|h8|pc|hJ|pc|c8|pc|s2|pg||
+nt|pilogen:  West could save NS some thinking, but why should he?|pg||
+pc|hQ|pc|c9|nt|pilogen:  Would you consider it courtesy or an undue favour to concede one down and move on?|pg||
+pc|s5|pc|h7|pg||
+nt|MrAce:  I would|pg||
+nt|pilogen:  So would I, I get bored easily|pg||
+pc|cK|pc|cT|pc|c2|nt|MrAce:  because you never know, at the end of the half, it may be you running out of time in a critical contract that needs tank |pg||
+pc|c3|pg||
+pc|c4|pc|cJ|pc|cA|pc|c7|pg||
+mc|8|nt|pilogen:  That cuts both ways, it could be them who need it|pg||
+pg||
+qx|o9|st||md|3SA7HA42DJ85CQJ653,SQT3HQJ7DKQ9CAK74,SK984HK953DT632C9,SJ652HT86DA74CT82|sv|e|mb|p|mb|p|mb|1C|mb|1N|nt|East4Evil:  Even though E/W have had some tough luck, the Spain N/S have defended very well so far|pg||
+mb|2C!|mb|p|mb|2H|mb|p|mb|p|mb|p|nt|East4Evil:  2@c probably showed the majors|pg||
+nt|East4Evil:  aggressive with only 4-4 shape, but at favorable|pg||
+nt|East4Evil:  @h lead is scary, but it's the one that will make declarer sweat the most|pg||
+pc|dK|pc|d2|pc|d7|pc|d5|pg||
+nt|roghog:  5 sure tricks for the defence, but a 6th will surely materialise|pg||
+nt|roghog:  http://www.worldbridge.org/repository/tourn/wroclaw.16/Microsite/Results.htm for the running scores|pg||
+nt|East4Evil:  @d lead didn't cost, of course|pg||
+nt|East4Evil:  Greco is a very deliberate thinker|pg||
+nt|East4Evil:  Excellent at hand construction|pg||
+nt|roghog:  awkward choice now. a lot to think about|pg||
+nt|East4Evil:  He may switch to a low heart, thinking that it may fool declarer, or declarer may be forced to ruff with the @hA later|pg||
+pc|d9|pc|d3|pc|dA|pc|d8|pg||
+nt|East4Evil:  alternatively he may try to put Hampson in with a damond to lead a @h thru|pg||
+pc|d4|pc|dJ|pc|dQ|pc|d6|pg||
+nt|East4Evil:  Hampson having none of that|pg||
+pc|cA|pc|c9|pc|c8|pc|c3|pg||
+pc|c4|nt|roghog:  good idea to play @h and restrict the ruffs|pg||
+pc|s4|pc|cT|pc|cJ|pg||
+nt|East4Evil:  interesting gambit by Greco but it doesn't work|pg||
+pc|sA|pc|s3|pc|s8|pc|s2|pg||
+pc|s7|pc|sT|pc|sK|pc|s5|pg||
+pc|s9|pc|s6|pc|h2|pc|sQ|pg||
+pc|hA|pc|h7|pc|h3|pc|h6|pg||
+pc|h4|pc|hJ|pc|hK|pc|h8|pg||
+pc|h5|pc|hT|pc|c5|pc|hQ|pg||
+nt|East4Evil:  Greco looking to make it seem he has @dKQ, @cA, @sQJ, @hQJ or some equivalent|pg||
+mc|8|nt|East4Evil:  especially since he didn't lead from AK|pg||
+nt|East4Evil:  but Lantaron wasn't fooled|pg||
+pg||
+qx|c9|st||md|3SA7HA42DJ85CQJ653,SQT3HQJ7DKQ9CAK74,SK984HK953DT632C9,SJ652HT86DA74CT82|sv|e|nt|MrAce:  yes|pg||
+mb|p|mb|p|nt|MrAce:  but as I said, you never know, I think saving time is good thing for better bridge and less slow play penalties|pg||
+mb|1D!|mb|1N|nt|pilogen:  I agree, if you want people to watch you should strive for some rhythm in the play|pg||
+nt|ahollan4: 2@C = @H & @S    is North worth that call?|pg||
+nt|pilogen:  Many play 2C in the North position to show majors|pg||
+mb|2C!|mb|p|nt|ahollan4: Giovanni and I thinking alike :)|pg||
+nt|MrAce:  put me in as well |pg||
+mb|2H|mb|p|mb|p|mb|p|pc|cA|nt|pilogen:  On this lead you can take lots of ruffs|pg||
+nt|MrAce:  even if S opened 1@C, as it was in other room, same|pg||
+pc|c9|pc|c2|pc|c3|pg||
+nt|pilogen:  Four tops, a @S ruff in hand and 2 @C ruffs in dummy|pg||
+nt|pilogen:  One down probably|pg||
+nt|pilogen:  Or a top @C and one ruff, no diff|pg||
+nt|MrAce:  So we have 2 shaky slam hands bid by USA so far, both making on guesses. One down one made. |pg||
+nt|MrAce:  running scores|pg||
+nt|MrAce:  http://www.worldbridge.org/repository/tourn/wroclaw.16/Microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=1240&qphase=16|pg||
+nt|pilogen:  Gonzalo is grinding hard|pg||
+nt|pilogen:  Looking at the results nobody is running away just yet|pg||
+nt|pilogen:  Poland has a decent advantage over Switzerland|pg||
+pc|d9|pc|d2|pc|dA|pc|dJ|pg||
+pc|cT|pc|cJ|pc|cK|pc|h3|pg||
+pc|d3|pc|d7|pc|d8|pc|dQ|pg||
+pc|c7|nt|pilogen:  Mmmm|pg||
+nt|pilogen:  He's playing partner for a doubleton @C apparently|pg||
+nt|pilogen:  Not sure that's consistent with South opening 1@D|pg||
+pc|d6|pc|c8|pc|cQ|pg||
+pc|c6|pc|c4|pc|dT|pc|h6|pg||
+pc|d4|pc|d5|pc|dK|pc|h5|pg||
+pc|hK|pc|h8|pc|h2|pc|h7|pg||
+pc|h9|pc|hT|pc|hA|pc|hJ|pg||
+pc|c5|mc|8|nt|pilogen:  A bit of misdefense, somehow duplicated in the other room|pg||
+pg||
+qx|o10|st||md|4SQJ84H43D742C9532,SAK7HK82DAK96CKQT,ST653HQJ5DQJ5CAJ4,S92HAT976DT83C876|sv|b|mb|p|mb|p|mb|1C|mb|p|mb|1D!|mb|p|mb|2N|mb|p|mb|3D!|mb|p|mb|3H|mb|p|mb|3N|mb|p|nt|East4Evil:  1@c -> 2NT = 22-23 balanced|pg||
+mb|4H|mb|p|mb|p|mb|p|pc|dJ|pc|d3|pc|d7|nt|East4Evil:  N/S lead J from QJx(x)|pg||
+pc|dK|pg||
+nt|roghog:  another tricky one. ah, that lead will help declarer|pg||
+nt|East4Evil:  Yes, and the cards lie so that S can never get in|pg||
+nt|East4Evil:  3NT looked like a good spot too, but Greco knows that Hampson has no chance to pattern out to indicate if NT or @h is better, so he plays it safe and goes with the fit|pg||
+pc|hK|pc|h5|pc|h6|pc|h3|pg||
+pc|h2|pc|hJ|pc|hA|pc|h4|pg||
+pc|dT|pc|d2|pc|d6|pc|dQ|pg||
+mc|10|pg||
+qx|c10|st||md|4SQJ84H43D742C9532,SAK7HK82DAK96CKQT,ST653HQJ5DQJ5CAJ4,S92HAT976DT83C876|sv|b|mb|p|mb|p|mb|1C!|nt|ahollan4: in other match  helgemo-helness table just finishing  15|pg||
+mb|p|mb|1D!|mb|p|mb|1H!|nt|pilogen:  They played simpler boards|pg||
+mb|p|mb|1N!|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|2H!|mb|p|nt|pilogen:  1@H showed 20+|pg||
+mb|2N|nt|pilogen:  Any shape|pg||
+nt|pilogen:  1@S 0-4 any dist|pg||
+nt|pilogen:  Sorry, he bid 1NT|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|nt|pilogen:  Probably decided the Ace is worth showing 5+ hcp|pg||
+nt|ahollan4: 1N = 5-7, 5@H/@S|pg||
+nt|ahollan4: 2@C ASK  //   2@D = @H|pg||
+nt|pilogen:  Then East transferred the major to West|pg||
+nt|pilogen:  Exactly|pg||
+pc|dQ|pc|d3|pc|d2|pc|dA|pg||
+pc|hK|pc|h5|pc|h6|pc|h4|pg||
+pc|h2|pc|hJ|nt|ahollan4: did 2@H confirm 3-fit?|pg||
+nt|pilogen:  I think East just showed 5332 ish and let partner decide|pg||
+pc|hA|pc|h3|pg||
+nt|ahollan4: too sleepy  i thought east jumped to 4@H|pg||
+nt|pilogen:  How early is it where you live, Al?|pg||
+pc|dT|nt|pilogen:  Just so everyone know your dedication|pg||
+nt|ahollan4: 02:40|pg||
+pc|d7|nt|pilogen:  That's AM folks|pg||
+pc|d6|pc|dJ|pg||
+mc|10|pg||
+qx|o11|st||md|1SK86542HK84DJCAQ2,S7HQ5DAT98753CT87,ST9HT62DQ2CKJ9654,SAQJ3HAJ973DK64C3|sv|o|mb|1S|mb|3D|nt|East4Evil:  Hampson may try 3NT here|pg||
+mb|p|mb|5D|mb|p|mb|p|mb|p|nt|roghog:  how weak can his jump overcall be? not that weak, decides Hampson|pg||
+nt|East4Evil:  5@d is a safer place though|pg||
+pc|sT|pc|sA|pc|s2|pc|s7|pg||
+nt|roghog:  thinking about the 3-0 trump break|pg||
+pc|sQ|pc|sK|pc|d5|pc|s9|pg||
+pc|cT|pc|c9|pc|c3|pc|cQ|pg||
+nt|East4Evil:  now even if a @s comes back, he can just discard a @h|pg||
+nt|roghog:  ne's thought this through well|pg||
+pc|dJ|pc|d3|pc|d2|pc|dK|pg||
+pc|d4|pc|s4|pc|dA|pc|dQ|pg||
+pc|c7|pc|c4|pc|d6|pc|c2|pg||
+pc|sJ|pc|s6|pc|c8|pc|c5|pg||
+mc|11|pg||
+qx|c11|st||md|1SK86542HK84DJCAQ2,S7HQ5DAT98753CT87,ST9HT62DQ2CKJ9654,SAQJ3HAJ973DK64C3|sv|o|mb|1S|mb|3D|nt|pilogen:  5@D is on for EW|pg||
+nt|MrAce:  04.40 here :)|pg||
+nt|pilogen:  You're a hero, too, Timo :)|pg||
+mb|p|mb|3S|mb|p|mb|4D|nt|MrAce:  :)|pg||
+mb|p|mb|p|mb|p|pc|sT|nt|pilogen:  Disappointing|pg||
+nt|MrAce:  dunno the hero part but addicted to bridge is obvious|pg||
+pc|sA|pc|s6|pc|s7|pg||
+nt|pilogen:  Either West's preempt is typical and East let go too easily|pg||
+nt|pilogen:  Or West should have collaborated |pg||
+nt|MrAce:  this is indeed pessimistic pass by east, but maybe they preempt too light and that is what made him go low|pg||
+nt|pilogen:  I think the former is reasonable|pg||
+nt|MrAce:  you are reading my mind Giovanni |pg||
+pc|c3|nt|pilogen:  You should be worried|pg||
+nt|MrAce:  haha|pg||
+nt|MrAce:  indeed!|pg||
+pc|cA|pc|c7|pc|c9|pg||
+pc|sK|nt|MrAce:  so  6 imps to USA makes the match tighter|pg||
+pc|d9|pc|s9|pc|s3|pg||
+pc|dA|pc|d2|pc|d4|pc|dJ|pg||
+mc|12|pg||
+qx|o12|st||md|2SK4H752DQJT2CA862,ST63HJT9864D6CKT5,SAJ72HAQ3DA843CQJ,SQ985HKDK975C9743|sv|n|nt|roghog:  half way through a fortnight's bridge here in Wroclaw, Poland, in the World Bridge Games (like the Olympics)|pg||
+mb|2H|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hK|nt|roghog:  lots of finesses wrong|pg||
+pc|h2|pc|h4|pc|hA|pg||
+pc|cQ|pc|c3|pc|c2|pc|cK|pg||
+nt|East4Evil:  but he doesn't need them all to be onside|pg||
+pc|hJ|pc|hQ|pc|d5|pc|h5|pg||
+pc|cJ|pc|c4|pc|c6|pc|c5|pg||
+pc|s7|pc|s5|pc|sK|pc|s6|pg||
+pc|dQ|pc|d6|pc|d3|pc|d7|pg||
+pc|dJ|pc|h6|pc|d4|pc|dK|pg||
+nt|roghog:  will E get thrown in with the last @c?|pg||
+nt|roghog:  declarer claiming an overtrick on a squeeze, but defence are disputing|pg||
+mc|9|nt|roghog:  amicably agree on 9 tricks|pg||
+nt|East4Evil:  he could, but it would be a disaster for declarer if W were 2-6-1-4|pg||
+pg||
+qx|c12|st||md|2SK4H752DQJT2CA862,ST63HJT9864D6CKT5,SAJ72HAQ3DA843CQJ,SQ985HKDK975C9743|sv|n|mb|2D!|nt|ahollan4: 2@D = (6)7-10, 6+@h/@S|pg||
+mb|2N|mb|p|nt|pilogen:  Is that (4)7-10?|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|MrAce:  @H K lead?|pg||
+nt|ahollan4: strength depends upon which part of the CC you check  and whether or not you look at opener's hand|pg||
+pc|hK|nt|pilogen:  He doesn't have an enticing option besides the @HK|pg||
+nt|pilogen:  Might as well lead it|pg||
+nt|ahollan4: 1st seat favorable  [non-vul vs vul] i would expect all minimum hcp ranges to drop|pg||
+pc|h2|pc|h4|pc|h3|pg||
+nt|pilogen:  Yes, it's the most favourable seat besides 3rd hand green|pg||
+pc|s5|nt|MrAce:  all finesses are off|pg||
+pc|s4|pc|sT|pc|sJ|pg||
+pc|cQ|pc|c4|pc|c2|pc|cK|pg||
+pc|s6|pc|s2|pc|s8|pc|sK|pg||
+pc|dQ|pc|d6|pc|d3|pc|dK|pg||
+nt|pilogen:  This table has been very slow|pg||
+mc|10|nt|pilogen:  The TD is egging them on|pg||
+pg||
+qx|o13|st||md|3S72HJT42DA42CQJ53,SQ985H5DKJT97CA76,SAJTHKQ976DQ8CK42,SK643HA83D653CT98|sv|b|mb|1H|mb|p|mb|2H|mb|d|mb|r|mb|2S|nt|roghog:  https://www.youtube.com/watch?v=o0Qm9cRuNwo for live video from the table|pg||
+mb|3H|mb|p|mb|p|mb|p|pc|cT|nt|East4Evil:  if he'd managed to lose one more trick, the squeeze would have worked|pg||
+nt|East4Evil:  I would have opened the N hand 1NT, but this isn't their style|pg||
+pc|c3|pc|c6|pc|cK|pg||
+pc|h7|pc|h8|pc|hJ|pc|h5|pg||
+pc|h2|pc|d7|pc|hK|pc|hA|pg||
+pc|d6|pc|d2|pc|dK|pc|d8|pg||
+nt|roghog:  in 4 I guess you have to continue @c and you can ditch the @d|pg||
+pc|s5|pc|sA|pc|s3|pc|s2|pg||
+pc|dQ|pc|d3|pc|d4|pc|d9|pg||
+pc|h9|pc|h3|pc|hT|mc|9|pg||
+qx|c13|st||md|3S72HJT42DA42CQJ53,SQ985H5DKJT97CA76,SAJTHKQ976DQ8CK42,SK643HA83D653CT98|sv|b|nt|pilogen:  What do you see Dawid?|pg||
+nt|pilogen:  They've got 30 mins for 4 boards|pg||
+nt|pilogen:  It's a shame if you ask me|pg||
+nt|vugraphc3: Actually he sits by the table for 20 min from now |pg||
+nt|MrAce:  Winner of this match will very likely face the mighty France.|pg||
+mb|1N|mb|p|nt|pilogen:  12 boards played in 110 minutes is ridiculous|pg||
+mb|p|mb|d!|nt|ahollan4: 1N = 14-16|pg||
+mb|p|mb|2H!|mb|p|nt|pilogen:  West showing 4cM/5cm|pg||
+mb|2S|mb|p|mb|p|mb|d|mb|p|nt|MrAce:  2@H was p/c?|pg||
+nt|pilogen:  Yes|pg||
+nt|MrAce:  interesting he decided to play a likely 4-3 @H fit instead of 5-3 m fit|pg||
+nt|pilogen:  Could have settled for the 8 card fit in the minor, too|pg||
+nt|vugraphc3: I think Souths double was alerted by him, but only by him|pg||
+mb|2N|mb|p|nt|pilogen:  Well can it be other than t/o?|pg||
+nt|pilogen:  I mean, is it even alertable anyway?|pg||
+nt|pilogen:  If you want to know you just ask|pg||
+mb|3C|mb|p|nt|vugraphc3: I cannot ask any of them due to illegal informations that may be given to both sides :/|pg||
+mb|p|mb|p|nt|MrAce:  2 NT choice instead of 3@H, stops spades well but S could easily have xxx @D|pg||
+pc|h5|nt|pilogen:  Of course you shouldn't Dawid! :)|pg||
+pc|h6|pc|hA|nt|pilogen:  I think South took it as two places to play anyway|pg||
+pc|h4|pg||
+pc|h8|pc|hJ|pc|c6|pc|h7|pg||
+pc|s9|nt|pilogen:  I agree with South's interpretation|pg||
+nt|pilogen:  Just bid 3@H with the North hand|pg||
+pc|sT|pc|sK|pc|s2|pg||
+nt|MrAce:  yes|pg||
+pc|h3|pc|h2|pc|c7|pc|hQ|pg||
+pc|s5|pc|sJ|pc|s3|pc|s7|pg||
+pc|c2|pc|c8|pc|cQ|nt|MrAce:  and why did S lift 2 NT anyway? he has enough beans to tolerate 2 NT and they at best have 4-4@S fit even if pd not stopping them |pg||
+pc|cA|pg||
+pc|s8|pc|sA|pc|s4|pc|d2|pg||
+mc|8|pg||
+qx|o14|st||md|4SKT954HJD6CAT9842,SQ2HT8753DAK872CJ,S876HAKDQT93CKQ75,SAJ3HQ9642DJ54C63|sv|o|mb|p|mb|2S!|nt|East4Evil:  2@s = 5@s5m|pg||
+mb|p|nt|East4Evil:  5@c can make if E/W don't take their diamond trick|pg||
+mb|2N|nt|East4Evil:  it can quickly disappear on hearts|pg||
+mb|p|mb|3H!|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|roghog:  3@h = max with @c?|pg||
+pc|dA|nt|East4Evil:  4@s can suffer a @c ruff, but E/W still must take their diamond|pg||
+pc|d3|pc|d5|pc|d6|pg||
+pc|dK|pc|d9|pc|d4|pc|s4|pg||
+pc|hJ|pc|h3|pc|hK|pc|h2|pg||
+pc|s6|pc|s3|pc|sT|pc|sQ|pg||
+pc|cJ|pc|cK|pc|c3|pc|c2|pg||
+nt|East4Evil:  this is a tough hand to defend|pg||
+pc|s7|pc|sJ|pc|sK|pc|s2|pg||
+mc|10|pg||
+qx|c14|st||md|4SKT954HJD6CAT9842,SQ2HT8753DAK872CJ,S876HAKDQT93CKQ75,SAJ3HQ9642DJ54C63|sv|o|mb|p|nt|pilogen:  South thought that North could have been weaker with 4-4 in any two suits|pg||
+mb|p|mb|1H|nt|pilogen:  So they have an 8-card fit somewhere|pg||
+mb|p|mb|2C!|nt|pilogen:  Well, not really weaker, since he opened 1NT|pg||
+nt|MrAce:  yes|pg||
+nt|pilogen:  But more suit-oriented for sure|pg||
+mb|2H|mb|3D|nt|MrAce:  and evidently 2 NT was natural|pg||
+nt|pilogen:  For North, yes|pg||
+nt|vugraphc3: 2h also alerted only by S|pg||
+nt|pilogen:  This is more interesting|pg||
+mb|4S|mb|d|mb|p|mb|p|mb|p|pc|h2|nt|pilogen:  Well, North understood|pg||
+pc|hJ|pc|h3|pc|hK|pg||
+pc|hA|pc|h4|pc|d6|pc|h5|pg||
+pc|s8|pc|s3|nt|pilogen:  Another sort of disconnect in EW|pg||
+nt|pilogen:  If you open the West hand and then bid freely|pg||
+pc|s4|nt|pilogen:  You should not double with the East hand|pg||
+pc|sQ|pg||
+pc|dA|pc|d3|pc|d5|pc|s5|pg||
+pc|c2|pc|cJ|pc|cK|pc|c3|pg||
+nt|MrAce:  cant go wrong anymore|pg||
+pc|s6|pc|sA|pc|s9|pc|s2|pg||
+pc|dJ|mc|11|nt|pilogen:  That's a fairly gratuitous 7 imps|pg||
+nt|pilogen:  Two more boards and 13 minutes to go|pg||
+nt|vugraphc3: Sabate talks with director about lack of alert for 2h|pg||
+nt|ritong: come on now:)|pg||
+nt|MrAce:  what else can it possibly be?|pg||
+nt|pilogen:  Once again you can simply ask|pg||
+nt|MrAce:  yes|pg||
+nt|pilogen:  You don't double 4@S without having any idea of what's going on|pg||
+pg||
+qx|o15|st||md|1SAT96H875DQJT2C43,SHT943DA653CQT875,SQ8732H62DK97CAJ9,SKJ54HAKQJD84CK62|sv|n|nt|East4Evil:  but Lantaron has taken advantage nicely|pg||
+nt|East4Evil:  Hampson's @d5 at trick 1 was hard to read, and looking at dummy he might have needed to cash 2@ds right away|pg||
+mb|p|mb|p|mb|1S|nt|roghog:  good board for NS|pg||
+mb|1N|mb|2S|nt|roghog:  a take-out double leading to 4@h maybe|pg||
+nt|East4Evil:  it's what I would do|pg||
+nt|East4Evil:  unless Greco decides he's worth a GF|pg||
+nt|East4Evil:  the risk of a X is that you don't really feel that great when partner leaves it in|pg||
+nt|East4Evil:  the hand screams offense rather than defense, and partner rates to have spade length on this auction|pg||
+nt|roghog:  yes, but the alternatives aren't attractive either|pg||
+mb|p|mb|3C!|mb|p|mb|3S|nt|East4Evil:  we missed a pass somewhere|pg||
+nt|roghog:  operator, maybe 3@c from West??|pg||
+mb|d|mb|p|nt|roghog:  very tough for our operator when there is such a long pause|pg||
+nt|vugrapho3: no, N bid 3c|pg||
+nt|roghog:  thanks, Jakub|pg||
+nt|East4Evil:  huh|pg||
+nt|ahollan1: wow    a) i thought Greco would make negative/takeout DBL    b) can't imagine why north would bid|pg||
+nt|East4Evil:  he's got guts for sure then|pg||
+nt|East4Evil:  Maybe greco did X|pg||
+nt|East4Evil:  (the first time)|pg||
+nt|East4Evil:  unusual auction|pg||
+nt|vugrapho3: im not sure but i think i saw alert on 2s by n but s didnt|pg||
+nt|vugrapho3: and n alert 3c buts didnt|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|roghog:  we see North writing an explanation (on the video)|pg||
+pc|sT|nt|East4Evil:  perhaps N thought that 2@s was a @c transfer|pg||
+nt|East4Evil:  i dunno|pg||
+nt|East4Evil:  I'm gonna stop guessing what's going on now and enjoy the play|pg||
+pc|h3|pc|sQ|pc|sK|pg||
+nt|roghog:  no chance for declarer|pg||
+pc|cK|pc|c3|pc|c5|pc|c9|pg||
+pc|c2|pc|c4|pc|c8|pc|cJ|pg||
+pc|s8|nt|roghog:  https://www.youtube.com/watch?v=o0Qm9cRuNwo for live video from the table. we may hear some discussion at the end of the hand|pg||
+pc|s4|pc|s6|pc|h4|pg||
+pc|s2|nt|East4Evil:  any idea what N thinks 2@s or 3@c are? could explain why greco stayed quiet|pg||
+pc|s5|pc|s9|pc|h9|pg||
+pc|sA|nt|East4Evil:  (the first time)|pg||
+pc|d3|pc|s3|pc|sJ|pg||
+pc|dQ|mc|7|nt|roghog:  TD called|pg||
+nt|vugrapho3: he was thinkin for few minutes and then passed, but in the second round he doubled|pg||
+nt|roghog:  N thought 2@s was a transfer, I think|pg||
+nt|East4Evil:  No one looks very happy at the table|pg||
+nt|roghog:  waiting for a TD|pg||
+nt|East4Evil:  sounds like S thought he was showing spades with 2@s and then remembered he accidentally showed @c|pg||
+nt|vugrapho3: s bid 2s natural, but n thought it shows clubs|pg||
+nt|roghog:  S made a mistake, it seems|pg||
+nt|roghog:  ...but corrected it later, I think|pg||
+nt|ahollan1: i just looked at video for 1st time --  looks great  and show that Greco took long time before PASS over 2@S|pg||
+nt|roghog:  a bearded TD has appeared|pg||
+nt|ahollan1: never trust anyone with a beard|pg||
+nt|roghog:  oooh, you beardist....|pg||
+nt|vugrapho3: on the both sides 2s was explained taht it shows clubs|pg||
+nt|East4Evil:  It's hard to tell what order events happened in which led each player to bid the way they did|pg||
+nt|vugrapho3: but s just forgot system|pg||
+nt|ahollan1: sidebar    my beard is 41 years old|pg||
+nt|ahollan1: ahhhhh   now we understand why Greco had problem|pg||
+nt|vugrapho3: and after 3s from s n told that his partner probably forgot system|pg||
+nt|roghog:  how can we play properly when they forget their system, complain the defenders|pg||
+nt|roghog:  it was convenient for South to forget their methods, the defenders point out to the TD|pg||
+nt|East4Evil:  ouch, that's a tough one to point out|pg||
+nt|East4Evil:  it sounds someone accusatory|pg||
+nt|East4Evil:  *somewhat|pg||
+nt|roghog:  TD departs and will decide in due course, having calmed things down|pg||
+nt|East4Evil:  but if N/S legitimately forgot, then I don't think E/W have recourse|pg||
+pg||
+qx|c15|st||md|1SAT96H875DQJT2C43,SHT943DA653CQT875,SQ8732H62DK97CAJ9,SKJ54HAKQJD84CK62|sv|n|nt|pilogen:  11 minutes|pg||
+mb|p|mb|p|mb|1S|mb|1N|mb|2S|mb|d!|nt|pilogen:  Or should I say you don't double 4@S anyway with barely a trick and 5-card support for partner|pg||
+nt|ritong: sending the @s jack to declarer|pg||
+nt|pilogen:  Can you make 4@H here?|pg||
+nt|ritong: helgemo went down, fwiw|pg||
+nt|ahollan4: Open Room result is being examined by Director|pg||
+mb|p!|mb|4H|nt|ahollan4: south's 2@S bid was supposed to be @C|pg||
+mb|p|mb|p|mb|p|nt|pilogen:  No entries to the West hand if they dislodge the @DA and a trump|pg||
+pc|dQ|pc|d3|pc|dK|pc|d4|pg||
+pc|h2|pc|hA|pc|h7|pc|h3|pg||
+pc|cK|pc|c4|nt|pilogen:  Too much handling anyway, I think|pg||
+pc|c5|pc|cA|pg||
+nt|MrAce:  he needed to duck this|pg||
+pc|h6|nt|pilogen:  Well, maybe now it can be done|pg||
+pc|hK|pc|h5|pc|h4|pg||
+nt|pilogen:  Diamond and a ruff, @C to the Q, ruff another @D and give up a @C|pg||
+nt|MrAce:  could I think if declarer had stiff @CK, South would be able to give count more precisely|pg||
+pc|d8|pc|dT|pc|dA|pc|d7|pg||
+pc|d5|pc|d9|pc|hQ|pc|d2|pg||
+pc|c2|pc|c3|pc|cQ|pc|c9|pg||
+pc|d6|pc|s2|nt|pilogen:  And so it goes|pg||
+pc|hJ|pc|dJ|pg||
+pc|c6|nt|ritong: artful line|pg||
+nt|pilogen:  Well done by Sabate|pg||
+nt|MrAce:  he did not have much of a choice|pg||
+mc|10|nt|pilogen:  With a little help from his friends|pg||
+nt|MrAce:  really|pg||
+nt|pilogen:  3 minutes to go|pg||
+nt|MrAce:  he knew from the lead that S does not have a stiff @C, and from @H shift knew N did not have stiff @C|pg||
+nt|MrAce:  he basically played for 3-2@C |pg||
+nt|vugraphc3: Last board was redealed by director and I do not have it on bbo, so there will be no transmission from this one|pg||
+nt|pilogen:  Would work with the bare @CA in North with only two trumps, too|pg||
+nt|MrAce:  hmm|pg||
+nt|ahollan4: next segment different matches  http://wbchampbulletin.org/bbo-schedule/|pg||
+nt|ahollan4: starts in about 55 minutes|pg||
+nt|MrAce:  so why is the last board reshuffled? |pg||
+nt|pilogen:  Ok, then we'll be back in an hour or so|pg||
+nt|pilogen:  Thanks to Al and Timo, with an appearance by Henri|pg||
+nt|MrAce:  ok ty Giovanni and Al and Dawid!|pg||
+nt|pilogen:  Thanks Dawid most of all!|pg||
+nt|MrAce:  Henri always!|pg||
+nt|ritong: :)|pg||
+nt|ritong: you have me on your back now|pg||
+nt|pilogen:  Have a nap, US guys!|pg||
+nt|MrAce:  :)|pg||
+nt|pilogen:  Ciao!|pg||
+nt|MrAce:  ciao|pg||
+nt|ritong: ciao and grazie giovanni|pg||
+nt|ritong: for our newcomers, there has been a problem with bd 16, not sure what, and it has been hand redealt  so no recorded hand|pg||
+pg||
+qx|o16|st||md|2SA43HT973DK63C652,SQ52HK542DAJ92CA8,S97HQJ8DQT75CK973,SKJT86HA6D84CQJT4|sv|e|nt|East4Evil:  weird situation|pg||
+mb|p|mb|p|mb|p|pg||
+qx|c16|st||md|2SA43HT973DK63C652,SQ52HK542DAJ92CA8,S97HQJ8DQT75CK973,SKJT86HA6D84CQJT4|sv|e|mb|p|mb|6D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|c4|mc|11|pg||

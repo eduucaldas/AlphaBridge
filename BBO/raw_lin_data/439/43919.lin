@@ -1,0 +1,838 @@
+vg|PRUEBA DE SELECCION EQUIPOS SENIOR MADRID,2,I,1,36,NEGRIN,58,CASTELBLANCO,65|
+rs|4DE+2,5SN-2,4HW-1,5SN-2,5SSx-3,4SS-2,2HS-3,3SN+1,3NE-1,2NE-1,5DS-2,4HSx=,3NE=,1NW+2,4HE-1,3NE-1,4SE+1,5SE=,4SE+1,4SE=,4HS+1,5HS=,3NW=,3NE=,1HS+1,3NN-3,4HS-1,4CW-1,6HSx-1,4SW=,3DS-5,1NE+1,4SN-1,1NN+1,3HE-1,2DS+1,3SE+1,3SE=,6NN=,3NS+3,3NN-1,4DWx-4,3NE+2,3NE+1,2NN=,3NN-1,2CW-1,4HW-3,3NS-2,4SN+2,3NN+1,4HS+1,4SN+1,4SN+1,5DW=,3NW+2,4SS=,3NS+1,3HE=,4HE-2,3NS=,3NS-1,5CW-1,4SNx-2,,,,,,,,|
+pn|ARIMON,WICHMAN,TONICURTIS,WARRIOR,passarinho,garate,castelblan,golmar|pg||
+qx|o1|st||md|3ST932HJ75DTCA7654,SQ65H63D97642CQ93,SAKJ84HK8DQ8CKJ82,S7HAQT942DAKJ53CT|sv|o|mb|1N|mb|2D!|mb|p|mb|2H|mb|2S|mb|4D|mb|p|mb|p|mb|p|pc|s3|pc|s5|pc|sJ|pc|s7|pg||
+pc|sA|pc|d5|pc|s9|pc|s6|pg||
+pc|dA|pc|dT|pc|d2|pc|d8|pg||
+pc|dK|pc|c5|pc|d4|pc|dQ|pg||
+pc|d3|pc|c4|pc|d9|pc|s4|pg||
+pc|h3|pc|h8|pc|hQ|pc|h5|pg||
+pc|hA|pc|h7|pc|h6|pc|hK|pg||
+pc|h2|pc|hJ|pc|d6|pc|c2|pg||
+pc|sQ|pc|sK|pc|dJ|pc|s2|pg||
+pc|hT|mc|12|pg||
+qx|c1|st||md|3ST932HJ75DTCA7654,SQ65H63D97642CQ93,SAKJ84HK8DQ8CKJ82,S7HAQT942DAKJ53CT|sv|o|mb|1S|mb|2H|mb|2S|mb|p|mb|2N|mb|3D|mb|4S|mb|p|mb|p|mb|5D|mb|5S|mb|p|mb|p|mb|p|pc|dA|pc|dT|pc|d2|pc|d8|pg||
+pc|cT|pc|c4|pc|c3|pc|cJ|pg||
+pc|sA|pc|s7|pc|s2|pc|s5|pg||
+pc|sK|pc|h9|pc|s3|pc|s6|pg||
+pc|dQ|pc|dK|pc|s9|pc|d4|pg||
+pc|c5|pc|c9|pc|cK|pc|h2|pg||
+pc|c8|pc|h4|pc|cA|pc|cQ|pg||
+pc|c7|pc|sQ|pc|c2|pc|hT|pg||
+pc|h6|pc|h8|pc|hQ|pc|h5|pg||
+pc|hA|pc|h7|pc|h3|pc|hK|pg||
+mc|9|pg||
+qx|o2|st||md|4S84HADAJT743CAT82,ST97HKJ85DKQ52CK4,SAKQJ62H63D986C95,S53HQT9742DCQJ763|sv|n|mb|2D!|mb|d|mb|r|mb|2S|mb|p|mb|3D|mb|4H|mb|p|mb|p|mb|p|pc|sA|pc|s3|pc|s8|pc|s9|pg||
+pc|sK|pc|s5|pc|s4|pc|sT|pg||
+pc|d6|pc|h2|pc|d3|pc|d2|pg||
+pc|h4|pc|hA|pc|h5|pc|h3|pg||
+pc|cA|pc|c4|pc|c5|pc|c3|pg||
+pc|c2|pc|cK|pc|c9|pc|c6|pg||
+pc|hK|pc|h6|pc|h7|pc|d4|pg||
+mc|9|pg||
+qx|c2|st||md|4S84HADAJT743CAT82,ST97HKJ85DKQ52CK4,SAKQJ62H63D986C95,S53HQT9742DCQJ763|sv|n|mb|2H|mb|3D|mb|4H|mb|4S|mb|p|mb|5C|mb|p|mb|5D|mb|p|mb|5S|mb|p|mb|p|mb|p|pc|h4|pc|hA|pc|h8|pc|h3|pg||
+pc|s4|pc|s7|pc|sA|pc|s3|pg||
+pc|d9|pc|s5|pc|d3|pc|d2|pg||
+pc|c6|pc|cA|pc|c4|pc|c5|pg||
+pc|s8|pc|s9|pc|sK|pc|h2|pg||
+pc|sQ|pc|h7|pc|d4|pc|sT|pg||
+pc|sJ|pc|h9|pc|d7|pc|h5|pg||
+pc|d6|pc|c3|pc|dT|pc|dQ|pg||
+pc|cK|pc|c9|pc|c7|pc|c2|pg||
+pc|hK|pc|h6|pc|hT|pc|c8|pg||
+mc|9|pg||
+qx|o3|st||md|1SAKQ93HK82DQ32C64,SJ72H5DAK974CAJT3,ST8654HQT6DJT5C97,SHAJ9743D86CKQ852|sv|e|mb|1S|mb|2N!|mb|3S|mb|5C|mb|5S|mb|d|mb|p|mb|p|mb|p|pc|dK|pc|d5|pc|d8|pc|d3|pg||
+pc|dA|pc|dT|pc|d6|pc|dQ|pg||
+pc|d4|pc|dJ|pc|h7|pc|d2|pg||
+pc|s4|pc|h3|pc|sQ|pc|s2|pg||
+pc|sK|pc|s7|pc|s5|pc|h4|pg||
+pc|sA|pc|sJ|pc|s6|pc|c8|pg||
+pc|c6|pc|cT|pc|c7|pc|c2|pg||
+pc|cA|pc|c9|pc|c5|pc|c4|pg||
+pc|h5|pc|hQ|mc|8|pg||
+qx|c3|st||md|1SAKQ93HK82DQ32C64,SJ72H5DAK974CAJT3,ST8654HQT6DJT5C97,SHAJ9743D86CKQ852|sv|e|mb|1S|mb|2D|mb|4S|mb|p|mb|p|mb|p|pc|dA|pc|d5|pc|d8|pc|dQ|pg||
+pc|dK|pc|dT|pc|d6|pc|d2|pg||
+pc|d4|pc|dJ|pc|h7|pc|d3|pg||
+pc|s4|pc|h3|pc|sA|pc|s2|pg||
+pc|sK|pc|s7|pc|s5|pc|c2|pg||
+pc|sQ|pc|sJ|pc|s6|pc|h4|pg||
+pc|c4|pc|cT|pc|c7|pc|cK|pg||
+pc|c8|pc|c6|pc|cJ|pc|c9|pg||
+pc|cA|pc|h6|pc|c5|pc|s3|pg||
+pc|h2|pc|h5|pc|hQ|pc|hA|pg||
+mc|8|pg||
+qx|o4|st||md|2SA642HAQ7DTCQJ983,ST75HKTDKQ753CA42,SKQ98H62DA642CT75,SJ3HJ98543DJ98CK6|sv|b|mb|1N!|mb|p|mb|2D|an|TRANSFER|mb|2H!|an|FORCING|mb|p|mb|p|mb|p|pc|dK|pc|dA|pc|d8|pc|dT|pg||
+pc|sK|pc|s3|pc|s4|pc|s5|pg||
+pc|sQ|pc|sJ|pc|s2|pc|s7|pg||
+pc|s8|pc|h3|pc|s6|pc|sT|pg||
+pc|h4|pc|hQ|pc|hK|pc|h2|pg||
+pc|dQ|pc|d2|pc|d9|pc|h7|pg||
+pc|cQ|pc|cA|pc|c5|pc|c6|pg||
+pc|d3|pc|d4|pc|dJ|pc|hA|pg||
+pc|c3|pc|c2|pc|cT|pc|cK|pg||
+pc|hJ|mc|5|pg||
+qx|c4|st||md|2SA642HAQ7DTCQJ983,ST75HKTDKQ753CA42,SKQ98H62DA642CT75,SJ3HJ98543DJ98CK6|sv|b|mb|1D|mb|p|mb|1H|mb|d|mb|p|mb|1S|mb|2H|mb|p|mb|p|mb|2S|mb|3H|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|d8|pc|dT|pc|dQ|pc|dA|pg||
+pc|c5|pc|cK|pc|c3|pc|c2|pg||
+pc|h5|pc|hQ|pc|hK|pc|h2|pg||
+pc|hT|pc|h6|pc|h3|pc|hA|pg||
+pc|c8|pc|c4|pc|c7|pc|c6|pg||
+pc|sA|pc|s5|pc|s8|pc|s3|pg||
+pc|h7|pc|d3|pc|s9|pc|h4|pg||
+pc|sK|pc|sJ|pc|s2|pc|s7|pg||
+mc|10|pg||
+qx|o5|st||md|3SQ83H983DAK96C986,SKT942HT6D872CKT2,SAJ65HQJ42D53CJ73,S7HAK75DQJT4CAQ54|sv|n|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|3C!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c9|pc|cT|pc|cJ|pc|cA|pg||
+pc|dQ|pc|d6|pc|d2|pc|d5|pg||
+pc|s7|pc|s3|pc|sK|pc|s6|pg||
+pc|d7|pc|d3|pc|dJ|pc|dK|pg||
+pc|c8|pc|cK|pc|c3|pc|c4|pg||
+pc|d8|pc|c7|pc|d4|pc|d9|pg||
+pc|dA|pc|s2|pc|h4|pc|dT|pg||
+pc|s8|pc|s9|pc|sA|pc|h5|pg||
+pc|sJ|pc|h7|pc|sQ|pc|s4|pg||
+pc|c6|pc|c2|mc|8|pg||
+qx|c5|st||md|3SQ83H983DAK96C986,SKT942HT6D872CKT2,SAJ65HQJ42D53CJ73,S7HAK75DQJT4CAQ54|sv|n|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|c8|pc|cT|pc|cJ|pc|cA|pg||
+pc|dT|pc|d6|pc|d2|pc|d3|pg||
+pc|dJ|pc|dK|pc|d7|pc|d5|pg||
+pc|c9|pc|cK|pc|c3|pc|c4|pg||
+pc|d8|pc|c7|pc|d4|pc|d9|pg||
+pc|sQ|pc|sK|pc|sA|pc|s7|pg||
+pc|hQ|pc|hA|pc|h3|pc|h6|pg||
+pc|cQ|pc|c6|pc|c2|pc|s5|pg||
+pc|c5|pc|s8|pc|s2|pc|s6|pg||
+pc|dQ|pc|dA|pc|s4|pc|h2|pg||
+pc|s3|pc|s9|pc|sJ|pc|h5|pg||
+pc|hJ|pc|hK|pc|h8|pc|hT|pg||
+pc|h7|pc|h9|pc|sT|pc|h4|pg||
+pg||
+qx|o6|st||md|4S3HKJ9862DQT732CA,SKQ6HQT53D6CJ9842,SAT52HA4DJ98CT763,SJ9874H7DAK54CKQ5|sv|e|mb|1S|mb|2S!|mb|4S|mb|p|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|sK|pc|sA|pc|s4|pc|s3|pg||
+pc|d8|pc|d4|pc|d2|pc|d6|pg||
+pc|hA|pc|h7|pc|h2|pc|h3|pg||
+pc|h4|pc|d5|pc|h6|pc|h5|pg||
+pc|dA|pc|d3|pc|c2|pc|d9|pg||
+pc|dK|pc|d7|pc|c4|pc|dJ|pg||
+pc|s7|pc|dT|pc|sQ|pc|s2|pg||
+mc|9|pg||
+qx|c6|st||md|4S3HKJ9862DQT732CA,SKQ6HQT53D6CJ9842,SAT52HA4DJ98CT763,SJ9874H7DAK54CKQ5|sv|e|mb|1S|mb|2H|mb|2S|mb|3H|mb|3S|mb|4H|mb|d|mb|p|mb|p|mb|p|pc|sK|pc|sA|pc|s7|pc|s3|pg||
+pc|d8|pc|d5|pc|dT|pc|d6|pg||
+pc|d3|pc|c2|pc|d9|pc|dK|pg||
+pc|s4|pc|h2|pc|s6|pc|s2|pg||
+pc|hJ|pc|hQ|pc|hA|pc|h7|pg||
+pc|h4|pc|d4|pc|h9|pc|hT|pg||
+pc|sQ|pc|s5|pc|s8|pc|h6|pg||
+pc|hK|pc|h3|pc|c3|pc|s9|pg||
+pc|d2|pc|h5|pc|dJ|pc|dA|pg||
+pc|c4|pc|c6|pc|cQ|pc|cA|pg||
+mc|10|pg||
+qx|o7|st||md|1S74HAKT84D52C9874,SQJTHQJ975DT94CK2,SK653H62DQJ76CQJ5,SA982H3DAK83CAT63|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C!|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c8|pc|cK|pc|c5|pc|c3|pg||
+pc|sQ|pc|s3|pc|s2|pc|s4|pg||
+pc|sJ|pc|s5|pc|s8|pc|s7|pg||
+pc|sT|pc|s6|pc|s9|pc|d2|pg||
+pc|dT|pc|dQ|pc|dA|pc|d5|pg||
+pc|sA|pc|h8|pc|h5|pc|sK|pg||
+pc|d3|pc|h4|pc|d9|pc|dJ|pg||
+pc|cQ|pc|cA|pc|c4|pc|c2|pg||
+pc|dK|pc|hT|pc|d4|pc|d6|pg||
+pc|d8|pc|c7|pc|h7|pc|d7|pg||
+pc|h3|pc|hK|pc|h9|pc|h2|pg||
+pc|hA|pc|hJ|pc|h6|pc|c6|pg||
+pc|c9|pc|hQ|pc|cJ|pc|cT|pg||
+pg||
+qx|c7|st||md|1S74HAKT84D52C9874,SQJTHQJ975DT94CK2,SK653H62DQJ76CQJ5,SA982H3DAK83CAT63|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|s7|pc|sJ|pg||
+pc|sQ|pc|sK|pc|sA|pc|s4|pg||
+pc|s8|pc|d5|pc|sT|pc|s5|pg||
+pc|dT|pc|dJ|pc|dA|pc|d2|pg||
+pc|c3|pc|c4|pc|cK|pc|c5|pg||
+pc|d9|pc|dQ|pc|dK|pc|h4|pg||
+pc|s9|pc|h8|pc|h5|pc|s6|pg||
+pc|d8|pc|hT|pc|d4|pc|d6|pg||
+pc|d3|pc|c9|pc|h7|pc|d7|pg||
+pc|h6|pc|h3|pc|hK|pc|h9|pg||
+pc|hA|pc|hJ|pc|h2|pc|c6|pg||
+pc|c8|pc|c2|pc|cJ|pc|cA|pg||
+pc|cT|pc|c7|pc|hQ|pc|cQ|pg||
+pg||
+qx|c8|st||md|2SAQ8762H3DTCT6542,SKJTHT6DAKQ5CAJ98,S4HKQ852D86432CKQ,S953HAJ974DJ97C73|sv|o|mb|1D|mb|1H|mb|1N|mb|2S|mb|3N|mb|p|mb|p|mb|p|pc|c6|pc|c8|pc|cQ|pc|c3|pg||
+pc|h2|pc|h4|pc|h3|pc|h6|pg||
+pc|hT|pc|hQ|pc|hA|pc|s6|pg||
+pc|h9|pc|s7|pc|c9|pc|hK|pg||
+pc|d6|pc|dJ|pc|dT|pc|d5|pg||
+pc|s3|pc|sA|pc|sT|pc|s4|pg||
+pc|c5|pc|cJ|pc|cK|pc|c7|pg||
+mc|8|pg||
+qx|o9|st||md|3S2HJT642D98652CAQ,SQ8765HA9DAQ4CJT4,SKTH753DJ3CK98732,SAJ943HKQ8DKT7C65|sv|e|mb|p|mb|1S|mb|p|mb|3N!|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hJ|pc|hA|pc|h3|pc|h8|pg||
+pc|sQ|pc|sK|pc|sA|pc|s2|pg||
+pc|sJ|pc|h2|pc|s5|pc|sT|pg||
+pc|d7|pc|d8|pc|dQ|pc|d3|pg||
+pc|h9|pc|h5|pc|hK|pc|h4|pg||
+pc|s3|pc|d2|pc|s6|pc|c2|pg||
+pc|s7|pc|c3|pc|s9|pc|h6|pg||
+pc|hQ|pc|hT|pc|c4|pc|h7|pg||
+pc|dT|pc|d5|pc|dA|pc|dJ|pg||
+pc|d4|pc|c7|pc|dK|pc|d6|pg||
+pc|c5|pc|cQ|pc|cT|pc|c8|pg||
+pc|cA|pc|cJ|pc|c9|pc|c6|pg||
+pc|d9|pc|s8|pc|cK|pc|s4|pg||
+pg||
+qx|c9|st||md|3S2HJT642D98652CAQ,SQ8765HA9DAQ4CJT4,SKTH753DJ3CK98732,SAJ943HKQ8DKT7C65|sv|e|mb|p|mb|1S|mb|2N|mb|4S|mb|5C|mb|p|mb|5D|mb|5S|mb|p|mb|p|mb|p|pc|cA|pc|c4|pc|c7|pc|c5|pg||
+pc|cQ|pc|cT|pc|c3|pc|c6|pg||
+pc|d2|pc|dA|pc|d3|pc|d7|pg||
+pc|s5|pc|sT|pc|sJ|pc|s2|pg||
+pc|h8|pc|h2|pc|hA|pc|h3|pg||
+pc|sQ|pc|sK|pc|sA|pc|d5|pg||
+mc|11|pg||
+qx|o10|st||md|4SK4HK8DQ75CJ95432,SAQ63HA976D2CAKT8,S985HQJ43DK9864C6,SJT72HT52DAJT3CQ7|sv|b|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|4D!|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c3|pc|c8|pc|c6|pc|c7|pg||
+pc|d2|pc|d4|pc|dA|pc|d5|pg||
+pc|sJ|pc|sK|pc|sA|pc|s5|pg||
+pc|s3|pc|s8|pc|sT|pc|s4|pg||
+pc|d3|pc|d7|pc|s6|pc|d6|pg||
+pc|cT|pc|s9|pc|cQ|pc|c2|pg||
+pc|hJ|pc|h2|pc|h8|pc|hA|pg||
+pc|cA|pc|d8|pc|h5|pc|c4|pg||
+pc|cK|pc|h3|pc|hT|pc|c5|pg||
+pc|h6|pc|h4|pc|s2|pc|hK|pg||
+pc|dJ|pc|dQ|pc|sQ|pc|d9|pg||
+pc|h7|pc|hQ|pc|s7|pc|c9|pg||
+pc|dT|pc|cJ|pc|h9|pc|dK|pg||
+pg||
+qx|c10|st||md|4SK4HK8DQ75CJ95432,SAQ63HA976D2CAKT8,S985HQJ43DK9864C6,SJT72HT52DAJT3CQ7|sv|b|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c5|pc|c8|pc|c6|pc|cQ|pg||
+pc|sT|pc|s4|pc|s3|pc|s5|pg||
+pc|s2|pc|sK|pc|sA|pc|s8|pg||
+pc|d2|pc|d4|pc|dA|pc|d5|pg||
+pc|d3|pc|d7|pc|s6|pc|d6|pg||
+pc|sQ|pc|s9|pc|s7|pc|c3|pg||
+pc|cA|pc|d8|pc|c7|pc|c2|pg||
+pc|cK|pc|h3|pc|h2|pc|c9|pg||
+pc|h6|pc|h4|pc|hT|pc|hK|pg||
+pc|cJ|pc|cT|pc|d9|pc|sJ|pg||
+pc|h5|pc|h8|pc|hA|pc|hJ|pg||
+mc|10|pg||
+qx|o11|st||md|1SK765HAQ97DQJCK96,SAJ94H842DT84CJ53,S3HJT65DK9762CAQ2,SQT82HK3DA53CT874|sv|o|mb|1N|mb|p|mb|2C|an|PUPPET|mb|p|mb|2D!|mb|p|mb|3D|mb|p|mb|4C|mb|p|mb|4D!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|h2|pc|hJ|pc|hK|pc|hA|pg||
+pc|h9|pc|h4|pc|h5|pc|h3|pg||
+pc|hQ|pc|h8|pc|h6|pc|c4|pg||
+pc|dJ|pc|d4|pc|d2|pc|d3|pg||
+pc|dQ|pc|d8|pc|d6|pc|dA|pg||
+pc|s8|pc|s5|pc|s9|pc|s3|pg||
+pc|cJ|pc|cA|pc|c7|pc|c6|pg||
+pc|dK|pc|d5|pc|s6|pc|dT|pg||
+pc|d9|mc|11|pg||
+qx|c11|st||md|1SK765HAQ97DQJCK96,SAJ94H842DT84CJ53,S3HJT65DK9762CAQ2,SQT82HK3DA53CT874|sv|o|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5C|mb|p|mb|5H|mb|p|mb|p|mb|p|pc|d4|pc|d2|pc|dA|pc|dJ|pg||
+pc|s8|pc|sK|pc|sA|pc|s3|pg||
+pc|s4|pc|h5|pc|s2|pc|s5|pg||
+pc|hJ|pc|hK|pc|hA|pc|h2|pg||
+pc|s6|pc|s9|pc|h6|pc|sT|pg||
+pc|hT|pc|h3|pc|h7|pc|h4|pg||
+pc|c2|pc|c4|pc|cK|pc|c3|pg||
+mc|11|pg||
+qx|o12|st||md|2S765HA975DJ92C652,SJ3HKJT3DKQ5CQT97,SAT942H862DAT4CK3,SKQ8HQ4D8763CAJ84|sv|n|mb|1N!|mb|2C!|mb|3N|mb|p|mb|p|mb|p|pc|s9|pc|s8|pc|s5|pc|sJ|pg||
+pc|h3|pc|h2|pc|hQ|pc|hA|pg||
+pc|s7|pc|s3|pc|sA|pc|sQ|pg||
+pc|s2|pc|sK|pc|s6|pc|d5|pg||
+pc|h4|pc|h5|pc|hK|pc|h6|pg||
+pc|hJ|pc|h8|pc|d3|pc|h7|pg||
+pc|hT|pc|d4|pc|d6|pc|h9|pg||
+pc|cQ|pc|cK|pc|cA|pc|c2|pg||
+pc|c4|pc|c5|pc|cT|pc|c3|pg||
+pc|c9|pc|dT|pc|c8|pc|c6|pg||
+pc|c7|pc|s4|pc|cJ|pc|d2|pg||
+mc|9|nt|vugraphzck: REPLAYING HAND 8|pg||
+nt|vugraphzck: SO A LITTLE BREAK|pg||
+pg||
+qx|c12|st||md|2S765HA975DJ92C652,SJ3HKJT3DKQ5CQT97,SAT942H862DAT4CK3,SKQ8HQ4D8763CAJ84|sv|n|mb|1C|mb|1S|mb|3N|mb|p|mb|p|mb|p|pc|s5|pc|sJ|pc|sA|pc|s8|pg||
+pc|s9|pc|sQ|pc|s6|pc|s3|pg||
+pc|h4|pc|hA|pc|h3|pc|h2|pg||
+pc|s7|pc|d5|pc|sT|pc|sK|pg||
+pc|hQ|pc|h5|pc|hK|pc|h6|pg||
+pc|hJ|pc|h8|pc|d3|pc|h7|pg||
+pc|hT|pc|d4|pc|d6|pc|h9|pg||
+pc|cQ|pc|cK|pc|cA|pc|c2|pg||
+pc|c4|pc|c5|pc|cT|pc|c3|pg||
+pc|c9|pc|dT|pc|cJ|pc|c6|pg||
+pc|c8|pc|d2|pc|c7|pc|s2|pg||
+mc|9|pg||
+qx|o13|st||md|3SKJT4HA5432DCT876,S87HQ987DAT4CA952,SQ63HKTDK762CKQJ3,SA952HJ6DQJ9853C4|sv|b|mb|1D|mb|p|mb|1H|mb|p|mb|p|mb|p|nt|vugraphzck: N NOT USED TO PLAY SCREENED|pg||
+pc|s8|pc|s3|pc|sA|pc|sT|pg||
+pc|c4|pc|c8|pc|cA|pc|cK|pg||
+pc|c2|pc|cQ|pc|h6|pc|c6|pg||
+pc|dQ|pc|h2|pc|d4|pc|d2|pg||
+pc|h3|pc|h7|pc|hK|pc|hJ|pg||
+pc|hT|pc|d3|pc|hA|pc|h8|pg||
+pc|c7|pc|c5|pc|cJ|pc|d5|pg||
+pc|c3|pc|s2|pc|cT|pc|c9|pg||
+pc|s4|pc|s7|pc|sQ|pc|s5|pg||
+pc|s6|pc|s9|pc|sK|pc|h9|pg||
+pc|hQ|pc|d6|pc|d8|pc|h4|pg||
+pc|dA|pc|d7|pc|d9|pc|h5|pg||
+pc|sJ|pc|dT|pc|dK|pc|dJ|pg||
+nt|vugraphzck: COUNTING TRICKS, THEY WERE 8|pg||
+pg||
+qx|c13|st||md|3SKJT4HA5432DCT876,S87HQ987DAT4CA952,SQ63HKTDK762CKQJ3,SA952HJ6DQJ9853C4|sv|b|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|d|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dQ|pc|c6|pc|dA|pc|d2|pg||
+pc|dT|pc|d6|pc|dJ|pc|c7|pg||
+pc|d9|pc|h2|pc|d4|pc|dK|pg||
+pc|c3|pc|c4|pc|cT|pc|c2|pg||
+pc|c8|pc|cA|pc|cK|pc|s2|pg||
+pc|h7|pc|hT|pc|hJ|pc|hA|pg||
+pc|s4|pc|s7|pc|sQ|pc|sA|pg||
+pc|d8|pc|h3|pc|c5|pc|d7|pg||
+pc|d5|pc|h4|pc|h8|pc|s3|pg||
+mc|6|pg||
+qx|o14|st||md|4S864HAQT752DJ754C,ST97H9DQT62CA6543,SAQJ32H643D83CKQ2,SK5HKJ8DAK9CJT987|sv|o|mb|1C|mb|2H|mb|d|an|NEGATIVE OR WEAK WITH CL|mb|3H|mb|3N|mb|4H|mb|p|mb|p|mb|p|pc|d6|pc|d3|pc|dK|pc|d5|pg||
+pc|dA|pc|d4|pc|d2|pc|d8|pg||
+pc|cJ|pc|h7|pc|c6|pc|c2|pg||
+pc|s4|pc|s9|pc|sJ|pc|sK|pg||
+pc|c7|pc|h2|pc|c3|pc|cQ|pg||
+pc|d7|pc|dT|pc|h3|pc|d9|pg||
+pc|h4|pc|h8|pc|hQ|pc|h9|pg||
+pc|hA|pc|c4|pc|h6|pc|hJ|pg||
+pc|s8|pc|s7|pc|sA|pc|s5|pg||
+pc|sQ|pc|c8|pc|s6|pc|sT|pg||
+pc|s2|pc|hK|pc|dJ|pc|c5|pg||
+mc|9|pg||
+qx|c14|st||md|4S864HAQT752DJ754C,ST97H9DQT62CA6543,SAQJ32H643D83CKQ2,SK5HKJ8DAK9CJT987|sv|o|mb|1N|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|2N|mb|3H|mb|d|mb|p|mb|4C|mb|p|mb|p|mb|p|pc|h3|pc|hJ|pc|hQ|pc|h9|pg||
+pc|d5|pc|d2|pc|d3|pc|d9|pg||
+pc|cJ|pc|h2|pc|cA|pc|c2|pg||
+pc|d6|pc|d8|pc|dA|pc|d4|pg||
+pc|dK|pc|d7|pc|dT|pc|cQ|pg||
+pc|h4|pc|h8|pc|hT|pc|c3|pg||
+pc|dQ|pc|cK|pc|s5|pc|dJ|pg||
+mc|9|pg||
+qx|o15|st||md|1S2HT7432DCAKT8643,SAKT9654HQDKQT5C7,SJHA9865DAJ984CQJ,SQ873HKJD7632C952|sv|n|mb|p|mb|1S|mb|2S!|mb|d|mb|4H|mb|4S|mb|5H|mb|p|mb|p|mb|5S|mb|p|mb|p|mb|6H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|sK|pc|sJ|pc|s8|pc|s2|pg||
+pc|c7|pc|cJ|pc|c2|pc|c3|pg||
+pc|hA|pc|hJ|pc|h2|pc|hQ|pg||
+mc|11|pg||
+qx|c15|st||md|1S2HT7432DCAKT8643,SAKT9654HQDKQT5C7,SJHA9865DAJ984CQJ,SQ873HKJD7632C952|sv|n|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cQ|pc|c2|pc|c4|pc|c7|pg||
+pc|cJ|pc|c5|pc|c3|pc|s9|pg||
+pc|sA|pc|sJ|pc|s3|pc|s2|pg||
+pc|hQ|pc|hA|pc|hJ|pc|h4|pg||
+pc|dA|pc|d2|pc|c6|pc|d5|pg||
+mc|10|pg||
+qx|o16|st||md|2SA3HA876DKQ542C96,SKQ987HQD96CQT854,SJT65HJ9532D83CK2,S42HKT4DAJT7CAJ73|sv|e|mb|p|mb|p|mb|1N!|mb|p|mb|2H!|mb|p|mb|2S|mb|3D|mb|p|mb|p|mb|p|pc|hQ|pc|h2|pc|h4|pc|h8|pg||
+pc|cQ|pc|c2|pc|c7|pc|c6|pg||
+pc|cT|pc|cK|pc|cA|pc|c9|pg||
+pc|d7|pc|dQ|pc|d6|pc|d3|pg||
+pc|d2|pc|d9|pc|d8|pc|dT|pg||
+pc|cJ|pc|d4|pc|c4|pc|h3|pg||
+pc|d5|pc|s9|pc|h5|pc|dJ|pg||
+pc|dA|pc|dK|pc|s7|pc|s5|pg||
+pc|c3|pc|h6|pc|c5|pc|s6|pg||
+pc|c8|pc|sT|pc|hT|pc|h7|pg||
+pc|sK|pc|sJ|pc|s2|pc|sA|pg||
+pc|hA|pc|s8|pc|h9|pc|hK|pg||
+pc|s3|pc|sQ|pc|hJ|pc|s4|pg||
+pg||
+qx|c16|st||md|2SA3HA876DKQ542C96,SKQ987HQD96CQT854,SJT65HJ9532D83CK2,S42HKT4DAJT7CAJ73|sv|e|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h6|pc|hQ|pc|h3|pc|h4|pg||
+pc|cT|pc|c2|pc|c7|pc|c6|pg||
+pc|c4|pc|cK|pc|cA|pc|c9|pg||
+pc|cJ|pc|d2|pc|c5|pc|d8|pg||
+pc|c3|pc|d5|pc|cQ|pc|h2|pg||
+pc|c8|pc|d3|pc|s2|pc|s3|pg||
+pc|d6|pc|h5|pc|dA|pc|d4|pg||
+pc|d7|pc|dQ|pc|d9|pc|h9|pg||
+pc|hA|pc|s7|pc|hJ|pc|hT|pg||
+mc|8|pg||
+qx|o17|st||md|3SA985H64DT632CK75,S6HJT987D95CAJT82,SKQ432HA3DKJ4CQ64,SJT7HKQ52DAQ87C93|sv|o|mb|1S|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|s7|pc|s8|pc|s6|pc|s2|pg||
+pc|h4|pc|h7|pc|hA|pc|h2|pg||
+pc|h3|pc|h5|pc|h6|pc|h8|pg||
+pc|d9|pc|d4|pc|dQ|pc|d2|pg||
+pc|dA|pc|d3|pc|d5|pc|dJ|pg||
+pc|d8|pc|d6|pc|c2|pc|dK|pg||
+pc|sK|pc|sT|pc|s5|pc|h9|pg||
+pc|s3|pc|sJ|pc|sA|pc|c8|pg||
+pc|dT|pc|hT|pc|c4|pc|d7|pg||
+pc|c5|pc|cA|pc|c6|pc|c3|pg||
+mc|9|pg||
+qx|c17|st||md|3SA985H64DT632CK75,S6HJT987D95CAJT82,SKQ432HA3DKJ4CQ64,SJT7HKQ52DAQ87C93|sv|o|nt|aupaleti: 3ST era una alternativa muy bonita. Yo creo que lo iba a ganar a pesar de la salida de pequeño pique...salvo que cubriera la J@S naturalmente|pg||
+mb|1N|mb|p|mb|p|mb|p|pc|sJ|pc|sA|pc|s6|pc|s2|pg||
+pc|s9|pc|h8|pc|sQ|pc|s7|pg||
+pc|sK|pc|sT|pc|s8|pc|cJ|pg||
+pc|s3|pc|h2|pc|s5|pc|d5|pg||
+nt|aupaleti: ahora el dont hubiera supyesto un éxito,|pg||
+pc|d2|pc|d9|pc|dJ|pc|dQ|pg||
+pc|c9|pc|c5|pc|c2|pc|cQ|pg||
+nt|aupaleti: si Oeste no hubiera descartado corazón....ç|pg||
+pc|s4|pc|c3|pc|h4|nt|aupaleti: multaba 1ST|pg||
+pc|h7|pg||
+pc|dK|pc|dA|pc|d3|pc|c8|pg||
+nt|aupaleti: ahora es peor. No se han entendido y se han incomunicado|pg||
+pc|d8|pc|dT|pc|cT|pc|d4|pg||
+nt|aupaleti: Tenian 8 y ahora hace 8 N-S|pg||
+pc|d6|pc|h9|pc|c4|pc|d7|pg||
+pc|hK|pc|h6|pc|hT|pc|hA|pg||
+pc|c6|pc|h5|pc|c7|pc|cA|pg||
+mc|8|nt|aupaleti: La salida era razonable aunque desacertada. Aklfonso Golmar e sun gran jugador y es entendible su salida. Después es un problema de señalziación y de decisi´pon de Oeste|pg||
+pg||
+qx|o18|st||md|4SA98HJ43DAJ73CQJ7,SQ54HAT52D862CA83,SJ632H8DQT54CK652,SKT7HKQ976DK9CT94|sv|n|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D|mb|2H|mb|2S|mb|3H|mb|p|mb|p|mb|p|pc|h3|pc|h2|pc|h8|pc|h9|pg||
+pc|h6|pc|h4|pc|hA|pc|d5|pg||
+pc|h5|pc|s2|pc|hK|pc|hJ|pg||
+pc|s7|pc|s8|pc|sQ|pc|s3|pg||
+pc|d2|pc|d4|pc|dK|pc|dA|pg||
+pc|d3|pc|d6|pc|dQ|pc|d9|pg||
+pc|dT|pc|h7|pc|d7|pc|d8|pg||
+pc|cT|pc|cJ|pc|cA|pc|c2|pg||
+pc|s4|pc|s6|pc|sT|pc|sA|pg||
+pc|s9|pc|s5|pc|sJ|pc|sK|pg||
+pc|c4|pc|c7|pc|c8|pc|cK|pg||
+pc|c5|pc|c9|pc|cQ|pc|c3|pg||
+pc|dJ|pc|hT|pc|c6|pc|hQ|pg||
+pg||
+qx|c18|st||md|4SA98HJ43DAJ73CQJ7,SQ54HAT52D862CA83,SJ632H8DQT54CK652,SKT7HKQ976DK9CT94|sv|n|nt|aupaleti: Por otra parte parece razonable reabrior 1ST con las cartas de Garate, sobre todo si tiebne convención para mostrar la bicolor @C-@H|pg||
+nt|aupaleti: Mano anoodina...2@H en E-O como máximo|pg||
+mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|nt|aupaleti: 1ST -2 con salida corazón|pg||
+mb|2D|mb|p|nt|aupaleti: supongo que Antonio dirá 2@D|pg||
+mb|p|mb|p|pc|d2|pc|d4|pc|d9|nt|aupaleti: razonable todo. Es difícil competir esta parcial después de 1ST. 110 para N-S y mano nula|pg||
+pc|dJ|pg||
+pc|h3|pc|h2|pc|h8|pc|h9|pg||
+pc|s7|pc|s8|pc|sQ|pc|s2|pg||
+pc|d6|pc|dT|pc|dK|pc|dA|pg||
+pc|d3|pc|d8|pc|dQ|pc|h6|pg||
+nt|aupaleti: Faltan dos manos favorable para G/G en la sala abierta. Podían anotar 20 IMP en total....o nada|pg||
+mc|9|nt|aupaleti: 110|pg||
+pg||
+qx|o19|st||md|1ST4HT8DQT874CAJ76,SAQ72HJ64DJ2CQ854,S6HA9752DA953CK92,SKJ9853HKQ3DK6CT3|sv|e|mb|p|mb|p|mb|1H|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|3H|mb|3S|mb|p|mb|p|mb|p|pc|hT|pc|h4|pc|hA|pc|hK|pg||
+pc|d3|pc|dK|pc|d8|pc|d2|pg||
+pc|sK|pc|s4|pc|s2|pc|s6|pg||
+pc|s3|pc|sT|pc|sA|pc|h2|pg||
+pc|hJ|pc|h5|pc|h3|pc|h8|pg||
+pc|h6|pc|h7|pc|hQ|pc|d4|pg||
+pc|d6|pc|dQ|pc|dJ|pc|d5|pg||
+pc|d7|pc|s7|pc|d9|pc|c3|pg||
+mc|10|pg||
+qx|c19|st||md|1ST4HT8DQT874CAJ76,SAQ72HJ64DJ2CQ854,S6HA9752DA953CK92,SKJ9853HKQ3DK6CT3|sv|e|mb|p|mb|p|mb|1H|mb|2S|mb|p|nt|aupaleti: 140 probables|pg||
+mb|3S|mb|p|mb|p|mb|p|pc|hT|pc|h4|pc|hA|pc|hQ|pg||
+pc|h7|pc|hK|pc|h8|pc|h6|pg||
+pc|sJ|pc|s4|pc|s2|pc|s6|pg||
+pc|s3|pc|sT|pc|sA|pc|h5|pg||
+pc|hJ|pc|h2|pc|h3|pc|d4|pg||
+pc|d2|pc|dA|pc|d6|pc|d7|pg||
+pc|d3|pc|dK|pc|d8|pc|dJ|pg||
+mc|9|nt|aupaleti: Warrior está jugando como un verdadero warrior|pg||
+nt|aupaleti: La Liga se ha terminado hace cuatro horas. El Aleti, extenuado, perdió en Gijón.|pg||
+nt|aupaleti: La Champions ya tiene dueño: El ATLETICO DE MADRID !!!|pg||
+nt|aupaleti: AUPA ALETI !!!!!|pg||
+pg||
+qx|o20|st||md|2SKT7HAK764D3CAKT4,S8HJT832D62CJ9732,SQJ43H9DAKQJT75C5,SA9652HQ5D984CQ86|sv|b|mb|p|mb|1D|mb|1S|mb|2H|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|5S|mb|p|mb|6N|mb|p|mb|p|mb|p|pc|c6|pc|cA|pc|c3|pc|c5|pg||
+pc|s7|pc|s8|pc|sJ|pc|sA|pg||
+pc|c8|pc|cK|pc|c2|pc|d5|pg||
+mc|12|pg||
+qx|c20|st||md|2SKT7HAK764D3CAKT4,S8HJT832D62CJ9732,SQJ43H9DAKQJT75C5,SA9652HQ5D984CQ86|sv|b|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c3|pc|c5|pc|cQ|pc|cA|pg||
+pc|s7|pc|s8|pc|sJ|pc|s5|pg||
+pc|dA|pc|d4|pc|d3|pc|d2|pg||
+pc|dK|pc|d8|pc|h7|pc|d6|pg||
+pc|dQ|pc|d9|pc|h6|pc|h2|pg||
+pc|dJ|pc|s2|pc|sT|pc|c7|pg||
+pc|dT|pc|s6|pc|sK|pc|c2|pg||
+pc|d7|pc|s9|pc|cT|pc|h3|pg||
+pc|d5|pc|c6|pc|h4|pc|h8|pg||
+pc|h9|pc|h5|pc|hK|pc|hT|pg||
+pc|hA|pc|hJ|pc|s3|pc|hQ|pg||
+pc|cK|pc|c9|pc|s4|pc|c8|pg||
+pc|c4|pc|cJ|pc|sQ|pc|sA|pg||
+pg||
+qx|o21|st||md|3S874HJ73DA74CKQ72,SQJTHAKQ8DQT983CT,SAK32H954DKJ65CA3,S965HT62D2CJ98654|sv|n|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h6|pc|h3|pc|hQ|pc|h4|pg||
+pc|hA|pc|h5|pc|h2|pc|h7|pg||
+pc|hK|pc|h9|pc|hT|pc|hJ|pg||
+pc|h8|pc|s2|pc|c4|pc|s4|pg||
+pc|sQ|pc|sA|pc|s5|pc|s7|pg||
+pc|d5|pc|d2|pc|dA|pc|d3|pg||
+pc|d4|pc|d8|pc|dJ|pc|c5|pg||
+pc|cA|pc|c6|pc|c2|pc|cT|pg||
+pc|c3|pc|c8|pc|cK|pc|d9|pg||
+pc|cQ|pc|sT|pc|d6|pc|c9|pg||
+pc|d7|pc|dT|pc|dK|pc|cJ|pg||
+pc|sK|pc|s6|pc|s8|pc|sJ|pg||
+pc|s3|pc|s9|pc|c7|pc|dQ|pg||
+pg||
+qx|c21|st||md|3S874HJ73DA74CKQ72,SQJTHAKQ8DQT983CT,SAK32H954DKJ65CA3,S965HT62D2CJ98654|sv|n|mb|1N|nt|aupaleti: nadie puede negar que juegan rapidisimo|pg||
+mb|p|mb|3N|nt|aupaleti: No parece posible ganar 3ST ni dejar de subastarlo|pg||
+mb|4D|nt|aupaleti: ay ay ay|pg||
+mb|d|mb|p|mb|p|mb|p|pc|sA|nt|aupaleti: Creo que no escogió el mejor moemnto para hacer una jugada heroica. Multaba mecanicamente 3ST y le llueven 500|pg||
+pc|s5|pc|s7|pc|sT|pg||
+pc|sK|pc|s6|pc|s4|pc|sJ|pg||
+pc|s2|pc|s9|pc|s8|pc|sQ|pg||
+pc|d8|pc|dJ|pc|d2|pc|d4|pg||
+pc|s3|pc|h2|pc|c2|pc|cT|pg||
+pc|cA|pc|c4|pc|c7|pc|d3|pg||
+pc|d9|pc|d5|pc|c5|pc|dA|pg||
+pc|h7|pc|hA|pc|h4|pc|h6|pg||
+pc|dT|pc|dK|nt|aupaleti: La mano 20 era un swing a favor de G/G (Garate-Golmar) y ha compensado. |pg||
+pc|hT|pc|d7|pg||
+pc|c3|pc|c6|pc|cQ|pc|dQ|pg||
+pc|hK|pc|h5|pc|c8|pc|h3|pg||
+pc|hQ|pc|h9|pc|c9|pc|hJ|pg||
+pc|h8|pc|d6|pc|cJ|pc|cK|pg||
+nt|aupaleti: 14 IMP seguros para Castelblanco|pg||
+nt|aupaleti: Viajero. No avanzan las manos. estamos colgados|pg||
+pg||
+qx|o22|st||md|4SA7654HJ654DQT7C6,S3HA93DK42CAKJ432,SQ9HT82D9863CQT87,SKJT82HKQ7DAJ5C95|sv|e|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h4|pc|hA|pc|h2|pc|h7|pg||
+pc|cA|pc|c7|pc|c5|pc|c6|pg||
+pc|s3|pc|s9|pc|sJ|pc|s4|pg||
+pc|c9|pc|s5|pc|cK|pc|c8|pg||
+pc|d2|pc|d3|pc|dJ|pc|dQ|pg||
+pc|h5|pc|h3|pc|h8|pc|hK|pg||
+pc|sK|pc|sA|pc|c2|pc|sQ|pg||
+pc|hJ|pc|h9|pc|hT|pc|hQ|pg||
+pc|d5|pc|d7|pc|dK|pc|d6|pg||
+pc|d4|pc|d8|pc|dA|pc|dT|pg||
+mc|11|pg||
+qx|c22|st||md|4SA7654HJ654DQT7C6,S3HA93DK42CAKJ432,SQ9HT82D9863CQT87,SKJT82HKQ7DAJ5C95|sv|e|nt|aupaleti: ahora|pg||
+mb|1S|mb|p|mb|2C|mb|p|mb|2N|mb|p|nt|aupaleti: mano anodina salvo imprevistos. 3ST con sobrebaza. |pg||
+mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|aupaleti: Supongo que 2ST será mini-max. estilo americano, En Francia sería escasa la fuerza para decirlo|pg||
+nt|aupaleti: Sí...Bien decidido. El slam a trébol o a Sin Triunfo no era descabellado|pg||
+pc|h5|nt|aupaleti: si juega sopbre el pique...10/11....sobre el trébol 9/10|pg||
+pc|h3|pc|h8|pc|hK|pg||
+nt|aupaleti: sobre el trébol|pg||
+pc|c5|pc|c6|pc|cJ|pc|cQ|pg||
+pc|hT|pc|h7|pc|h4|pc|hA|pg||
+pc|cA|pc|c7|pc|c9|pc|s4|pg||
+pc|cK|pc|c8|pc|s2|pc|s6|pg||
+pc|c4|pc|cT|pc|s8|pc|s5|pg||
+pc|sQ|pc|sK|pc|sA|pc|s3|pg||
+nt|aupaleti: no entiendo nada|pg||
+pc|hJ|pc|h9|pc|h2|pc|hQ|pg||
+mc|10|pg||
+qx|o23|st||md|1SKQ42H42DK95CT973,SAT97HJT8653D8C62,SJ83HAK9DQJ72CKJ5,S65HQ7DAT643CAQ84|sv|b|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|d4|pc|d9|pc|d8|pc|d2|pg||
+pc|dK|pc|hJ|pc|d7|pc|d3|pg||
+pc|s2|pc|s7|pc|sJ|pc|s5|pg||
+pc|dJ|pc|dA|pc|d5|pc|c2|pg||
+pc|d6|pc|c3|pc|h3|pc|dQ|pg||
+pc|s3|pc|s6|pc|sK|pc|sA|pg||
+pc|h6|pc|h9|pc|hQ|pc|h2|pg||
+pc|dT|pc|c7|pc|c6|pc|c5|pg||
+pc|cA|pc|c9|pc|h5|pc|cJ|pg||
+mc|8|pg||
+qx|c23|st||md|1SKQ42H42DK95CT973,SAT97HJT8653D8C62,SJ83HAK9DQJ72CKJ5,S65HQ7DAT643CAQ84|sv|b|nt|aupaleti: es una extra solamente|pg||
+nt|vugraphzcr: si|pg||
+mb|p|mb|p|mb|1N|mb|2C|an|dont|nt|aupaleti: 2ST dependen de la maniobra del palo de salida, diamante.|pg||
+nt|aupaleti: Supongo que será DONT.|pg||
+mb|p|nt|vugraphzcr: si|pg||
+nt|aupaleti: Soy el mayor retractor de esta convención en todo el mundo. me abstengo de criticarlo. Se critica solo con la simple inspección de la lámina adjunta|pg||
+mb|2D|mb|p|mb|p|nt|aupaleti: Si Joao dobla le cae la del pulpo|pg||
+mb|d|nt|aupaleti: 1100|pg||
+mb|p|nt|aupaleti: No...salva algunas con el dubleton de trebol del muerto.|pg||
+mb|2N|mb|p|nt|aupaleti: esto es otro bridge|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|aupaleti: no puedo comentar lo que me supera.|pg||
+nt|vugraphzcr: :)|pg||
+pc|d4|nt|aupaleti: El caso es que tiene opciones reales de cumplir después de la intervención de Este|pg||
+nt|aupaleti: 3@D+2@S+21H+2@C|pg||
+pc|d9|pc|d8|pc|d2|pg||
+pc|c3|pc|c2|pc|cK|pc|cA|pg||
+nt|aupaleti: Magnífica decisión. Brillante|pg||
+pc|dA|pc|d5|pc|h3|pc|d7|pg||
+pc|hQ|pc|h2|pc|h5|pc|hA|pg||
+pc|s3|pc|s6|pc|sK|pc|sA|pg||
+pc|hJ|nt|aupaleti: Alfonso está preguntándose por qu´we le han dicho 2@D. Lo malo no es solamente la intervenmción, es la convención.|pg||
+pc|h9|pc|h7|pc|h4|pg||
+pc|hT|pc|hK|nt|aupaleti: Pero si ha cedido el segundo corazón en lugar del primero|pg||
+pc|d3|pc|dK|pg||
+pc|cJ|pc|cQ|pc|c7|pc|c6|pg||
+mc|8|nt|aupaleti: tenía nueve bazas directas con ceder la Q@H y proteger lo que parecía un dubleton dada la intervención.|pg||
+nt|aupaleti: ...O bien tomar el segundo. No me gusta el match|pg||
+pg||
+qx|o24|st||md|2ST987654HAJDT974C,SHT986DK532CQJ872,S2HQ432DQJ8CAKT93,SAKQJ3HK75DA6C654|sv|o|mb|p|mb|1C|mb|1S|mb|p|mb|p|mb|d|mb|r|mb|p|mb|2C|mb|p|mb|p|mb|p|pc|h3|pc|hK|pc|hA|pc|h6|pg||
+pc|dT|pc|d2|pc|d8|pc|dA|pg||
+pc|sA|pc|s4|pc|h8|pc|s2|pg||
+pc|sK|pc|s5|pc|h9|pc|c3|pg||
+pc|hQ|pc|h5|pc|hJ|pc|hT|pg||
+pc|dQ|pc|d6|pc|d4|pc|dK|pg||
+pc|d5|pc|dJ|pc|c4|pc|d7|pg||
+pc|h7|pc|s6|pc|d3|pc|h2|pg||
+pc|c5|pc|s7|pc|cJ|pc|cA|pg||
+pc|h4|pc|s3|pc|s8|pc|c2|pg||
+pc|c7|pc|c9|pc|c6|pc|d9|pg||
+pc|cK|pc|sJ|pc|s9|pc|c8|pg||
+pc|cT|pc|sQ|pc|sT|pc|cQ|pg||
+pg||
+qx|c24|st||md|2ST987654HAJDT974C,SHT986DK532CQJ872,S2HQ432DQJ8CAKT93,SAKQJ3HK75DA6C654|sv|o|mb|p|mb|1C|mb|d|nt|aupaleti: si hubiera tomado el A1H y abierto el pique ganaba 9|pg||
+nt|aupaleti: A@H|pg||
+nt|vugraphzcr: si|pg||
+mb|2S|mb|3H|nt|aupaleti: Arimón jugó el slam de la 20. Ahora caerán 14 para Castelblanco por los 4@Dx|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|nt|aupaleti: la cara a cuadros|pg||
+pc|s2|pc|sA|pc|s6|nt|aupaleti: ya cayetron los 14|pg||
+nt|aupaleti: En mi opinión es más que razonable subastar 41H|pg||
+nt|aupaleti: 4@H|pg||
+pc|c8|pg||
+pc|sK|pc|s4|pc|c2|pc|h2|pg||
+pc|cA|pc|c4|pc|s5|pc|cQ|pg||
+pc|cK|pc|c5|pc|s7|pc|c7|pg||
+pc|cT|pc|c6|pc|hJ|pc|cJ|pg||
+pc|s8|pc|h8|pc|hQ|pc|s3|pg||
+pc|dQ|pc|dA|pc|d4|pc|d2|pg||
+pc|h5|pc|hA|pc|h6|nt|aupaleti: -3 |pg||
+pc|h3|pg||
+pc|s9|pc|hT|pc|c3|pc|sJ|pg||
+mc|7|pg||
+qx|o25|st||md|3SAJ93HADAK4CAQJT6,ST2HQJT98D72CK432,SQ8764H763DJ863C8,SK5HK542DQT95C975|sv|e|mb|p|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3H!|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|vugraphzck: NOT SURE IF IT WAS TRANSFER|pg||
+pc|hQ|pc|h3|pc|h2|pc|hA|pg||
+pc|sA|pc|s2|pc|s4|pc|s5|pg||
+pc|s3|pc|sT|pc|sQ|pc|sK|pg||
+pc|hK|pc|c6|pc|h8|pc|h6|pg||
+pc|h5|pc|d4|pc|h9|pc|h7|pg||
+pc|hJ|pc|d3|pc|h4|pc|cT|pg||
+pc|hT|pc|d6|pc|d5|pc|cJ|pg||
+pc|d7|pc|d8|pc|d9|pc|dA|pg||
+pc|sJ|pc|c2|pc|s6|pc|c7|pg||
+pc|s9|pc|c3|pc|s7|pc|c5|pg||
+pc|dK|pc|d2|pc|dJ|pc|dT|pg||
+pc|cA|pc|c4|pc|c8|pc|c9|pg||
+pc|cQ|pc|cK|pc|s8|pc|dQ|pg||
+pg||
+qx|c25|st||md|3SAJ93HADAK4CAQJT6,ST2HQJT98D72CK432,SQ8764H763DJ863C8,SK5HK542DQT95C975|sv|e|nt|aupaleti: slam interesante a 1S|pg||
+nt|aupaleti: 6@S|pg||
+nt|vugraphzcr: gracias Maestro Goded por sus comentarios|pg||
+mb|p|mb|p|mb|2C|mb|p|mb|2D|mb|p|nt|aupaleti: 2@C/2@D/2ST/3@H/3@S etc ,...|pg||
+mb|2H|nt|aupaleti: Lo sustancial es que Norte muestra su palo quinto de forma inequívoca. Sur irá a slam. Puede declarar 2ST o 31C|pg||
+mb|p|nt|aupaleti: Juegan Kokish|pg||
+mb|2S|mb|p|mb|2N|nt|aupaleti: es igual. Ahora 2ST y transfer.|pg||
+mb|p|mb|3H|mb|p|mb|4S|mb|p|nt|aupaleti: Les falta el K@S yel K@C. Jugara´n solamente 6|pg||
+mb|p|mb|p|pc|dT|nt|aupaleti: Ostras!|pg||
+nt|vugraphzcr: no entiendo nada|pg||
+pc|dA|pc|d2|pc|d3|pg||
+pc|cA|pc|c2|pc|c8|pc|c5|pg||
+pc|cQ|pc|c3|pc|s4|pc|c7|pg||
+pc|s7|pc|s5|pc|sJ|pc|s2|pg||
+pc|cJ|pc|c4|nt|aupaleti: No llegan los resultados de la otra mesa. Parece que esto se ha calentado con los slams |pg||
+pc|h3|pc|c9|pg||
+pc|sA|pc|sT|pc|s6|pc|sK|pg||
+nt|aupaleti: Descartó corazón?|pg||
+pc|c6|pc|cK|pc|s8|pc|h2|pg||
+pc|d6|pc|d5|pc|dK|nt|aupaleti: tenía 13|pg||
+pc|d7|pg||
+pc|cT|pc|h9|pc|d8|pc|d9|pg||
+pc|hA|pc|h8|pc|h6|pc|h4|pg||
+nt|aupaleti: está nervioso por alguna razón. Antonio cartea estupendamente y está jugando muy raro|pg||
+mc|12|pg||
+qx|o26|st||md|4SQJTHKJT986D64CQ5,S986H52DQT3CAJ872,SAK3HA4DAJ875CKT9,S7542HQ73DK92C643|sv|b|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d2|pc|d4|pc|dQ|pc|dA|pg||
+pc|hA|pc|h7|pc|h6|pc|h2|pg||
+pc|h4|pc|h3|pc|hT|pc|h5|pg||
+pc|hK|pc|s9|pc|c9|pc|hQ|pg||
+pc|cQ|pc|cA|pc|cT|pc|c3|pg||
+pc|dT|pc|dJ|pc|dK|pc|d6|pg||
+pc|d9|pc|h8|pc|d3|pc|d5|pg||
+mc|10|pg||
+qx|c26|st||md|4SQJTHKJT986D64CQ5,S986H52DQT3CAJ872,SAK3HA4DAJ875CKT9,S7542HQ73DK92C643|sv|b|nt|aupaleti: Al fin una neutra. 650 a corazón salvo imprevistos|pg||
+mb|p|mb|2H|mb|p|nt|aupaleti: Si jugara slam hay que atacar diamante para multarlo...o esperar un desacierto del trébol|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|aupaleti: No morirá de cornada de burro|pg||
+nt|vugraphzcr: :)|pg||
+pc|s8|nt|aupaleti: Después de omitir dos slams Antonio no quiere compormeterse a jugar uno más que dudoso. El caso es que si Sur tiene semifallo en diamante puede ser un 6/7 automático. Acertó|pg||
+pc|sA|pc|s2|pc|sJ|pg||
+pc|hA|pc|h3|pc|h6|pc|h2|pg||
+pc|h4|pc|h7|pc|hK|pc|h5|pg||
+pc|sT|pc|s6|pc|sK|pc|s4|pg||
+pc|c9|pc|c4|pc|cQ|pc|cA|pg||
+pc|s9|pc|s3|pc|s5|pc|sQ|pg||
+nt|aupaleti: razonable. No podía arriesgar un impasse y perder el contrato con semifallo en piques....|pg||
+pc|c5|pc|c8|pc|cT|pc|c3|pg||
+pc|cK|pc|c6|pc|d4|pc|c2|pg||
+mc|11|pg||
+qx|o27|st||md|1SJ6H7DKQJT75CAJ42,ST7HKQT9863D86CT8,SAK9854H54DA42CK9,SQ32HAJ2D93CQ7653|sv|o|mb|1D|mb|3H|mb|4S|mb|p|mb|p|mb|p|pc|c3|pc|cJ|pc|c8|pc|c9|pg||
+pc|h7|pc|hQ|pc|h5|pc|hA|pg||
+pc|c7|pc|c2|pc|cT|pc|cK|pg||
+pc|h4|pc|h2|pc|s6|pc|h3|pg||
+pc|sJ|pc|s7|pc|s5|pc|sQ|pg||
+pc|hJ|pc|d5|pc|h6|pc|s4|pg||
+mc|11|pg||
+qx|c27|st||md|1SJ6H7DKQJT75CAJ42,ST7HKQT9863D86CT8,SAK9854H54DA42CK9,SQ32HAJ2D93CQ7653|sv|o|mb|1D|mb|2H|nt|aupaleti: En la otra mesa jugaron 2ST en la mano del dont|pg||
+nt|aupaleti: 6IMP para Arimón y G/G|pg||
+mb|d|mb|3H|nt|aupaleti: Precioso 6@D|pg||
+mb|p|mb|p|mb|4S|nt|aupaleti: Muy difícil de subastar|pg||
+nt|aupaleti: Ahora impoisble|pg||
+mb|p|mb|p|mb|p|pc|hA|pc|h7|pc|h3|pc|h4|pg||
+nt|aupaleti: Supongo que doblo sería transfer a 2@S. Marcar ekl palo era una ventaja importante para poder doblar luego y escuchar el diamante. es una mano muy difícil|pg||
+pc|h2|pc|s6|pc|h6|pc|h5|pg||
+pc|sJ|pc|s7|pc|s4|pc|sQ|pg||
+pc|hJ|pc|c2|pc|hQ|nt|aupaleti: fin|pg||
+pc|s5|pg||
+pc|sA|pc|s2|pc|c4|pc|sT|pg||
+pc|sK|pc|s3|pc|cJ|mc|11|pg||
+qx|o28|st||md|2SKT942HA864DCK752,SQ8HJ7DAKQ8763CQJ,S7653HK953D9542C9,SAJHQT2DJTCAT8643|sv|n|mb|1D|mb|p|mb|2C|mb|2D!|mb|3D|mb|3S|mb|4D|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|h5|pc|h2|pc|h8|pc|hJ|pg||
+pc|d3|pc|d2|pc|dJ|pc|s2|pg||
+pc|dT|pc|s4|pc|dA|pc|d4|pg||
+pc|dK|pc|d5|pc|hT|pc|h4|pg||
+pc|dQ|pc|d9|pc|hQ|pc|c2|pg||
+pc|cJ|pc|c9|pc|c3|pc|cK|pg||
+pc|hA|pc|h7|pc|h9|pc|sJ|pg||
+pc|h6|pc|d7|pc|h3|pc|c4|pg||
+pc|cQ|pc|s3|pc|c6|pc|c5|pg||
+mc|11|pg||
+qx|c28|st||md|2SKT942HA864DCK752,SQ8HJ7DAKQ8763CQJ,S7653HK953D9542C9,SAJHQT2DJTCAT8643|sv|n|nt|aupaleti: 11D1/21H/2@S/31H/!P!/P/Db/P/4@D/P/4@S admite una rectificación a 5@C y se llegaría pero es una subasta de muchos uilates y exige compenetración |pg||
+mb|3N|mb|p|mb|p|mb|p|pc|h3|nt|aupaleti: Verdaderamente es difícil encontrar más Q y J inútiles. Garate estuvo acertado. Veamos sin Joao no reabre. No es sencillo|pg||
+pc|h2|pc|hA|pc|h7|pg||
+pc|s4|nt|aupaleti: Si juegan tres corazones seguidos Joao estraá squeezasdo em los palos negros y hará 460|pg||
+pc|s8|pc|s3|pc|sJ|pg||
+nt|aupaleti: Es muy razonable la jugada de Joao|pg||
+nt|aupaleti: En mi opinión es correctísima|pg||
+pc|hT|pc|h8|nt|aupaleti: 11|pg||
+pc|hJ|pc|hK|pg||
+pc|s5|pc|sA|pc|s2|pc|sQ|pg||
+pc|dJ|pc|h6|nt|aupaleti: Claim|pg||
+pc|d3|pc|d2|pg||
+pc|dT|pc|c2|pc|dA|pc|d4|pg||
+pc|dK|nt|aupaleti: No Claim?|pg||
+mc|11|pg||
+qx|o29|st||md|3ST87542HAK2DAK7C5,SQJ3HT83DQT82CK93,SAKHJ76D65CAT8762,S96HQ954DJ943CQJ4|sv|b|mb|1C|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|d8|pc|d5|pc|dJ|pc|dA|pg||
+pc|s2|pc|s3|pc|sK|pc|s6|pg||
+pc|sA|pc|s9|pc|s4|pc|sJ|pg||
+pc|h6|pc|h4|pc|hA|pc|h3|pg||
+pc|s5|pc|sQ|pc|c2|pc|d9|pg||
+pc|dT|pc|d6|pc|d3|pc|dK|pg||
+pc|sT|pc|d2|pc|c6|pc|d4|pg||
+pc|s8|pc|h8|pc|c7|pc|c4|pg||
+pc|s7|pc|hT|pc|c8|pc|h5|pg||
+pc|c5|pc|c3|pc|cA|pc|cJ|pg||
+pc|h7|pc|h9|pc|hK|pc|c9|pg||
+pc|d7|pc|dQ|pc|hJ|pc|hQ|pg||
+pc|cK|pc|cT|pc|cQ|pc|h2|pg||
+pg||
+qx|c29|st||md|3ST87542HAK2DAK7C5,SQJ3HT83DQT82CK93,SAKHJ76D65CAT8762,S96HQ954DJ943CQJ4|sv|b|mb|1C|mb|p|nt|aupaleti: Ahora llegan los 6@S en la otra mesa y s epuede apretar la clasificación|pg||
+mb|1S|mb|p|mb|2C|mb|p|nt|aupaleti: 21@D|pg||
+mb|2D|nt|aupaleti: 21D|pg||
+nt|aupaleti: Relais. tercer palo|pg||
+mb|p|nt|aupaleti: 2@S|pg||
+mb|3C|mb|p|nt|aupaleti: Poz no|pg||
+mb|3N|mb|p|mb|p|mb|p|pc|hT|nt|aupaleti: Contrato muy razonable. Salida excelente pero inútil|pg||
+pc|h6|pc|h5|pc|hA|pg||
+nt|aupaleti: En la otra mesa hubo un malentendido y se quedaron en 3ST. Tony hizo transfer a 3@S y Sur entebndió que era natural. es el problema de las pareja simpsovisadas|pg||
+pc|s2|pc|sJ|pc|sK|pc|s6|pg||
+pc|sA|pc|s9|pc|s4|pc|s3|pg||
+pc|d5|pc|d3|pc|dA|pc|d2|pg||
+pc|sT|pc|sQ|pc|c2|pc|h4|pg||
+pc|cK|nt|aupaleti: En lugar de ganar 11 Arimón ha perdido 11|pg||
+pc|cA|pc|c4|pc|c5|pg||
+pc|d6|pc|d4|pc|dK|pc|d8|pg||
+pc|s8|nt|aupaleti: 22 imps bastante sencillos por un malentendido|pg||
+nt|aupaleti: 145/98|pg||
+pc|h3|pc|c6|pc|cQ|pg||
+pc|s7|pc|dT|pc|c7|pc|d9|pg||
+pc|s5|pc|c3|pc|c8|pc|dJ|pg||
+pc|d7|pc|dQ|pc|cT|mc|10|nt|aupaleti: Ah|pg||
+pg||
+qx|o30|st||md|4SQ9865H765DAJ32C6,S7432HKJDT75CAQJ9,SKJHT2DK64CKT8432,SATHAQ9843DQ98C75|sv|o|mb|1H|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|c6|pc|cQ|pc|cK|pc|c5|pg||
+pc|sK|pc|sA|pc|s8|pc|s2|pg||
+pc|h3|pc|h5|pc|hJ|pc|h2|pg||
+pc|hK|pc|hT|pc|hA|pc|h6|pg||
+pc|hQ|pc|h7|pc|s3|pc|c2|pg||
+pc|c7|pc|s5|pc|cA|pc|c3|pg||
+pc|cJ|pc|c4|pc|sT|pc|d2|pg||
+pc|dT|pc|d4|pc|d8|pc|dJ|pg||
+pc|sQ|pc|s4|pc|sJ|pc|h4|pg||
+pc|h9|pc|s6|pc|s7|pc|c8|pg||
+pc|dQ|pc|dA|pc|d5|pc|d6|pg||
+pc|s9|pc|c9|pc|cT|pc|h8|pg||
+pc|d9|pc|d3|pc|d7|pc|dK|pg||
+pg||
+qx|c30|st||md|4SQ9865H765DAJ32C6,S7432HKJDT75CAQJ9,SKJHT2DK64CKT8432,SATHAQ9843DQ98C75|sv|o|mb|1H|mb|p|mb|1S|mb|3C|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c6|pc|cA|pc|c2|pc|c7|pg||
+pc|hK|pc|h2|pc|h3|pc|h5|pg||
+pc|hJ|pc|hT|pc|hA|pc|h6|pg||
+pc|hQ|pc|h7|pc|s2|pc|c3|pg||
+pc|h9|pc|s5|pc|s3|pc|c4|pg||
+pc|c5|nt|aupaleti: Mérito de Antonio. 3@C es una voz excelente que les em pujar a una manga imposible|pg||
+pc|s6|pc|cQ|pc|cK|pg||
+pc|sK|pc|sA|pc|s8|pc|s4|pg||
+pc|h8|nt|aupaleti: -2|pg||
+pc|d2|pc|s7|pc|c8|pg||
+pc|sT|pc|sQ|pc|c9|pc|sJ|pg||
+pc|s9|pc|d5|pc|cT|pc|h4|pg||
+pc|d9|pc|dJ|pc|d7|pc|d4|pg||
+nt|aupaleti: Tampoco subastaron los 6@D de la 27|pg||
+mc|8|pg||
+qx|o31|st||md|1SA843HAK63DQ3CK95,SQ52HQ9DAJ84CJ843,S96HJ84DK9652CAQ6,SKJT7HT752DT7CT72|sv|n|nt|aupaleti: Pedro Guerrero acaba de hacer una jugada extraordinaria en la otra mesa para ganar 31H|pg||
+nt|aupaleti: 3@H|pg||
+nt|aupaleti: m a r a v i l l o s a|pg||
+mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d4|nt|aupaleti: Ya ganó|pg||
+nt|aupaleti: recuperan 12     160-112|pg||
+pc|d2|nt|aupaleti: La salida es terriblemente ventajosa para el declarante|pg||
+pc|d7|pc|dQ|pg||
+pc|d3|nt|aupaleti: bien warrior...al menos siembra duda|pg||
+pc|d8|pc|dK|pc|dT|pg||
+nt|aupaleti: ya ganó incluso jugando corazón a la J|pg||
+pc|h4|pc|h2|nt|aupaleti: K1C y 3@H|pg||
+pc|hA|pc|h9|pg||
+pc|h3|pc|hQ|pc|h8|pc|h5|pg||
+pc|c3|pc|cA|pc|c7|pc|c5|pg||
+pc|hJ|pc|h7|pc|h6|pc|s5|pg||
+pc|d5|pc|hT|pc|s3|pc|dJ|pg||
+pc|c4|pc|c6|pc|cT|pc|cK|pg||
+pc|hK|pc|s2|pc|s6|pc|s7|pg||
+pc|c9|pc|c8|pc|cQ|pc|c2|pg||
+pc|s9|pc|sT|pc|sA|pc|sQ|pg||
+pc|s4|mc|9|pg||
+qx|c31|st||md|1SA843HAK63DQ3CK95,SQ52HQ9DAJ84CJ843,S96HJ84DK9652CAQ6,SKJT7HT752DT7CT72|sv|n|nt|aupaleti: 3ST era una opción más que razonable asumiendo la salida probable de trébol. No parece mejor jugar 4@H y perder la ventaja de la tenaza.|pg||
+mb|1N|mb|p|nt|aupaleti: LA Q@H se portará bien, pero 3ST sigue siendo difícil|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|aupaleti: Salida ?.... muy complicada|pg||
+pc|hQ|nt|aupaleti: Me parece más que bien|pg||
+pc|h4|pc|h5|pc|hA|pg||
+nt|aupaleti: es una salida muy lógica y no regala nada|pg||
+nt|aupaleti: Si cambia a pique más adelante es probableque multe|pg||
+pc|c9|pc|c4|nt|aupaleti: Ganará porque el cuarto diamante está en la mano del corto en piques....|pg||
+pc|cQ|pc|c2|pg||
+pc|d2|pc|d7|pc|dQ|pc|dA|pg||
+pc|h9|nt|aupaleti: ahora veremos....|pg||
+nt|aupaleti: ya no|pg||
+pc|hJ|pc|h2|pc|h3|pg||
+nt|aupaleti: K1D, @D y...???|pg||
+pc|h8|pc|hT|pc|hK|nt|aupaleti: K@D, @D y ??|pg||
+pc|s2|pg||
+pc|d3|pc|d4|pc|d5|pc|dT|pg||
+pc|h7|pc|h6|nt|aupaleti: carteo muy extraño, la verdad|pg||
+pc|s5|pc|s6|pg||
+pc|sJ|pc|s3|pc|sQ|pc|s9|pg||
+pc|c3|pc|cA|pc|c7|nt|aupaleti: si no se hubiera quitado una entrada prematura en trébol parece que podría ganar.|pg||
+pc|c5|pg||
+pc|dK|pc|s7|pc|s4|pc|d8|pg||
+pc|c6|pc|cT|pc|cK|pc|c8|pg||
+pc|sA|pc|dJ|pc|d6|pc|sT|pg||
+pc|s8|pc|cJ|pc|d9|pc|sK|pg||
+pg||
+qx|o32|st||md|2SA63HKJ843DK865C8,SHT75DAJ94CAQ9642,SKJT9754H6DQ32CJT,SQ82HAQ92DT7CK753|sv|e|mb|1C|nt|aupaleti: Última. Se cumple el guión más o menos. La mano 27 fue la que lamentarán Arimón y su equipo. Un malentendido les llevó a perder 22 IMP|pg||
+mb|3S|mb|d|mb|4S|nt|aupaleti: 4@S x -1 parece razonable.....|pg||
+mb|5C|nt|aupaleti: 5@C es jugable, pero no se debe ganar|pg||
+mb|p|mb|p|mb|p|pc|h6|nt|aupaleti: 9 IMP para N-S probablemente|pg||
+nt|aupaleti: Si el K@D estuviera tercero habría linea mediante el doble impasse, pero al estar cuarto no parece posible afirmar un descarte para el tercer corazón|pg||
+nt|aupaleti: A1H y 1O@D inmediatamente parece lo mejor. la salida es un obvio semifallo|pg||
+nt|aupaleti: Si Norte tuviera la 7-1-3-2 en lugar d ela 7-1-2-3 se gana|pg||
+nt|aupaleti: 7-1-4-1|pg||
+nt|aupaleti: o bien los dos honores de diamante en Sur|pg||
+pc|hA|pc|h4|pc|h7|pg||
+nt|aupaleti: 10@D|pg||
+pc|c3|pc|c8|pc|cQ|pc|cJ|pg||
+pc|c9|pc|cT|nt|aupaleti: no lo entiendo|pg||
+pc|cK|pc|h3|pg||
+pc|d7|pc|d6|pc|d9|pc|dQ|pg||
+nt|aupaleti: se habría bloqueado aunque estuviera bien|pg||
+pc|sJ|pc|s2|nt|aupaleti: 160-121|pg||
+pc|sA|pc|cA|pg||
+nt|aupaleti: indiferente|pg||
+pc|dA|pc|d2|pc|dT|pc|d5|pg||
+pc|d4|pc|d3|pc|c5|pc|d8|pg||
+pc|s8|pc|s3|pc|c2|pc|s4|pg||
+nt|aupaleti: muy pobre|pg||
+pc|dJ|pc|s5|pc|c7|pc|dK|pg||
+nt|aupaleti: Bueno. Gracias a todos. Fue un match espectacular.|pg||
+pc|sQ|pc|s6|pc|c4|pc|s7|pg||
+pc|h5|pc|s9|pc|h9|pc|hJ|pg||
+pc|hK|pc|hT|pc|sT|pc|h2|pg||
+pc|h8|pc|c6|pc|sK|pc|hQ|pg||
+nt|aupaleti: Muy bien warrior con su carteo falso a 3@H |pg||
+pg||
+qx|c32|st||md|2SA63HKJ843DK865C8,SHT75DAJ94CAQ9642,SKJT9754H6DQ32CJT,SQ82HAQ92DT7CK753|sv|e|nt|aupaleti: Creo que pensó en la obviedad del cambio a piques. Hubiera sido mejor blanquear el segundo diamante cuando ganó la J@H. es fácil desee aquí|pg||
+mb|1C|mb|3S|mb|3N|mb|4S|mb|p|mb|p|nt|aupaleti: Muy razonable|pg||
+mb|d|nt|aupaleti: Oeste invita con su Paso. También es razonable pensar en 5@C|pg||
+mb|p|nt|aupaleti: Probablemente gane|pg||
+mb|p|mb|p|nt|aupaleti: Solamente multa la salida de 10@D|pg||
+pc|c5|nt|aupaleti: ya ganó|pg||
+pc|c8|pc|cA|pc|cT|pg||
+pc|c2|pc|cJ|nt|aupaleti: trébol es lo mejor. Le complicará la vida|pg||
+pc|cK|pc|s3|pg||
+pc|h3|pc|h5|pc|h6|pc|h9|pg||
+pc|dT|pc|d5|pc|d9|pc|dQ|pg||
+pc|sJ|pc|s2|pc|s6|pc|c4|pg||
+pc|s4|pc|s8|pc|sA|pc|h7|pg||
+pc|hK|pc|hT|nt|aupaleti: -1|pg||
+pc|d2|pc|hA|pg||
+pc|d7|nt|aupaleti: -2!!! ahora|pg||
+pc|d6|pc|dJ|pc|d3|pg||
+nt|aupaleti: A1D|pg||
+pc|dA|pc|s9|pc|sQ|nt|aupaleti: A!@D+|pg||
+pc|d8|pg||
+nt|aupaleti: que espanto|pg||
+nt|aupaleti: abrir el diamante era hacerse el hara-kiri|pg||
+mc|8|pg||
