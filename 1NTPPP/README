@@ -1,0 +1,14 @@
+---------------------
+First try at solving 1NTPPP
+
+To extract games that fit the criteria (1NTPPP), we proceed as follows:
+
+1) We search for the pattern 1NTPPP in the lin files in "raw_lin_files"
+
+2) We format the output from the first part into a more readable string
+
+3) We parse the output from the previous step to a vector and try ML for the first time.
+
+Each step has its folder.
+
+---------------------

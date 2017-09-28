@@ -1,0 +1,137 @@
+vg|WTC Bali 2013,1,I,1,16,Team 1,0,Team 2,0|
+rs|7SE=,,3SSx-1,,5CS+1,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+pn|CAPLAN,FALLON,THOMPSON,MARRETT,South,West,North,East|pg||
+qx|o1|st||md|3SJ5H972DAJ65432C4,SK7432HQT84DCQT65,ST6HKJ653DT97CJ83,SAQ98HADKQ8CAK972|sv|o|nt|bebechira: holla|pg||
+nt|vugraphzam: o1!|pg||
+mb|p|nt|bebechira: do some boidding and a result|pg||
+mb|1C|mb|3D|mb|d|mb|4D|mb|p!|mb|p|mb|d|mb|p|mb|4S|mb|p|mb|5D|mb|p|mb|5H|mb|p|nt|bebechira: it happenedd because i did not registerd new address as BBO2 open|pg||
+mb|6D|mb|p|mb|7S|mb|p|mb|p|mb|p|pc|s5|mc|13|nt|vugraphzam: am I BBO2 open at the moment?|pg||
+nt|bebechira: yes :)|pg||
+nt|bebechira: ask for o2|pg||
+nt|vugraphzam: I guess it will be in the name during F11|pg||
+nt|vugraphzam: because at the moment i cannot see it anywhere|pg||
+nt|bebechira: npo it is ythe clients database|pg||
+nt|vugraphzam: yes but the operator may like to know which bbo he is|pg||
+nt|bebechira: i changed your ip only in the active session|pg||
+nt|vugraphzam: ok|pg||
+nt|vugraphzam: may I wrongly deal a board?|pg||
+nt|bebechira: you can do whatever you want lol|pg||
+nt|bebechira: this is the live tick board|pg||
+nt|bebechira: http://livebridge.net/bbosecure/session.php|pg||
+nt|vugraphzam: wrong board :REQ2 blabla:3|pg||
+pg||
+qx|o2|st||md|4SAQJT5HJTDT74CJ93,S3HKQ943DAQ98CAT7,SK82H876DK652CKQ2,S9764HA52DJ3C8654|sv|n|nt|bebechira: you can see the board took 2 minutes lol|pg||
+nt|vugraphzam: It is a little laggish when redealing|pg||
+nt|vugraphzam: but fine|pg||
+nt|bebechira: the spectators will not see that|pg||
+nt|vugraphzam: sure, they will think I'm slow :):)|pg||
+nt|bebechira: did you see the live board?|pg||
+nt|bebechira: did you open the link i sent you|pg||
+nt|vugraphzam: nice|pg||
+nt|bebechira: you can see your board there|pg||
+nt|bebechira: this is available only on the scoring network|pg||
+nt|vugraphzam: hehe|pg||
+nt|vugraphzam: you can make a pulic version that shows only completely played boards?|pg||
+nt|bebechira: lol..second link|pg||
+mb|p|mb|2S|mb|d|nt|bebechira: did that ..results are UPDATED LIVE|pg||
+mb|3S|mb|p|mb|p|mb|p|nt|bebechira: you doi not need to do anything|pg||
+pc|hK|pc|h6|pc|h2|pc|hJ|pg||
+nt|bebechira: now we can send any messages we want to the operators|pg||
+pc|h3|pc|h7|pc|hA|pc|hT|pg||
+pc|h5|nt|bebechira: or make any rules we want for the boards..as we go|pg||
+pc|sT|pc|h4|pc|h8|pg||
+pc|s5|pc|s3|pc|sK|pc|s4|pg||
+pc|s2|pc|s6|pc|sA|pc|h9|pg||
+nt|bebechira: i will have a cigarette ...2 mins|pg||
+pc|c3|pc|c7|pc|cQ|pc|c4|pg||
+pc|cK|pc|c5|pc|c9|pc|cA|pg||
+pc|cT|pc|c2|pc|c6|pc|cJ|pg||
+pc|d4|pc|dA|pc|d2|pc|d3|pg||
+pc|hQ|pc|s8|pc|dJ|pc|d7|pg||
+pc|dK|pc|s7|pc|dT|pc|d8|pg||
+pc|s9|pc|sJ|pc|dQ|pc|d5|pg||
+pc|sQ|pc|d9|pc|d6|pc|c8|pg||
+nt|bebechira: the redeal lags a little because BBO secure is over internet|pg||
+nt|bebechira: when on local network very fast|pg||
+nt|vugraphzam: it is not allowing me to redeal a past board|pg||
+nt|bebechira: nope|pg||
+nt|bebechira: you want to be allowed?|pg||
+nt|vugraphzam: that is fine, except if I claimed by mistake and I want to replay the board... but generally fine|pg||
+nt|bebechira: Laurie said no|pg||
+nt|bebechira: just rescore manualy...and the PLAY/auction is NOT LOST|pg||
+nt|vugraphzam: if the operators are not so good, NO and in general they might not be|pg||
+nt|vugraphzam: it could be an option settable in bbover.ini... but I think it is too late to change it|pg||
+nt|vugraphzam: I'm testing this|pg||
+nt|bebechira: what do you mean?|pg||
+nt|bebechira: ah testing a rescore lol|pg||
+nt|vugraphzam: done and play kept|pg||
+pg||
+qx|o3|st||md|1SJ8HKQD53CAKJ9732,SQT97HT632DAJ74C4,SAKHA75DKT862CT65,S65432HJ984DQ9CQ8|sv|e|mb|1C|mb|p|nt|bebechira: on your session.php scoreboard you can see all the info board, auction.play just hovering the mouse on green buttons|pg||
+mb|1D|mb|p|mb|3C|mb|p|nt|bebechira: so the director can see all what is happening without loggin in bbo|pg||
+mb|4C|mb|p|mb|4H|mb|p|nt|bebechira: i will improve it..this new version i wrote it in a hurry for canberra|pg||
+nt|vugraphzam: you did well|pg||
+mb|4S|nt|bebechira: i designed a 'capcom" like apollo interface where ALL comunications are recordded in the database|pg||
+mb|p|mb|5C|mb|p|nt|bebechira: so we can see all the comunications between the hand server and the clients|pg||
+mb|p|mb|p|nt|bebechira: no more redeal bug now :)|pg||
+pc|sT|pc|sK|pc|s2|pc|s8|pg||
+pc|c5|pc|c8|pc|cA|pc|c4|pg||
+mc|12|nt|bebechira: i cen see you rscore brd 2|pg||
+nt|vugraphzam: twice|pg||
+nt|vugraphzam: the first time using wrong format|pg||
+nt|bebechira: this is what the specators see http://livebridge.net/bbo/abf/2016sfb-results.php|pg||
+nt|bebechira: when they hover over the green buttons they can see austion/play|pg||
+nt|vugraphzam: isn't it the same as the other window?|pg||
+nt|bebechira: no|pg||
+nt|bebechira: they do not have acces to the delivery times|pg||
+nt|bebechira: only one dot..not 2|pg||
+nt|vugraphzam: i see|pg||
+nt|bebechira: directors do not need match scores|pg||
+nt|bebechira: spectators have them|pg||
+nt|bebechira: including carry forwards|pg||
+nt|bebechira: totally different interfaces|pg||
+nt|bebechira: are you satisfied ?|pg||
+nt|vugraphzam: ok, traian.. should I test something else?|pg||
+nt|bebechira: all good for you?|pg||
+nt|vugraphzam: It is good, no more board not allowed :)|pg||
+nt|vugraphzam: did you talk with Fotis?|pg||
+nt|bebechira: many many many thanks for help|pg||
+nt|bebechira: i gave him traian.exe|pg||
+nt|vugraphzam: good|pg||
+nt|bebechira: but not about the new version|pg||
+nt|bebechira: i will show to him in Monaco|pg||
+nt|vugraphzam: okok ... if he knows you solved the problem it is enough|pg||
+nt|vugraphzam: I will not be there :(|pg||
+nt|bebechira: oh yes..af course he knows|pg||
+nt|bebechira: and we will fix other things in the exe version for budapest|pg||
+nt|bebechira: not to use txt files anymore|pg||
+nt|bebechira: for players profiles|pg||
+nt|bebechira: to send them via xml|pg||
+nt|bebechira: Fred did not have time now|pg||
+nt|vugraphzam: remember (if possible) to add the bottons to swap EW and NS|pg||
+nt|bebechira: for pairs ...i know|pg||
+nt|bebechira: i already told him|pg||
+nt|vugraphzam: good|pg||
+nt|bebechira: but he is busy with his project at the moment|pg||
+nt|vugraphzam: your livescore well fits with pairs (if barometer in particular)|pg||
+nt|bebechira: yes...it is very handy..but my hands are tied ...waiting for fred|pg||
+nt|vugraphzam: start working on the pairs version :)|pg||
+nt|bebechira: to fix the redeal bug i had to design this version for him to see the bug|pg||
+nt|vugraphzam: hehe|pg||
+nt|bebechira: Fotis could have done that years ago|pg||
+nt|vugraphzam: it took how many? 5 years?|pg||
+nt|vugraphzam: ;P|pg||
+nt|bebechira: well..if fotis would have written an test online version.......|pg||
+nt|bebechira: he could have seen the problem immediately|pg||
+nt|vugraphzam: you know how Fotis is|pg||
+nt|bebechira: lucky i started BBO secure in Australia lol|pg||
+nt|bebechira: and I had to write a new version|pg||
+nt|bebechira: and I told Fred HE MUST FIX it|pg||
+nt|vugraphzam: ok sir... I have to finalize my lecture for the TD course|pg||
+nt|vugraphzam: need to work :)|pg||
+nt|bebechira: anyway..i do not think Fotis will use my version lol|pg||
+nt|bebechira: many thanks Manolo..speak to you soon :)|pg||
+nt|vugraphzam: who knows, I hope he will|pg||
+nt|vugraphzam: sure and thank you for your great job!!|pg||
+nt|bebechira: bye now|pg||
+nt|vugraphzam: bye dear|pg||
+pg||

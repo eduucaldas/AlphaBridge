@@ -1,0 +1,306 @@
+vg|BBO4-2017WBTC,VC-F4,I,17,32,ENGLAND,73,CHINA,115|
+rs|3HW+1,5HW-1,4SW=,4SW=,4HN+1,3SE-1,5DW+1,3NE-1,5DE+1,5DE+1,4SS-1,4SS=,6DS+1,6DS+1,2CS-4,1NN=,4NS+2,4NN+1,2NW=,1NE+1,3NS=,3NS-1,5HN-1,5SWx-3,1NS+2,2HW-1,4SE-1,3NE-1,2DW+3,2HW-1,5DS-2,5DS-2|
+pn|SMITH,Y HUANG,DRAPER,N WANG,Q SHEN,BROCK,W WANG,F BROWN|pg||
+qx|o17|st||md|3SAT32HK74D854CA65,SQJHAQT92DJ3CK983,SK8764H3DQ92CQJT2,S95HJ865DAKT76C74|sv|o|mb|p|mb|p|mb|1C|mb|1H|mb|1S|mb|3D!|an|D+H|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|cQ|pc|c4|pc|cA|pc|c3|pg||
+pc|sA|pc|sQ|pc|s7|pc|s5|pg||
+pc|s2|pc|sJ|pc|sK|pc|s9|pg||
+pc|s4|pc|h5|pc|s3|pc|c8|pg||
+pc|h8|pc|h4|pc|h2|pc|h3|pg||
+pc|h6|pc|h7|pc|h9|pc|s6|pg||
+pc|cK|pc|c2|pc|c7|pc|c5|pg||
+pc|c9|pc|cT|pc|hJ|pc|c6|pg||
+mc|10|pg||
+qx|c17|st||md|3SAT32HK74D854CA65,SQJHAQT92DJ3CK983,SK8764H3DQ92CQJT2,S95HJ865DAKT76C74|sv|o|mb|p|mb|p|mb|1S|mb|2H|mb|4S|mb|5D|mb|p|mb|5H|mb|p|mb|p|mb|p|pc|s4|pc|s5|pc|sA|pc|sQ|pg||
+pc|cA|pc|c9|pc|cQ|pc|c4|pg||
+pc|s2|pc|sJ|pc|sK|pc|s9|pg||
+pc|cT|pc|c7|pc|c5|pc|cK|pg||
+pc|dJ|pc|d2|pc|dA|pc|d4|pg||
+pc|h8|pc|h4|pc|h2|pc|h3|pg||
+pc|h6|pc|h7|pc|h9|mc|10|pg||
+qx|o18|st||md|4S94H754DK963CK765,SAJT8HJT932DQCAQ8,SK3HKQ6DAT8542C42,SQ7652HA8DJ7CJT93|sv|n|mb|p|mb|p|mb|1H|mb|2D|mb|d|mb|3D|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dA|pc|d7|pc|d6|pc|dQ|pg||
+pc|d2|pc|dJ|pc|dK|pc|s8|pg||
+pc|h3|pc|h6|pc|hA|pc|h4|pg||
+pc|s2|pc|s4|pc|sJ|pc|sK|pg||
+pc|hK|pc|h8|pc|h5|pc|h2|pg||
+pc|c4|pc|cJ|pc|cK|pc|cA|pg||
+pc|sA|pc|s3|pc|s5|pc|s9|pg||
+mc|10|pg||
+qx|c18|st||md|4S94H754DK963CK765,SAJT8HJT932DQCAQ8,SK3HKQ6DAT8542C42,SQ7652HA8DJ7CJT93|sv|n|mb|p|mb|p|mb|1H|mb|2D|mb|d|mb|3D|mb|4S|mb|p|mb|p|mb|p|pc|dA|pc|d7|pc|d9|pc|dQ|pg||
+pc|d8|pc|dJ|pc|dK|pc|s8|pg||
+pc|h2|pc|hQ|pc|hA|pc|h4|pg||
+pc|s2|pc|s4|pc|sJ|pc|sK|pg||
+pc|hK|pc|h8|pc|h5|pc|h3|pg||
+pc|h6|pc|sQ|pc|h7|pc|h9|pg||
+pc|c3|pc|c6|pc|cQ|pc|c2|pg||
+pc|cA|pc|c4|pc|c9|pc|c5|pg||
+mc|10|pg||
+qx|o19|st||md|1SA92HK42DAT4CT642,SKQ3HQ85DJ653CKJ9,S64HA9763DKQ872C5,SJT875HJTD9CAQ873|sv|e|mb|1C!|mb|p|mb|1D!|an|H|mb|1S|mb|d|an|3 cards H|mb|r|mb|4H|mb|p|mb|p|mb|p|pc|d9|pc|dT|pc|dJ|pc|dK|pg||
+pc|h3|pc|hT|pc|hK|pc|h5|pg||
+pc|h2|pc|h8|pc|hA|pc|hJ|pg||
+pc|d2|pc|s5|pc|dA|pc|d3|pg||
+pc|d4|pc|d5|pc|dQ|pc|c7|pg||
+pc|d8|pc|s7|pc|s2|pc|d6|pg||
+pc|d7|pc|c3|pc|s9|pc|s3|pg||
+pc|c5|pc|c8|pc|c2|pc|c9|pg||
+pc|hQ|pc|h6|pc|s8|pc|h4|pg||
+mc|11|pg||
+qx|c19|st||md|1SA92HK42DAT4CT642,SKQ3HQ85DJ653CKJ9,S64HA9763DKQ872C5,SJT875HJTD9CAQ873|sv|e|mb|1D!|mb|p|mb|1H|mb|1S|mb|p|mb|2H!|mb|3D|mb|3S|mb|p|mb|p|mb|p|pc|dA|pc|d3|pc|d8|pc|d9|pg||
+pc|dT|pc|d5|pc|dQ|pc|s5|pg||
+pc|s7|pc|s2|pc|sK|pc|s6|pg||
+pc|cK|pc|c5|pc|c3|pc|c4|pg||
+pc|cJ|pc|s4|pc|c7|pc|c2|pg||
+pc|h3|pc|hJ|pc|hK|pc|h5|pg||
+pc|h4|pc|h8|pc|hA|pc|hT|pg||
+pc|h9|pc|sT|pc|h2|pc|hQ|pg||
+pc|cA|pc|c6|pc|c9|pc|h6|pg||
+pc|cQ|pc|cT|pc|d6|pc|d2|pg||
+mc|8|pg||
+qx|o20|st||md|2S8432HA97D5CAJT76,SK976HJT8DAQT982C,ST5HK6432D74CK942,SAQJHQ5DKJ63CQ853|sv|b|mb|1D|mb|p|mb|2D!|an|10+|mb|p|mb|2S!|mb|p|mb|2N!|mb|p|mb|3D|an|a|mb|p|mb|3H!|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|d4|pc|d3|pc|d5|pc|d9|pg||
+pc|d8|pc|d7|pc|dJ|pc|c6|pg||
+mc|12|pg||
+qx|c20|st||md|2S8432HA97D5CAJT76,SK976HJT8DAQT982C,ST5HK6432D74CK942,SAQJHQ5DKJ63CQ853|sv|b|mb|1D|mb|p|mb|2N!|mb|p|mb|3C!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cT|pc|s6|pc|cK|pc|c5|pg||
+pc|c9|pc|cQ|pc|cA|pc|s7|pg||
+pc|cJ|pc|s9|pc|c4|pc|c3|pg||
+pc|hA|pc|h8|pc|h2|pc|h5|pg||
+pc|h7|pc|hT|pc|hK|pc|hQ|pg||
+mc|8|pg||
+qx|o21|st||md|3SAK8752HQ4DTCQ532,SHAJ532DKQJ875CK6,ST943HK8D963CJ974,SQJ6HT976DA42CAT8|sv|n|mb|p|mb|1D|mb|2S|mb|4S!|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|sK|pc|d5|pc|sT|pc|s6|pg||
+pc|dK|pc|d3|pc|d2|pc|dT|pg||
+pc|d7|pc|d6|pc|dA|pc|s2|pg||
+pc|d4|pc|s5|pc|dQ|pc|d9|pg||
+pc|hA|pc|h8|pc|h6|pc|h4|pg||
+pc|h2|pc|hK|pc|h7|pc|hQ|pg||
+mc|12|pg||
+qx|c21|st||md|3SAK8752HQ4DTCQ532,SHAJ532DKQJ875CK6,ST943HK8D963CJ974,SQJ6HT976DA42CAT8|sv|n|mb|p|mb|1C!|mb|1S|mb|2C!|mb|2S|mb|3D|mb|3S|mb|4S|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|sA|pc|d5|pc|s4|pc|s6|pg||
+pc|dK|pc|d3|pc|d2|pc|dT|pg||
+pc|dQ|pc|d6|pc|d4|pc|s5|pg||
+pc|d7|pc|d9|pc|dA|pc|s2|pg||
+mc|12|pg||
+qx|o22|st||md|4SAK83H95DAQ63CQT5,S9762HQJDT742CA76,SQJT5HA73DK8CJ843,S4HKT8642DJ95CK92|sv|e|mb|2H|mb|d|mb|p|mb|2N!|mb|p|mb|3C!|mb|p|mb|3H|an|a|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|nt|ferlema: 5th World Youth Open Championships http://youth.worldbridge.org/wbtc-lyon-2017-august-24th/|pg||
+pc|hA|pc|h8|pc|h5|pg||
+pc|s5|pc|s4|pc|sA|pc|s2|pg||
+pc|s3|pc|s6|pc|sT|pc|h2|pg||
+pc|c3|pc|c2|pc|cT|pc|cA|pg||
+pc|s7|pc|sJ|pc|h4|pc|s8|pg||
+pc|c4|pc|cK|pc|c5|pc|c6|pg||
+pc|hK|pc|h9|pc|hJ|pc|h3|pg||
+pc|hT|pc|sK|pc|c7|pc|h7|pg||
+pc|cQ|pc|s9|pc|c8|pc|c9|pg||
+mc|9|pg||
+qx|c22|st||md|4SAK83H95DAQ63CQT5,S9762HQJDT742CA76,SQJT5HA73DK8CJ843,S4HKT8642DJ95CK92|sv|e|mb|2D!|mb|d|mb|3H!|mb|d|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|h3|pc|h2|pc|h5|pg||
+pc|hJ|pc|hA|pc|h4|pc|h9|pg||
+pc|sQ|pc|s4|pc|s3|pc|s2|pg||
+pc|s5|pc|h8|pc|sA|pc|s6|pg||
+pc|cT|pc|c6|pc|c3|pc|cK|pg||
+pc|dJ|pc|d3|pc|d7|pc|dK|pg||
+pc|h7|pc|hT|pc|sK|mc|10|pg||
+qx|o23|st||md|1SK52HJ7DAKQT876CJ,ST973HKQTD2CKQ873,SAQJ84HA842DJ94CT,S6H9653D53CA96542|sv|b|mb|1D|mb|p|mb|1S|mb|p|mb|3D|mb|p|mb|4C!|mb|p|mb|4S|mb|p|mb|6D|mb|p|mb|p|mb|p|pc|hK|pc|hA|pc|h5|pc|h7|pg||
+pc|d4|pc|d3|pc|dA|pc|d2|pg||
+pc|dK|pc|c3|pc|d9|pc|d5|pg||
+pc|sK|pc|s3|pc|s4|pc|s6|pg||
+mc|13|pg||
+qx|c23|st||md|1SK52HJ7DAKQT876CJ,ST973HKQTD2CKQ873,SAQJ84HA842DJ94CT,S6H9653D53CA96542|sv|b|mb|1D!|mb|p|mb|1S|mb|p|mb|2N!|mb|p|mb|3S!|mb|p|mb|4C!|mb|p|mb|4H!|mb|p|mb|6D|mb|p|mb|p|mb|p|pc|hK|pc|hA|pc|h6|pc|h7|pg||
+pc|d4|pc|d3|pc|dA|pc|d2|pg||
+pc|dK|mc|13|pg||
+qx|o24|st||md|2ST42H8653DJT87C94,SQ65HAQ94DA95CQ83,SAJ3HKJTDK432CAJ2,SK987H72DQ6CKT765|sv|o|mb|1N|an|13\15|mb|d|mb|p|mb|2C|mb|p|mb|p|mb|p|nt|ferlema: 5th World Youth Open Championships http://youth.worldbridge.org/wbtc-lyon-2017-august-24th/|pg||
+pc|s5|pc|s3|pc|s9|pc|sT|pg||
+pc|h6|pc|h4|pc|hT|pc|h7|pg||
+pc|sA|pc|s7|pc|s2|pc|s6|pg||
+pc|sJ|pc|s8|pc|s4|pc|sQ|pg||
+pc|hA|pc|hJ|pc|h2|pc|h5|pg||
+pc|h9|pc|hK|pc|c5|pc|h3|pg||
+pc|c6|pc|c4|pc|cQ|pc|cA|pg||
+pc|d2|pc|dQ|pc|d7|pc|d5|pg||
+pc|d6|pc|d8|pc|dA|pc|d3|pg||
+pc|hQ|pc|d4|pc|sK|pc|h8|pg||
+pc|c3|pc|c2|pc|cT|pc|c9|pg||
+pc|cK|mc|4|pg||
+qx|c24|st||md|2ST42H8653DJT87C94,SQ65HAQ94DA95CQ83,SAJ3HKJTDK432CAJ2,SK987H72DQ6CKT765|sv|o|mb|1C!|mb|1N|mb|p|mb|p|mb|p|pc|c6|pc|c9|pc|cQ|pc|cA|pg||
+pc|dK|pc|d6|pc|d7|pc|d5|pg||
+pc|d4|pc|dQ|pc|d8|pc|d9|pg||
+pc|s9|pc|s2|pc|s5|pc|sJ|pg||
+pc|d3|pc|s7|pc|dT|pc|dA|pg||
+pc|h4|pc|hJ|pc|h7|pc|h3|pg||
+pc|d2|pc|c5|pc|dJ|pc|c3|pg||
+pc|h5|mc|7|pg||
+qx|o25|st||md|3SK2HAQJ92D42CKJ74,S87HKT5DQ97CAQ963,SAQJ53H3DAKJ853C8,ST964H8764DT6CT52|sv|e|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|an|a|mb|d|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|4N|mb|p|mb|p|mb|p|pc|s8|pc|s3|pc|s6|pc|sK|pg||
+pc|d2|pc|d7|pc|dJ|pc|d6|pg||
+pc|dA|pc|dT|pc|d4|pc|d9|pg||
+pc|dK|pc|h8|pc|h2|pc|dQ|pg||
+pc|d3|pc|h7|pc|h9|pc|c3|pg||
+pc|d5|pc|s9|pc|c4|pc|c6|pg||
+pc|d8|pc|h4|pc|hJ|pc|c9|pg||
+pc|sA|pc|s4|pc|s2|pc|s7|pg||
+pc|sQ|pc|sT|pc|c7|pc|h5|pg||
+pc|sJ|pc|c2|pc|cJ|pc|cQ|pg||
+pc|s5|pc|c5|pc|cK|pc|cA|pg||
+pc|h3|pc|h6|pc|hA|pc|hT|pg||
+pc|hQ|pc|hK|pc|c8|pc|cT|pg||
+pg||
+qx|c25|st||md|3SK2HAQJ92D42CKJ74,S87HKT5DQ97CAQ963,SAQJ53H3DAKJ853C8,ST964H8764DT6CT52|sv|e|nt|ferlema: 5th World Youth Open Championships http://youth.worldbridge.org/wbtc-lyon-2017-august-24th/|pg||
+mb|1C!|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|4N!|mb|p|mb|p|mb|p|pc|cT|pc|cJ|pc|cQ|pc|c8|pg||
+pc|s8|pc|s5|pc|s9|pc|sK|pg||
+pc|d2|pc|d9|pc|dA|pc|d6|pg||
+pc|dK|pc|dT|pc|d4|pc|d7|pg||
+pc|dJ|pc|c5|pc|h2|pc|dQ|pg||
+pc|s7|pc|sA|pc|s4|pc|s2|pg||
+mc|11|pg||
+qx|o26|st||md|4SK94HAT742DQ75CJ2,SA6H963DAKJC98653,SJT52HKJ5DT983CQ7,SQ873HQ8D642CAKT4|sv|b|mb|1D|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|s5|pc|sQ|pc|sK|pc|sA|pg||
+pc|c3|pc|c7|pc|cA|pc|c2|pg||
+pc|cK|pc|cJ|pc|c5|pc|cQ|pg||
+pc|cT|pc|h2|pc|c6|pc|h5|pg||
+pc|c4|pc|h4|pc|c8|pc|d3|pg||
+pc|c9|pc|d8|pc|d2|pc|h7|pg||
+mc|8|pg||
+qx|c26|st||md|4SK94HAT742DQ75CJ2,SA6H963DAKJC98653,SJT52HKJ5DT983CQ7,SQ873HQ8D642CAKT4|sv|b|mb|p|mb|p|mb|1C!|mb|p|mb|1H!|mb|d|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h4|pc|h3|pc|hK|pc|h8|pg||
+pc|hJ|pc|hQ|pc|hA|pc|h6|pg||
+pc|hT|pc|h9|pc|h5|pc|s3|pg||
+pc|h7|pc|dJ|pc|dT|pc|d2|pg||
+pc|h2|pc|s6|pc|s2|pc|d4|pg||
+pc|s4|pc|sA|pc|sT|pc|s7|pg||
+mc|8|pg||
+qx|o27|st||md|1SKT6HAKJTDQ3CJ863,SJ983HQ8762D862CT,SA5H4DJT954CAQ742,SQ742H953DAK7CK95|sv|o|mb|1C|an|a|mb|p|mb|1S!|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h6|pc|h4|pc|h9|pc|hJ|pg||
+pc|c3|pc|cT|pc|cQ|pc|cK|pg||
+pc|h5|pc|hA|pc|h2|pc|d4|pg||
+pc|cJ|pc|d6|pc|c2|pc|c5|pg||
+pc|c8|pc|d8|pc|cA|pc|c9|pg||
+pc|c7|pc|d7|pc|c6|pc|d2|pg||
+pc|c4|pc|s2|pc|s6|pc|h7|pg||
+pc|d5|pc|dK|pc|d3|pc|s8|pg||
+pc|h3|pc|hK|pc|h8|pc|d9|pg||
+pc|sK|pc|s3|pc|s5|pc|s4|pg||
+pc|sT|pc|s9|pc|sA|pc|s7|pg||
+mc|9|pg||
+qx|c27|st||md|1SKT6HAKJTDQ3CJ863,SJ983HQ8762D862CT,SA5H4DJT954CAQ742,SQ742H953DAK7CK95|sv|o|mb|1N|mb|p|mb|2S!|mb|p|mb|2N!|mb|p|mb|3H!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s9|nt|ferlema: 5th World Youth Open Championships http://youth.worldbridge.org/wbtc-lyon-2017-august-24th/|pg||
+pc|s5|pc|sQ|pc|s6|pg||
+pc|s2|pc|sT|pc|s3|pc|sA|pg||
+pc|d4|pc|dA|pc|d3|pc|d2|pg||
+pc|s7|pc|sK|pc|sJ|pc|d5|pg||
+pc|c3|pc|cT|pc|cQ|pc|cK|pg||
+pc|dK|pc|dQ|pc|d6|pc|d9|pg||
+mc|8|pg||
+qx|o28|st||md|2S6H842DKT973CAK64,SAQJT73HJ3DQ8CQ85,S5HAQT65DA64CJT97,SK9842HK97DJ52C32|sv|n|mb|1S|mb|2H|mb|4S|mb|5H|mb|p|mb|p|mb|p|pc|s2|pc|s6|nt|yorkbeach:  hello everyone|pg||
+pc|sA|pc|s5|pg||
+nt|yorkbeach:  a good example of 'the five level belongs to the opponents'|pg||
+pc|c5|pc|cJ|pc|c3|pc|c4|pg||
+pc|d4|pc|d2|pc|dK|pc|d8|pg||
+pc|h2|pc|h3|pc|hT|pc|hK|pg||
+pc|c2|pc|cA|pc|c8|pc|c7|pg||
+pc|h4|pc|hJ|pc|hA|pc|h7|pg||
+pc|hQ|pc|h9|pc|h8|pc|s3|pg||
+pc|h6|pc|s4|pc|d3|pc|s7|pg||
+pc|c9|pc|s8|pc|cK|pc|cQ|pg||
+pc|c6|pc|sT|pc|cT|pc|s9|pg||
+pc|h5|pc|sK|pc|d7|pc|sQ|pg||
+pc|dA|pc|d5|pc|d9|pc|dQ|pg||
+pc|d6|pc|dJ|pc|dT|pc|sJ|pg||
+pg||
+qx|c28|st||md|2S6H842DKT973CAK64,SAQJT73HJ3DQ8CQ85,S5HAQT65DA64CJT97,SK9842HK97DJ52C32|sv|n|mb|2S|mb|d|mb|4S|mb|4N!|mb|p|mb|5C|mb|5S|mb|d|mb|p|mb|p|mb|p|pc|cJ|pc|c3|pc|cK|pc|c5|pg||
+pc|cA|pc|c8|pc|cT|pc|c2|pg||
+pc|h8|pc|h3|pc|hA|pc|h7|pg||
+pc|c7|pc|d2|pc|c4|pc|cQ|pg||
+pc|sA|pc|s5|pc|s2|pc|s6|pg||
+pc|hJ|pc|hQ|pc|hK|pc|h2|pg||
+mc|8|pg||
+qx|o29|st||md|3SQJ95HQT94DA985CJ,SK874HA62DKQ3CK96,SAT62HJDT76CAQT82,S3HK8753DJ42C7543|sv|b|mb|1C!|mb|p|mb|1D!|nt|yorkbeach:  1@d = 4+@h|pg||
+mb|d|an|a|nt|yorkbeach:  we will not have the same contract as the other room|pg||
+mb|p|mb|p|nt|yorkbeach:  North's pass presumably denies 3@h but would have expected 1@s|pg||
+nt|yorkbeach:  holding 4@d, South tempted to pass this out |pg||
+mb|1N|mb|p|mb|p|mb|p|pc|dK|pc|d6|pc|d2|pc|d5|pg||
+pc|dQ|pc|d7|pc|d4|nt|yorkbeach:  an easy make but 1@d X with a couple of overtricks would have scored better. If North does not have enough spades to bid 1@s, not enough hearts to bid 1@h and not enough clubs to bid 2@c, she must have a few diamonds - too late now...|pg||
+pc|d9|pg||
+pc|d3|pc|dT|pc|dJ|pc|dA|pg||
+pc|d8|pc|s4|pc|c2|pc|h5|pg||
+pc|sQ|pc|sK|pc|sA|pc|s3|pg||
+pc|s2|pc|h3|pc|sJ|pc|s7|pg||
+pc|cJ|pc|c6|pc|c8|pc|c3|pg||
+pc|h4|pc|h2|pc|hJ|pc|hK|pg||
+pc|h8|pc|h9|pc|hA|pc|cT|pg||
+mc|9|pg||
+qx|c29|st||md|3SQJ95HQT94DA985CJ,SK874HA62DKQ3CK96,SAT62HJDT76CAQT82,S3HK8753DJ42C7543|sv|b|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|d6|pc|d2|pc|dA|pc|dK|pg||
+pc|sQ|pc|s4|pc|s6|pc|s3|pg||
+pc|sJ|pc|s7|pc|s2|pc|h3|pg||
+pc|c3|pc|cJ|pc|c6|pc|c2|pg||
+pc|s9|pc|s8|pc|sT|pc|h5|pg||
+pc|dJ|pc|d5|pc|d3|pc|d7|pg||
+pc|d4|pc|d8|pc|dQ|pc|dT|pg||
+pc|sK|pc|sA|pc|h7|pc|s5|pg||
+pc|hK|pc|h4|pc|h2|pc|hJ|pg||
+pc|h8|pc|h9|mc|7|pg||
+qx|o30|st||md|4S52HAKJ76D76CQ432,SAK6HT43DKT2CT965,S9843H852DQ94CJ87,SQJT7HQ9DAJ853CAK|sv|o|mb|1C!|mb|d|mb|1H!|nt|yorkbeach:  strong club system EW http://www.ecatsbridgenews.com/wbfsystems/VeniceCup/China/HuangYan-WanNan.pdf|pg||
+mb|p|nt|yorkbeach:  South's X shows @h|pg||
+mb|2D|mb|p|mb|3D|mb|p|mb|3S|mb|p|nt|yorkbeach:  http://www.ecatsbridgenews.com/wbfsystems/VeniceCup/England/Draper-Smith.pdf|pg||
+mb|4S|mb|p|mb|p|mb|p|nt|yorkbeach:  3NT would need hearts 4-4 (unlikely) or a blockage (if North holds the @hj)|pg||
+pc|hK|pc|h3|pc|h2|pc|h9|pg||
+pc|hA|pc|h4|pc|h5|pc|hQ|pg||
+pc|hJ|pc|hT|pc|h8|pc|d3|pg||
+nt|yorkbeach:  declarer is keen to maintain trump control so discards a @d|pg||
+nt|yorkbeach:  will need to guess who has the @dQ|pg||
+pc|h7|pc|sA|pc|c7|pc|d5|pg||
+pc|sK|pc|s3|pc|s7|pc|s2|pg||
+pc|s6|nt|yorkbeach:  as South's X of 1@c showed hearts, declarer will read hearts as 5-3|pg||
+pc|s8|pc|sQ|pc|s5|pg||
+pc|sT|pc|h6|pc|c5|pc|s4|pg||
+pc|sJ|nt|yorkbeach:  but spades 4-2 will leave the defenders with an equal number of crads in the minors|pg||
+pc|c2|pc|d2|pc|s9|pg||
+pc|cA|pc|c3|pc|c6|pc|c8|pg||
+nt|yorkbeach:  decision time|pg||
+nt|yorkbeach:  would seem to be a 50-50 guess|pg||
+nt|yorkbeach:  South could be 2-5-3-3 or 2-5-2-4|pg||
+pc|d8|pc|d6|pc|dT|pc|dQ|pg||
+mc|9|pg||
+qx|c30|st||md|4S52HAKJ76D76CQ432,SAK6HT43DKT2CT965,S9843H852DQ94CJ87,SQJT7HQ9DAJ853CAK|sv|o|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|h8|pc|h9|pg||
+pc|hK|pc|h4|pc|h5|pc|hQ|pg||
+pc|hJ|pc|hT|pc|h2|pc|d3|pg||
+pc|h7|mc|8|pg||
+qx|o31|st||md|1SKQ63HA3D93C87542,SA2HJT8762DQ762CK,SJ84HKQ954DJT4CA6,ST975HDAK85CQJT93|sv|n|nt|yorkbeach:  give South some credit for realising the @d were not worthless|pg||
+mb|p|mb|p|mb|1H|mb|d|mb|1S|mb|2D!|mb|p|mb|p|mb|p|pc|s4|pc|s5|pc|sQ|pc|sA|pg||
+pc|cK|pc|cA|pc|c3|pc|c2|pg||
+pc|sJ|pc|s7|pc|s3|pc|s2|pg||
+pc|c6|pc|c9|pc|c4|pc|h2|pg||
+pc|s9|pc|s6|pc|d7|pc|s8|pg||
+pc|dQ|pc|d4|pc|d5|mc|11|pg||
+qx|c31|st||md|1SKQ63HA3D93C87542,SA2HJT8762DQ762CK,SJ84HKQ954DJT4CA6,ST975HDAK85CQJT93|sv|n|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|cA|pc|c3|pc|c2|pc|cK|pg||
+pc|s4|pc|s5|pc|sQ|pc|sA|pg||
+pc|d2|pc|d4|pc|dA|pc|d3|pg||
+pc|c9|pc|c4|pc|s2|pc|c6|pg||
+pc|s7|pc|s3|pc|h2|pc|s8|pg||
+pc|h6|pc|h4|pc|d5|pc|hA|pg||
+pc|c5|pc|h7|pc|h9|pc|cT|pg||
+pc|dJ|pc|d8|pc|d9|pc|dQ|pg||
+pc|h8|pc|hQ|pc|s9|pc|h3|pg||
+mc|7|pg||
+qx|o32|st||md|2S5HJ4DKQ9874CKJ83,S82HQ765DAJTCQT72,SAQJ43HAKT9D632C9,SKT976H832D5CA654|sv|e|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|nt|yorkbeach:  3@d from North bidding out shape |pg||
+mb|p|mb|3D|nt|yorkbeach:  from North|pg||
+mb|p|mb|5D|mb|p|mb|p|mb|p|pc|c2|pc|c9|pc|cA|pc|c3|pg||
+nt|yorkbeach:  at the end of this et, there will be 2 more 16 board sets to go|pg||
+nt|yorkbeach:  same in d'Orsi|pg||
+pc|d5|pc|dK|pc|dA|pc|d2|pg||
+nt|yorkbeach:  but 2 sets tomorrow as well in Bermuda Bowl|pg||
+pc|dJ|pc|d3|pc|h2|pc|dQ|pg||
+pc|c8|pc|c7|pc|d6|pc|c4|pg||
+pc|hA|pc|h3|pc|h4|pc|h5|pg||
+pc|hK|pc|h8|pc|hJ|pc|h6|pg||
+pc|h9|pc|c5|pc|d4|pc|h7|pg||
+pc|d9|pc|dT|pc|s3|nt|yorkbeach:  a kibitzer has pointed out that declarer might have done better to ruff the 3rd @h on board 30 |pg||
+pc|s7|pg||
+pc|hQ|pc|hT|pc|s6|pc|d7|pg||
+nt|yorkbeach:  when South unable to overruff the 3rd @c, home without guessing the !|pg||
+pc|d8|nt|yorkbeach:  @d|pg||
+pc|s8|pc|s4|pc|s9|pg||
+pc|cK|pc|cT|pc|sJ|pc|c6|pg||
+pc|s5|pc|s2|pc|sA|pc|sT|pg||
+pc|sQ|pc|sK|pc|cJ|pc|cQ|pg||
+nt|yorkbeach:  thanks to our operator and thanks all fro watching|pg||
+pg||
+qx|c32|st||md|2S5HJ4DKQ9874CKJ83,S82HQ765DAJTCQT72,SAQJ43HAKT9D632C9,SKT976H832D5CA654|sv|e|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|h5|pc|hA|pc|h2|pc|hJ|pg||
+pc|c9|pc|cA|pc|c3|pc|c7|pg||
+pc|d5|pc|dK|pc|dA|pc|d2|pg||
+pc|dJ|pc|d3|pc|h3|pc|dQ|pg||
+pc|c8|pc|c2|pc|d6|pc|c4|pg||
+pc|hK|pc|h8|pc|h4|pc|h6|pg||
+pc|hT|pc|sT|pc|d4|pc|h7|pg||
+pc|d7|pc|dT|pc|s3|pc|s6|pg||
+pc|s2|pc|sA|pc|s7|pc|s5|pg||
+pc|h9|pc|s9|pc|d8|pc|hQ|pg||
+mc|9|pg||

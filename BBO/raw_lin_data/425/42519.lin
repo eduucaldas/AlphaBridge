@@ -1,0 +1,24 @@
+vg|Testing,Segment,I,13,24,Team A,12,Team B,45|
+rs|PASS,3NE=,4SW+2,3NE-1,,1NS+1,,,,,,,,,,,,,,,,,,|
+pn|South,West,North,East,South,West,testN,test1|pg||
+qx|o13|st||md|3S98752H8753DA2CT9,SQJT4HAJ9D987C842,SK6HT4DKQ53CJ7653|sv|b|mb|p|mb|p|mb|p|mb|p|pg||
+qx|c13|st||md|3S98752H8753DA2CT9,SQJT4HAJ9D987C842,SK6HT4DKQ53CJ7653|sv|b|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s2|mc|9|pg||
+qx|o14|st||md|4S64HA765DQJT53CT6,SA875H8DA7CAQ9754,SK32HJT93D986CK83|sv|o|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hJ|pc|hQ|pc|hA|pc|h8|pg||
+pc|dQ|pc|dA|pc|d6|pc|d2|pg||
+pc|d7|pc|d8|pc|dK|pc|d3|pg||
+mc|12|pg||
+qx|c14|st||md|4S64HA765DQJT53CT6,SA875H8DA7CAQ9754,SK32HJT93D986CK83|sv|o|mb|1D|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dQ|pc|d7|pc|d6|pc|dK|pg||
+pc|cJ|pc|c6|pc|c4|pc|cK|pg||
+pc|d9|pc|d2|pc|d3|pc|dA|pg||
+pc|cA|pc|c3|pc|c2|pc|cT|pg||
+pc|cQ|pc|c8|pc|h2|pc|s4|pg||
+pc|c5|pc|s3|pc|d4|pc|h5|pg||
+pc|c7|pc|h3|pc|h4|pc|h7|pg||
+pc|c9|pc|h9|pc|s9|pc|h6|pg||
+pc|h8|pc|hT|pc|hQ|pc|hA|pg||
+pc|dJ|pc|s5|pc|d8|pc|sT|pg||
+pc|d5|pc|s7|pc|hJ|pc|sJ|pg||
+pc|dT|pc|s8|pc|s2|pc|sQ|pg||
+pc|s6|pc|sA|pc|sK|pc|hK|pg||
+pg||
+qx|c15|st||md|1S4HAT5DKT9732CAT3,SHQ972DAQJ4CQ8752,SAKJ98HKJ643D5CJ9|sv|n|mb|p|mb|1D!|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|dA|mc|8|pg||

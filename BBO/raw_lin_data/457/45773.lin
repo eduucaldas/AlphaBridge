@@ -1,0 +1,74 @@
+vg|2016 EBTC,OPEN RR1,I,1,16,Team 1,0,Team 2,0|
+rs|1HN+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+pn|MARINA,WINKLER,COLDEA,KEMENY,South,West,North,East|pg||
+qx|o1|st||md|3SJ5H972DAJ65432C4,SK7432HQT84DCQT65,ST6HKJ653DT97CJ83,SAQ98HADKQ8CAK972|sv|o|mb|1H|mb|p|mb|p|mb|p|nt|bebechira: this is bbo secure|pg||
+nt|bebechira: the profiles are automatically loaded|pg||
+nt|vugraphzbc: yup|pg||
+nt|vugraphzbc: very handy|pg||
+nt|bebechira: from the lineup computer|pg||
+nt|bebechira: if you go to the websession interfave you will have the delivery times|pg||
+nt|bebechira: interface|pg||
+nt|bebechira: and if you make a lead and score the board you will have board details as well|pg||
+nt|bebechira: this is not Fotis|pg||
+nt|bebechira: this is mine|pg||
+nt|bebechira: Fotis has written his software in ASP|pg||
+nt|bebechira: so basically you just write an xml to deliver the board and make some conf=ditions of delivery and thats it|pg||
+nt|bebechira: you can score in any system you want...just make a lead and score the board and you will see what traian.exe passes to the server|pg||
+pc|sA|pc|s5|pc|s2|pc|s6|pg||
+mc|12|nt|vugraphzbc: how will I see it? :)|pg||
+nt|vugraphzbc: (sorry I was called at some point)|pg||
+nt|bebechira: np|pg||
+nt|bebechira: if you hoover over board details you can see the auction and the play|pg||
+nt|bebechira: so you can load the scores in any scoring software if you want|pg||
+nt|bebechira: http://livebridge.net/lineup/index.php|pg||
+nt|bebechira: enter password 58265|pg||
+nt|bebechira: that one is available because we had a concession|pg||
+nt|bebechira: but only to see how system works|pg||
+nt|bebechira: after lineup BBO secure inputs the correct names for the players|pg||
+nt|bebechira: my opinion ..if you change to BBO secure lets do it properly|pg||
+nt|bebechira: i can create a different ACBL database only for the acbl events where you will load the acbl players for autoprofiling|pg||
+nt|bebechira: that is because some acbls do not have wbf|pg||
+nt|bebechira: and then you just load the clients and the hands and thats it|pg||
+nt|vugraphzbc: still, the names would need to be done manualy by someone from stuff, therefore it would be inconvenient to make that many lineups, aso they are decided at different times - some ...|pg||
+nt|vugraphzbc: tables migjht be playing new round and some might have just finished playing the previous|pg||
+nt|bebechira: the XML conditions you have to discuss with thechief td|pg||
+nt|bebechira: for example in Australia the chief TD wanted different conditions for delivery as WBF/EBL|pg||
+nt|bebechira: in Australia we redeal not in order down but not up|pg||
+nt|bebechira: try to redeal brd 3|pg||
+nt|vugraphzbc: yeah, I remember how you explained to me different settings|pg||
+nt|bebechira: i think you have to make a plan if you want to implement...it took me 3-4 months of development for ABF|pg||
+nt|bebechira: but now they have it and we can use it always |pg||
+nt|vugraphzbc: I don't think I'd be able to introduce the lineup system, so that a no-go at least this year|pg||
+nt|vugraphzbc: and I'd be surprised if they went for all the tables|pg||
+nt|vugraphzbc: but I think that they might go for testing it on one or two tables, but it's only my guess|pg||
+nt|vugraphzbc: it for sure makes less trouble with the boards and the operator can't discolse the boards to his, or any other plyers|pg||
+nt|bebechira: is Jan Martel the coordinator or You|pg||
+nt|vugraphzbc: which is safer indeed|pg||
+nt|bebechira: you have to make some discipline rules|pg||
+nt|vugraphzbc: meaning what rules? :)|pg||
+nt|bebechira: the operators will not be able to redeal boards which are not in order and so on|pg||
+nt|bebechira: this was the flags software for canberra http://livebridge.net/bbo/abf/2016sfb-lineup.php|pg||
+nt|bebechira: you remember the flags in Budapest?|pg||
+nt|vugraphzbc: i do|pg||
+nt|bebechira: if you click on the flags you will have the flags for the tables|pg||
+nt|bebechira: it is designed as a whole system :)|pg||
+nt|bebechira: in ABF we dont have booths either ...but we put the flags on each side of the screen|pg||
+nt|bebechira: like this the director can check if the correct players in the correct positions|pg||
+nt|bebechira: i think if you want just a session than very easy to setup|pg||
+nt|bebechira: with all the info input manually|pg||
+nt|bebechira: i will built an interface for you to laod the hands and thats it|pg||
+nt|bebechira: and to activate the sessions|pg||
+nt|vugraphzbc: well, if that's only a matter of uploading things to a server i might create a session server on my own and upload what I need via ssh or whatever|pg||
+nt|bebechira: but it is no fun without all the other advantages of bbo secure lol|pg||
+nt|bebechira: i think the way you want it its easy to setu on any server.. you need just 2 tables lol|pg||
+nt|bebechira: clients and hands|pg||
+nt|bebechira: well 3... the session table must exist lol|pg||
+nt|bebechira: even if you dont realy use it|pg||
+nt|bebechira: actualy the hands can stay on a different server... i will make a try this week|pg||
+nt|bebechira: like this we will solve the security issue|pg||
+nt|bebechira: i can read the hands from any server via curl|pg||
+nt|bebechira: so if they are freaking about security they can make available 1 hand at a time ...which is 100% safe|pg||
+nt|bebechira: i will test this week with 2 separate servers|pg||
+nt|bebechira: wbg/ebl/abf we dont have these problems because everything is happening via LAN so supersafe|pg||
+nt|bebechira: anyway.. i have to go to sleep soon....i will talk to you this week|pg||
+pg||
