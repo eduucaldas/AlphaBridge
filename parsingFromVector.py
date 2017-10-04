@@ -13,7 +13,7 @@ This script:
 import numpy as np
 
 #list of all commands in the lin files
-commands = {'md':0, 'sv':1, 'pc':2, 'mb':3, 'qx':4, 'mc':5, 'pg':6, 'nt':7, 'vg':8, 'rs': 9, 'pn': 10, 'an':11, 'ob':12, 'st': 13, '': 14}
+commands = {'md':0, 'sv':1, 'pc':2, 'mb':3, 'ob':4, 'qx':5, 'mc':6, 'pg':7, 'nt':8, 'vg':9, 'rs': 10, 'pn': 11, 'an':12, 'st': 13}
 
 #from observation order of hands is always: SWNE
 PLAYERS = {0:'S', 1:'W', 2:'N', 3:'E'}
