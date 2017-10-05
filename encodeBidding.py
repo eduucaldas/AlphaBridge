@@ -37,15 +37,15 @@ def pretreatBidding(raw_bidding):
     #input:
     #    list of raw_bid strings
     #comments:
-    #    bids should be something in BIDS, not case sensitive and maybe with a '!' at the end
-    #    here we fix the 2 latter problems
+    #    bids should be something in BIDS, not case sensitive and maybe with a '!' at the end, we fiz all this problems
     #output:
     #    list of bid strings, all capitalized and with no '!'
-    raw_bidding = raw_bidding.upper()
     bidding = []
     for bid in raw_bidding:
-        if(isValidBid(bid)):
-            bidding.append(bid[:2]) 
+        bid = bid.upper()#fix caseSensitive
+        bid = bid.replace("!", "")#fix '!'
+        if(isValidBid(bid)):#fix: in BIDS
+            bidding.append(bid) 
         else:
             errorLog['bidding']+=1
             return error['bidding']
@@ -84,7 +84,7 @@ def encodeBidding(bidding):
     #output:
     #    code as list of codes coming from each bid
     errorStart = errorLog['bid']
-    code = [encodeBid[bidding[i]] for i in range(len(bidding))]
+    code = [encodeBid(bidding[i]) for i in range(len(bidding))]
     if(errorLog['bid'] - errorStart == 0):
         return code
     else:
@@ -98,7 +98,7 @@ def isValidBid(bid):
     #    Attention, this verifies only if the bid has the right size, with '!' or not
     #output:
     #    boolean: is it in the proper format
-    return ((len(bid) == 1 and len(bid) == 2) or (len(bid) == 3 and bid[2] == '!'))
+    return (bid in BIDS)
 ###################Main Functions##########################
 def encodeRaw_Bidding(raw_bidding):
     #input:
@@ -118,5 +118,17 @@ def decodeBidding(code):
     #    decodeBid has some python error handling :), if there`s a problem it`ll print message
     #output:
     #    bidding as list of strings
-    return [decodeBid[code[i]] for i in range(len(code))]
+    if(code == None):
+        return None
+    else:
+        return [decodeBid(c) for c in code]
 ############################################# 
+    
+#raw_bidding = "1S|mb|p|mb|2D|mb|p|mb|3S!|mb|p|mb|4H|mb|d|mb|p|mb|p|mb|r|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6S|mb|p|mb|p"
+#raw_bidding = raw_bidding.split("|mb|")
+#print(raw_bidding)
+#code = encodeRaw_Bidding(raw_bidding)
+#bidding = decodeBidding(code)
+#print(code)
+#print(bidding)
+
