@@ -49,6 +49,8 @@ def pretreatBidding(raw_bidding):
         else:
             errorLog['bidding']+=1
             return error['bidding']
+    
+    
     return bidding
          
 def encodeBid(bid):
@@ -88,7 +90,7 @@ def encodeBidding(bidding):
     if(errorLog['bid'] - errorStart == 0):
         return code
     else:
-        errorLog['bidding']
+        errorLog['bidding']+=1
         return error['bidding']
 
 def isValidBid(bid):
@@ -123,12 +125,20 @@ def decodeBidding(code):
     else:
         return [decodeBid(c) for c in code]
 ############################################# 
-    
-#raw_bidding = "1S|mb|p|mb|2D|mb|p|mb|3S!|mb|p|mb|4H|mb|d|mb|p|mb|p|mb|r|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6S|mb|p|mb|p"
-#raw_bidding = raw_bidding.split("|mb|")
-#print(raw_bidding)
-#code = encodeRaw_Bidding(raw_bidding)
-#bidding = decodeBidding(code)
-#print(code)
-#print(bidding)
+
+def testDudu(raw_data):
+    #input:
+    #    format: "1S|mb|p|mb|2D|mb|p|mb|3S!|mb|p|mb|4H|mb|d|mb|p|mb|p|mb|r|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6S|mb|p|mb|p"
+    #comments:
+    #    for the input just pick any .lin and pick the string between the first and the last |mb|
+    #output:
+    #    prints the bidding list as it was read, the code list, and the bidding decoded from the code
+    #raw_data.split("|mb|")
+    #print(raw_data)
+    code = encodeRaw_Bidding(raw_data)
+    bidding = decodeBidding(code)
+    print(code)
+    print(bidding)
+        
+#testDudu(['p', '1D', '1S', '2C', '2S', '3C', 'p', '4C', 'p', '5C', 'p', 'p', 'p'])
 
