@@ -13,6 +13,7 @@ Our first try to solve the problem: 1NTPPP
 Contains files related to BBO's database
 
 --->Auxiliary_functions
+Whenever one creates an auxiliary function, that could be used by other contributors, please add them here, so we dont do stuff twice
 ----->encodeBidding:
 ------->pretreating bids
 ------->encoding bids as numbers
