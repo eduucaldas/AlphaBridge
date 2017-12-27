@@ -148,6 +148,12 @@ def test_parse_pn():
 	print(raw_in)
 	print(parse_pn(raw_in))
 
+def test_parse_vg():
+	meaning = ["[Name Tournament]","[Round]","[?]","[# of 1st game]","[# of last game]","[Team 1]","[CarryOver Team 1]","[Team 2]","[CarryOver Team 2]"]
+	raw_in = "Norwegian Swiss Teams,Match 14 of 16,I,8,14,STAR,0,Veggen,0"
+	treated = parse_vg(raw_in)
+	print(zip(meaning, treated))
+
 #if __name__ == "__main__":
-#	test_parse_pn()
+#	test_parse_rs()
 	
