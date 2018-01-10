@@ -15,7 +15,7 @@ import sys
 import os
 import re
 import numpy as np
-import pickle
+import cPickle as pickle
 import time
 import encode_and_parsing as eap
 
@@ -237,14 +237,18 @@ if __name__ == "__main__":
 	print "Time to read from .lin files: {:,.2f} seconds".format(end_parser - start) #time to run the script
 
 	#now, we have all the information we need in DATA. We can save it or whatever...
+	print "Saving data to disk..."
 	save_file("All.bin", DATA)
 	end_save = time.time()
+	print " ...Done"
 	print "Time to save data to disk: {:,.2f} seconds".format(end_save - end_parser) #time to save DATA
 
 	#loading DATA from a file
+	print "Loading data from disk..."
 	#DATA = load_file("All.bin")
 	end_load = time.time()
+	print " ...Done"
 	print "Time to read data from disk: {:,.2f} seconds".format(end_load - end_save) #time to retrieve DATA
 
-	#let's the first deal
+	#let's see the first game
 	print DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln
