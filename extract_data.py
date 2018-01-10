@@ -15,7 +15,7 @@
 #
 
 import numpy as np
-import pickle
+import cPickle as pickle
 import time
 import encode_and_parsing as eap
 
