@@ -1,5 +1,7 @@
 #Ian Duleba
 
+#Use python 2. If you do not have that option readily available, you will need to change the lines containing "print"'s
+
 #Only run this code if there is something wrong with the file All.bin (which I hope there isn't but it would be great if someone were to double check it).
 #Otherwise you don't need stress in your life, just go away.
 
@@ -202,7 +204,7 @@ def read_folders(DATA):
 				path=str(i)+"/"
 
 		sys.stdout.write("\rProcessing .lin files. Folder: "+path+str(last_folder-1))
-    		sys.stdout.flush()
+		sys.stdout.flush()
 		read_folder(path, DATA)
 
 #save DATA to file

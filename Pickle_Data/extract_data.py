@@ -90,10 +90,10 @@ if __name__ == "__main__":
 
 	end_search = time.time()
 	print " ...Done. Searched in: {:,.2f} seconds".format(end_search - end_load) #time to retrieve DATA
-	print len(DATA_match)
+	print "Number of games found: " + len(DATA_match)
 
 	#Do whatever... ML, DL...
 
 	#now, if you want to save to file
-	#save_file("Search.bin", DATA)
+	#save_file("Search.bin", DATA_match)
 	
