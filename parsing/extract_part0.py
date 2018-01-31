@@ -1,6 +1,6 @@
-#Ian Duleba
+from __future__ import print_function
 
-#Use python 2. If you do not have that option readily available, you will need to change the lines containing "print"'s
+#Ian Duleba
 
 #Only run this code if there is something wrong with the file All.bin (which I hope there isn't but it would be great if someone were to double check it).
 #Otherwise you don't need stress in your life, just go away.
@@ -227,30 +227,30 @@ if __name__ == "__main__":
 	start = time.time()
 
 	read_folders(DATA)
-	print " ...Done"
+	print(" ...Done")
 
 	#if you want to read only a specific file, comment "read_folders(DATA)" above and uncomment the line below
 	#read_lin_file("508/50871.lin", DATA)
 	
 	#How many matches were discarted due to errors?
-	print "Number of matches discarted due to parsing errors: ", eap.errorLog
+	print("Number of matches discarted due to parsing errors: ", eap.errorLog)
 
 	end_parser = time.time()
-	print "Time to read from .lin files: {:,.2f} seconds".format(end_parser - start) #time to run the script
+	print("Time to read from .lin files: {:,.2f} seconds".format(end_parser - start)) #time to run the script
 
 	#now, we have all the information we need in DATA. We can save it or whatever...
-	print "Saving data to disk..."
+	print("Saving data to disk...")
 	save_file("All.bin", DATA)
 	end_save = time.time()
-	print " ...Done"
-	print "Time to save data to disk: {:,.2f} seconds".format(end_save - end_parser) #time to save DATA
+	print("...Done")
+	print("Time to save data to disk: {:,.2f} seconds".format(end_save - end_parser)) #time to save DATA
 
 	#loading DATA from a file
-	print "Loading data from disk..."
+	print("Loading data from disk...")
 	#DATA = load_file("All.bin")
 	end_load = time.time()
-	print " ...Done"
-	print "Time to read data from disk: {:,.2f} seconds".format(end_load - end_save) #time to retrieve DATA
+	print("...Done")
+	print("Time to read data from disk: {:,.2f} seconds".format(end_load - end_save)) #time to retrieve DATA
 
 	#let's see the first game
-	print DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln
+	print(DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln)

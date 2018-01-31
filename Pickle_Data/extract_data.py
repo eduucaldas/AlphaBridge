@@ -1,12 +1,14 @@
+from __future__ import print_function
+
 #Ian Duleba
 #
 #
 #Attention!!
-#To run this code you'll need at least 4 Gb of free memory!
+#To run this code you'll need at least 4 Gb of free memory if you want to search the entire database!
 #
-#First you should unrar the file All.rar, it has 1 Gb in size when uncompressed! It is in our repository.
+#First you should unrar the file All.rar and it has 1 Gb in size when uncompressed!
 #
-#Put the file encode_and_parsing.py in the same folder that this script! It's in the folder auxiliary_functions of the repository.
+#Put the file encode_and_parsing.py in the same folder that this script. It's in the folder auxiliary_functions of the repository.
 #It has Dudu's functions to encode and decode the bidding. Check it out to see our definitions in more detail.
 #
 #After that you are good to go. You can import this file inside some other code and call load_file(#insert directory of All.bin#) or search_biddings(DATA, #list of biddings to search#).
@@ -71,26 +73,26 @@ if __name__ == "__main__":
 
 	DATA=[] #list of BridgeDeal objects
 	
-	print "Reading data from disk..."
+	print("Reading data from disk...")
 	#let's load the entire database (4 Gb in memory)
 	#in my case the file is in the same folder.
 	DATA = load_file("All.bin")
 
 	end_load = time.time()
-	print " ...Done. Time to read data from disk: {:,.2f} seconds".format(end_load - start) #time to retrieve DATA
+	print(" ...Done. Time to read data from disk: {:,.2f} seconds".format(end_load - start)) #time to retrieve DATA
 
 
 	#as an example, lets search for:
 	biddings = [['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']]
 
-	print "Searching for biddings:"
-	print biddings 
+	print("Searching for biddings:")
+	print(biddings)
 	
 	DATA_match = find_biddings(DATA, biddings)
 
 	end_search = time.time()
-	print " ...Done. Searched in: {:,.2f} seconds".format(end_search - end_load) #time to retrieve DATA
-	print "Number of games found: " + len(DATA_match)
+	print(" ...Done. Searched in: {:,.2f} seconds".format(end_search - end_load)) #time to retrieve DATA
+	print("Number of games found: " + len(DATA_match))
 
 	#Do whatever... ML, DL...
 
