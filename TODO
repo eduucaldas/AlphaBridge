@@ -1,5 +1,8 @@
 1. Add the function "search all the boards with the specific bidding". Done!
 2. Bidding to Image - Dudu
 3. SQL - Zyied
-4. Python Interface with pickle - Ian
-  a. Create 1NTPPP pickle
+4. Comment FFNN, adapt it to the BridgeDeal Object - Zyied
+5. Python Interface with pickle - Ian
+  a. Create 1NTPPP pickle done!
+  b. Readme for the extract_data, specially for the BridgeDeal, obejct format, e.g what is lead?, is it a string ...
+  
