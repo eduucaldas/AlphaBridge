@@ -15,12 +15,12 @@ PLAYERS = {0:'S', 1:'W', 2:'N', 3:'E'}
 SUITMAP = {'S':0, 'H':1, 'D':2, 'C':3}
 
 OUT_OF_RANGE = 'U'# dirty trick: U for no out of range exception in SUITS
-SUITS = ['S', 'H', 'D', 'C', OUT_OF_RANGE] 
-#this is how the cards are described in the .lin
+SUITS = ['S', 'H', 'D', 'C', OUT_OF_RANGE]
+# this is how the cards are described in the .lin
 CARDMAP = {'2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9, 'T':10, 'J':11, 'Q':12, 'K':13, 'A':14}
 
-#SUITSBID = ['N'] + SUITS[:4]
-#BIDS = ['P','R','D'] + [str(i + 1) + s for i in range(7) for s in SUITSBID]
+# SUITSBID = ['N'] + SUITS[:4]
+# BIDS = ['P','R','D'] + [str(i + 1) + s for i in range(7) for s in SUITSBID]
 BIDS = ['P', 'R', 'D',
         '1N', '1S', '1H', '1D', '1C',
         '2N', '2S', '2H', '2D', '2C',
@@ -29,7 +29,7 @@ BIDS = ['P', 'R', 'D',
         '5N', '5S', '5H', '5D', '5C',
         '6N', '6S', '6H', '6D', '6C',
         '7N', '7S', '7H', '7D', '7C']
-#BIDSMAP = dict(zip(BIDS, range(len(BIDS))))
+# BIDSMAP = dict(zip(BIDS, range(len(BIDS))))
 BIDSMAP = {'P': 0, 'R': 1, 'D': 2,
            '1N': 3, '1S': 4, '1H': 5, '1D': 6, '1C': 7,
            '2N': 8, '2S': 9, '2H': 10, '2D': 11, '2C': 12,
@@ -38,11 +38,11 @@ BIDSMAP = {'P': 0, 'R': 1, 'D': 2,
            '5N': 23, '5S': 24, '5H': 25, '5D': 26, '5C': 27,
            '6N': 28, '6S': 29, '6H': 30, '6D': 31, '6C': 32,
            '7N': 33, '7S': 34, '7H': 35, '7D': 36, '7C': 37}
-#Count where the error occurred, e.g. if it was in dealer
+# Count where the error occurred, e.g. if it was in dealer
 errorLog = {'dealer':0, 'hands': 0,'lead': 0, 'bid':0, 'leader':0, 'bidding': 0}
-#we can perhaps implement it to show in which file the error occurred occurred
+# we can perhaps implement it to show in which file the error occurred occurred
 
-#for readability and making it easier to change after :)
+# for readability and making it easier to change after :)
 error = {'dealer':-1, 'hands': None, 'lead': None, 'bid':None, 'leader':-1, 'bidding': None}
 
 
@@ -69,17 +69,17 @@ def pretreatBidding(raw_bidding):
         bid = bid.upper()#fix caseSensitive
         bid = bid.replace("!", "")#fix '!'
         if(isValidBid(bid)):#fix: in BIDS
-            bidding.append(bid) 
+            bidding.append(bid)
         else:
             errorLog['bidding']+=1
             return error['bidding']
-    
-    
+
+
     return bidding
-         
+
 def encodeBid(bid):
-    #input: 
-    #    bid as string. 
+    #input:
+    #    bid as string.
     #comments:
     #    verifies if valid bid, ie whether its on our BIDS
     #output:
@@ -100,13 +100,13 @@ def decodeBid(code):
         return BIDS[code]
     except IndexError:
         print('your code was weird')
-        return error['code'] 
-    
+        return error['code']
+
 def encodeBidding(bidding):
     #input:
     #    pretreated bidding as a list of strings
     #comments:
-    #    
+    #
     #output:
     #    code as list of codes coming from each bid
     if(bidding == error['bidding']):
@@ -136,7 +136,7 @@ def encodeRaw_Bidding(raw_bidding):
     #output:
     #    code following BIDSMAP
     bidding = pretreatBidding(raw_bidding)
-    return encodeBidding(bidding)  
+    return encodeBidding(bidding)
 
 
 def decodeBidding(code):
@@ -150,7 +150,7 @@ def decodeBidding(code):
         return None
     else:
         return [decodeBid(c) for c in code]
-############################################# 
+#############################################
 
 def testDudu(raw_data):
     #input:
@@ -165,7 +165,7 @@ def testDudu(raw_data):
     bidding = decodeBidding(code)
     print(code)
     print(bidding)
-        
+
 #testDudu(['p', '1D', '1S', '2C', '2S', '3C', 'p', '4C', 'p', '5C', 'p', 'p', 'p'])
 
 '''
@@ -222,12 +222,12 @@ def vectorizing3(handsText):
        4 HandVectors
     """
     handsText = handsText.split(',')
-    
+
     for hT in handsText:
         if(len(hT) != 17):
             errorLog['hands'] += 1
             return error['hands']
-    
+
     hands = []
     for handT in handsText:
         h = vectorizing(handT)
@@ -235,7 +235,7 @@ def vectorizing3(handsText):
             return error['hands']
         else:
             hands.append(h)
-    
+
     one = np.ones(len(hands[0]), dtype=bool)
     hands.append(one ^ hands[0] ^ hands[1] ^ hands[2])#appends the missing hand
     #may need to verify if hands[3] is valable
@@ -246,7 +246,7 @@ def vectorizing3(handsText):
 
 def pick_hands(gameLine):
     """
-    input: 
+    input:
        string in format:"1SKT32HJ984DJT52C9,SAQJ86HK63DK93C75,S94HT5D864CAQJT62,S75HAQ72DAQ7CK843"
                          or "1SKT32HJ984DJT52C9,SAQJ86HK63DK93C75,S94HT5D864CAQJT62"
     comments:
@@ -277,7 +277,7 @@ def pick_hands(gameLine):
                 errorLog['hands'] += 1
     else:
         errorLog['dealer'] += 1
-       
+
     return dealer, hands
 
 
@@ -285,7 +285,7 @@ def pick_hands(gameLine):
 
 def pick_lead(handsText, lead, hands):
     """
-    input: 
+    input:
        hands in the text format, lead as string, hands in vector format
     comments:
        hands in text format, because it`s easier to find cards in this format
@@ -294,7 +294,7 @@ def pick_lead(handsText, lead, hands):
         leader:
            may be error['leader'] if there`s a problem with lead formatting
            format: [0-3] according to PLAYERS
-        hands: 
+        hands:
            4 HandVectors in the order they`ll be played
     """
     handsText = handsText[1:].upper().split(',')
@@ -304,7 +304,7 @@ def pick_lead(handsText, lead, hands):
         suitCode = SUITMAP[suitlead]
         nextSuit = SUITS[suitCode + 1]
         leader = 3 # if we dont find the lead below the leader gotta be the 4 guy
-        for h in range(len(handsText)):      
+        for h in range(len(handsText)):
             #print(h)
             begin = handsText[h].find(suitlead)
             end = handsText[h].find(nextSuit)
@@ -316,8 +316,8 @@ def pick_lead(handsText, lead, hands):
         hands = np.roll(hands, leader)
     else:
         errorLog['lead'] += 1
-        leader = error['leader'] 
-    
+        leader = error['leader']
+
     return leader, hands
 
 def isCommand(info):
@@ -337,5 +337,5 @@ dealer, hands = pick_hands(hand_ex)
 leader, hands = pick_lead(hand_ex, lead, hands)
 print(hands.nbytes)
 print(hands, PLAYERS[leader], dealer, lead,)
-print(errorLog)	
+print(errorLog)
 """
