@@ -28,20 +28,57 @@ import auxiliary_functions.encode_and_parsing as eap
 
 
 class BridgeDeal:
+    # Example of object
+    # BridgeDeal(
+    # 	bbo_file = 00013,
+    # 	tournament = None,
+    # 	players = None,
+    # 	hands = [[False False False False  True False False False  True  True False  True
+    #   False False False  True False False False  True False False False False
+    #   False  True False  True  True False False  True False False False False
+    #    True False False  True False False False  True False False False False
+    #   False False False False]
+    #  [False False  True  True False  True False False False False  True False
+    #   False  True False False False  True False False False  True False False
+    #    True False  True False False False  True False False False  True False
+    #   False False False False False False False False False  True False False
+    #   False False  True False]
+    #  [ True False False False False False False  True False False False False
+    #   False False False False  True False  True False  True False False False
+    #   False False False False False  True False False  True False False  True
+    #   False  True False False False  True  True False False False False False
+    #    True False False  True]
+    #  [False  True False False False False  True False False False False False
+    #    True False  True False False False False False False False  True  True
+    #   False False False False False False False False False  True False False
+    #   False False  True False  True False False False  True False  True  True
+    #   False  True False False]],
+    # 	bidding = [3, 0, 0, 0],
+    # 	leader = 0,
+    # 	dealer = 3,
+    # 	lead = SJ,
+    # 	vuln = b
+    # )
     def __init__(self, bbo_file, tournament, players, hands, bidding, leader, dealer, lead, vuln):
         self.bbo_file = bbo_file  # number specifying the id of the .lin given by bbo
         self.tournament = tournament  # not done yet!
         self.players = players  # not done yet!
         self.hands = hands  # 4 hands, each as a 4x13 matrix with 1 in the entries in which the card is present
         self.bidding = bidding  # the bidding sequence as encoded in encode_and_parsing
-        self.leader = leader  # i.e. the person that puts the first card in the game, as a number(0-3) TODO check Ian
-        self.dealer = dealer  # i.e. the person that puts the first bids, as a number (0-3) TODO check Ian
+        self.leader = leader  # i.e. the person that puts the first card in the game, as a number(0-3)
+        self.dealer = dealer  # i.e. the person that puts the first bids, as a number (0-3)
         self.lead = lead  # i.e. the first card to be played
-        self.vuln = vuln  # i.e. vulnerability TODO check Ian
+        self.vuln = vuln  # i.e. vulnerability{0, b, e, p, n} TODO @Zigfrid, what do this mean, can encode this better?
 
     def __eq__(self, other):
         return self.bbo_file == other.bbo_file and self.tournament == other.tournament and self.players == other.players and self.bidding == other.bidding and (
                 self.hands == other.hands).all() and self.leader == other.leader and self.dealer == other.dealer and self.lead == other.lead and self.vuln == other.vuln
+
+    def __str__(self):
+        return "BridgeDeal(\n\tbbo_file = " + str(self.bbo_file) + ", \n\ttournament = " + str(self.tournament) + \
+               ", \n\tplayers = " + str(self.players) + ", \n\thands = " + str(self.hands) + ", \n\tbidding = " + \
+               str(self.bidding) + ", \n\tleader = " + str(self.leader) + ", \n\tdealer = " + str(self.dealer) + \
+               ", \n\tlead = " + str(self.lead) + ", \n\tvuln = " + str(self.vuln) + "\n)"
 
 
 # save DATA to file
@@ -120,14 +157,15 @@ def extract_to_pickle(in_pickle, out_dir, biddings):
     save_file(outfile, data)
 
 
-def test():
+def test_extract():
     test_data = extract_to_temp("All.bin", [['1N', 'p', 'p', 'p']])
-    for i in range(100):
-        print(eap.decodeBidding(test_data[i].bidding))
+    for i in range(10):
+        print(str(test_data[i]))
 
 
 if __name__ == '__main__':
-    test()
+    test_extract()
+    # test_BridgeDeal()
     # This is probably how you'll use it, ../1NTPPP comes to the parent directory and enters in the 1NTPPP folder
 
     # extract_to_pickle("All.bin", "../1NTPPP",
