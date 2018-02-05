@@ -163,8 +163,8 @@ def test_extract():
         print(str(test_data[i]))
 
 
-if __name__ == '__main__':
-    test_extract()
+# if __name__ == '__main__':
+    # test_extract()
     # test_BridgeDeal()
     # This is probably how you'll use it, ../1NTPPP comes to the parent directory and enters in the 1NTPPP folder
 
