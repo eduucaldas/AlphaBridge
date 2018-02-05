@@ -63,7 +63,7 @@ class BridgeDeal:
         self.bbo_file = bbo_file  # number specifying the id of the .lin given by bbo
         self.tournament = tournament  # not done yet!
         self.players = players  # not done yet!
-        self.hands = hands  # 4 hands, each as a 4x13 matrix with 1 in the entries in which the card is present
+        self.hands = hands  # 4 hands, each as a 52 matrix with 1 in the entries in which the card is present
         self.bidding = bidding  # the bidding sequence as encoded in encode_and_parsing
         self.leader = leader  # i.e. the person that puts the first card in the game, as a number(0-3)
         self.dealer = dealer  # i.e. the person that puts the first bids, as a number (0-3)

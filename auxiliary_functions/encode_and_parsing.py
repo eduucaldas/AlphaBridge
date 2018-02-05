@@ -85,7 +85,7 @@ def encodeBid(bid):
     # output:
     #    puts in the code according to BIDSMAP
     code = BIDSMAP.get(bid, error['bid'])
-    if (code == error['bid']):
+    if code == error['bid']:
         errorLog['bid'] += 1
     return code
 
@@ -111,7 +111,7 @@ def encodeBidding(bidding):
     #
     # output:
     #    code as list of codes coming from each bid
-    if (bidding == error['bidding']):
+    if bidding == error['bidding']:
         return error['bidding']
     errorStart = errorLog['bid']
     code = [encodeBid(bidding[i]) for i in range(len(bidding))]
@@ -173,6 +173,7 @@ def testDudu(raw_data):
     print(code)
     print(bidding)
 
+
 # testDudu(['p', '1D', '1S', '2C', '2S', '3C', 'p', '4C', 'p', '5C', 'p', 'p', 'p'])
 
 '''
@@ -209,8 +210,7 @@ def vectorizing(handText):
     for suit in range(4):
         begin = end + 1
         end = handText.find(SUITS[suit + 1])
-        if (
-                end == -1 or end < begin):  # then we haven`t found the next suit, which is a problem according to our format
+        if end == -1 or end < begin:  # then we haven`t found the next suit, which is a problem according to our format
             errorLog['hands'] += 1
             return error['hands']
         for i in range(begin, end):
@@ -234,14 +234,14 @@ def vectorizing3(handsText):
     handsText = handsText.split(',')
 
     for hT in handsText:
-        if (len(hT) != 17):
+        if len(hT) != 17:
             errorLog['hands'] += 1
             return error['hands']
 
     hands = []
     for handT in handsText:
         h = vectorizing(handT)
-        if (h == None):
+        if h is None:
             return error['hands']
         else:
             hands.append(h)
@@ -264,7 +264,7 @@ def pick_hands(game_line):
                          or "1SKT32HJ984DJT52C9,SAQJ86HK63DK93C75,S94HT5D864CAQJT62"
     comments:
        First integer =  for the dealer in the format [1-4], where 4 is E
-       Sometimes there`s only 3 hands, since the forth is redundant
+       Sometimes there`s only 3 hands, since the fourth is redundant
        There`s always the suit indicator, even when there are no cards of the suit.
     output:
        dealer::
@@ -311,7 +311,7 @@ def pick_lead(hands_text, lead, hands):
     hands_text = hands_text[1:].upper().split(',')
     suitlead = lead[0].upper()
     ranklead = lead[1].upper()
-    if (suitlead in SUITMAP and ranklead in CARDMAP):
+    if suitlead in SUITMAP and ranklead in CARDMAP:
         suitCode = SUITMAP[suitlead]
         nextSuit = SUITS[suitCode + 1]
         leader = 3  # if we dont find the lead below the leader gotta be the 4 guy
@@ -319,12 +319,12 @@ def pick_lead(hands_text, lead, hands):
             # print(h)
             begin = hands_text[h].find(suitlead)
             end = hands_text[h].find(nextSuit)
-            if (end == -1):
+            if end == -1:
                 end = len(hands_text[h])
-            if (hands_text[h][begin:end].find(ranklead) != -1):
+            if hands_text[h][begin:end].find(ranklead) != -1:
                 leader = h  # here we found the guy that lead, the leader
                 break
-        hands = np.roll(hands, leader)
+        hands = np.roll(hands, leader, axis=0)  # VERY IMPORTANT!
     else:
         errorLog['lead'] += 1
         leader = error['leader']
@@ -333,9 +333,13 @@ def pick_lead(hands_text, lead, hands):
 
 
 def is_command(info):
-    if (info in commands):
+    if info in commands:
         return True
     return False
+
+
+def is_card_in_hand(hand, card):
+    return hand[SUITMAP[card[0].upper()] * 13 + CARDMAP[card[1].upper()] - 2]
 
 
 """
