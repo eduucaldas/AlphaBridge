@@ -57,7 +57,7 @@ def interpret(contents, DATA, bbo_file):
     # loop through the "contents"
     while (i < len(contents)):
         # if we find a command in position i
-        if (eap.isCommand(contents[i])):
+        if eap.is_command(contents[i]):
 
             # we need to know which command
 
@@ -160,7 +160,7 @@ def interpret(contents, DATA, bbo_file):
 
             # note: the first item of a bidding is the vulnerability
             # Dudu created a coded version of the bidding, it occupies less space and it'll be easier to run ML and DL later.
-            biddings_encoded = eap.encodeRaw_Bidding(biddings[i][1:])
+            biddings_encoded = eap.encode_raw_Bidding(biddings[i][1:])
 
             if (leader != eap.error['leader']) and (biddings_encoded != eap.error['bidding']):  # error check
                 # create a BridgeDeal object and append it to DATA

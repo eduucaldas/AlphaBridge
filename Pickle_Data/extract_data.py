@@ -156,17 +156,22 @@ def extract_to_pickle(in_pickle, out_dir, biddings):
     data = extract_to_temp(in_pickle, biddings)
     save_file(outfile, data)
 
-
+#this tests if the data is coherent
 def test_extract():
     test_data = extract_to_temp("All.bin", [['1N', 'p', 'p', 'p']])
-    for i in range(10):
-        print(str(test_data[i]))
+    bugged_id = []
+    for i in range(len(test_data)):
+        if not eap.is_card_in_hand(test_data[i].hands[0], test_data[i].lead):
+            bugged_id.append(i)
+    for id in bugged_id:
+        print(test_data[id])
 
 
-# if __name__ == '__main__':
-    # test_extract()
-    # test_BridgeDeal()
+if __name__ == '__main__':
+    #test_extract()
     # This is probably how you'll use it, ../1NTPPP comes to the parent directory and enters in the 1NTPPP folder
 
-    # extract_to_pickle("All.bin", "../1NTPPP",
-    #                  [['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']])
+    extract_to_pickle("All.bin", "../1NTPPP",
+                      [['p', '1N', 'p', 'p', 'p']])
+
+# ['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']

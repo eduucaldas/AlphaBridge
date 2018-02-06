@@ -12,20 +12,7 @@ data = load_file(filename)
 leads = [data[i].lead.upper() for i in range(len(data))]
 hands = [data[i].hands[0] for i in range(len(data))]
 
-bugged_id = []
-for i in range(1000, len(data)):
-    if not eap.is_card_in_hand(data[i].hands[0], data[i].lead.upper()):
-        bugged_id.append(i)
-print(len(bugged_id))
-for i in range(len(bugged_id)):
-    print(data[bugged_id[i]].leader)
 
-print(data[bugged_id[0]].hands)
-print(np.roll(data[bugged_id[0]].hands, 2))
-
-for i in range(len(bugged_id)):
-    if data[bugged_id[i]].leader == 0:
-        print("aha")
 length = len(data)
 
 # S = 0, H = 1, D = 2, C = 3
@@ -66,14 +53,14 @@ b = np.array(suits_lead)
 print(len(b))
 print(1.0 * np.count_nonzero(a == b) / length)
 
-#
-# from sklearn.multiclass import OneVsRestClassifier
-# from sklearn.svm import SVC
-# from sklearn.model_selection import cross_val_score
-#
-# classifier = OneVsRestClassifier(SVC(random_state=0))
-# classifier_scoring = cross_val_score(classifier, hands, suits_lead, scoring='accuracy', cv=5)
-# print('OneVsRest Classifier')
-# print('Accuracy scores: ', classifier_scoring)
-# print('mean: {}, max: {}, min: {}, std: {}'.format(classifier_scoring.mean(), classifier_scoring.max(),
-#                                                    classifier_scoring.min(), classifier_scoring.std()))
+
+from sklearn.multiclass import OneVsRestClassifier
+from sklearn.svm import SVC
+from sklearn.model_selection import cross_val_score
+
+classifier = OneVsRestClassifier(SVC(random_state=0))
+classifier_scoring = cross_val_score(classifier, hands, suits_lead, scoring='accuracy', cv=5)
+print('OneVsRest Classifier')
+print('Accuracy scores: ', classifier_scoring)
+print('mean: {}, max: {}, min: {}, std: {}'.format(classifier_scoring.mean(), classifier_scoring.max(),
+                                                   classifier_scoring.min(), classifier_scoring.std()))

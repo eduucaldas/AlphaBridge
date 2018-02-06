@@ -324,7 +324,7 @@ def pick_lead(hands_text, lead, hands):
             if hands_text[h][begin:end].find(ranklead) != -1:
                 leader = h  # here we found the guy that lead, the leader
                 break
-        hands = np.roll(hands, leader, axis=0)  # VERY IMPORTANT!
+        hands = np.roll(hands, -leader, axis=0)  # VERY IMPORTANT!
     else:
         errorLog['lead'] += 1
         leader = error['leader']
