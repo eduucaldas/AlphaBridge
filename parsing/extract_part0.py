@@ -211,6 +211,7 @@ def read_folders(DATA):
             else:
                 path = str(i) + "/"
 
+        path = "raw_lin_data/" + path
         sys.stdout.write("\rProcessing .lin files. Folder: " + path + str(last_folder - 1))
         sys.stdout.flush()
         read_folder(path, DATA)
@@ -242,15 +243,15 @@ if __name__ == "__main__":
     # if you want to read only a specific file, comment "read_folders(DATA)" above and uncomment the line below
     # read_lin_file("508/50871.lin", DATA)
 
-    # How many matches were discarted due to errors?
-    print("Number of matches discarted due to parsing errors: ", eap.errorLog)
+    # How many matches were discarded due to errors?
+    print("Number of matches discarded due to parsing errors: ", eap.errorLog)
 
     end_parser = time.time()
     print("Time to read from .lin files: {:,.2f} seconds".format(end_parser - start))  # time to run the script
 
     # now, we have all the information we need in DATA. We can save it or whatever...
     print("Saving data to disk...")
-    save_file("All.bin", DATA)
+    save_file("../Pickle_Data/All.bin", DATA)
     end_save = time.time()
     print("...Done")
     print("Time to save data to disk: {:,.2f} seconds".format(end_save - end_parser))  # time to save DATA
@@ -263,5 +264,6 @@ if __name__ == "__main__":
     print("Time to read data from disk: {:,.2f} seconds".format(end_load - end_save))  # time to retrieve DATA
 
     print("We extracted ", len(DATA), " games.\nThis should be close to 2 million")
+
     # let's see the first game
-    print("Take a look at the first game", DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln)
+    # print("Take a look at the first game\n", DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln)
