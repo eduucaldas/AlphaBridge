@@ -1,14 +1,13 @@
-from os import sys, path
-
-sys.path.append("/home/eduucaldas/GitHub/AlphaBridge")
-from Pickle_Data.extract_data import load_file, BridgeDeal
-import auxiliary_functions.encode_and_parsing as eap
 import numpy as np
 import matplotlib.pyplot as plt
+from os import sys
+import path_jupy
+sys.path.append(path_jupy.give_path())
+from Pickle_Data.extract_data import load_file, BridgeDeal
+
 
 filename = "Search.bin"
 data = load_file(filename)
-# TODO Big problem, hand is not in the order of lead
 leads = [data[i].lead.upper() for i in range(len(data))]
 hands = [data[i].hands[0] for i in range(len(data))]
 

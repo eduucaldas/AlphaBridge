@@ -172,6 +172,6 @@ if __name__ == '__main__':
     # This is probably how you'll use it, ../1NTPPP comes to the parent directory and enters in the 1NTPPP folder
 
     extract_to_pickle("All.bin", "../1NTPPP",
-                      [['p', '1N', 'p', 'p', 'p']])
+                      [['p', '1S', 'p', 'p', 'p']])
 
 # ['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']
