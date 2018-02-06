@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+# This should be changed
 from os import sys
 import path_jupy
 sys.path.append(path_jupy.give_path())
@@ -10,7 +11,7 @@ filename = "Search.bin"
 data = load_file(filename)
 leads = [data[i].lead.upper() for i in range(len(data))]
 hands = [data[i].hands[0] for i in range(len(data))]
-
+#this should be changed
 
 length = len(data)
 
