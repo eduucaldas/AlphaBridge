@@ -1,6 +1,6 @@
 # Template to acquire data from pickle
 from os import sys
-import path_jupy
+import path_jupy # This is only needed for the jupyter notebook
 sys.path.append(path_jupy.give_path())
 from Pickle_Data.extract_data import load_file
 
