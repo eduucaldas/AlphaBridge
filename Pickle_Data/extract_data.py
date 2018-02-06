@@ -169,9 +169,9 @@ def test_extract():
 
 if __name__ == '__main__':
     #test_extract()
-    # This is probably how you'll use it, ../1NTPPP comes to the parent directory and enters in the 1NTPPP folder
+    # This is probably how you'll use it, ../Learning comes to the parent directory and enters in the Learning folder
 
-    extract_to_pickle("All.bin", "../1NTPPP",
+    extract_to_pickle("All.bin", "../Learning",
                       [['1N', 'p', 'p', 'p']])
 
 # ['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']

@@ -4,8 +4,8 @@ IA qui implemente l'entame au bridge
 
 --------------------------------------
 
-## Content:
-### 1NTPPP
+## Contents:
+### Learning
 A first try at the problem of the lead for games with a very regular bidding 1NT,P,P,P
 1. 1nt.ipynb: Approach using Scikit learn machine learning machinery (Zig) 
 
