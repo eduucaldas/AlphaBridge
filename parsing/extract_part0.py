@@ -262,5 +262,6 @@ if __name__ == "__main__":
     print("...Done")
     print("Time to read data from disk: {:,.2f} seconds".format(end_load - end_save))  # time to retrieve DATA
 
+    print("We extracted ", len(DATA), " games.\nThis should be close to 2 million")
     # let's see the first game
-    print(DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln)
+    print("Take a look at the first game", DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln)

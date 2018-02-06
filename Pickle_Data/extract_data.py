@@ -2,20 +2,16 @@ from __future__ import print_function
 
 # Ian Duleba
 #
-#
 # Attention!!
 # To run this code you'll need at least 4 Gb of free memory if you want to search the entire database!
 #
-# First you should unrar the file All.rar and it has 1 Gb in size when uncompressed!
+# First you should unrar the file All.rar, that should be in this directory!
 #
-# Put the file encode_and_parsing.py in the same folder that this script. It's in the folder auxiliary_functions of
-# the repository. It has Dudu's functions to encode and decode the bidding. Check it out to see our definitions in
-# more detail.
+# Have time? Check out how the BridgeDeal object is encoded below. Additionally, many of the operations done here use
+# the auxiliary_functions so if you want to understand stuff better, check it out, specially the dicts in the beginning
 #
-# After that you are good to go. You can import this file inside some other code and call load_file(#insert directory
-#  of All.bin#) or search_biddings(DATA, #list of biddings to search#).
-#
-# If it's easier, you can put your code here as well.
+# In a Rush? Scroll down, give a look at the main and run the code. Beware, the resulting data is sent directly to Learning,
+# or the specified folder.
 #
 
 import numpy as np
@@ -81,18 +77,14 @@ class BridgeDeal:
                ", \n\tlead = " + str(self.lead) + ", \n\tvuln = " + str(self.vuln) + "\n)"
 
 
-# save DATA to file
-
-
+# save data to file
 def save_file(path, data):
     f = open(path, "wb")
     pickle.dump(data, f)
     f.close()
 
 
-# load DATA from file
-
-
+# loads data from file
 def load_file(path):
     f = open(path, "rb")
     data = pickle.load(f)
@@ -100,11 +92,9 @@ def load_file(path):
     return data
 
 
-# We are going to get all matches with a particular bidding. For example, any of the following list:
+# This gets all matches with a particular bidding. For example, any of the following list:
 # biddings = [['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']]
 # and we return a list with the matches
-
-
 def find_biddings(DATA, biddings):
     DATA_match = []
 
@@ -122,6 +112,7 @@ def find_biddings(DATA, biddings):
     return DATA_match
 
 
+# this generates a vector
 def extract_to_temp(in_pickle, biddings):
     start = time.time()
 
@@ -143,12 +134,9 @@ def extract_to_temp(in_pickle, biddings):
     print("Number of games found: " + str(len(data_match)))
 
     return data_match
-    # Do whatever... ML, DL...
 
 
 # now, if you want to save to file
-
-
 def extract_to_pickle(in_pickle, out_dir, biddings):
     outfile = "Search.bin"
     if out_dir != "":
@@ -156,7 +144,8 @@ def extract_to_pickle(in_pickle, out_dir, biddings):
     data = extract_to_temp(in_pickle, biddings)
     save_file(outfile, data)
 
-#this tests if the data is coherent
+
+# this tests if the data is coherent
 def test_extract():
     test_data = extract_to_temp("All.bin", [['1N', 'p', 'p', 'p']])
     bugged_id = []
@@ -168,10 +157,10 @@ def test_extract():
 
 
 if __name__ == '__main__':
-    #test_extract()
+    # test_extract()
+
     # This is probably how you'll use it, ../Learning comes to the parent directory and enters in the Learning folder
-
     extract_to_pickle("All.bin", "../Learning",
-                      [['1N', 'p', 'p', 'p']])
-
-# ['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']
+                      [['p', 'p', '1N', 'p', 'p', 'p']])
+    # Oh and you can also search many biddings at the same time, just add more vectors, like below:
+    # [['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']]
