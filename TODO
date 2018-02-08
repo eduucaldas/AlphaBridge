@@ -1,8 +1,15 @@
-1. Add the function "search all the boards with the specific bidding". Done!
+Module Data:
+1. Change database to Pandas Ziyed, Dudu
 2. Bidding to Image - Dudu
-3. SQL - Zyied
-4. Comment FFNN, adapt it to the BridgeDeal Object - Zyied
-5. Python Interface with pickle - Ian
-  a. Create 1NTPPP pickle done!
-  b. Readme for the extract_data, specially for the BridgeDeal, obejct format, e.g what is lead?, is it a string ...
-  
+3. SQL(?) - Zyied
+4. Fix bidmap for the correct order - Dudu
+5. Why are there only 1 million games now? - Dudu, Ian
+
+Module Learning:
+1. Comment FFNN, adapt it to the BridgeDeal Object(?) - Zyied
+2. Install tensorflow-gpu, as the amount of data has grown - Tous qui font du deep
+3. List of cases to study - Zigfrid
+  a. 1NTPPP
+  b. Add more zigfrid
+  c.
+4. Shuffling cross-validation
