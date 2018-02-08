@@ -55,7 +55,7 @@ def interpret(contents, DATA, bbo_file):
     i = 0  # counter
 
     # loop through the "contents"
-    while (i < len(contents)):
+    while i < len(contents):
         # if we find a command in position i
         if eap.is_command(contents[i]):
 
@@ -263,7 +263,7 @@ if __name__ == "__main__":
     print("...Done")
     print("Time to read data from disk: {:,.2f} seconds".format(end_load - end_save))  # time to retrieve DATA
 
-    print("We extracted ", len(DATA), " games.\nThis should be close to 2 million")
+    print("We extracted ", len(DATA), " games.\nThis should be close to 1 million")
 
     # let's see the first game
     # print("Take a look at the first game\n", DATA[0].hands, DATA[0].bidding, DATA[0].leader, DATA[0].dealer, DATA[0].lead, DATA[0].vuln)

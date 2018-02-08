@@ -158,14 +158,12 @@ def test_extract():
 
 # This tests how much data there is in All.bin, it should have close to 2 million games
 def test_integrity():
-    print("this All.bin has: ", len(load_file("All.bin")), " (it should have near 2 million)")
+    print("this All.bin has: ", len(load_file("All.bin")), " (it should have near 1 million)")
 
 
 if __name__ == '__main__':
-    # test_extract()
-    test_integrity()
     # This is probably how you'll use it, ../Learning comes to the parent directory and enters in the Learning folder
-    # extract_to_pickle("All.bin", "../Learning",
-    #                  [['p', 'p', '1N', 'p', 'p', 'p']])
+    extract_to_pickle("All.bin", "../Learning",
+                     [['p', 'p', '1N', 'p', 'p', 'p']])
     # Oh and you can also search many biddings at the same time, just add more vectors, like below:
     # [['1N', 'p', 'p', 'p'], ['p', '1N', 'p', 'p', 'p'], ['p', 'p', '1N', 'p', 'p', 'p'], ['p', 'p', 'p', '1N', 'p', 'p', 'p']]
