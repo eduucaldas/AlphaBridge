@@ -1,0 +1,113 @@
+vg|2002 Melchemie Top Circuit,Final 6C,P,21,30,Team 1,0,Team 2,0|
+rs|2HW+2,,1NS=,,4SW+1,,2HS+1,,3SN+1,,2HN+2,,3NS+3,,4SS+1,,4HN=,,4HS+1,|
+pw|Van der Neut,De Groot,De Bruyn,Bruggeman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o21|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|3SK9HQ5DKJ4C987632,SJT2HA9DA982CAKJT,SA7653HK643D75CQ4,SQ84HJT872DQT63C5|sv|n|
+mb|P|mb|P|mb|P|mb|1N|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|H3|pc|H2|pc|HQ|pc|HA|pg||
+pc|H9|pc|H4|pc|HJ|pc|H5|pg||
+pc|H7|pc|C2|pc|D2|pc|HK|pg||
+pc|D7|pc|D3|pc|DJ|pc|DA|pg||
+pc|CA|pc|C4|pc|C5|pc|C3|pg||
+pc|CK|pc|CQ|pc|S4|pc|C6|pg||
+pc|CT|pc|S7|pc|S8|pc|C7|pg||
+pc|CJ|pc|H6|pc|H8|pc|C8|pg||
+mc|10|pg||
+qx|o22|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|4SA92HJT2DKQ8CJ942,SK8H9654DJ9543C63,S64HAK73DT62CAT87,SQJT753HQ8DA7CKQ5|sv|e|
+mb|1S|mb|P|mb|P|mb|D|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
+pc|D3|pc|D2|pc|DA|pc|D8|pg||
+pc|D7|pc|DK|pc|D4|pc|D6|pg||
+pc|CJ|pc|C3|pc|CA|pc|C5|pg||
+pc|H3|pc|HQ|pc|HJ|pc|H4|pg||
+mc|7|pg||
+qx|o23|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|1S62HKJ9652D82CKJT,SAT983HQ4DKQ743C4,SJ75HAT8D5CQ98765,SKQ4H73DAJT96CA32|sv|b|
+mb|2D|mb|2S|mb|P|mb|3D|mb|P|mb|4D|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|HA|pc|H3|pc|H2|pc|H4|pg||
+pc|HT|pc|H7|pc|HK|pc|HQ|pg||
+pc|CT|pc|C4|pc|C5|pc|CA|pg||
+pc|SK|pc|S2|pc|S3|pc|S5|pg||
+pc|SQ|pg||
+mc|11|pg||
+qx|o24|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|2SAKJ9HA87432D84C3,SQ32HQJDAT752CQ86,S874HK6DQ63CAJT94,ST65HT95DKJ9CK752|sv|0|
+mb|P|mb|P|mb|P|mb|1H|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|C6|pc|CA|pc|C2|pc|C3|pg||
+pc|S4|pc|S6|pc|SA|pc|S2|pg||
+pc|SK|pc|S3|pc|S7|pc|S5|pg||
+pc|HA|pc|HJ|pc|H6|pc|H5|pg||
+pc|H2|pc|HQ|pc|HK|pc|H9|pg||
+pc|S8|pc|ST|pc|SJ|pc|SQ|pg||
+mc|9|pg||
+qx|o25|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|3SK832HAT9DQ74CQJ5,SQT7HQJ6DKJT6CA64,SAJ965H8DA5C98732,S4HK75432D9832CKT|sv|e|
+mb|P|mb|P|mb|1C|mb|P|mb|1S|mb|P|mb|P|mb|1N|mb|3C|mb|P|mb|3S|mb|P|mb|P|mb|P|pg||
+pc|H3|pc|HA|pc|H6|pc|H8|pg||
+pc|SK|pc|S7|pc|S5|pc|S4|pg||
+pc|S2|pc|ST|pc|SJ|pc|H2|pg||
+pc|SA|pc|H4|pc|S3|pc|SQ|pg||
+pc|C3|pc|CK|pc|C5|pc|C4|pg||
+pc|D9|pc|DQ|pc|DK|pc|DA|pg||
+pc|C2|pc|CT|pc|CQ|pc|C6|pg||
+pc|CJ|pc|CA|pc|C7|pc|H5|pg||
+mc|10|pg||
+qx|o26|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|4SKJTHJ82DKQ7CQT97,SA632HQ7DJ84CA543,SQ9HAT9543DT93CK8,S8754HK6DA652CJ62|sv|b|
+mb|P|mb|1C|mb|P|mb|1H|mb|P|mb|1N|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|S5|pc|SJ|pc|SA|pc|S9|pg||
+pc|C4|pc|C8|pc|C6|pc|C9|pg||
+pc|SK|pc|S2|pc|SQ|pc|S4|pg||
+pc|ST|pc|S3|pc|CK|pc|S7|pg||
+pc|H2|pc|H7|pc|HA|pc|H6|pg||
+pc|H3|pc|HK|pc|H8|pc|HQ|pg||
+pc|D5|pc|DK|pc|D4|pc|D3|pg||
+pc|CQ|pc|CA|pc|H4|pc|C2|pg||
+pc|D9|pc|DA|pg||
+mc|10|pg||
+qx|o27|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|1SAQHAQ73DJ876C972,S932HJ9864DKT52CA,S854HTDA3CKQJT863,SKJT76HK52DQ94C54|sv|0|
+mb|1D|mb|1H|mb|2C|mb|2H|mb|P|mb|P|mb|3H|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|H4|pc|HT|pc|HK|pc|HA|pg||
+pc|C2|pc|CA|pc|C3|pc|C5|pg||
+pc|HJ|pc|S4|pc|H2|pc|HQ|pg||
+pc|C7|pc|S2|pc|CK|pc|C4|pg||
+pc|CQ|pc|S6|pc|C9|pc|D2|pg||
+pc|CJ|pc|S7|pc|H3|pc|D5|pg||
+mc|12|pg||
+qx|o28|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|2SKJ943HA752DKT96C,ST8H986DA43CJT864,SQ752HKQJ3DJ8CA97,SA6HT4DQ752CKQ532|sv|n|
+mb|P|mb|1C|mb|P|mb|1S|mb|P|mb|2S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|H6|pc|HK|pc|H4|pc|H5|pg||
+pc|S2|pc|S6|pc|SJ|pc|S8|pg||
+pc|S3|pc|ST|pc|SQ|pc|SA|pg||
+mc|11|pg||
+qx|o29|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|3SJ53HT6DQT873CA94,SAT86H72DAK64C765,SK72HKQJ9843DCQT3,SQ94HA5DJ952CKJ82|sv|b|
+mb|4H|mb|P|mb|P|mb|P|pg||
+pc|C2|pc|C4|pc|C5|pc|CT|pg||
+pc|HJ|pc|H5|pc|H6|pc|H2|pg||
+pc|HQ|pc|HA|pc|HT|pc|H7|pg||
+pc|S4|pc|S5|pc|SA|pc|S2|pg||
+pc|DK|pc|H3|pc|D2|pc|D3|pg||
+pc|HK|pc|D5|pc|D7|pc|C6|pg||
+pc|H9|pc|D9|pc|D8|pc|D4|pg||
+pc|H8|pc|C8|pc|DT|pc|D6|pg||
+pc|H4|pc|DJ|pc|DQ|pc|DA|pg||
+pc|CQ|pc|CK|pc|CA|pc|C7|pg||
+pc|C9|pc|S6|pc|C3|pc|CJ|pg||
+pc|S9|pg||
+mc|10|pg||
+qx|o30|
+pn|Van der Neut,De Groot,De Bruyn,Bruggeman,South,West,North,East|md|4SKJ7HAQ97DKJCAT74,S932H643DA76543C2,SAQT8HJT52D9CK653,S654HK8DQT82CQJ98|sv|0|
+mb|P|mb|1C|mb|2D|mb|D|mb|3D|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|C2|pc|C3|pc|CQ|pc|CA|pg||
+pc|DK|pc|DA|pc|D9|pc|D2|pg||
+pc|S2|pc|ST|pc|S4|pc|S7|pg||
+pc|HJ|pc|H8|pc|H9|pc|H3|pg||
+pc|H2|pc|HK|pc|HA|pc|H4|pg||
+pc|HQ|pc|H6|pc|H5|pc|D8|pg||
+pc|DJ|pc|D3|pc|HT|pc|DQ|pg||
+mc|11|pg||

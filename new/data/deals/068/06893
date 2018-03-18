@@ -1,0 +1,128 @@
+vg|Cap Gemini 2000,2000.03.26,P,1,10,Team 1,0,Team 2,0|
+rs|3CW+1,,2DS-3,,3NS-1,,3SW+1,,4SWx=,,3NN+1,,3NW-2,,2HE+1,,4CE=,,4HN=,,|
+pw|Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,Nanev,Levin,Mihov,Weinstein,|pg||bn|21,22,23,24,25,26,27,28,29,30,|pg||
+mp|,3,0,,,4,,6,,5,1,,2,,,2,,5,6,,|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o1|md|3SQ52HKT9874DT2CJ6,ST43H652D9CQ97543,SA76HQ3DKJ8643CK2|sv|n|
+mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|d|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|D6|pc|DA|pc|D2|pc|D9|pg||
+pc|HA|pc|H4|pc|H5|pc|H3|pg||
+pc|HJ|pc|HK|pc|H6|pc|HQ|pg||
+pc|DT|pc|C5|pc|D3|pc|D5|pg||
+pc|CQ|pc|C2|pc|C8|pc|C6|pg||
+pc|H2|pc|D4|pc|CT|pc|H7|pg||
+pc|CA|pc|CJ|pc|C3|pc|CK|pg||
+mc|10|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o2|md|4SAK7HQ8DK973C9874,SQJ43HKT54DAJ5CT6,S982HA972D642CK52|sv|e|
+mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|S2|pc|ST|pc|SA|pg||
+pc|C4|pc|C6|pc|CK|pc|CA|pg||
+pc|S6|pc|SK|pc|S3|pc|S8|pg||
+pc|S7|pc|SJ|pc|S9|pc|S5|pg||
+pc|CT|pc|C2|pc|CJ|pc|C7|pg||
+pc|CQ|pc|C8|pc|H4|pc|C5|pg||
+pc|H3|pc|HQ|pc|HK|pc|H2|pg||
+pc|H5|pc|HA|pg||mc|5|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o3|md|1SJ72H54DKT962CK96,SQT63HT763DQCJ853,SA95HQJ982DAJ73CA|sv|b|
+mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|S5|pc|SK|pc|S7|pg||
+pc|S8|pc|S2|pc|ST|pc|S9|pg||
+pc|C5|pc|CA|pc|C2|pc|C6|pg||
+pc|DA|pc|D4|pc|D2|pc|DQ|pg||
+pc|DJ|pc|D5|pc|D6|pc|H3|pg||
+mc|8|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o4|md|2ST4HQ8752DQ6CAJ98,SJ9865HAJ3DKJ5C76,SQ32HKT96D742CK54|sv|0|
+mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|HT|pc|H4|pc|HQ|pc|HA|pg||
+pc|C7|pc|C5|pc|CT|pc|CJ|pg||
+pc|H8|pc|HJ|pc|HK|pc|S7|pg||
+pc|C2|pc|C8|pc|C6|pc|C4|pg||
+pc|S4|pc|S5|pc|S2|pc|SK|pg||
+pc|C3|pc|C9|pc|S6|pc|CK|pg||
+pc|H3|pc|H6|pc|SA|pc|H2|pg||
+pc|DT|pc|D6|pc|DK|pc|D2|pg||
+pc|SJ|pc|SQ|pc|D3|pc|ST|pg||
+pc|H9|pg||mc|10|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o5|md|3S8HAKTDAT8762CT52,S7432HQJ9843DQJCQ,SKQ5H752DK543CJ93|sv|e|
+mb|1N|mb|2H|mb|2N|mb|3S|mb|p|mb|4S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|H5|pc|H6|pc|HA|pc|H8|pg||
+pc|DA|pc|DQ|pc|D3|pc|D9|pg||
+pc|D2|pc|DJ|pc|DK|pc|S6|pg||
+pc|C4|pc|C2|pc|CQ|pc|C3|pg||
+pc|S2|pc|S5|pc|SJ|pc|S8|pg||
+pc|C6|pc|C5|pc|S3|pc|C9|pg||
+pc|S4|pc|SQ|pg||mc|10|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o6|md|4SJ954HK63D85CQT54,SQT76HJ7DQ6432C82,SAK8HQT52DAJTCAKJ|sv|b|
+mb|p|mb|p|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C7|pc|C4|pc|C8|pc|CA|pg||
+pc|H2|pc|H4|pc|HK|pc|H7|pg||
+pc|H3|pc|HJ|pc|HQ|pc|HA|pg||
+pc|S3|pc|S4|pc|S6|pc|S8|pg||
+pc|SA|pg||mc|10|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o7|md|1ST875HTDJT873C853,SJ42HA8DQ94CAQJT6,SA6HKQ97642DKCK94|sv|0|
+mb|p|mb|1N|mb|2D|mb|d|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H3|pc|HT|pc|HA|pg||
+pc|S4|pc|SA|pc|S3|pc|S5|pg||
+pc|HQ|pc|H5|pc|D8|pc|H8|pg||
+pc|H2|pc|HJ|pc|C8|pc|D4|pg||
+pc|S9|pc|S7|pc|SJ|pc|S6|pg||
+pc|S2|pc|C4|pc|SK|pc|S8|pg||
+pc|SQ|pc|ST|pc|D9|pc|H4|pg||
+pc|C2|pc|C3|pc|CQ|pc|CK|pg||
+mc|7|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o8|md|2SQ82H97DT74CA9642,SJT6HA543DAQ653CQ,SA9HQ82DKJ2CKJT73|sv|n|
+mb|1D|mb|1N|mb|p|mb|p|pg||
+pc|H9|pc|H3|pc|HQ|pc|HK|pg||
+pc|C5|pc|CA|pc|CQ|pc|C7|pg||
+pc|H7|pc|HA|pc|H2|pc|H6|pg||
+pc|SJ|pc|SA|pc|S5|pc|S8|pg||
+pc|H8|pc|HT|pc|C2|pc|H4|pg||
+pc|D8|pc|D4|pc|DA|pc|D2|pg||
+pc|ST|pc|S9|pc|SK|pc|S2|pg||
+pc|S3|pg||mc|9|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o9|md|3S986H62DA86542C93,SQ752HAQJ75D3CKJ2,SAKJTHT43DKQJ7CQ4|sv|b|
+mb|1N|mb|p|mb|2N|mb|d|mb|3D|mb|4C|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D3|pc|DK|pc|DT|pg||
+mc|10|pg||
+pn|Nanev,Levin,Mihov,Weinstein|qx|o10|md|4SJ983HA64D7CKQT95,SAT52H95DJ6CJ6432,SK74HQJ732DAK82C8|sv|0|
+mb|1D|mb|d|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|
+nt|Round 1 results and rankings can be seen by clicking the End button |pg||
+pc|CA|pc|C5|pc|C6|pc|C8|pg||
+pc|SQ|pc|S3|pc|SA|pc|S4|pg||
+pc|C4|pc|D2|pc|C7|pc|C9|pg||
+pc|D7|pc|D6|pc|DA|pc|D3|pg||
+pc|HQ|pc|HK|pc|HA|pc|H5|pg||
+pc|H4|pc|H9|pc|HJ|pc|H8|pg||
+pc|H2|pg||mc|10|pg||nt||pg||
+bt||mn|Cap Gemini 2000 R15 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DChagas-Branco ^K60 ^MLeufkens-Westra ^U40
+^B2 ^DHampson-Greco ^K34 ^MTuszynski-Jassem ^U66
+^B3 ^DAndersson-Gullberg ^K57 ^MLambardi-Lucena ^U43
+^B4 ^DBerkowitz-Cohen ^K49 ^MBuratti-Lanzarotti ^U51
+^B5 ^DLauria-Versace ^K76 ^MMeckstroth-Rodwell ^U24
+^B6 ^DHackett Ju-Hackett Ja ^K52 ^MPasman-Simons ^U48
+^B7 ^DNab-Bertens ^K26 ^MMahmood-Robson ^U74
+^B8 ^DMihov-Nanev ^K34 ^MWeinstein-Levin ^U66
+
+
+
+
+^JRank after Round 15
+
+^DPair ^KScore ^PPair ^VScore
+
+^B1 ^CMahmood-Robson ^K902 ^M9 ^OMeckstroth-Rodwell ^V733
+^B2 ^CLevin-Weinstein ^K896 ^M10 ^OMihov-Nanev ^V730
+^B3 ^CTuszynski-Jassem ^K839 ^M11 ^OGullberg-Andersson ^V714
+^B4 ^CChagas-Branco ^K814 ^M12 ^OLauria-Versace ^V697
+^B5 ^CHampson-Greco ^K800 ^M13 ^OWestra-Leufkens ^V694
+^B6 ^CLambardi-Lucena ^K782 ^M14 ^OLanzarotti-Buratti ^V657
+^B7 ^CBertens-Nab ^K755 ^M15 ^OBerkowitz-Cohen ^V623
+^B8 ^CHackett Ju-Hackett Ja ^K744 ^M16 ^OPasman-Simons ^V609
+|pg||st||nt||

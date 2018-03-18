@@ -1,0 +1,107 @@
+vg|3rd ING BANK Top Circuit 2000,Match 15C,P,21,30,Team 1,0,Team 2,0|
+rs|3NS-3,,2HS+1,,3CN+1,,3SW-1,,2HW+2,,5HSx-2,,2SE-1,,4SS=,,6SSx-2,,3SN=,|
+pw|Jansma,Ramondt,Verhees,Maas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|21,22,23,24,25,26,27,28,29,30|
+pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o21,BOARD 21|rh||ah|Board 21|md|3SAQ82HKT72D76CQ85,SK97HA9DKJ92CK742,S5H654DAQT54CAJ63|sv|n|
+sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|C3|pc|C9|pc|CQ|pg||
+pc|D6|pc|D2|pc|DT|pc|D3|pg||
+pc|H4|pc|H3|pc|HK|pc|HA|pg||
+pc|C2|pc|CJ|pc|CT|pc|C8|pg||
+pc|S5|pc|ST|pc|SQ|pc|SK|pg||
+pc|S9|pc|H5|pc|S3|pc|SA|pg||
+pc|D7|pc|D9|pc|DQ|pc|D8|pg||
+pc|DA|pc|S4|pc|H2|pc|DJ|pg||
+pc|D4|pc|S6|pc|H7|pc|DK|pg||
+pc|S7|pc|H6|pc|SJ|pc|S2|pg||
+pc|HQ|pc|HT|pc|H9|pc|C6|pg||
+mc|6|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o22,BOARD 22|rh||ah|Board 22|md|4SK92HA3DKQ862CKJ5,SAQT84H94DJT4CQ42,S7HJ8752DA95CT973|sv|e|
+sa|0|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|DJ|pc|D5|pc|D7|pc|DK|pg||
+pc|HA|pc|H4|pc|H2|pc|H6|pg||
+pc|H3|pc|H9|pc|HJ|pc|HQ|pg||
+pc|S5|pc|S2|pc|S8|pc|S7|pg||
+pc|S4|pc|C3|pc|SJ|pc|SK|pg||
+pc|D2|pc|D4|pc|DA|pc|D3|pg||
+pc|H5|pc|HT|pc|S9|pc|ST|pg||
+pc|S3|pc|C5|pc|SQ|pc|H7|pg||
+pc|D9|pc|C6|pc|DQ|pc|DT|pg||
+pc|D8|pc|C4|pc|C7|pc|HK|pg||
+pc|C8|pc|CK|pc|C2|pc|C9|pg||
+pc|D6|pc|CQ|pc|CT|pc|S6|pg||
+pc|CJ|pc|SA|pc|H8|pc|CA|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o23,BOARD 23|rh||ah|Board 23|md|1SKQTH9765D92CA865,SA8753HT4DAJT3C92,S4HKQ8DK654CKQJ74|sv|b|
+sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|1S|mb|d|mb|2S|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|SK|pc|SA|pc|S4|pg||
+pc|HT|pc|HK|pc|H2|pc|H5|pg||
+pc|CK|pc|C3|pc|C5|pc|C2|pg||
+pc|C4|pc|CT|pc|CA|pc|C9|pg||
+pc|SQ|pc|S3|pc|H8|pc|S9|pg||
+pc|D2|pc|DT|pc|DK|pc|D7|pg||
+mc|10|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o24,BOARD 24|rh||ah|Board 24|md|2SJ5HQT8DT876432CT,SQ932HJ53D95CQ985,SKT8HA642DKQCJ432|sv|0|
+sa|0|mb|p|mb|1C|mb|d|mb|p|mb|1S|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DA|pc|D8|pc|D5|pg||
+pc|S4|pc|S5|pc|S9|pc|ST|pg||
+pc|HA|pc|H7|pc|H8|pc|H5|pg||
+pc|H6|pc|H9|pc|HQ|pc|H3|pg||
+pc|D7|pc|D9|pc|DQ|pc|DJ|pg||
+pc|H2|pc|HK|pc|HT|pc|HJ|pg||
+pc|SA|pc|SJ|pc|S2|pc|S8|pg||
+pc|C6|pc|CT|pc|CQ|pc|C2|pg||
+pc|C9|pc|C3|pc|CA|pc|D2|pg||
+pc|S6|pc|D3|pc|S3|pc|SK|pg||
+mc|8|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o25,BOARD 25|rh||ah|Board 25|md|3S32HT82DK4CQ86432,SAQJ5HAKJ754D98C7,SK9874HQ3DQ75CAK9|sv|e|
+sa|0|mb|1S|mb|p|mb|1N|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C5|pc|C2|pc|C7|pg||
+pc|C9|pc|CT|pc|C3|pc|D8|pg||
+pc|H6|pc|H2|pc|HJ|pc|HQ|pg||
+pc|CK|pc|CJ|pc|CQ|pc|H4|pg||
+pc|HA|pc|H3|pc|H9|pc|H8|pg||
+pc|HK|mc|10|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o26,BOARD 26|rh||ah|Board 26|md|4SHAQ9874DA65CJ642,SJ63H3DKJT943CAQT,SA75HKT65DQ87C853|sv|b|
+sa|0|mb|3S|mb|4H|mb|4S|mb|5H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|SA|pc|S2|pc|D5|pg||
+pc|S5|pc|S8|pc|H9|pc|S6|pg||
+pc|HQ|pc|H3|pc|H5|pc|H2|pg||
+pc|H8|pc|D4|pc|HK|pc|HJ|pg||
+pc|S7|pc|SQ|pc|HA|pc|SJ|pg||
+pc|DA|pc|D3|pc|D7|pc|D2|pg||
+pc|D6|pc|DK|pc|D8|pc|S4|pg||
+pc|DJ|pc|DQ|mc|9|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o27,BOARD 27|rh||ah|Board 27|md|1SA865HQ63DKJT5C32,SHAKT2DAQ94CJT754,SKQ3H754D872CAK96|sv|0|
+sa|0|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|C3|pc|C5|pc|CK|pc|C8|pg||
+pc|CA|pc|CQ|pc|C2|pc|C4|pg||
+pc|C9|pc|ST|pc|H3|pc|C7|pg||
+pc|D3|pc|D5|pc|DQ|pc|D2|pg||
+mc|7|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o28,BOARD 28|rh||ah|Board 28|md|2SJ8642HQDQ4CAK643,SQ5H8543DAKT63CT2,SA73HAKJ7DJ982CQ7|sv|n|
+sa|0|mb|1N|mb|d|mb|p|mb|p|mb|2D|mb|d|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D2|pc|D5|pc|D4|pg||
+pc|H4|pc|H7|pc|H9|pc|HQ|pg||
+pc|S2|pc|S5|pc|SA|pc|S9|pg||
+pc|HA|pc|H2|pc|DQ|pc|H3|pg||
+pc|S3|pc|ST|pc|SJ|pc|SQ|pg||
+mc|10|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o29,BOARD 29|rh||ah|Board 29|md|3SAT942HK2DQ32CKQ7,SKJHJT9875DT75CJ5,SQ86HAQ643DACA832|sv|b|
+sa|0|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|5H|mb|p|mb|6S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HJ|pc|HA|pc|S5|pc|H2|pg||
+pc|S3|pc|S2|pc|SK|pc|S6|pg||
+pc|HT|pc|H3|pc|S7|pc|HK|pg||
+pc|D6|pc|D2|pc|D7|pc|DA|pg||
+pc|SQ|pc|D4|pc|S4|pc|SJ|pg||
+mc|10|pg||
+pn|Jansma,Ramondt,Verhees,Maas|qx|o30,BOARD 30|rh||ah|Board 30|md|4SQ832HAQDKQJ4CKJ2,SJ7HK8642D95CAQ93,SKT965H9DT732CT85|sv|0|
+sa|0|mb|p|mb|1C|mb|1H|mb|p|mb|2N|mb|d|mb|3H|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|HJ|pc|HA|pc|H8|pc|H9|pg||
+pc|HQ|pc|HK|pc|S5|pc|H7|pg||
+pc|S6|pc|S4|pc|SQ|pc|S7|pg||
+pc|S2|pc|SJ|pc|SK|pc|SA|pg||
+pc|C7|pc|C2|pc|CQ|pc|CT|pg||
+pc|CA|pc|C5|pc|C4|pc|CJ|pg||
+mc|9|pg||

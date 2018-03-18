@@ -1,0 +1,101 @@
+vg|2002 Melchemie Top Circuit,Final 12A,P,21,30,Team 1,0,Team 2,0|
+rs|3HN-2,,2HN=,,4HW+1,,5CN=,,4HE=,,5CE=,,1HS=,,4HS=,,3NE=,,6DN=,|
+pw|Burghout,De Wijs,Drijver,Muller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o21|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|3SJ5H543DKT3CAQ962,SK98743HQDA76CJT8,SAT2HJ9872DQJ4CK7,SQ6HAKT6D9852C543|sv|n|
+mb|1H|mb|P|mb|2H|mb|2S|mb|P|mb|P|mb|3C|mb|P|mb|3H|mb|P|mb|P|mb|P|pg||
+pc|SQ|pc|S5|pc|S3|pc|S2|pg||
+pc|S6|pc|SJ|pc|SK|pc|SA|pg||
+pc|C7|pc|C5|pc|CQ|pc|CT|pg||
+pc|H3|pc|HQ|pc|H2|pc|H6|pg||
+pc|S9|pc|ST|pc|HT|pc|C2|pg||
+pc|HK|pc|H4|pc|S4|pc|H7|pg||
+pc|HA|pg||
+mc|7|pg||
+qx|o22|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|4SAJT42HQ62D987CT9,S653HKT9DAT64CJ32,SQHJ8743DQJCAKQ65,SK987HA5DK532C874|sv|e|
+mb|P|mb|P|mb|P|mb|1H|mb|P|mb|1S|mb|P|mb|2C|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|D3|pc|D7|pc|DA|pc|DJ|pg||
+pc|D4|pc|DQ|pc|DK|pc|D8|pg||
+pc|D5|pc|D9|pc|DT|pc|H3|pg||
+pc|H4|pc|H5|pc|HQ|pc|HK|pg||
+pc|C2|pc|CA|pc|C7|pc|C9|pg||
+pc|CK|pc|C4|pc|CT|pc|C3|pg||
+pc|CQ|pc|C8|pc|H2|pc|CJ|pg||
+pc|H6|pg||
+mc|8|pg||
+qx|o23|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|1SJT93H872DAQ987C8,SKHAKJT954DCKJT93,S8764HDKJ542CA764,SAQ52HQ63DT63CQ52|sv|b|
+mb|P|mb|1H|mb|D|mb|R|mb|2D|mb|4C|mb|P|mb|4D|mb|D|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|C2|pc|C8|pc|C3|pg||
+pc|C4|pc|C5|pc|H2|pc|C9|pg||
+pc|D7|pg||
+mc|11|pg||
+qx|o24|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|2SA9753H9DK8653CKQ,SQJT42H42DAQJT2C6,SK8HQJ3DCAJT97543,S6HAKT8765D974C82|sv|0|
+mb|1S|mb|5C|mb|P|mb|P|mb|P|pg||
+pc|S6|pc|S3|pc|ST|pc|SK|pg||
+pc|HQ|pc|HK|pc|H9|pc|H2|pg||
+mc|11|pg||
+qx|o25|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|3S73H62DAKQ952C962,SAT5HA973DJ63CAKJ,SKQ9642HKDT87C754,SJ8HQJT854D4CQT83|sv|e|
+mb|2D|mb|P|mb|P|mb|D|mb|3D|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|DA|pc|D3|pc|DT|pc|D4|pg||
+pc|S7|pc|SA|pc|S2|pc|S8|pg||
+pc|D6|pc|D7|pc|H4|pc|D2|pg||
+pc|HQ|pc|H2|pc|H3|pc|HK|pg||
+pc|SK|pc|SJ|pc|S3|pc|S5|pg||
+pc|S4|pg||
+mc|10|pg||
+qx|o26|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|4SJ2HAT742DT87CAT6,SHKQ863DKQ95CKJ94,SQ9754HJ95D432C85,SAKT863HDAJ6CQ732|sv|b|
+mb|1S|mb|P|mb|2H|mb|P|mb|2S|mb|P|mb|2N|mb|P|mb|3C|mb|P|mb|3N|mb|P|mb|4S|mb|P|mb|5C|mb|P|mb|P|mb|P|pg||
+pc|D7|pc|D5|pc|D4|pc|DA|pg||
+pc|C3|pc|CA|pc|C4|pc|C5|pg||
+pc|C6|pc|C9|pc|C8|pc|C2|pg||
+pc|CJ|pc|H9|pg||
+mc|11|pg||
+qx|o27|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|1SA64HQJ84DA73CJT9,S982HK75DQ94CKQ72,SKQ3HT2DT865CA643,SJT75HA963DKJ2C85|sv|0|
+mb|P|mb|P|mb|1C|mb|P|mb|1H|mb|P|mb|P|mb|P|pg||
+pc|H5|pc|H2|pc|H9|pc|HJ|pg||
+pc|H4|pc|HK|pc|HT|pc|H3|pg||
+pc|CK|pc|CA|pc|C8|pc|CT|pg||
+pc|S3|pc|S5|pc|SA|pc|S9|pg||
+pc|HQ|pc|H7|pc|D5|pc|HA|pg||
+pc|C5|pc|C9|pc|CQ|pc|C3|pg||
+pc|C2|pc|C4|pc|H6|pc|CJ|pg||
+pc|S7|pc|S4|pc|S2|pc|SQ|pg||
+pc|D6|pg||
+mc|7|pg||
+qx|o28|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|2SAK54HAJT2DKJTC95,ST9863HK54D65CT74,S7H863DA984CAQJ63,SQJ2HQ97DQ732CK82|sv|n|
+mb|P|mb|1C|mb|P|mb|1H|mb|P|mb|2H|mb|P|mb|3N|mb|P|mb|4C|mb|P|mb|4D|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|D6|pc|D4|pc|D2|pc|DJ|pg||
+pc|SK|pc|ST|pc|S7|pc|SQ|pg||
+pc|S4|pc|S6|pc|H3|pc|S2|pg||
+pc|H6|pc|H7|pc|HT|pc|HK|pg||
+pc|D5|pc|D8|pc|D3|pc|DT|pg||
+pc|HA|pc|H4|pc|H8|pc|H9|pg||
+pc|H2|pc|H5|pc|C3|pc|HQ|pg||
+pc|SJ|pg||
+mc|10|pg||
+qx|o29|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|3SQ852HK84D8CKQJ42,SK73HA97DA654C865,SJT964HQJ6DJ93CT7,SAHT532DKQT72CA93|sv|b|
+mb|P|mb|1D|mb|P|mb|3D|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|CK|pc|C5|pc|CT|pc|C3|pg||
+pc|CQ|pc|C6|pc|C7|pc|CA|pg||
+pc|DK|pc|D8|pc|D4|pc|D3|pg||
+pc|D2|pg||
+mc|9|pg||
+qx|o30|
+pn|Burghout,De Wijs,Drijver,Muller,South,West,North,East|md|4SK82HKJT87D6CAKQ4,STHA54DQT2CJ87632,SAQJ9HQ6DAKJ83C95,S76543H932D9754CT|sv|0|
+mb|P|mb|1H|mb|P|mb|2D|mb|P|mb|3C|mb|P|mb|4N|mb|P|mb|5D|mb|P|mb|6D|mb|P|mb|P|mb|P|pg||
+pc|CT|pc|CA|pc|C2|pc|C5|pg||
+pc|D6|pc|D2|pc|DJ|pc|D4|pg||
+pc|H6|pc|H9|pc|HK|pc|HA|pg||
+pc|CJ|pc|C9|pc|D9|pc|C4|pg||
+pc|S7|pg||
+mc|12|pg||

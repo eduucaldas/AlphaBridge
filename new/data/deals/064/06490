@@ -1,0 +1,106 @@
+vg|2002 Melchemie Top Circuit,Final 6B,P,21,30,Team 1,0,Team 2,0|
+rs|5DE-3,,1NS=,,4SW+1,,4HS=,,2SN+1,,2HN+2,,3NS+1,,4SS+1,,3HN=,,4HS+1,|
+pw|Wintermans,De Wijs,Tammens,Muller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o21|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|3SK9HQ5DKJ4C987632,SJT2HA9DA982CAKJT,SA7653HK643D75CQ4,SQ84HJT872DQT63C5|sv|n|
+mb|P|mb|2H|mb|P|mb|2N|mb|P|mb|3D|mb|P|mb|4C|mb|P|mb|5C|mb|P|mb|5D|mb|P|mb|P|mb|P|pg||
+pc|S9|pc|S2|pc|SA|pc|S4|pg||
+pc|S7|pc|S8|pc|SK|pc|ST|pg||
+pc|C7|pc|CA|pc|C4|pc|C5|pg||
+pc|SJ|pc|S6|pc|SQ|pc|D4|pg||
+pc|C6|pc|CT|pc|CQ|pc|D3|pg||
+pc|DQ|pc|DK|pc|DA|pc|D5|pg||
+pc|D2|pc|D7|pc|DT|pc|DJ|pg||
+mc|8|pg||
+qx|o22|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|4SA92HJT2DKQ8CJ942,SK8H9654DJ9543C63,S64HAK73DT62CAT87,SQJT753HQ8DA7CKQ5|sv|e|
+mb|1S|mb|P|mb|P|mb|D|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
+pc|SK|pc|S4|pc|S3|pc|S2|pg||
+pc|D3|pc|D2|pc|DA|pc|D8|pg||
+pc|SQ|pc|S9|pc|S8|pc|S6|pg||
+pc|ST|pc|SA|pc|D4|pc|C7|pg||
+pc|DK|pc|D5|pc|D6|pc|D7|pg||
+pc|DQ|pc|D9|pc|DT|pc|CQ|pg||
+pc|H2|pc|H4|pc|HA|pc|H8|pg||
+pc|HK|pc|HQ|pc|HT|pc|H5|pg||
+pc|H3|pc|S5|pc|HJ|pc|H6|pg||
+pc|C2|pc|C3|pc|CA|pc|C5|pg||
+mc|7|pg||
+qx|o23|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|1S62HKJ9652D82CKJT,SAT983HQ4DKQ743C4,SJ75HAT8D5CQ98765,SKQ4H73DAJT96CA32|sv|b|
+mb|2H|mb|2S|mb|3H|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|D5|pc|DA|pc|D8|pc|D4|pg||
+pc|SK|pc|S2|pc|S3|pc|S5|pg||
+pc|SQ|pc|S6|pc|S8|pc|S7|pg||
+pc|S4|pc|H2|pc|SA|pc|SJ|pg||
+mc|11|pg||
+qx|o24|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|2SAKJ9HA87432D84C3,SQ32HQJDAT752CQ86,S874HK6DQ63CAJT94,ST65HT95DKJ9CK752|sv|0|
+mb|P|mb|P|mb|P|mb|1H|mb|D|mb|R|mb|1S|mb|2H|mb|P|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|S2|pc|S4|pc|ST|pc|SJ|pg||
+pc|D4|pc|D7|pc|DQ|pc|DK|pg||
+pc|S6|pc|SA|pc|SQ|pc|S7|pg||
+pc|H2|pc|HQ|pc|HK|pc|H5|pg||
+pc|H6|pc|H9|pc|HA|pc|HJ|pg||
+mc|10|pg||
+qx|o25|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|3SK832HAT9DQ74CQJ5,SQT7HQJ6DKJT6CA64,SAJ965H8DA5C98732,S4HK75432D9832CKT|sv|e|
+mb|2S|mb|P|mb|P|mb|P|pg||
+pc|H2|pc|HA|pc|H6|pc|H8|pg||
+pc|SK|pc|S7|pc|S5|pc|S4|pg||
+pc|S2|pc|ST|pc|SA|pc|H3|pg||
+pc|C2|pc|CK|pc|C5|pc|C6|pg||
+pc|D9|pc|DQ|pc|DK|pc|DA|pg||
+pc|C3|pc|CT|pc|CJ|pc|CA|pg||
+pc|DJ|pc|D5|pc|D2|pc|D4|pg||
+mc|9|pg||
+qx|o26|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|4SKJTHJ82DKQ7CQT97,SA632HQ7DJ84CA543,SQ9HAT9543DT93CK8,S8754HK6DA652CJ62|sv|b|
+mb|P|mb|1C|mb|P|mb|1H|mb|P|mb|1N|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|S5|pc|ST|pc|SA|pc|S9|pg||
+pc|C3|pc|C8|pc|C6|pc|C7|pg||
+pc|SQ|pc|S4|pc|SK|pc|S2|pg||
+pc|SJ|pc|S3|pc|CK|pc|S7|pg||
+pc|H2|pc|H7|pc|HA|pc|H6|pg||
+pc|H3|pc|HK|pc|H8|pc|HQ|pg||
+mc|10|pg||
+qx|o27|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|1SAQHAQ73DJ876C972,S932HJ9864DKT52CA,S854HTDA3CKQJT863,SKJT76HK52DQ94C54|sv|0|
+mb|1C|mb|1H|mb|3H|mb|D|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|H4|pc|HT|pc|HK|pc|HA|pg||
+pc|C7|pc|CA|pc|C3|pc|C5|pg||
+pc|D2|pc|D3|pc|DQ|pc|D7|pg||
+pc|D9|pg||
+mc|10|pg||
+qx|o28|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|2SKJ943HA752DKT96C,ST8H986DA43CJT864,SQ752HKQJ3DJ8CA97,SA6HT4DQ752CKQ532|sv|n|
+mb|P|mb|1C|mb|P|mb|1S|mb|P|mb|2S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|H9|pc|HK|pc|H4|pc|H5|pg||
+pc|S2|pc|S6|pc|SJ|pc|S8|pg||
+pc|S4|pc|ST|pc|SQ|pc|SA|pg||
+pc|CK|pc|D6|pc|C4|pc|CA|pg||
+pc|DJ|pc|D2|pc|D9|pc|DA|pg||
+mc|11|pg||
+qx|o29|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|3SJ53HT6DQT873CA94,SAT86H72DAK64C765,SK72HKQJ9843DCQT3,SQ94HA5DJ952CKJ82|sv|b|
+mb|1H|mb|P|mb|1N|mb|D|mb|2H|mb|2S|mb|P|mb|P|mb|3H|mb|P|mb|P|mb|P|pg||
+pc|C8|pc|C4|pc|C7|pc|CT|pg||
+pc|HK|pc|HA|pc|H6|pc|H2|pg||
+pc|H5|pc|HT|pc|H7|pc|HQ|pg||
+pc|HJ|pc|D2|pc|D3|pc|S6|pg||
+pc|H8|pc|D5|pc|D7|pc|D4|pg||
+pc|S2|pc|S4|pc|SJ|pc|SA|pg||
+pc|C6|pc|C3|pc|CJ|pc|CA|pg||
+mc|9|pg||
+qx|o30|
+pn|Wintermans,De Wijs,Tammens,Muller,South,West,North,East|md|4SKJ7HAQ97DKJCAT74,S932H643DA76543C2,SAQT8HJT52D9CK653,S654HK8DQT82CQJ98|sv|0|
+mb|P|mb|1C|mb|2D|mb|D|mb|3D|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|C2|pc|C3|pc|CJ|pc|CA|pg||
+pc|S7|pc|S3|pc|SA|pc|S6|pg||
+pc|HJ|pc|H8|pc|H7|pc|H3|pg||
+pc|H2|pc|HK|pc|HA|pc|H4|pg||
+pc|HQ|pc|H6|pc|H5|pc|D2|pg||
+pc|C4|pg||
+mc|11|pg||

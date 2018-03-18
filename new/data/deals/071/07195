@@ -1,0 +1,111 @@
+vg|3rd ING BANK Top Circuit 2000,Match 6B,P,1,10,Team 1,0,Team 2,0|
+rs|2DS+1,,3NN-1,,2HE=,,4HN+1,,3HN+1,,6CN=,,4HS=,,5SW-1,,5CNx-4,,4HSx-3,|
+pw|Daemen,Ramer,Oosthoek,Paulissen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|1,2,3,4,5,6,7,8,9,10|
+pg||
+mn|3rd ING BANK Top Circuit 2000 - 2000.06.11|pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o1,BOARD 1|rh||ah|Board 1|md|3SAJ986HAK652D72C6,ST7HJ9D53CKT97432,S32HT7DQJT986CQJ5|sv|0|
+sa|0|mb|p|mb|1C|mb|2D|mb|p|mb|p|mb|p|pg||
+pc|C7|pc|CQ|pc|CA|pc|C6|pg||
+pc|C8|pc|D2|pc|C4|pc|C5|pg||
+pc|HA|pc|H9|pc|H7|pc|H3|pg||
+pc|HK|pc|HJ|pc|HT|pc|H4|pg||
+pc|H2|pc|S7|pc|D6|pc|H8|pg||
+pc|CJ|pc|S4|pc|D7|pc|C2|pg||
+pc|SA|pc|ST|pc|S2|pc|S5|pg||
+mc|9|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o2,BOARD 2|rh||ah|Board 2|md|4SJT98HK4DAKQ42CA6,SK543HAQ863DJ5C42,S7HJT95D876CKQJT8|sv|n|
+sa|0|mb|p|mb|1D|mb|1H|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|H4|pc|HQ|pc|H5|pg||
+pc|S3|pc|S7|pc|SQ|pc|S8|pg||
+pc|SA|pc|S9|pc|S4|pc|D6|pg||
+pc|S6|pc|ST|pc|SK|pc|D7|pg||
+pc|HA|pc|H9|pc|H7|pc|HK|pg||
+mc|8|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o3,BOARD 3|rh||ah|Board 3|md|1SKJ3HA94DQ74CK864,S9764HT82DAKT3CT9,SA85H76DJ982CQJ52|sv|e|
+sa|0|mb|1C|mb|p|mb|1N|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|C6|pc|C9|pc|CJ|pc|C3|pg||
+pc|S5|pc|S2|pc|SJ|pc|S4|pg||
+pc|S3|pc|S6|pc|SA|pc|SQ|pg||
+pc|S8|pc|ST|pc|SK|pc|S7|pg||
+pc|D4|pc|DA|pc|D2|pc|D5|pg||
+mc|8|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o4,BOARD 4|rh||ah|Board 4|md|2SA4H62D6542CAKJ86,SQ93HT984DKJT8CQ9,ST52HAKQJ7DA7C754|sv|b|
+sa|0|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S7|pc|S4|pc|SQ|pc|S2|pg||
+pc|H4|pc|HA|pc|H3|pc|H2|pg||
+pc|C4|pc|C2|pc|CA|pc|C9|pg||
+pc|H6|pc|H8|pc|HK|pc|H5|pg||
+pc|HQ|pc|S6|pc|D2|pc|HT|pg||
+pc|HJ|pc|D3|pc|D4|pc|H9|pg||
+pc|C7|pc|C3|pc|CJ|pc|CQ|pg||
+mc|11|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o5,BOARD 5|rh||ah|Board 5|md|3SAJ854H9DJT9CQ987,STHK5DA742CKT5432,S7632HAQJT843D5CJ|sv|n|
+sa|0|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D9|pc|D2|pc|D5|pg||
+pc|CA|pc|C7|pc|C5|pc|CJ|pg||
+pc|D8|pc|DT|pc|DA|pc|H3|pg||
+pc|S2|pc|SQ|pc|SA|pc|ST|pg||
+pc|H9|pc|H5|pc|HQ|pc|H2|pg||
+pc|HA|pc|H6|pc|DJ|pc|HK|pg||
+pc|HJ|pc|H7|pc|C8|pc|C3|pg||
+pc|HT|pc|D3|pc|S4|pc|C2|pg||
+pc|S6|pc|SK|pc|S5|pc|D4|pg||
+mc|10|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o6,BOARD 6|rh||ah|Board 6|md|4SQ6H7DKJ983CJ9874,ST9543HQ986DT752C,SAKHAT53DA6CAQ632|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|6C|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|S6|pc|S9|pc|SA|pg||
+pc|CA|pc|C5|pc|C4|pc|S4|pg||
+pc|C2|pc|CK|pc|C7|pc|S3|pg||
+pc|S7|pc|SQ|pc|S5|pc|SK|pg||
+pc|C3|pc|CT|pc|CJ|pc|ST|pg||
+pc|D3|pc|D2|pc|DA|pc|D4|pg||
+pc|D6|pc|DQ|pc|DK|pc|D5|pg||
+mc|12|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o7,BOARD 7|rh||ah|Board 7|md|1S42HK7542DKT2CAQ5,SKJHT9DA93CT87632,SA76HAJ86DJ8765C9|sv|b|
+sa|0|mb|1H|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|HT|pc|H6|pc|H3|pc|HK|pg||
+pc|H2|pc|H9|pc|HA|pc|HQ|pg||
+pc|D5|pc|D4|pc|DT|pc|DA|pg||
+pc|SK|pc|SA|pc|S3|pc|S2|pg||
+pc|DJ|pc|DQ|pc|DK|pc|D3|pg||
+pc|D2|pc|D9|pc|D6|pc|CK|pg||
+mc|10|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o8,BOARD 8|rh||ah|Board 8|md|2S853HT985DT8542CK,SAKJT92HKDAQ6CAQ3,SHAQ6432DK9CJ9864|sv|0|
+sa|0|mb|1S|mb|2H|mb|2S|mb|3H|mb|4C|mb|4H|mb|4S|mb|p|mb|p|mb|5H|mb|p|mb|p|mb|5S|mb|p|mb|p|mb|p|pg||
+pc|HA|pc|H7|pc|H8|pc|HK|pg||
+pc|C4|pc|C2|pc|CK|pc|CA|pg||
+pc|SA|pc|H2|pc|S4|pc|S5|pg||
+pc|SK|pc|H3|pc|S6|pc|S3|pg||
+pc|SJ|pc|H4|pc|SQ|pc|S8|pg||
+pc|HJ|pc|H9|pc|ST|pc|HQ|pg||
+pc|CQ|pc|C6|pc|C5|pc|D2|pg||
+pc|C3|pc|CJ|pc|C7|pc|D5|pg||
+pc|C8|pc|CT|pc|H5|pc|D6|pg||
+pc|D3|pc|D4|pc|DQ|pc|DK|pg||
+mc|10|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o9,BOARD 9|rh||ah|Board 9|md|3SJT85H7DKQ765CQ74,SA92HKQT952DAT9C6,S63H86DJ42CAJT532|sv|e|
+sa|0|mb|3C|mb|p|mb|5C|mb|d|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S5|pc|S9|pc|S3|pg||
+pc|S4|pc|SJ|pc|SA|pc|S6|pg||
+pc|C6|pc|C2|pc|CK|pc|C4|pg||
+pc|C9|pc|C7|pc|H2|pc|CJ|pg||
+pc|D4|pc|D3|pc|DK|pc|D9|pg||
+pc|S8|pc|S2|pc|CT|pc|S7|pg||
+pc|DJ|pc|D8|pc|D5|pc|DA|pg||
+pc|HK|pc|H6|pc|H3|pc|H7|pg||
+pc|DT|pc|D2|pc|C8|pc|D6|pg||
+mc|7|pg||
+pn|Daemen,Ramer,Oosthoek,Paulissen|qx|o10,BOARD 10|rh||ah|Board 10|md|4SKHKT987654DCKT62,S9864HADAKQ75CAQJ,SQ753H2DJ9842C543|sv|b|
+sa|0|mb|p|mb|4H|mb|d|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D2|pc|DT|pc|H4|pg||
+pc|SK|pc|S4|pc|S3|pc|SA|pg||
+pc|D3|pc|H5|pc|D5|pc|D4|pg||
+pc|H6|pc|HA|pc|H2|pc|H3|pg||
+pc|DQ|pc|D8|pc|D6|pc|H7|pg||
+pc|HK|pc|D7|pc|S5|pc|HQ|pg||
+pc|HT|pc|S6|pc|C3|pc|HJ|pg||
+pc|C9|pc|CT|pc|CJ|pc|C4|pg||
+pc|S8|pc|SQ|pc|S2|pc|C2|pg||
+pc|C5|pc|C7|pc|C6|pc|CQ|pg||
+mc|7|pg||

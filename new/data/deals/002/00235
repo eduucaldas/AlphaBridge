@@ -1,0 +1,186 @@
+vg|Camrose 2003/04 Match 2,Dec 6 2003,I,1,30,England,0,Ireland,0|
+rs|5DSx=,5DS=,3NS+2,3NS+1,4SN=,4SS=,4HE+1,4HW+1,4SN+1,4SN+1,5DN+1,3DS+3,1NS+3,1NS-1,4SW=,4SE=,6HN=,4HN+2,6SN=,6CS=,3NW=,2SSx-4,3NS+1,3CS-3,3NE+4,4NW+1,3HS+1,4HS-1,4SN=,4SN=,2HN+2,2SS+2,4SE-1,5DSx-3,5SSx-1,6CEx-1,3NE=,3NE=,4SE-1,4SW-1,7CWx-4,7CWx-5,1NN=,1NN=,3CW=,3CW=,4HN+1,4SS+1,4SS-1,3NN=,5SN=,4SN+1,3NS+3,3NN+1,4NN+2,3NN+3,1NW-1,1NE=,3DE-4,3NS-1|
+pn|King,Coyne,McIntosh,Walsh,Timlin,Bowyer,Keaveney,Jones|pg||
+mn|Camrose 2003/04 Match 2 - Dec 6 2003|
+qx|o1,BOARD 1|rh||ah|Board 1|md|3SQHA76DAT976432C9,SA7653HQT54D8C632,ST4HJ82DKJ5CAQ854|sv|0|
+sa|0|mb|1C|mb|1S|mb|2D|mb|4S|mb|p|mb|p|mb|5D|mb|d|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|c1,BOARD 1|rh||ah|Board 1|md|3SQHA76DAT976432C9,SA7653HQT54D8C632,ST4HJ82DKJ5CAQ854|sv|0|
+sa|0|mb|1C|mb|1S|mb|1N|mb|4S|mb|p|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o2,BOARD 2|rh||ah|Board 2|md|4SAT5HK63DAJT43CKQ,SKQ3H94D76CA98765,S964HAQJ2DQ5CJ432|sv|n|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|c2,BOARD 2|rh||ah|Board 2|md|4SAT5HK63DAJT43CKQ,SKQ3H94D76CA98765,S964HAQJ2DQ5CJ432|sv|n|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|o3,BOARD 3|rh||ah|Board 3|md|1SKJT4HQDAJT43CQ72,SQ9HJ9865DQ6CAKT8,SA873HK7DK9852C94|sv|e|
+sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c3,BOARD 3|rh||ah|Board 3|md|1SKJT4HQDAJT43CQ72,SQ9HJ9865DQ6CAKT8,SA873HK7DK9852C94|sv|e|
+sa|0|mb|1D|mb|1H|mb|d|mb|3H|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|o4,BOARD 4|rh||ah|Board 4|md|2SQ73H7DT98765CT93,SKJ95HQJT5DK2CK74,ST8HK843DJ4CAQJ65|sv|b|
+sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|c4,BOARD 4|rh||ah|Board 4|md|2SQ73H7DT98765CT93,SKJ95HQJT5DK2CK74,ST8HK843DJ4CAQJ65|sv|b|
+sa|0|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o5,BOARD 5|rh||ah|Board 5|md|3SQJT6HKQ7DQTCA863,SK42H62DA62CKJ954,SA9873HAT3DJ8543C|sv|n|
+sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|c5,BOARD 5|rh||ah|Board 5|md|3SQJT6HKQ7DQTCA863,SK42H62DA62CKJ954,SA9873HAT3DJ8543C|sv|n|
+sa|0|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o6,BOARD 6|rh||ah|Board 6|md|4SK9843HA7DK7642C5,S752HJ85432DTCAJ4,SAJHT9DAQ985CT632|sv|e|
+sa|0|mb|1C|mb|2C|mb|2H|mb|5D|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|c6,BOARD 6|rh||ah|Board 6|md|4SK9843HA7DK7642C5,S752HJ85432DTCAJ4,SAJHT9DAQ985CT632|sv|e|
+sa|0|mb|1N|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|o7,BOARD 7|rh||ah|Board 7|md|1SAQ4HK943DJTCAQT4,SJ62HAJTD97C98653,S873H765DAQ854CJ2|sv|b|
+sa|0|mb|1N|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c7,BOARD 7|rh||ah|Board 7|md|1SAQ4HK943DJTCAQT4,SJ62HAJTD97C98653,S873H765DAQ854CJ2|sv|b|
+sa|0|mb|1N|mb|p|mb|p|mb|p|pg||
+mc|6|pg||
+qx|o8,BOARD 8|rh||ah|Board 8|md|2SQJTH862DKQ5CQT95,SA873HT74DAJ73CK3,S2HAQJ953D9642C64|sv|0|
+sa|0|mb|1D|mb|2H|mb|d|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c8,BOARD 8|rh||ah|Board 8|md|2SQJTH862DKQ5CQT95,SA873HT74DAJ73CK3,S2HAQJ953D9642C64|sv|0|
+sa|0|mb|1N|mb|2D|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|o9,BOARD 9|rh||ah|Board 9|md|3SA2HKJ62DQ2CKQT86,SKQ986H54DA543CJ2,SJT74HAQT98DCA954|sv|e|
+sa|0|mb|1H|mb|p|mb|2S|mb|d|mb|3D|mb|p|mb|3H|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|5D|mb|d|mb|6H|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|c9,BOARD 9|rh||ah|Board 9|md|3SA2HKJ62DQ2CKQT86,SKQ986H54DA543CJ2,SJT74HAQT98DCA954|sv|e|
+sa|0|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|o10,BOARD 10|rh||ah|Board 10|md|4SAK53HAT3DJCAKQJ9,SQ76HJ942DKT93C43,SJT82HK6DA82CT852|sv|b|
+sa|0|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|3D|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|5H|mb|p|mb|5S|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|c10,BOARD 10|rh||ah|Board 10|md|4SAK53HAT3DJCAKQJ9,SQ76HJ942DKT93C43,SJT82HK6DA82CT852|sv|b|
+sa|0|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|4C|mb|p|mb|4N|mb|p|mb|5C|mb|p|mb|6C|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+pn|McIntosh,Timlin,King,Keaveney,O'Briain,Mould,Garvey,Hyett|pg||
+qx|o11,BOARD 11|rh||ah|Board 11|md|1SQ8763H98743DK95C,SA92HAJT65DAQJC53,S54HK2D762CKQJ984|sv|0|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c11,BOARD 11|rh||ah|Board 11|md|1SQ8763H98743DK95C,SA92HAJT65DAQJC53,S54HK2D762CKQJ984|sv|0|
+sa|0|mb|p|mb|1H|mb|2C|mb|p|mb|p|mb|d|mb|p|mb|p|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+mc|4|pg||
+qx|o12,BOARD 12|rh||ah|Board 12|md|2SAK9H74DKJT4CAQ75,SQJ652H952DCKJ843,ST873HQJTDA97CT96|sv|n|
+sa|0|mb|2S|mb|p|mb|3D|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c12,BOARD 12|rh||ah|Board 12|md|2SAK9H74DKJT4CAQ75,SQJ652H952DCKJ843,ST873HQJTDA97CT96|sv|n|
+sa|0|mb|p|mb|p|mb|1H|mb|d|mb|1S|mb|d|mb|2D|mb|3C|mb|p|mb|p|mb|p|pg||
+mc|6|pg||
+qx|o13,BOARD 13|rh||ah|Board 13|md|3SQ6H97543DQ54CJT4,SAJ2HKQ8DKJT6CQ65,ST9875HAJ2D732C87|sv|b|
+sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|13|pg||
+qx|c13,BOARD 13|rh||ah|Board 13|md|3SQ6H97543DQ54CJT4,SAJ2HKQ8DKJT6CQ65,ST9875HAJ2D732C87|sv|b|
+sa|0|mb|p|mb|1C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o14,BOARD 14|rh||ah|Board 14|md|4SAQHAKJT87DK63C82,SK973H3DA98CAQ975,ST52HQ92DQJTCJ643|sv|0|
+sa|0|mb|p|mb|1H|mb|d|mb|2H|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c14,BOARD 14|rh||ah|Board 14|md|4SAQHAKJT87DK63C82,SK973H3DA98CAQ975,ST52HQ92DQJTCJ643|sv|0|
+sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|d|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|o15,BOARD 15|rh||ah|Board 15|md|1ST92H853DAK53CKT3,S74HAK64DJT984CA4,SAKQJ865HJ2D2CJ96|sv|n|
+sa|0|mb|p|mb|1D|mb|1S|mb|d|mb|2D|mb|2H|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c15,BOARD 15|rh||ah|Board 15|md|1ST92H853DAK53CKT3,S74HAK64DJT984CA4,SAKQJ865HJ2D2CJ96|sv|n|
+sa|0|mb|p|mb|1N|mb|2S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|o16,BOARD 16|rh||ah|Board 16|md|2SAQT73HT5D973C862,SK92H972DQ84CAT74,SJ5HAKQ83DAJ52C53|sv|e|
+sa|0|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c16,BOARD 16|rh||ah|Board 16|md|2SAQT73HT5D973C862,SK92H972DQ84CAT74,SJ5HAKQ83DAJ52C53|sv|e|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|o17,BOARD 17|rh||ah|Board 17|md|3SAH762DAJT8764CQ5,S8542HAT98DQ3CKT3,SJT9HJ53D952CA976|sv|0|
+sa|0|mb|p|mb|1S|mb|2D|mb|3D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c17,BOARD 17|rh||ah|Board 17|md|3SAH762DAJT8764CQ5,S8542HAT98DQ3CKT3,SJT9HJ53D952CA976|sv|0|
+sa|0|mb|p|mb|1S|mb|4D|mb|4S|mb|5D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+mc|8|pg||
+qx|o18,BOARD 18|rh||ah|Board 18|md|4SAJT9532HAQT9DC62,SHK754DKQ986CKJ85,SKQ86H832DJT32C74|sv|n|
+sa|0|mb|1C|mb|1S|mb|d|mb|3S|mb|p|mb|4H|mb|5C|mb|p|mb|p|mb|5S|mb|d|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|c18,BOARD 18|rh||ah|Board 18|md|4SAJT9532HAQT9DC62,SHK754DKQ986CKJ85,SKQ86H832DJT32C74|sv|n|
+sa|0|mb|1C|mb|4S|mb|5C|mb|5S|mb|p|mb|p|mb|6C|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o19,BOARD 19|rh||ah|Board 19|md|1SQJ97HA2DK985CJ96,ST543HQ6DAJ62CA53,S862HJ975DT43CQ74|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c19,BOARD 19|rh||ah|Board 19|md|1SQJ97HA2DK985CJ96,ST543HQ6DAJ62CA53,S862HJ975DT43CQ74|sv|e|
+sa|0|mb|1S|mb|p|mb|1N|mb|d|mb|p|mb|p|mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|o20,BOARD 20|rh||ah|Board 20|md|2ST7HAQ854DQT52C97,SKJ54HT76DK6CAKQ4,S63HKJ9DA9873CJ85|sv|b|
+sa|0|mb|1N|mb|p|mb|2H|mb|d|mb|3C|mb|3H|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c20,BOARD 20|rh||ah|Board 20|md|2ST7HAQ854DQT52C97,SKJ54HT76DK6CAKQ4,S63HKJ9DA9873CJ85|sv|b|
+sa|0|mb|1S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+pn|Bowyer,Timlin,Jones,Keaveney,Coyne,Mould,Walsh,Hyett|pg||
+qx|o21,BOARD 21|rh||ah|Board 21|md|3SQJ8763HA97DAJ4C6,S5HKQ3DT9CAKQJ752,SAKT92H4DKQ8752C8|sv|n|
+sa|0|mb|1S|mb|p|mb|2N|mb|5C|mb|5D|mb|6C|mb|6S|mb|p|mb|p|mb|7C|mb|d|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c21,BOARD 21|rh||ah|Board 21|md|3SQJ8763HA97DAJ4C6,S5HKQ3DT9CAKQJ752,SAKT92H4DKQ8752C8|sv|n|
+sa|0|mb|1D|mb|p|mb|1S|mb|2C|mb|4C|mb|5C|mb|5H|mb|6C|mb|d|mb|p|mb|6S|mb|7C|mb|d|mb|p|mb|p|mb|p|pg||
+mc|8|pg||
+qx|o22,BOARD 22|rh||ah|Board 22|md|4S5432HT862DA5CA54,S7HQ754DKJ976CQJ8,SAJT9HAK9DT42CT93|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+mc|7|pg||
+qx|c22,BOARD 22|rh||ah|Board 22|md|4S5432HT862DA5CA54,S7HQ754DKJ976CQJ8,SAJT9HAK9DT42CT93|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+mc|7|pg||
+qx|o23,BOARD 23|rh||ah|Board 23|md|1SKQ7HAK742DQ87C64,SHQJ98DAK92CKJT32,SJT863H3DJT43CA98|sv|b|
+sa|0|mb|1H|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c23,BOARD 23|rh||ah|Board 23|md|1SKQ7HAK742DQ87C64,SHQJ98DAK92CKJT32,SJT863H3DJT43CA98|sv|b|
+sa|0|mb|1H|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|o24,BOARD 24|rh||ah|Board 24|md|2SJT954H98752DQJCT,S63HJ6D7652CAK653,SAKQ7HAQ43DA8CJ82|sv|0|
+sa|0|mb|p|mb|1H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|c24,BOARD 24|rh||ah|Board 24|md|2SJT954H98752DQJCT,S63HJ6D7652CAK653,SAKQ7HAQ43DA8CJ82|sv|0|
+sa|0|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o25,BOARD 25|rh||ah|Board 25|md|3SQJT62HKJ73DCQ983,SK7543H964DJ82CJ5,SA9HAQ8DAQ753CAT7|sv|e|
+sa|0|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|c25,BOARD 25|rh||ah|Board 25|md|3SQJT62HKJ73DCQ983,SK7543H964DJ82CJ5,SA9HAQ8DAQ753CAT7|sv|e|
+sa|0|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|9|pg||
+qx|o26,BOARD 26|rh||ah|Board 26|md|4S73HAKJ72D65CQJ54,SQ6H53DAKQJT32C97,SAKJT954H6D87CAK6|sv|b|
+sa|0|mb|p|mb|1H|mb|3D|mb|3S|mb|p|mb|4S|mb|p|mb|5C|mb|p|mb|5S|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|c26,BOARD 26|rh||ah|Board 26|md|4S73HAKJ72D65CQJ54,SQ6H53DAKQJT32C97,SAKJT954H6D87CAK6|sv|b|
+sa|0|mb|p|mb|1H|mb|3D|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+qx|o27,BOARD 27|rh||ah|Board 27|md|1SAKQT7H843DAQTCK9,SJ3HAT52D7652CJT2,S5HQJ9DKJ983CQ874|sv|0|
+sa|0|mb|1S|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|c27,BOARD 27|rh||ah|Board 27|md|1SAKQT7H843DAQTCK9,SJ3HAT52D7652CJT2,S5HQJ9DKJ983CQ874|sv|0|
+sa|0|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+qx|o28,BOARD 28|rh||ah|Board 28|md|2SQ3HKJT7DAKQJTCJ8,S42H652D876432C93,SAJ65HA8D95CAQT62|sv|n|
+sa|0|mb|p|mb|1C|mb|1S|mb|d|mb|p|mb|1N|mb|p|mb|4N|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|c28,BOARD 28|rh||ah|Board 28|md|2SQ3HKJT7DAKQJTCJ8,S42H652D876432C93,SAJ65HA8D95CAQT62|sv|n|
+sa|0|mb|p|mb|1C|mb|1S|mb|d|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|12|pg||
+qx|o29,BOARD 29|rh||ah|Board 29|md|3SAK5HKJ653D65CT84,SJ43HT984DJT42CAK,ST92H72DAQ73CJ653|sv|b|
+sa|0|mb|p|mb|1C|mb|1H|mb|1N|mb|p|mb|p|mb|p|pg||
+mc|6|pg||
+qx|c29,BOARD 29|rh||ah|Board 29|md|3SAK5HKJ653D65CT84,SJ43HT984DJT42CAK,ST92H72DAQ73CJ653|sv|b|
+sa|0|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+mc|7|pg||
+qx|o30,BOARD 30|rh||ah|Board 30|md|4SA3HAT65DQJ83C984,SKT986HQJ9DCKJT75,SQ54HK82DT62CAQ32|sv|0|
+sa|0|mb|3D|mb|p|mb|p|mb|p|pg||
+mc|5|pg||
+qx|c30,BOARD 30|rh||ah|Board 30|md|4SA3HAT65DQJ83C984,SKT986HQJ9DCKJT75,SQ54HK82DT62CAQ32|sv|0|
+sa|0|mb|2D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|r|mb|p|mb|2H|mb|d|mb|2S|mb|p|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|8|pg||

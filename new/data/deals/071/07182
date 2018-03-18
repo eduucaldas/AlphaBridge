@@ -1,0 +1,109 @@
+vg|3rd ING BANK Top Circuit 2000,Match 6A,P,1,10,Team 1,0,Team 2,0|
+rs|2NE=,,3SEx-3,,1NNx-1,,3NS+3,,3HN+1,,3NN=,,4HS+1,,5SW-1,,6HW-1,,4HSx-4,|
+pw|Jansma,Oltmans,Verhees,Brink,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|1,2,3,4,5,6,7,8,9,10|
+pg||
+mn|3rd ING BANK Top Circuit 2000 - 2000.06.11|pn|Jansma,Oltmans,Verhees,Brink|qx|o1,BOARD 1|rh||ah|Board 1|md|3SAJ986HAK652D72C6,ST7HJ9D53CKT97432,S32HT7DQJT986CQJ5|sv|0|
+sa|0|mb|2C|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|D7|pc|D5|pc|D8|pc|D4|pg||
+pc|S3|pc|S4|pc|SJ|pc|S7|pg||
+pc|SA|pc|ST|pc|S2|pc|S5|pg||
+pc|HA|pc|H9|pc|HT|pc|H4|pg||
+pc|HK|pc|HJ|pc|H7|pc|H3|pg||
+mc|8|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o2,BOARD 2|rh||ah|Board 2|md|4SJT98HK4DAKQ42CA6,SK543HAQ863DJ5C42,S7HJT95D876CKQJT8|sv|n|
+sa|0|mb|2S|mb|2N|mb|3S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S3|pc|S7|pc|SA|pg||
+pc|H2|pc|H4|pc|HQ|pc|H5|pg||
+pc|S4|pc|CK|pc|SQ|pc|SJ|pg||
+pc|H7|pc|HK|pc|HA|pc|H9|pg||
+pc|H3|pc|HT|pc|S2|pc|D2|pg||
+mc|6|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o3,BOARD 3|rh||ah|Board 3|md|1SKJ3HA94DQ74CK864,S9764HT82DAKT3CT9,SA85H76DJ982CQJ52|sv|e|
+sa|0|mb|1C|mb|1D|mb|1N|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H4|pc|H8|pc|H6|pg||
+pc|HJ|pc|H9|pc|HT|pc|H7|pg||
+pc|H3|pc|HA|pc|H2|pc|S5|pg||
+pc|C4|pc|CT|pc|CQ|pc|CA|pg||
+pc|HQ|pc|D4|pc|D3|pc|C2|pg||
+pc|H5|pc|D7|pc|DT|pc|S8|pg||
+pc|ST|pc|S3|pc|S4|pc|SA|pg||
+pc|CJ|pc|C3|pc|C6|pc|C9|pg||
+pc|C5|pc|C7|pc|CK|pc|S6|pg||
+pc|C8|pc|S7|pc|D2|pc|D5|pg||
+mc|6|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o4,BOARD 4|rh||ah|Board 4|md|2SA4H62D6542CAKJ86,SQ93HT984DKJT8CQ9,ST52HAKQJ7DA7C754|sv|b|
+sa|0|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|DT|pc|DA|pc|D3|pc|D6|pg||
+pc|HA|pc|H5|pc|H2|pc|H4|pg||
+pc|HK|pc|H3|pc|H6|pc|H8|pg||
+pc|HQ|pc|DQ|pc|D5|pc|H9|pg||
+pc|HJ|pc|S8|pc|D2|pc|HT|pg||
+pc|H7|pc|S7|pc|D4|pc|C9|pg||
+pc|C4|pc|C2|pc|CA|pc|CQ|pg||
+mc|12|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o5,BOARD 5|rh||ah|Board 5|md|3SAJ854H9DJT9CQ987,STHK5DA742CKT5432,S7632HAQJT843D5CJ|sv|n|
+sa|0|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|SA|pc|ST|pc|S7|pg||
+pc|H9|pc|HK|pc|HA|pc|H2|pg||
+pc|HQ|pc|H6|pc|C7|pc|H5|pg||
+pc|HJ|pc|H7|pc|D9|pc|C2|pg||
+pc|HT|pc|D3|pc|DT|pc|C3|pg||
+pc|H8|pc|D6|pc|C8|pc|D2|pg||
+pc|S6|pc|SQ|pc|S4|pc|C4|pg||
+pc|CA|pc|C9|pc|C5|pc|CJ|pg||
+mc|10|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o6,BOARD 6|rh||ah|Board 6|md|4SQ6H7DKJ983CJ9874,ST9543HQ986DT752C,SAKHAT53DA6CAQ632|sv|e|
+sa|0|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H4|pc|H7|pc|HQ|pc|HA|pg||
+pc|D6|pc|D4|pc|DK|pc|D7|pg||
+pc|CJ|pc|H9|pc|C2|pc|CK|pg||
+pc|S8|pc|S6|pc|S5|pc|SK|pg||
+pc|CA|pc|C5|pc|C4|pc|H8|pg||
+pc|CQ|pc|CT|pc|C7|pc|S3|pg||
+pc|DA|pc|DQ|pc|D3|pc|D2|pg||
+pc|C6|pc|H2|pc|C8|pc|S4|pg||
+pc|C9|pc|S9|pc|C3|pc|S2|pg||
+pc|DJ|pc|D5|pc|H3|mc|9|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o7,BOARD 7|rh||ah|Board 7|md|1S42HK7542DKT2CAQ5,SKJHT9DA93CT87632,SA76HAJ86DJ8765C9|sv|b|
+sa|0|mb|1H|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S6|pc|S3|pc|S2|pg||
+pc|SJ|pc|SA|pc|ST|pc|S4|pg||
+pc|H6|pc|H3|pc|HK|pc|H9|pg||
+pc|H2|pc|HT|pc|HA|pc|HQ|pg||
+pc|D5|pc|D4|pc|DT|mc|11|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o8,BOARD 8|rh||ah|Board 8|md|2S853HT985DT8542CK,SAKJT92HKDAQ6CAQ3,SHAQ6432DK9CJ9864|sv|0|
+sa|0|mb|1C|mb|3H|mb|p|mb|4H|mb|4S|mb|5C|mb|5S|mb|p|mb|p|mb|p|pg||
+pc|C8|pc|C2|pc|CK|pc|CA|pg||
+pc|SJ|pc|H2|pc|S4|pc|S5|pg||
+pc|S9|pc|H3|pc|S7|pc|S3|pg||
+pc|ST|pc|C4|pc|S6|pc|S8|pg||
+pc|CQ|pc|C6|pc|C5|pc|D8|pg||
+pc|C3|pc|CJ|pc|C7|pc|H5|pg||
+pc|HA|pc|H7|pc|H8|pc|HK|pg||
+mc|10|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o9,BOARD 9|rh||ah|Board 9|md|3SJT85H7DKQ765CQ74,SA92HKQT952DAT9C6,S63H86DJ42CAJT532|sv|e|
+sa|0|mb|3C|mb|d|mb|5C|mb|6H|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C8|pc|C4|pc|C6|pg||
+pc|D2|pc|D8|pc|DQ|pc|DA|pg||
+pc|H2|pc|H6|pc|HJ|pc|H7|pg||
+pc|HA|pc|D5|pc|H5|pc|H8|pg||
+pc|H3|pc|D6|pc|HK|pc|C2|pg||
+pc|S9|pc|S3|pc|SK|pc|S5|pg||
+pc|CK|pc|C7|pc|DT|pc|C3|pg||
+pc|H4|pc|D7|pc|HQ|pc|C5|pg||
+pc|HT|pc|CT|pc|D3|pc|CQ|pg||
+pc|H9|pc|S6|pc|C9|mc|11|pg||
+pn|Jansma,Oltmans,Verhees,Brink|qx|o10,BOARD 10|rh||ah|Board 10|md|4SKHKT987654DCKT62,S9864HADAKQ75CAQJ,SQ753H2DJ9842C543|sv|b|
+sa|0|mb|p|mb|4H|mb|d|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D2|pc|DT|pc|H4|pg||
+pc|SK|pc|S4|pc|S3|pc|SA|pg||
+pc|C9|pc|CT|pc|CJ|pc|C3|pg||
+pc|DK|pc|D4|pc|D6|pc|H5|pg||
+pc|HK|pc|HA|pc|H2|pc|H3|pg||
+pc|S9|pc|SQ|pc|S2|pc|C2|pg||
+pc|S7|pc|SJ|pc|H6|pc|S6|pg||
+pc|HT|pc|D5|pc|S5|pc|HJ|pg||
+pc|HQ|pc|H7|pc|S8|pc|D8|pg||
+pc|ST|mc|6|pg||

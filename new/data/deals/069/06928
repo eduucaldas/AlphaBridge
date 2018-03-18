@@ -1,0 +1,92 @@
+vg|Cap Gemini 2000,2000.03.26,P,1,10,Team 1,0,Team 2,0|
+rs|3NN+2,,4CN+1,,3NN-1,,3NN+1,,3NW+4,,3NS+1,,3NN+1,,3NN-1,,1SW=,,5SW+1,,|
+pw|Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,Lucena,Simons,Lambardi,Pasman,|pg||bn|1,2,3,4,5,6,7,8,9,10,|pg||
+mp|5,,,9,,3,0,,8,,6,,4,,,1,,2,14,,|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o1|md|3SA83HA64DAKJCKT75,SQJ7HQJ32DT96543C,SK6HKT95DQ87CA842|sv|0|
+mb|1D|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H8|pc|H4|pc|HJ|pc|HK|pg||
+pc|H5|pc|H7|pc|HA|pc|H2|pg||
+pc|H6|pc|HQ|pc|H9|pc|S2|pg||
+pc|D6|pc|D7|pc|D2|pc|DA|pg||
+pc|C5|pc|D3|pc|CA|pc|C3|pg||
+pc|C8|pc|CJ|pc|CK|pc|D4|pg||
+mc|11|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o2|md|4SAKQHAQ732DK7CAQ2,ST7HJ9864D65CT763,S832H5D9842CKJ984|sv|n|
+mb|1S|mb|d|mb|p|mb|2C|mb|2D|mb|2S|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|4C|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D7|pc|D5|pc|D2|pg||
+mc|11|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o3|md|1SQ93HA754DKCAKQ96,SK854HKJ863DT832C,SAT7HQ2D765CJ8743|sv|e|
+mb|1C|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|DK|pc|D2|pc|D5|pg||
+pc|CA|pc|H3|pc|C8|pc|CT|pg||
+pc|CK|pc|S4|pc|C3|pc|C2|pg||
+mc|8|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o4|md|2SAJ852HT93D73C962,S63H62DQJT854C873,S97HKQ4DAK9CAKQT4|sv|b|
+mb|p|mb|1C|mb|1D|mb|d|mb|p|mb|p|mb|1H|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H5|pc|HT|pc|H2|pc|H4|pg||
+pc|C2|pc|C7|pc|CA|pc|C5|pg||
+pc|CK|pc|CJ|pc|C6|pc|C3|pg||
+pc|CQ|pc|H7|pc|C9|pc|C8|pg||
+pc|CT|pc|D2|pc|S2|pc|D4|pg||
+pc|C4|pg||mc|10|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o5|md|3S9864H62DKJ9863C9,ST32HA753DAQ7CAQ5,SJ5HKQJT9DT54CT63|sv|n|
+mb|p|mb|1C|mb|2D|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H4|pc|H2|pc|HA|pg||
+pc|CA|pc|C3|pc|C2|pc|C9|pg||
+pc|CQ|pc|C6|pc|C4|pc|D3|pg||
+pc|C5|pc|CT|pc|CJ|pc|D6|pg||
+pc|CK|pg||mc|13|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o6|md|4SAJ42HJ2DK962CK62,SKT9653H8DQJ3CAQ3,SQ8HKQ9653DAT7CJ9|sv|e|
+mb|p|mb|1D|mb|1S|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S9|pc|SQ|pc|S7|pc|S2|pg||
+pc|H3|pc|H4|pc|HJ|pc|H8|pg||
+pc|H2|pc|S3|pc|HK|pc|HA|pg||
+pc|C8|pc|C2|pc|CQ|pc|C9|pg||
+pc|SK|pc|S8|pc|C4|pc|SA|pg||
+pc|D2|pc|DJ|pc|DA|pc|D4|pg||
+pc|CJ|pg||mc|10|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o7|md|1SAJ976HDQCKJT9642,SK853HT872DJ765CQ,S2HAKJ95DK43C8753|sv|b|
+mb|2C|mb|p|mb|2D|mb|d|mb|2S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D9|pc|DQ|pc|D7|pc|D4|pg||
+pc|C2|pc|CQ|pc|C5|pc|CA|pg||
+pc|S4|pc|SA|pc|S3|pc|S2|pg||
+mc|10|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o8|md|2SK952HT2DA73CKJ53,SAQ643HQ85DT5CQT7,S87HAJ43DKQ9CA964|sv|0|
+mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D3|pc|DT|pc|DQ|pg||
+pc|C6|pc|C8|pc|CJ|pc|CQ|pg||
+pc|D5|pc|DK|pc|D4|pc|D7|pg||
+pc|C4|pc|C2|pc|CK|pc|C7|pg||
+pc|C3|pc|CT|pc|CA|pc|H7|pg||
+pc|C9|pg||mc|8|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o9|md|3S976H654D7CQJT954,SAJT532HQJ3DKJT9C,SKQ84HA92DA52CA63|sv|e|
+mb|1C|mb|p|mb|1D|mb|1S|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|HT|pc|H6|pc|H3|pg||
+pc|C2|pc|CQ|pc|S2|pc|C6|pg||
+pc|D9|pc|D5|pc|DQ|pc|D7|pg||
+pc|C7|pc|C4|pc|S3|pc|C3|pg||
+pc|HQ|pc|HA|pc|H7|pc|H4|pg||
+pc|DA|pc|D3|pc|H5|pc|DT|pg||
+pc|H9|pc|HK|pc|S6|pc|HJ|pg||
+pc|C5|pg||mc|7|pg||
+pn|Lucena,Simons,Lambardi,Pasman|qx|o10|md|4SQ98HQT853D54CKT5,SAK76432HK2DQTCA9,SJHJ76D983CQJ7432|sv|b|
+mb|1D|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|5H|mb|p|mb|5S|mb|p|mb|p|mb|p|pg||
+pc|CJ|pc|C6|pc|C5|pc|CA|pg||
+pc|SA|pc|SJ|pc|S5|pc|S8|pg||
+pc|SK|pc|C2|pc|ST|pc|S9|pg||
+pc|DQ|pc|D3|pc|D2|pc|D4|pg||
+mc|12|pg||
+bt||mn|Cap Gemini 2000 R13 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DNab-Bertens ^K36 ^MChagas-Branco ^U64
+^B2 ^DMihov-Nanev ^K66 ^MCohen-Berkowitz ^U34
+^B3 ^DRobson-Mahmood ^K79 ^MLeufkens-Westra ^U21
+^B4 ^DVersace-Lauria ^K28 ^MHampson-Greco ^U72
+^B5 ^DLambardi-Lucena ^K72 ^MPasman-Simons ^U28
+|pg||st||nt||

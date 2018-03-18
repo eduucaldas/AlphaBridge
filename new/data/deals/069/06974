@@ -1,0 +1,80 @@
+vg|Cap Gemini 2000,2000.03.25,P,1,10,Team 1,0,Team 2,0|
+rs|3NN+1,,4SE+1,,1HE-1,,3NN-1,,6HN-1,,6CS=,,4SN+2,,4SEx-3,,6DN-1,,4SN+1,,|
+pw|Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,Cohen,Robson,Berkowitz,Mahmood,|pg||bn|1,2,3,4,5,6,7,8,9,10,|pg||
+mp|0,,0,,2,,,5,,11,9,,4,,2,,,10,0,,|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o1|md|3SA8HKT6D74CAKJT86,SKT762H42DKJ3C974,S53HAQ75DQT982CQ5|sv|0|
+mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|SA|pc|S2|pc|S3|pg||
+pc|C6|pc|C9|pc|CQ|pc|C3|pg||
+pc|C5|pc|C2|pc|CA|pc|C4|pg||
+pc|CK|pc|C7|pc|D8|pc|D5|pg||
+pc|CJ|pg||mc|10|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o2|md|4SK85HKT865D98763C,S643HA93D4CA98732,SJTH742DQJ52CKT54|sv|n|
+mb|1S|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H5|pc|H3|pc|H4|pc|HQ|pg||
+pc|SA|pc|S5|pc|S3|pc|ST|pg||
+pc|DA|pc|D3|pc|D4|pc|D5|pg||
+mc|11|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o3|md|1SAKQ8HAKQ72DQT7C2,SJT652H5DJ96CQ854,S74H84D8432CJT963|sv|e|
+mb|1C|mb|p|mb|1D|mb|1H|mb|p|mb|p|mb|p|pg||
+pc|SA|pc|S2|pc|S7|pc|S3|pg||
+pc|SQ|pc|S5|pc|S4|pc|S9|pg||
+pc|S8|pc|SJ|pc|H8|pc|HJ|pg||
+pc|H9|pc|HQ|pc|H5|pc|H4|pg||
+mc|6|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o4|md|2SAJ98H4DQJT5CQJT6,SKQT72H963DK4C542,S643HKJ875DA97CK9|sv|b|
+mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D6|pc|DQ|pc|DK|pc|DA|pg||
+pc|CK|pc|C3|pc|C6|pc|C2|pg||
+pc|C9|pc|C8|pc|CT|pc|C5|pg||
+pc|CQ|pc|C4|pc|H5|pc|CA|pg||
+mc|8|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o5|md|3S94HAJ942DT754CKT,SJ762HT5DQ863C643,SATHKQ3DAK92CAJ75|sv|n|
+mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S4|pc|S7|pc|SA|pg||
+pc|HK|pc|H6|pc|H2|pc|H5|pg||
+pc|HQ|pc|H7|pc|H4|pc|HT|pg||
+pc|H3|pc|H8|pc|HA|pc|C3|pg||
+mc|11|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o6|md|4SA4HAKQ3DQT4CQ765,SQT8652HJT974DAC4,SJ73H8DK983CAKJT9|sv|e|
+mb|p|mb|1C|mb|d|mb|2C|mb|p|mb|2N|mb|p|mb|3S|mb|d|mb|4C|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|6C|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|SJ|pc|SK|pc|SA|pg||
+pc|C6|pc|C4|pc|CA|pc|C2|pg||
+pc|CK|pc|C3|pc|C5|pc|S2|pg||
+pc|CJ|pc|C8|pc|C7|pc|S5|pg||
+mc|12|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o7|md|1SKQ72HAKT93DA5CA9,SA8HQJ864D4CKJ432,SJT9653H75DK98C75|sv|b|
+mb|1C|mb|1H|mb|d|mb|2D|mb|d|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|HA|pc|H4|pc|H7|pg||
+pc|S2|pc|SA|pc|S3|pc|S4|pg||
+mc|12|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o8|md|2SK9HAQ987DK7CAT62,SJ54HJ52DQJ95CJ43,S832HKT43DT862CK7|sv|0|
+mb|p|mb|p|mb|1S|mb|2H|mb|2S|mb|4H|mb|4S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HA|pc|H2|pc|H3|pc|H6|pg||
+pc|H7|pc|HJ|pc|HK|pc|S7|pg||
+pc|C5|pc|C6|pc|CJ|pc|CK|pg||
+pc|C7|pc|C9|pc|CT|pc|C3|pg||
+mc|7|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o9|md|3ST7H9854DAKQ82CAT,SKQJ965HQ62D6CJ74,SA2HA3DJ97543CK62|sv|e|
+mb|1D|mb|p|mb|1H|mb|1S|mb|p|mb|2S|mb|3S|mb|p|mb|4S|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S7|pc|S9|pc|SA|pg||
+pc|D5|pc|DT|pc|DA|pc|D6|pg||
+pc|CA|pc|C4|pc|C2|pc|C3|pg||
+pc|CT|pc|CJ|pc|CK|pc|C5|pg||
+mc|11|pg||
+pn|Cohen,Robson,Berkowitz,Mahmood|qx|o10|md|4SKJ83HKQDQT952C87,S4H87652DA643CJT3,SAT97652H93D7CAQ9|sv|b|
+mb|1C|mb|1D|mb|1H|mb|1S|mb|2H|mb|2S|mb|4H|mb|4S|mb|p|mb|p|mb|p|pg||
+mc|11|pg||
+bt||mn|Cap Gemini 2000 R10 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DTuszynski-Jassem ^K74 ^MGullberg-Andersson ^U26
+^B2 ^DNab-Bertens ^K61 ^MBuratti-Lanzarotti ^U39
+^B3 ^DWestra-Leufkens ^K31 ^MNanev-Mihov ^U69
+^B4 ^DBerkowitz-Cohen ^K41 ^MMahmood-Robson ^U59
+|pg||st||nt||

@@ -1,0 +1,118 @@
+vg|3rd ING BANK Top Circuit 2000,Match 14A,P,11,20,Team 1,0,Team 2,0|
+rs|2HN+1,,4SN+1,,3CN+1,,4HS=,,4SW-1,,1NW-2,,5DNx-1,,3NW-1,,6HS+1,,3SW-1,|
+pw|Jansma,De Boer,Verhees,Muller,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|11,12,13,14,15,16,17,18,19,20|
+pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o11,BOARD 11|rh||ah|Board 11|md|1SA3HQ984DQT5CAQ93,SJ854HAD763CT8762,SKT62HK532DK94C54|sv|0|
+sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|CA|pc|C7|pc|C5|pg||
+pc|H4|pc|HA|pc|H2|pc|H6|pg||
+pc|C6|pc|C4|pc|CJ|pc|CQ|pg||
+pc|D5|pc|D7|pc|D9|pc|DJ|pg||
+pc|DA|pc|DT|pc|D3|pc|D4|pg||
+pc|D2|pc|DQ|pc|D6|pc|DK|pg||
+pc|H3|pc|HT|pc|HQ|pc|C2|pg||
+pc|SA|pc|S4|pc|S2|pc|S9|pg||
+pc|S3|pc|S5|pc|SK|pc|S7|pg||
+pc|S6|pc|SQ|pc|H8|pc|S8|pg||
+mc|9|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o12,BOARD 12|rh||ah|Board 12|md|2SQJ82HATDKJ83C642,ST3HK97642DQ9CKJ9,SAK654HQ5DA7CQT73|sv|n|
+sa|0|mb|2D|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|HA|pc|H2|pc|H5|pg||
+pc|S2|pc|S3|pc|SA|pc|S7|pg||
+pc|S4|pc|S9|pc|SQ|pc|ST|pg||
+pc|D3|pc|D9|pc|DA|pc|D4|pg||
+pc|D7|pc|D5|pc|DK|pc|DQ|pg||
+pc|DJ|pc|H4|pc|HQ|pc|D2|pg||
+pc|C2|pc|C9|pc|CT|pc|CA|pg||
+mc|11|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o13,BOARD 13|rh||ah|Board 13|md|3S84H52DJ8CKJT9863,SKT9HAJT93DA93C54,SA73HKQ74DKQ62CA2|sv|b|
+sa|0|mb|1C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|S4|pc|S9|pc|SA|pg||
+pc|CA|pc|C7|pc|C3|pc|C5|pg||
+pc|C2|pc|CQ|pc|CK|pc|C4|pg||
+mc|10|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o14,BOARD 14|rh||ah|Board 14|md|4SKQ63HAKT532DTCT2,ST9752HJ86DQ2CAJ3,SJHQ94DJ865CKQ864|sv|0|
+sa|0|mb|1D|mb|1H|mb|1S|mb|2C|mb|d|mb|2H|mb|2S|mb|3H|mb|3S|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|D5|pc|D7|pc|DT|pg||
+pc|D2|pc|D6|pc|D9|pc|H2|pg||
+pc|C2|pc|C3|pc|CK|pc|C9|pg||
+pc|SJ|pc|SA|pc|S3|pc|S5|pg||
+pc|DA|pc|HA|pc|S2|pc|D8|pg||
+pc|CT|pc|CA|pc|C4|pc|C5|pg||
+pc|ST|pc|DJ|pc|S4|pc|SK|pg||
+pc|HK|pc|H6|pc|H4|pc|H7|pg||
+pc|H5|pc|H8|pc|H9|pc|D3|pg||
+pc|HQ|pc|D4|pc|H3|pc|HJ|pg||
+pc|CQ|pc|C7|pc|S6|pc|CJ|pg||
+mc|10|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o15,BOARD 15|rh||ah|Board 15|md|1SA84HTDQJ2CT98764,SQJT976HA4DAT943C,SK2HJ863DK865CK52|sv|n|
+sa|0|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|D6|pc|D7|pc|DJ|pc|DA|pg||
+pc|D4|pc|D5|pc|S3|pc|D2|pg||
+pc|CA|pc|C4|pc|D3|pc|C5|pg||
+pc|C3|pc|C6|pc|S7|pc|C2|pg||
+pc|DT|pc|D8|pc|S5|pc|DQ|pg||
+pc|CJ|pc|C9|pc|S6|pc|CK|pg||
+pc|HA|pc|H3|pc|H2|pc|HT|pg||
+pc|H4|pc|H6|pc|HK|pc|S4|pg||
+pc|C7|pc|S9|pc|SK|pc|CQ|pg||
+pc|DK|pc|H5|pc|C8|pc|D9|pg||
+mc|9|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o16,BOARD 16|rh||ah|Board 16|md|2SK85HJ82DAJ72CQT9,SAQ4HAQ6D963CAJ32,ST76HK54DQ854CK74|sv|e|
+sa|0|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|D5|pc|DK|pc|DA|pc|D6|pg||
+pc|D2|pc|D9|pc|DQ|pc|DT|pg||
+pc|D8|pc|H3|pc|DJ|pc|D3|pg||
+pc|D7|pc|H6|pc|D4|pc|C5|pg||
+pc|S5|pc|SQ|pc|S7|pc|S2|pg||
+pc|C3|pc|C7|pc|C6|pc|C9|pg||
+pc|H2|pc|HQ|pc|HK|pc|H7|pg||
+pc|H5|pc|H9|pc|H8|pc|HA|pg||
+pc|C2|pc|C4|pc|C8|pc|CT|pg||
+pc|HJ|pc|S4|pc|H4|pc|HT|pg||
+mc|5|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o17,BOARD 17|rh||ah|Board 17|md|3S865HKQ2DKJ9752C6,SJT973H3DATCQJ875,SAQ4HA864DQ8643CT|sv|0|
+sa|0|mb|1D|mb|2N|mb|3C|mb|5C|mb|p|mb|p|mb|5D|mb|d|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C6|pc|C5|pc|CT|pg||
+pc|HJ|pc|HK|pc|H3|pc|H4|pg||
+pc|DJ|pc|DA|pc|D3|pc|C2|pg||
+pc|S7|pc|SA|pc|S2|pc|S5|pg||
+pc|D4|pc|C3|pc|DK|pc|DT|pg||
+pc|HQ|pc|C7|pc|H6|pc|H5|pg||
+pc|H2|pc|C8|pc|HA|pc|H7|pg||
+pc|DQ|pc|C4|pc|D2|pc|CJ|pg||
+pc|H8|pc|H9|pc|D5|pc|CQ|pg||
+pc|S6|pc|SJ|pc|S4|pc|SK|pg||
+mc|10|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o18,BOARD 18|rh||ah|Board 18|md|4SK94HJT872DJCT974,ST32HA94DAT7CAQJ5,SAQ765H63DKQ854C8|sv|n|
+sa|0|mb|p|mb|p|mb|1N|mb|2S|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S8|pc|SK|pc|S2|pg||
+pc|S9|pc|S3|pc|SQ|pc|SJ|pg||
+pc|SA|mc|8|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o19,BOARD 19|rh||ah|Board 19|md|1SAKJ63HA865D8CAKT,SQ74H93D752CQ9852,S2HQJT42DAQ4CJ764|sv|e|
+sa|0|mb|1S|mb|p|mb|1N|mb|p|mb|3H|mb|p|mb|4D|mb|d|mb|p|mb|p|mb|r|mb|p|mb|4N|mb|p|mb|5C|mb|p|mb|5D|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|DA|pc|D3|pc|D8|pg||
+pc|HQ|pc|H7|pc|H5|pc|H3|pg||
+pc|HJ|pc|HK|pc|HA|pc|H9|pg||
+pc|SA|pc|S4|pc|S2|pc|S5|pg||
+pc|SK|pc|S7|pc|C4|pc|S8|pg||
+pc|S3|pc|SQ|pc|H2|pc|S9|pg||
+pc|C6|pc|C3|pc|CA|pc|C2|pg||
+pc|SJ|mc|13|pg||
+pn|Jansma,De Boer,Verhees,Muller|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQ63HA972D74CT532,SJT42HQT83D93CA86,S85HJ4DKQJT85CKJ4|sv|b|
+sa|0|mb|p|mb|1D|mb|d|mb|p|mb|1S|mb|2D|mb|2S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D2|pc|D4|pc|D9|pg||
+pc|DT|pc|DA|pc|D7|pc|D3|pg||
+pc|SA|pc|S6|pc|S2|pc|S5|pg||
+pc|D6|pc|C5|pc|S4|pc|D5|pg||
+pc|ST|pc|S8|pc|S7|pc|SQ|pg||
+pc|S3|pc|SJ|pc|D8|pc|S9|pg||
+pc|H3|pc|H4|pc|HK|pc|HA|pg||
+pc|H2|pc|HT|pc|HJ|pc|H5|pg||
+pc|DJ|pc|SK|pc|C3|pc|C6|pg||
+pc|H6|pc|H7|pc|H8|pc|DQ|pg||
+pc|HQ|pc|C4|pc|C7|pc|H9|pg||
+pc|CA|pc|CJ|pc|C9|pc|C2|pg||
+pc|C8|pc|CK|pc|CQ|pc|CT|pg||

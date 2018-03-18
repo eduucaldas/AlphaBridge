@@ -1,0 +1,119 @@
+vg|2002 Melchemie Top Circuit,Final 12C,P,21,30,Team 1,0,Team 2,0|
+rs|2SE-1,,2HN+1,,7HW-2,,3NN-7,,4HW+1,,3NW+1,,1NN=,,3NS=,,4DE=,,6NS=,|
+pw|Schippers H,Niemeijer,Schippers E,Bomhof,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o21|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|3SJ5H543DKT3CAQ962,SK98743HQDA76CJT8,SAT2HJ9872DQJ4CK7,SQ6HAKT6D9852C543|sv|n|
+mb|P|mb|P|mb|P|mb|2D|mb|P|mb|2S|mb|P|mb|P|mb|P|pg||
+pc|D3|pc|DA|pc|D4|pc|D5|pg||
+pc|HQ|pc|H9|pc|H6|pc|H5|pg||
+pc|S3|pc|SA|pc|S6|pc|S5|pg||
+pc|DQ|pc|D9|pc|DT|pc|D6|pg||
+pc|CK|pc|C3|pc|C2|pc|C8|pg||
+pc|C7|pc|C5|pc|CQ|pc|CT|pg||
+pc|CA|pc|CJ|pc|DJ|pc|C4|pg||
+pc|DK|pc|D7|pc|H2|pc|D2|pg||
+pc|C9|pc|S9|pc|H7|pc|HT|pg||
+pc|S4|pc|S2|pc|SQ|pc|SJ|pg||
+pc|HA|pc|H3|pc|S7|pc|H8|pg||
+pc|SK|pg||
+mc|7|pg||
+qx|o22|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|4SAJT42HQ62D987CT9,S653HKT9DAT64CJ32,SQHJ8743DQJCAKQ65,SK987HA5DK532C874|sv|e|
+mb|P|mb|P|mb|P|mb|1H|mb|D|mb|1N|mb|P|mb|2C|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|D3|pc|D7|pc|DA|pc|DQ|pg||
+pc|D4|pc|DJ|pc|DK|pc|D8|pg||
+pc|S9|pc|S2|pc|S6|pc|SQ|pg||
+pc|H3|pc|H5|pc|HQ|pc|HK|pg||
+pc|DT|pc|H4|pc|D5|pc|D9|pg||
+pc|CA|pc|C4|pc|C9|pc|C2|pg||
+pc|CK|pc|C8|pc|CT|pc|C3|pg||
+pc|C5|pc|C7|pc|H6|pc|CJ|pg||
+pc|H2|pc|H9|pc|H7|pc|HA|pg||
+pc|D2|pc|S4|pc|D6|pc|H8|pg||
+pc|HJ|pc|S7|pc|ST|pc|HT|pg||
+pc|CQ|pg||
+mc|9|pg||
+qx|o23|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|1SJT93H872DAQ987C8,SKHAKJT954DCKJT93,S8764HDKJ542CA764,SAQ52HQ63DT63CQ52|sv|b|
+mb|P|mb|1H|mb|P|mb|1S|mb|P|mb|3C|mb|P|mb|3H|mb|P|mb|5D|mb|P|mb|7H|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|C2|pc|C8|pc|CT|pg||
+pc|C4|pc|CQ|pc|H2|pc|C3|pg||
+mc|11|pg||
+qx|o24|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|2SA9753H9DK8653CKQ,SQJT42H42DAQJT2C6,SK8HQJ3DCAJT97543,S6HAKT8765D974C82|sv|0|
+mb|P|mb|1S|mb|3H|mb|3S|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|D7|pc|D8|pc|DT|pc|C4|pg||
+pc|H4|pc|HQ|pc|HK|pc|H9|pg||
+pc|D9|pc|DK|pc|DA|pc|C3|pg||
+pc|DQ|pc|C5|pc|D4|pc|D3|pg||
+pc|DJ|pc|C7|pc|C2|pc|D5|pg||
+pc|SQ|pc|SK|pc|S6|pc|S3|pg||
+pc|CA|pc|C8|pc|CQ|pc|C6|pg||
+pc|S8|pc|H5|pc|S5|pc|ST|pg||
+pc|H2|pc|H3|pc|HT|pc|S7|pg||
+pc|HA|pg||
+mc|2|pg||
+qx|o25|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|3S73H62DAKQ952C962,SAT5HA973DJ63CAKJ,SKQ9642HKDT87C754,SJ8HQJT854D4CQT83|sv|e|
+mb|2D|mb|P|mb|2H|mb|2N|mb|P|mb|3D|mb|D|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|D8|pc|D4|pc|DQ|pc|D6|pg||
+pc|S7|pc|SA|pc|S2|pc|S8|pg||
+pc|HA|pc|HK|pc|H4|pc|H2|pg||
+pc|H3|pg||
+mc|11|pg||
+qx|o26|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|4SJ2HAT742DT87CAT6,SHKQ863DKQ95CKJ94,SQ9754HJ95D432C85,SAKT863HDAJ6CQ732|sv|b|
+mb|1S|mb|P|mb|2H|mb|P|mb|2S|mb|P|mb|3C|mb|P|mb|3D|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|D3|pc|D6|pc|DT|pc|DK|pg||
+pc|CJ|pc|C5|pc|C2|pc|CA|pg||
+pc|H2|pc|HK|pc|H5|pc|S3|pg||
+pc|C4|pc|C8|pc|CQ|pc|C6|pg||
+mc|10|pg||
+qx|o27|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|1SA64HQJ84DA73CJT9,S982HK75DQ94CKQ72,SKQ3HT2DT865CA643,SJT75HA963DKJ2C85|sv|0|
+mb|1C|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
+pc|S5|pc|S4|pc|S8|pc|SK|pg||
+pc|H2|pc|H3|pc|HQ|pc|HK|pg||
+pc|S9|pc|SQ|pc|ST|pc|S6|pg||
+pc|HT|pc|HA|pc|H4|pc|H7|pg||
+pc|SJ|pc|SA|pc|S2|pc|S3|pg||
+pc|CJ|pc|C2|pc|C3|pc|C5|pg||
+pc|CT|pc|CK|pc|C4|pc|C8|pg||
+pc|D4|pc|D5|pc|DK|pc|DA|pg||
+pc|HJ|pc|H5|pc|D6|pc|H6|pg||
+pc|C9|pc|C7|pc|CA|pc|D2|pg||
+mc|7|pg||
+qx|o28|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|2SAK54HAJT2DKJTC95,ST9863HK54D65CT74,S7H863DA984CAQJ63,SQJ2HQ97DQ732CK82|sv|n|
+mb|P|mb|1D|mb|P|mb|1H|mb|P|mb|2H|mb|P|mb|2S|mb|P|mb|3C|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|ST|pc|S7|pc|SJ|pc|S4|pg||
+pc|D3|pc|DJ|pc|D6|pc|D4|pg||
+pc|C5|pc|C7|pc|CJ|pc|C2|pg||
+pc|D8|pc|D7|pc|DT|pc|D5|pg||
+pc|DK|pc|S6|pc|D9|pc|D2|pg||
+pc|SA|pc|S3|pc|H3|pc|S2|pg||
+pc|SK|pc|S9|pc|H6|pc|SQ|pg||
+pc|C9|pc|CT|pc|CA|pc|C8|pg||
+pc|DA|pc|DQ|pc|S5|pc|H5|pg||
+pc|H8|pc|H9|pc|HA|pc|H4|pg||
+pc|H2|pg||
+mc|9|pg||
+qx|o29|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|3SQ852HK84D8CKQJ42,SK73HA97DA654C865,SJT964HQJ6DJ93CT7,SAHT532DKQT72CA93|sv|b|
+mb|P|mb|1D|mb|P|mb|2D|mb|P|mb|3C|mb|D|mb|3D|mb|P|mb|3H|mb|P|mb|3S|mb|P|mb|4D|mb|P|mb|P|mb|P|pg||
+pc|CK|pc|C5|pc|CT|pc|CA|pg||
+pc|DK|pc|D8|pc|D4|pc|D3|pg||
+pc|SA|pc|S2|pc|S3|pc|SJ|pg||
+pc|DQ|pc|C4|pc|D5|pc|D9|pg||
+pc|D2|pc|S5|pc|DA|pc|DJ|pg||
+pc|SK|pc|S4|pc|C3|pc|S8|pg||
+mc|10|pg||
+qx|o30|
+pn|Schippers H,Niemeijer,Schippers E,Bomhof,South,West,North,East|md|4SK82HKJT87D6CAKQ4,STHA54DQT2CJ87632,SAQJ9HQ6DAKJ83C95,S76543H932D9754CT|sv|0|
+mb|P|mb|1C|mb|P|mb|2C|mb|P|mb|2H|mb|P|mb|2S|mb|P|mb|2N|mb|P|mb|3D|mb|P|mb|3N|mb|P|mb|6N|mb|P|mb|P|mb|P|pg||
+pc|ST|pc|S9|pc|S5|pc|SK|pg||
+pc|H8|pc|H4|pc|HQ|pc|H3|pg||
+pc|H6|pc|H9|pc|HJ|pc|HA|pg||
+mc|12|pg||

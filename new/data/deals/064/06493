@@ -1,0 +1,128 @@
+vg|2002 Melchemie Top Circuit,Final 13C,P,1,10,Team 1,0,Team 2,0|
+rs|3NE=,,3HS+1,,5DWx-1,,2HN-1,,P,,4HNx-1,,3NS+1,,3SW-1,,3DS-3,,3NW-1,|
+pw|Brink,Klaver,Van Prooijen,Ramer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o1|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|3S84HAJ52DK8743C86,SKQ62HT4DA62CAKT2,SJT973HK987DQTC94,SA5HQ63DJ95CQJ753|sv|0|
+mb|2H|mb|P|mb|3H|mb|D|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|S8|pc|S2|pc|SJ|pc|SA|pg||
+pc|C3|pc|C6|pc|CA|pc|C4|pg||
+pc|CK|pc|C9|pc|C5|pc|C8|pg||
+pc|SK|pc|S3|pc|S5|pc|S4|pg||
+pc|SQ|pc|ST|pc|D5|pc|D8|pg||
+pc|C2|pc|H7|pc|CQ|pc|D3|pg||
+pc|CJ|pc|H2|pc|CT|pc|S7|pg||
+pc|C7|pc|D4|pc|H4|pc|H8|pg||
+pc|D9|pc|DK|pc|DA|pc|DT|pg||
+pc|HT|pc|H9|pc|H3|pc|HJ|pg||
+pc|D7|pc|D2|pc|DQ|pc|DJ|pg||
+mc|9|pg||
+qx|o2|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|4SAQ4HKT95DKT8C762,SK9HQ83DJ9CAKJ954,S85HJ742DAQ6543C8,SJT7632HA6D72CQT3|sv|n|
+mb|P|mb|1C|mb|2C|mb|D|mb|3C|mb|P|mb|P|mb|3D|mb|P|mb|3H|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|C8|pc|C3|pc|C7|pg||
+pc|DJ|pc|D3|pc|D2|pc|DK|pg||
+pc|C6|pc|C5|pc|H2|pc|CT|pg||
+pc|H4|pc|H6|pc|H9|pc|HQ|pg||
+pc|SK|pc|S5|pc|S6|pc|SA|pg||
+pc|HT|pc|H3|pc|H7|pc|HA|pg||
+pc|CQ|pc|C2|pc|C4|pc|HJ|pg||
+pc|S8|pc|S2|pc|SQ|pc|S9|pg||
+pc|HK|pg||
+mc|10|pg||
+qx|o3|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|1SKJ953H642D3CQ976,SQTHAQJ9DAKQ976C4,SA742HT8DT2CAKJT5,S86HK753DJ854C832|sv|e|
+mb|2S|mb|D|mb|4S|mb|P|mb|P|mb|5D|mb|D|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|C2|pc|C6|pc|C4|pg||
+pc|CK|pc|C3|pc|C7|pc|D7|pg||
+pc|DA|pc|D2|pc|D4|pc|D3|pg||
+pc|D6|pc|DT|pc|DJ|pc|S3|pg||
+mc|10|pg||
+qx|o4|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|2SKQ43HQJD864CQT98,SAT7HT87DT72C6543,SJ98HK6542DQJCAJ7,S652HA93DAK953CK2|sv|b|
+mb|P|mb|1H|mb|2D|mb|D|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|DA|pc|D4|pc|D7|pc|DJ|pg||
+pc|DK|pc|D6|pc|D2|pc|DQ|pg||
+pc|D3|pc|D8|pc|DT|pc|H2|pg||
+pc|H4|pc|H3|pc|HJ|pc|H8|pg||
+pc|HQ|pc|H7|pc|H5|pc|HA|pg||
+pc|D5|pc|C8|pc|HT|pc|C7|pg||
+pc|C5|pc|CA|pc|C2|pc|C9|pg||
+pc|HK|pc|H9|pc|CT|pc|C3|pg||
+pc|S9|pc|S6|pc|SK|pc|SA|pg||
+pc|C4|pc|CJ|pc|CK|pc|CQ|pg||
+mc|7|pg||
+qx|o5|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|3SA72HJ972DKT84CQ6,SQT98HT63DA97CA98,SJ654HAK85D63CK74,SK3HQ4DQJ52CJT532|sv|n|
+mb|P|mb|P|mb|P|mb|P|pg||
+mc|0|pg||
+qx|o6|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|4S7432H854DQCAQ973,SQ98H97D9854CKJ82,SKJ5HKQJ632D63CT4,SAT6HATDAKJT72C65|sv|e|
+mb|1D|mb|P|mb|3D|mb|3H|mb|3N|mb|4H|mb|D|mb|P|mb|P|mb|P|pg||
+pc|DK|pc|DQ|pc|D4|pc|D6|pg||
+pc|C5|pc|CQ|pc|CK|pc|CT|pg||
+pc|H7|pc|HK|pc|HA|pc|H4|pg||
+pc|SA|pc|S2|pc|S8|pc|S5|pg||
+pc|C6|pc|CA|pc|C2|pc|C4|pg||
+pc|H5|pc|H9|pc|HQ|pc|HT|pg||
+pc|D3|pc|D2|pc|H8|pc|D5|pg||
+pc|S3|pc|S9|pc|SJ|pc|S6|pg||
+mc|9|pg||
+qx|o7|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|1SAT8HKJ2DAQJ753C5,S4HQT764DT8CAK763,SK75HA983D642CQT2,SQJ9632H5DK9CJ984|sv|b|
+mb|1D|mb|1H|mb|1S|mb|2S|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|C2|pc|C4|pc|C5|pg||
+pc|S4|pc|SK|pc|S2|pc|S8|pg||
+pc|D2|pc|D9|pc|DQ|pc|D8|pg||
+pc|H2|pc|HT|pc|HA|pc|H5|pg||
+pc|D4|pc|DK|pc|DA|pc|DT|pg||
+pc|DJ|pc|H4|pc|D6|pc|S3|pg||
+pc|D7|pc|C3|pc|S5|pc|S6|pg||
+pc|D5|pc|H6|pc|H3|pc|S9|pg||
+pc|D3|pc|C6|pc|H8|pc|C8|pg||
+pc|SA|pc|C7|pc|S7|pc|SJ|pg||
+pc|HK|pc|H7|pc|H9|pc|C9|pg||
+mc|10|pg||
+qx|o8|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|2ST8HKJ654DKT5CA93,SKQJ54HT9DA4CKJT2,S96HAQ83DQ962CQ65,SA732H72DJ873C874|sv|0|
+mb|1S|mb|P|mb|3S|mb|P|mb|P|mb|P|pg||
+pc|D2|pc|D3|pc|DT|pc|DA|pg||
+pc|D4|pc|D6|pc|D7|pc|DK|pg||
+pc|C3|pc|CJ|pc|CQ|pc|C4|pg||
+pc|C6|pc|C7|pc|CA|pc|C2|pg||
+pc|H5|pc|HT|pc|HQ|pc|H2|pg||
+pc|HA|pc|H7|pc|HK|pc|H9|pg||
+pc|DQ|pc|D8|pc|D5|pc|S4|pg||
+mc|8|pg||
+qx|o9|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|3SK43HQ5DK987532CA,SAQJT95H963DACQT8,S87HKT74DJCKJ9654,S62HAJ82DQT64C732|sv|e|
+mb|P|mb|P|mb|1D|mb|1S|mb|D|mb|P|mb|2D|mb|2S|mb|P|mb|P|mb|3D|mb|P|mb|P|mb|P|pg||
+pc|H6|pc|HT|pc|HJ|pc|HQ|pg||
+pc|CA|pc|C8|pc|C4|pc|C3|pg||
+pc|H5|pc|H3|pc|HK|pc|HA|pg||
+pc|S2|pc|S3|pc|S9|pc|S7|pg||
+pc|DA|pc|DJ|pc|D4|pc|D2|pg||
+pc|H9|pc|H4|pc|H2|pc|D3|pg||
+pc|DK|pc|S5|pc|C5|pc|D6|pg||
+pc|D9|pc|ST|pc|S8|pc|DT|pg||
+pc|DQ|pc|D5|pc|SJ|pc|C6|pg||
+pc|H8|pc|SK|pc|CQ|pc|H7|pg||
+pc|S6|pc|S4|pc|SA|pc|C9|pg||
+mc|6|pg||
+qx|o10|
+pn|Brink,Klaver,Van Prooijen,Ramer,South,West,North,East|md|4SA2HKQT8DT54CJ632,SKJ3HJ95DAKQJ8CA7,SQ9764H762D763CK5,ST85HA43D92CQT984|sv|b|
+mb|P|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|S6|pc|S8|pc|SA|pc|S3|pg||
+pc|S2|pc|SJ|pc|SQ|pc|S5|pg||
+pc|S4|pc|ST|pc|H8|pc|SK|pg||
+pc|DA|pc|D6|pc|D9|pc|D5|pg||
+pc|DK|pc|D3|pc|D2|pc|D4|pg||
+pc|DQ|pc|D7|pc|C4|pc|DT|pg||
+pc|DJ|pc|H6|pc|H3|pc|C2|pg||
+pc|D8|pc|H7|pc|H4|pc|HT|pg||
+pc|CA|pc|C5|pc|C8|pc|C3|pg||
+pc|C7|pc|CK|pc|C9|pc|C6|pg||
+pc|S9|pc|CT|pc|CJ|pc|H5|pg||
+pc|S7|pg||
+mc|8|pg||

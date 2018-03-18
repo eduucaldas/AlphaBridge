@@ -1,0 +1,406 @@
+vg|1999 Euro Team Championships,Malta Rd 19,I,1,20,Portugal,0,Spain,0|
+rs|3NE-1,3NE-1,4HS-1,3DE-1,3NN=,3DS=,6CE=,7SW=,5HN-1,4HS=,1NS+5,3CS+3,4HN=,4SW-3,3NN+3,3NN+3,3NW+3,3NE+2,2SE-8,3SE=,4SE=,4SW=,5CS=,3NN+2,2DN-2,3CE=,3NE-1,3NE-1,5HE+2,4HE+2,2NW+1,2HE-2,3SWx-3,3NS+2,2NS=,1NW-2,4HS+1,4HS+1,4HS+1,2CE=|
+pn|Castanheira C,Torres J,Diegues V,Frances A,Lantaron L,Sa J,Goded F,Barbosa J|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o1,BOARD 1|rh||ah|Board 1|md|3S8753H942D973CAJ2,SAJ9HKJ6DJ64CK976,SKT64HQT85DKT2CT4|sv|0|
+sa|0|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S9|pc|ST|pc|SQ|pg||
+pc|C3|pc|C2|pc|CK|pc|C4|pg||
+pc|D4|pc|D2|pc|DA|pc|D7|pg||
+pc|D5|pc|D3|pc|DJ|pc|DK|pg||
+pc|CT|pc|C5|pc|CJ|pc|C6|pg||
+pc|S3|pc|SJ|pc|SK|pc|S2|pg||
+pc|S6|pc|H3|pc|S5|pc|SA|pg||
+pc|C7|pc|H5|pc|C8|pc|CA|pg||
+pc|S7|pc|H6|pc|S4|pc|D8|pg||
+mc|8|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c1,BOARD 1|rh||ah|Board 1|md|3S8753H942D973CAJ2,SAJ9HKJ6DJ64CK976,SKT64HQT85DKT2CT4|sv|0|
+sa|0|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S7|pc|S9|pc|SK|pc|S2|pg||
+pc|S4|pc|SQ|pc|S3|pc|SJ|pg||
+pc|D5|pc|D7|pc|DJ|pc|DK|pg||
+pc|ST|pc|C3|pc|S5|pc|SA|pg||
+pc|D4|pc|D2|pc|DA|pc|D3|pg||
+pc|C5|pc|C2|pc|CK|pc|C4|pg||
+pc|C6|pc|CT|pc|C8|pc|CJ|pg||
+pc|S8|pc|D6|pc|S6|pc|CQ|pg||
+pc|CA|pc|C7|pc|H5|pc|H3|pg||
+mc|8|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o2,BOARD 2|rh||ah|Board 2|md|4SAK8HT54DK76CAT72,SQJ53HA76DA43CQ96,ST962HKQ982DJTC85|sv|n|
+sa|0|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|H6|pc|HK|pc|H3|pc|H4|pg||
+pc|DT|pc|D2|pc|D6|pc|DA|pg||
+pc|HA|pc|H2|pc|HJ|pc|H5|pg||
+pc|H7|pc|H8|pc|S4|pc|HT|pg||
+pc|S8|pc|S3|pc|S9|pc|S7|pg||
+pc|DJ|pc|DQ|pc|DK|pc|D3|pg||
+pc|C2|pc|C9|pc|C5|pc|C3|pg||
+pc|S5|pc|ST|pc|D5|pc|SK|pg||
+pc|SA|pc|SJ|pc|S2|pc|C4|pg||
+pc|D7|pc|D4|pc|H9|pc|D8|pg||
+pc|HQ|pc|D9|pc|C7|pc|C6|pg||
+pc|C8|pc|CJ|pc|CA|mc|9|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c2,BOARD 2|rh||ah|Board 2|md|4SAK8HT54DK76CAT72,SQJ53HA76DA43CQ96,ST962HKQ982DJTC85|sv|n|
+sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|p|mb|d|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|H4|pc|HA|pc|H2|pc|H3|pg||
+pc|DA|pc|DT|pc|D2|pc|D7|pg||
+pc|D3|pc|DJ|pc|DQ|pc|DK|pg||
+pc|HT|pc|H6|pc|HQ|pc|HJ|pg||
+pc|C8|pc|C3|mc|8|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o3,BOARD 3|rh||ah|Board 3|md|1SJ2HAJ7DQJT953CQ4,S8765HQ983D764CAT,SATHK654DA2CJ8763|sv|e|
+sa|0|mb|1D|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|S2|pc|S7|pc|ST|pg||
+pc|DA|pc|D8|pc|D3|pc|D4|pg||
+pc|D2|pc|DK|pc|D5|pc|D6|pg||
+pc|SK|pc|SJ|pc|S5|pc|SA|pg||
+pc|H5|pc|H2|pc|HA|pc|H3|pg||
+pc|DQ|pc|D7|pc|C3|pc|C2|pg||
+pc|D9|pc|H8|pc|C6|pc|C5|pg||
+pc|DT|pc|S6|pc|C7|pc|S3|pg||
+pc|DJ|pc|CT|pc|CJ|pc|S9|pg||
+pc|H7|pc|H9|pc|HK|pc|HT|pg||
+mc|9|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c3,BOARD 3|rh||ah|Board 3|md|1SJ2HAJ7DQJT953CQ4,S8765HQ983D764CAT,SATHK654DA2CJ8763|sv|e|
+sa|0|mb|p|mb|p|mb|1C|mb|1S|mb|2D|mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|ST|pc|SQ|pc|S2|pg||
+pc|C5|pc|C4|pc|CA|pc|C3|pg||
+pc|CT|pc|C6|pc|CK|pc|CQ|pg||
+pc|C9|pc|DQ|pc|S5|pc|C7|pg||
+pc|D3|pc|D4|pc|DA|pc|D8|pg||
+pc|D2|pc|DK|pc|D5|pc|D6|pg||
+mc|9|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o4,BOARD 4|rh||ah|Board 4|md|2ST6HQT65DJ9853CJ2,SAKJ43H9DT4CA8765,SQ5HJ843DAKQ762C4|sv|b|
+sa|0|mb|1S|mb|2D|mb|3C|mb|p|mb|5C|mb|p|mb|6C|mb|p|mb|p|mb|p|pg||
+pc|D3|pc|D4|pc|DK|pc|C3|pg||
+pc|CK|pc|C2|pc|C5|pc|C4|pg||
+pc|CQ|pc|CJ|pc|C6|pc|D2|pg||
+pc|S2|pc|S6|pc|SA|pc|S5|pg||
+pc|H9|pc|H3|pc|HA|pc|H5|pg||
+pc|S7|pc|ST|pc|SJ|pc|SQ|pg||
+mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c4,BOARD 4|rh||ah|Board 4|md|2ST6HQT65DJ9853CJ2,SAKJ43H9DT4CA8765,SQ5HJ843DAKQ762C4|sv|b|
+sa|0|mb|1C|mb|1D|mb|d|mb|3D|mb|4S|mb|p|mb|5D|mb|p|mb|5H|mb|p|mb|6C|mb|p|mb|6S|mb|p|mb|7C|mb|p|mb|7S|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|S2|pc|D9|pc|D4|pg||
+pc|S7|pc|S6|pc|SK|pc|S5|pg||
+pc|SA|pc|SQ|pc|S8|pc|ST|pg||
+mc|13|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o5,BOARD 5|rh||ah|Board 5|md|3ST8HKQJ9743DKJC96,SKJH52DT64CQJT854,SAQ65HAT86D87CK73|sv|n|
+sa|0|mb|1H|mb|2H|mb|5H|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|S8|pc|SJ|pc|SQ|pg||
+pc|H6|pc|D2|pc|HJ|pc|H2|pg||
+pc|HQ|pc|H5|pc|H8|pc|D3|pg||
+pc|ST|pc|SK|pc|SA|pc|S3|pg||
+pc|D7|pc|DA|pc|DJ|pc|D4|pg||
+pc|D5|pc|DK|pc|D6|pc|D8|pg||
+pc|H3|pc|CQ|pc|HA|pc|D9|pg||
+pc|S5|pc|S7|pc|H4|pc|C4|pg||
+pc|H7|pc|C5|pc|HT|pc|S4|pg||
+pc|S6|pc|S9|pc|H9|pc|C8|pg||
+mc|10|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c5,BOARD 5|rh||ah|Board 5|md|3ST8HKQJ9743DKJC96,SKJH52DT64CQJT854,SAQ65HAT86D87CK73|sv|n|
+sa|0|mb|1C|mb|3C|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|SA|pc|S2|pc|S8|pg||
+pc|HA|pc|D2|pc|H3|pc|H2|pg||
+pc|HT|pc|D3|pc|H9|pc|H5|pg||
+pc|D7|pc|DA|pc|DJ|pc|D4|pg||
+pc|D5|pc|DK|pc|DT|pc|D8|pg||
+pc|C6|pc|CQ|pc|CK|pc|CA|pg||
+pc|C2|pc|C9|pc|CJ|pc|C3|pg||
+mc|10|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o6,BOARD 6|rh||ah|Board 6|md|4SAJHT6D832CKQT986,SQ43HA954DQJ95C74,SKT986H32DA764CA5|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|DJ|pc|DA|pc|DK|pc|D8|pg||
+pc|CA|pc|C2|pc|C6|pc|C4|pg||
+pc|C5|pc|C3|pc|CK|pc|C7|pg||
+pc|CQ|pc|S3|pc|H2|pc|CJ|pg||
+pc|CT|pc|H4|pc|H3|pc|S2|pg||
+pc|C9|pc|H5|pc|D4|pc|HK|pg||
+pc|C8|pc|S4|pc|D6|pc|S5|pg||
+pc|SA|pc|SQ|pc|S6|pc|S7|pg||
+mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c6,BOARD 6|rh||ah|Board 6|md|4SAJHT6D832CKQT986,SQ43HA954DQJ95C74,SKT986H32DA764CA5|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|DA|pc|DK|pc|D2|pg||
+pc|CA|pc|C2|pc|C6|pc|C4|pg||
+pc|C5|pc|C3|pc|CK|pc|C7|pg||
+pc|CQ|pc|H5|pc|H2|pc|CJ|pg||
+pc|CT|pc|S3|pc|H3|pc|S2|pg||
+pc|C9|pc|H9|pc|D4|pc|DT|pg||
+pc|C8|pc|D5|pc|D6|pc|S7|pg||
+pc|SJ|pc|S4|pc|S6|mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o7,BOARD 7|rh||ah|Board 7|md|1S8H9832DQ64CA8542,SKT542HJ6DT32CJT3,SQ976HAK754D975C6|sv|b|
+sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|1H|mb|d|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D4|pc|D2|pc|D5|pg||
+pc|CK|pc|CA|pc|C3|pc|C6|pg||
+pc|C2|pc|CT|pc|H4|pc|C7|pg||
+pc|HA|pc|HT|pc|H2|pc|H6|pg||
+pc|HK|pc|HQ|pc|H3|pc|HJ|pg||
+pc|D7|pc|DK|pc|D6|pc|D3|pg||
+pc|SA|pc|S8|pc|S2|pc|S6|pg||
+pc|S3|pc|H8|pc|S4|pc|S7|pg||
+pc|C4|pc|CJ|pc|H5|pc|C9|pg||
+pc|D9|pc|D8|pc|DQ|pc|DT|pg||
+pc|C5|mc|10|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c7,BOARD 7|rh||ah|Board 7|md|1S8H9832DQ64CA8542,SKT542HJ6DT32CJT3,SQ976HAK754D975C6|sv|b|
+sa|0|mb|p|mb|p|mb|1H|mb|d|mb|2N|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|HK|mc|7|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o8,BOARD 8|rh||ah|Board 8|md|2SA94HAJ7DQT53CAK7,SQ7HQT852DJ94C652,SKT3H93DAK72CQJ98|sv|0|
+sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S4|pc|SQ|pc|SK|pg||
+pc|C8|pc|C3|pc|CK|pc|C2|pg||
+pc|CA|pc|C5|pc|C9|pc|C4|pg||
+pc|C7|pc|C6|pc|CQ|pc|CT|pg||
+pc|CJ|pc|S2|pc|H7|pc|H2|pg||
+pc|S3|pc|S6|pc|S9|pc|S7|pg||
+pc|SA|mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c8,BOARD 8|rh||ah|Board 8|md|2SA94HAJ7DQT53CAK7,SQ7HQT852DJ94C652,SKT3H93DAK72CQJ98|sv|0|
+sa|0|mb|p|mb|1D|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S4|pc|SQ|pc|SK|pg||
+pc|DA|pc|D6|pc|D3|pc|D4|pg||
+pc|S3|pc|S2|pc|S9|pc|S7|pg||
+pc|CA|pc|C2|pc|C8|pc|C3|pg||
+pc|CK|pc|C5|pc|C9|pc|CT|pg||
+pc|C7|pc|C6|pc|CQ|pc|C4|pg||
+pc|CJ|pc|S6|pc|H7|pc|H5|pg||
+pc|ST|pc|SJ|pc|SA|pc|H2|pg||
+pc|HA|pc|H8|pc|H3|pc|H4|pg||
+pc|D5|pc|D9|pc|DK|pc|D8|pg||
+pc|D2|mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o9,BOARD 9|rh||ah|Board 9|md|3ST62H943DKQ62CT92,SQJ4HT2DAT75CJ853,SK753HQ865D93C764|sv|e|
+sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H6|pc|H7|pc|H9|pc|HT|pg||
+pc|C3|pc|C6|pc|CQ|pc|C2|pg||
+pc|CK|pc|C9|pc|C5|pc|C4|pg||
+pc|CA|pc|CT|pc|C8|pc|C7|pg||
+pc|D8|pc|DK|pc|DA|pc|D3|pg||
+pc|SQ|pc|S3|pc|S8|pc|S2|pg||
+pc|CJ|pc|H5|pc|S9|pc|D2|pg||
+pc|D5|pc|D9|pc|DJ|pc|D6|pg||
+pc|HA|pc|H3|pc|H2|pc|H8|pg||
+pc|HK|pc|H4|mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c9,BOARD 9|rh||ah|Board 9|md|3ST62H943DKQ62CT92,SQJ4HT2DAT75CJ853,SK753HQ865D93C764|sv|e|
+sa|0|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D5|pc|D9|pc|DJ|pg||
+pc|CK|pc|C9|pc|C3|pc|C4|pg||
+pc|CQ|pc|C2|pc|C5|pc|C6|pg||
+pc|CA|pc|CT|pc|C8|pc|C7|pg||
+pc|D8|pc|DK|pc|D7|pc|D3|pg||
+pc|D6|pc|DT|pc|S3|pc|D4|pg||
+pc|DA|pc|S5|pc|S8|pc|DQ|pg||
+pc|CJ|pc|H5|pc|S9|pc|S2|pg||
+pc|HT|pc|H6|pc|H7|pc|H3|pg||
+pc|H2|pc|H8|pc|HA|pc|H4|pg||
+mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o10,BOARD 10|rh||ah|Board 10|md|4SA9HK654DA954CA98,SJ73HA7DQJ3CQT763,ST86H832DK762CJ42|sv|b|
+sa|0|mb|1S|mb|d|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|SA|pc|S3|pc|S6|pc|S2|pg||
+mc|0|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c10,BOARD 10|rh||ah|Board 10|md|4SA9HK654DA954CA98,SJ73HA7DQJ3CQT763,ST86H832DK762CJ42|sv|b|
+sa|0|mb|1S|mb|d|mb|2N|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|SA|pc|S3|pc|S6|pc|S4|pg||
+pc|DA|pc|D3|pc|D2|pc|D8|pg||
+pc|D4|pc|DJ|pc|DK|pc|DT|pg||
+pc|H8|pc|HJ|pc|H4|pc|H7|pg||
+pc|C5|pc|C8|pc|CQ|pc|C2|pg||
+pc|DQ|pc|D6|pc|CK|pc|D5|pg||
+pc|SJ|pc|S8|pc|S2|pc|S9|pg||
+pc|S7|pc|ST|pc|SK|mc|9|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o11,BOARD 11|rh||ah|Board 11|md|1S6H863DT8652CT983,SKJ92HAKJTDAQCQ74,SQ43H742DKJ4CAK65|sv|0|
+sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CT|mc|10|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c11,BOARD 11|rh||ah|Board 11|md|1S6H863DT8652CT983,SKJ92HAKJTDAQCQ74,SQ43H742DKJ4CAK65|sv|0|
+sa|0|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C2|pc|CT|pc|C4|pg||
+pc|CK|pc|CJ|pc|C8|pc|C7|pg||
+pc|H7|pc|H5|pc|H8|pc|HK|pg||
+pc|S2|pc|S3|pc|SA|pc|S6|pg||
+pc|S5|pc|H3|pc|SK|pc|S4|pg||
+mc|10|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o12,BOARD 12|rh||ah|Board 12|md|2ST86HAK86DACAQT86,SQJ932H32D65CK952,SA4HQJ5DKT97CJ743|sv|n|
+sa|0|mb|2S|mb|p|mb|4S|mb|5C|mb|p|mb|p|mb|p|pg||
+pc|SJ|pc|SA|pc|S5|pc|S6|pg||
+pc|CJ|pc|D4|pc|C8|pc|C2|pg||
+pc|C3|pc|D2|pc|CQ|pc|CK|pg||
+pc|SQ|pc|S4|mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c12,BOARD 12|rh||ah|Board 12|md|2ST86HAK86DACAQT86,SQJ932H32D65CK952,SA4HQJ5DKT97CJ743|sv|n|
+sa|0|mb|p|mb|p|mb|3D|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H9|pc|H6|pc|H2|pc|HQ|pg||
+pc|CJ|pc|D2|pc|C6|pc|CK|pg||
+mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQ93HQ65DKQJ964C6,SKJ5HA93D72CJ8432,SA642HT874D53CKT7|sv|b|
+sa|0|mb|p|mb|1N|mb|2C|mb|d|mb|2D|mb|p|mb|p|mb|p|pg||
+pc|S7|pc|SQ|pc|SK|pc|SA|pg||
+pc|D3|pc|D8|pc|DJ|pc|D2|pg||
+pc|C6|pc|C2|pc|CT|pc|CQ|pg||
+pc|DA|pc|D4|pc|D7|pc|D5|pg||
+pc|DT|pc|DQ|pc|C3|pc|H4|pg||
+pc|S3|pc|SJ|pc|S2|pc|S8|pg||
+pc|S5|pc|S4|pc|ST|pc|S9|pg||
+pc|CA|pc|D9|pc|C4|pc|C7|pg||
+pc|H5|pc|H3|pc|H8|pc|HJ|pg||
+pc|H2|pc|H6|pc|HA|pc|H7|pg||
+pc|H9|pc|HT|pc|HK|pc|HQ|pg||
+mc|6|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c13,BOARD 13|rh||ah|Board 13|md|3SQ93HQ65DKQJ964C6,SKJ5HA93D72CJ8432,SA642HT874D53CKT7|sv|b|
+sa|0|mb|p|mb|1C|mb|1D|mb|2D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D2|pc|D3|pc|D8|pg||
+pc|DQ|pc|D7|pc|D5|pc|DA|pg||
+pc|CA|pc|C6|pc|C2|pc|C7|pg||
+pc|H2|pc|H6|pc|HA|pc|H4|pg||
+pc|C3|pc|CK|pc|C5|pc|D4|pg||
+pc|H7|pc|HJ|pc|HQ|pc|H3|pg||
+pc|DJ|pc|CJ|pc|S4|pc|DT|pg||
+pc|C4|pc|CT|pc|CQ|pc|D6|pg||
+pc|ST|pc|S3|pc|S5|pc|SA|pg||
+mc|9|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o14,BOARD 14|rh||ah|Board 14|md|4SQJ843HQ975D863CT,SK2HT8DQ92CJ98543,S965H63DAJ75CAK62|sv|0|
+sa|0|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|S2|pc|S9|pc|ST|pg||
+pc|D4|pc|D8|pc|DQ|pc|DA|pg||
+pc|S6|pc|S7|pc|SQ|pc|SK|pg||
+pc|HT|pc|H3|pc|H2|pc|HQ|pg||
+pc|SJ|pc|H8|pc|S5|pc|SA|pg||
+pc|HA|pc|H5|pc|D2|pc|H6|pg||
+pc|HK|pc|H7|pc|C3|pc|C2|pg||
+pc|HJ|pc|H9|pc|C4|pc|C6|pg||
+pc|H4|pc|D3|pc|D9|pc|D5|pg||
+pc|DK|pc|D6|pc|C5|pc|D7|pg||
+mc|8|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c14,BOARD 14|rh||ah|Board 14|md|4SQJ843HQ975D863CT,SK2HT8DQ92CJ98543,S965H63DAJ75CAK62|sv|0|
+sa|0|mb|1H|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|S2|pc|S9|pc|ST|pg||
+pc|D4|pc|D6|pc|D9|pc|DJ|pg||
+pc|S6|pc|S7|pc|S8|pc|SK|pg||
+mc|8|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o15,BOARD 15|rh||ah|Board 15|md|1SAJ87H8DT96CAK952,SQ943HKQ6DKQ7543C,SK652HT53DJCJT763|sv|n|
+sa|0|mb|1C|mb|1D|mb|2C|mb|2H|mb|3C|mb|4H|mb|5C|mb|5H|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|H6|pc|C6|pc|C4|pg||
+pc|HK|pc|H3|pc|H2|pc|H8|pg||
+pc|HQ|pc|H5|pc|HA|pc|C5|pg||
+pc|HJ|pc|C2|pc|S3|pc|HT|pg||
+pc|H9|pc|C9|pc|S4|pc|DJ|pg||
+pc|DA|pc|D6|pc|D3|pc|C3|pg||
+mc|13|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c15,BOARD 15|rh||ah|Board 15|md|1SAJ87H8DT96CAK952,SQ943HKQ6DKQ7543C,SK652HT53DJCJT763|sv|n|
+sa|0|mb|1C|mb|d|mb|2N|mb|3C|mb|3H|mb|3S|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|H6|pc|C6|pc|C4|pg||
+pc|S3|pc|S2|pc|ST|pc|SJ|pg||
+pc|H8|pc|HQ|pc|H3|pc|H2|pg||
+pc|HK|pc|H5|pc|H4|pc|C2|pg||
+pc|S4|pc|S5|pc|H7|pc|S7|pg||
+pc|HA|pc|C5|pc|D3|pc|HT|pg||
+pc|DA|pc|D6|pc|D4|pc|DJ|pg||
+mc|12|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o16,BOARD 16|rh||ah|Board 16|md|2S75HT9753DK74CQ93,SAT42HKJ6DT963CA8,SK863H8DAQ2CK7542|sv|e|
+sa|0|mb|1N|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|C2|pc|CJ|pc|C9|pc|C8|pg||
+pc|SQ|pc|S5|pc|S2|pc|S3|pg||
+pc|SJ|pc|S7|pc|S4|pc|SK|pg||
+pc|C4|pc|C6|pc|CQ|pc|CA|pg||
+pc|HK|pc|H8|pc|H2|pc|H3|pg||
+pc|HJ|pc|D2|mc|9|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c16,BOARD 16|rh||ah|Board 16|md|2S75HT9753DK74CQ93,SAT42HKJ6DT963CA8,SK863H8DAQ2CK7542|sv|e|
+sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|HK|pc|H8|pc|H2|pg||
+pc|HJ|pc|C2|pc|H4|pc|H5|pg||
+pc|D3|pc|DA|pc|D5|pc|D7|pg||
+pc|S3|pc|SQ|pc|S7|pc|S2|pg||
+pc|DJ|pc|D4|pc|D6|pc|DQ|pg||
+pc|D2|pc|D8|pc|DK|pc|D9|pg||
+pc|H7|pc|H6|pc|C4|pc|HA|pg||
+pc|SJ|pc|S5|pc|SA|pc|S6|pg||
+pc|S4|pc|S8|pc|S9|pc|H9|pg||
+mc|6|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o17,BOARD 17|rh||ah|Board 17|md|3SK762HAQ7DAKQ3C72,SJ854H632DT95CJ94,STHT5DJ762CKQT863|sv|0|
+sa|0|mb|3C|mb|d|mb|r|mb|3D|mb|d|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|ST|pc|S3|pc|S2|pc|SJ|pg||
+pc|H2|pc|H5|pc|HJ|pc|HQ|pg||
+pc|C7|pc|C9|pc|CT|pc|CA|pg||
+pc|HK|pc|HA|pc|H3|pc|HT|pg||
+pc|DQ|pc|D5|pc|D2|pc|D4|pg||
+pc|DA|pc|D9|pc|D6|pc|D8|pg||
+pc|C2|pc|C4|pc|C8|pc|C5|pg||
+pc|CK|pc|SA|pc|H7|pc|CJ|pg||
+mc|6|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c17,BOARD 17|rh||ah|Board 17|md|3SK762HAQ7DAKQ3C72,SJ854H632DT95CJ94,STHT5DJ762CKQT863|sv|0|
+sa|0|mb|p|mb|1H|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|H5|pc|HK|pc|HA|pg||
+pc|C7|pc|C4|pc|CK|pc|C5|pg||
+pc|D2|pc|D4|pc|DA|pc|D5|pg||
+pc|C2|pc|C9|pc|CT|pc|CA|pg||
+pc|HJ|pc|HQ|pc|H3|pc|HT|pg||
+pc|D3|pc|DT|pc|DJ|pc|D8|pg||
+pc|CQ|pc|S3|pc|S2|pc|CJ|pg||
+pc|C8|pc|S9|pc|S6|pc|S4|pg||
+pc|C6|pc|SQ|pc|S7|pc|S5|pg||
+pc|C3|pc|H4|pc|SK|pc|S8|pg||
+pc|D6|mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o18,BOARD 18|rh||ah|Board 18|md|4S943HAJ8DQ43CKT96,SKQJH732D872CAJ43,SA8652HK95DAJ96C5|sv|n|
+sa|0|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|D7|pc|D9|pc|DT|pc|DQ|pg||
+pc|S3|pc|SJ|pc|S2|pc|S7|pg||
+pc|D8|pc|DJ|pc|DK|pc|D3|pg||
+pc|C7|pc|C9|pc|CJ|pc|C5|pg||
+pc|C3|pc|H5|pc|CQ|pc|CK|pg||
+pc|S4|pc|SQ|pc|S5|pc|ST|pg||
+pc|CA|mc|8|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c18,BOARD 18|rh||ah|Board 18|md|4S943HAJ8DQ43CKT96,SKQJH732D872CAJ43,SA8652HK95DAJ96C5|sv|n|
+sa|0|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S7|pc|S3|pc|SJ|pg||
+pc|CA|pc|C5|pc|C2|pc|C6|pg||
+pc|C3|pc|H5|pc|CQ|pc|CK|pg||
+pc|S4|pc|SQ|pc|SA|pc|ST|pg||
+pc|S8|pc|C7|pc|S9|pc|SK|pg||
+pc|H2|pc|HK|pc|H4|pc|H8|pg||
+pc|S6|pc|D5|pc|D3|pc|H3|pg||
+pc|S2|pc|H6|pc|D4|pc|H7|pg||
+pc|H9|pc|HT|pc|HJ|pc|D2|pg||
+pc|CT|pc|CJ|pc|D6|pc|C8|pg||
+pc|D7|pc|DA|pc|DT|pc|DQ|pg||
+mc|5|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o19,BOARD 19|rh||ah|Board 19|md|1SJT62HAJ984DK98C2,SKQ54H7653DQ6CQ76,S8HKT2DAJ74CAT985|sv|e|
+sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S8|pc|SA|pc|S2|pg||
+pc|S3|pc|S6|pc|SQ|pc|H2|pg||
+pc|CA|pc|C3|pc|C2|pc|C6|pg||
+pc|C5|pc|C4|pc|H4|pc|C7|pg||
+pc|ST|pc|S4|pc|HT|pc|S7|pg||
+pc|C8|pc|CJ|pc|H8|pc|CQ|pg||
+pc|SJ|pc|SK|pc|HK|pc|S9|pg||
+pc|D4|pc|D2|pc|DK|pc|D6|pg||
+pc|D8|pc|DQ|pc|DA|pc|D3|pg||
+pc|C9|pc|CK|pc|H9|mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c19,BOARD 19|rh||ah|Board 19|md|1SJT62HAJ984DK98C2,SKQ54H7653DQ6CQ76,S8HKT2DAJ74CAT985|sv|e|
+sa|0|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S8|pc|S7|pc|S2|pg||
+pc|S4|pc|H2|pc|S3|pc|S6|pg||
+pc|CA|pc|C3|pc|C2|pc|C6|pg||
+pc|C5|pc|C4|pc|H4|pc|C7|pg||
+pc|DK|pc|D6|pc|D4|pc|D2|pg||
+pc|D9|pc|DQ|pc|DA|pc|D3|pg||
+pc|C8|pc|CK|pc|H8|pc|CQ|pg||
+pc|ST|pc|S5|pc|HK|pc|S9|pg||
+pc|C9|pc|CJ|pc|HA|pc|SQ|pg||
+pc|SJ|pc|H3|pc|HT|pc|SA|pg||
+pc|CT|pc|HQ|pc|D8|pc|H5|pg||
+mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|o20,BOARD 20|rh||ah|Board 20|md|2SAKJHKJ96D98CJ943,SQTH743DQJ54CT762,S9762HAQT5DK7632C|sv|b|
+sa|0|mb|p|mb|p|mb|2C|mb|p|mb|p|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|S2|pc|S3|pc|SA|pg||
+pc|D9|pc|D4|pc|D2|pc|DT|pg||
+pc|DA|pc|D8|pc|D5|pc|D3|pg||
+pc|S4|pc|SK|pc|ST|pc|S6|pg||
+pc|HK|pc|H3|pc|H5|pc|H2|pg||
+pc|H6|pc|H4|pc|HT|pc|H8|pg||
+pc|D6|pc|C5|pc|H9|pc|DJ|pg||
+mc|11|pg||
+pn|Castanheira C,Torres J,Diegues V,Frances A|qx|c20,BOARD 20|rh||ah|Board 20|md|2SAKJHKJ96D98CJ943,SQTH743DQJ54CT762,S9762HAQT5DK7632C|sv|b|
+sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|p|mb|p|pg||
+pc|D8|pc|D4|pc|D2|pc|DT|pg||
+pc|S4|pc|SK|pc|ST|pc|S2|pg||
+pc|H6|pc|H3|pc|HA|pc|H8|pg||
+pc|D3|pc|DA|pc|D9|pc|D5|pg||
+pc|S3|pc|SA|pc|SQ|pc|S6|pg||
+pc|SJ|pc|C7|pc|S7|pc|S5|pg||
+pc|DJ|pc|DK|pc|CK|pc|H9|pg||
+pc|CA|pc|C3|pc|C2|pc|D6|pg||
+pc|S8|pc|CJ|pc|H4|mc|8|pg||

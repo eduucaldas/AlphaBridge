@@ -1,0 +1,112 @@
+vg|Cap Gemini 2000,2000.03.24,P,1,10,Team 1,0,Team 2,0|
+rs|3NE+1,,3NW+1,,4HS+1,,3NE+1,,2HS=,,3NE+1,,4SN-1,,4SS+1,,1NS+1,,3CS-2,,|
+pw|Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,Simons,Buratti,Pasman,Lanzarotti,|pg||bn|21,22,23,24,25,26,27,28,29,30,|pg||
+mp|,4,,11,0,,,5,4,,,12,,2,0,,0,,,9,|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o1|md|3SQT98543H96DT2CAT,SK72HQ83D3CJ98764,S6HKJ754DAQ865C53|sv|n|
+mb|2H|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H9|pc|H3|pc|HJ|pc|HA|pg||
+pc|CK|pc|CA|pc|C4|pc|C3|pg||
+pc|DT|pc|D3|pc|D5|pc|DJ|pg||
+pc|H2|pc|H6|pc|HQ|pc|HK|pg||
+pc|H4|pc|HT|pc|S3|pc|H8|pg||
+pc|CQ|pc|CT|pc|C6|pc|C5|pg||
+mc|10|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o2|md|4S864H987DKQ86CT85,SAQJTHA5DT92CJ932,SK9532HT2DA4CA764|sv|e|
+mb|1H|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|S7|pc|S8|pc|SJ|pg||
+pc|C2|pc|C4|pc|CQ|pc|C5|pg||
+pc|CK|pc|C8|pc|C3|pc|C6|pg||
+pc|H3|pc|H7|pc|HA|pc|H2|pg||
+pc|H5|pc|HT|pc|HK|pc|H8|pg||
+pc|HQ|pc|H9|pc|D2|pc|S3|pg||
+mc|10|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o3|md|1SA3HAJT7543D3CQ84,SQ2HQDAQT8654CT63,SKJ64H62DJ92CAK95|sv|b|
+mb|1H|mb|3D|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D2|pc|D7|pc|D3|pg||
+pc|D4|pc|D9|pc|DK|pc|H3|pg||
+pc|S3|pc|S2|pc|SK|pc|S5|pg||
+pc|H2|pc|H9|pc|HJ|pc|HQ|pg||
+pc|C6|pc|CA|pc|C2|pc|C4|pg||
+pc|H6|pc|H8|pc|HT|pc|D5|pg||
+mc|11|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o4|md|2SJ653H76D52CAK753,SHT853DAQJT87CQJ2,SKQ842HK942DKC986|sv|0|
+mb|p|mb|1S|mb|p|mb|2N|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C3|pc|C2|pc|C8|pc|CT|pg||
+pc|D9|pc|D2|pc|DA|pc|DK|pg||
+pc|DQ|pg||mc|10|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o5|md|3SQ85HA2DKQ95CKQJ5,SKJ43H8DAJ82C8742,ST2HQJT976DT73CT9|sv|e|
+mb|p|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|C2|pc|CT|pc|CA|pc|C5|pg||
+pc|S6|pc|S5|pc|SJ|pc|S2|pg||
+pc|S3|pc|ST|pc|SA|pc|S8|pg||
+pc|D4|pc|DK|pc|DA|pc|D3|pg||
+mc|8|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o6|md|4SAJ642H9852DK9CT2,SK83HAQ7643DA73C5,ST7HTDQJT2CAJ8764|sv|b|
+mb|p|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|S3|pc|ST|pc|SQ|pg||
+pc|CQ|pc|C2|pc|C5|pc|CA|pg||
+pc|S7|pc|S5|pc|SA|pc|S8|pg||
+mc|10|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o7|md|1SKJ9653H74D92CQJ6,SATHQ8632DQ63C972,S82HAKTDAK74CT843|sv|0|
+mb|2D|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C6|pc|C9|pc|C4|pg||
+pc|DJ|pc|D2|pc|D3|pc|DA|pg||
+pc|S8|pc|S4|pc|S3|pc|ST|pg||
+pc|C7|pc|C3|pc|CK|pc|CJ|pg||
+mc|9|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o8|md|2SAQ876HQ862DA7CA2,S43HKT73DQ85CQJ76,SKT952HA9D632CK54|sv|n|
+mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|D8|pc|D2|pc|D9|pc|DA|pg||
+pc|SA|pc|S3|pc|S2|pc|SJ|pg||
+pc|S6|pc|S4|pc|SK|pc|D4|pg||
+pc|C4|pc|C3|pc|CA|pc|C6|pg||
+pc|H2|pc|H3|pc|HA|pc|H4|pg||
+mc|11|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o9|md|3SQ63HA62D854CAK52,S985HK7DAKJ6CJT76,SAJT7HT94DQT2CQ84|sv|b|
+mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D2|pc|D7|pc|D5|pg||
+pc|D6|pc|DQ|pc|D3|pc|D4|pg||
+pc|C4|pc|C3|pc|CK|pc|C6|pg||
+pc|S3|pc|S5|pc|ST|pc|SK|pg||
+mc|8|pg||
+pn|Simons,Buratti,Pasman,Lanzarotti|qx|o10|md|4SQ76HQ8DQ64CQ9742,SJ9432HT93DAT53C6,SAK5HAJ75DK92CT53|sv|0|
+mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|3C|mb|p|mb|p|mb|p|
+nt|Round 6 results and rankings can be seen by clicking the End button |pg||
+pc|HT|pc|H5|pc|HK|pc|H8|pg||
+pc|ST|pc|S6|pc|S2|pc|SA|pg||
+pc|C3|pc|CK|pc|C2|pc|C6|pg||
+pc|S8|pc|SQ|pc|S3|pc|S5|pg||
+mc|7|pg||nt||pg||
+bt||mn|Cap Gemini 2000 R6 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DRobson-Mahmood ^K57 ^MRodwell-Meckstroth ^U43
+^B2 ^DHackett Ju-Hackett Ja ^K71 ^MCohen-Berkowitz ^U29
+^B3 ^DBertens-Nab ^K48 ^MLauria-Versace ^U52
+^B4 ^DAndersson-Gullberg ^K64 ^MNanev-Mihov ^U36
+^B5 ^DWestra-Leufkens ^K64 ^MTuszynski-Jassem ^U36
+^B6 ^DChagas-Branco ^K54 ^MHampson-Greco ^U46
+^B7 ^DLambardi-Lucena ^K39 ^MWeinstein-Levin ^U61
+^B8 ^DPasman-Simons ^K11 ^MLanzarotti-Buratti ^U89
+
+
+
+
+^JRank after Round 6
+
+^DPair ^KScore ^PPair ^VScore
+
+^B1 ^CLevin-Weinstein ^K368 ^M9 ^OChagas-Branco ^V305
+^B2 ^CMeckstroth-Rodwell ^K337 ^M10 ^OLauria-Versace ^V303
+^B3 ^CWestra-Leufkens ^K324 ^M11 ^OHampson-Greco ^V299
+^B4 ^CTuszynski-Jassem ^K324 ^M12 ^OHackett Ju-Hackett Ja ^V279
+^B5 ^CLanzarotti-Buratti ^K320 ^M13 ^OMihov-Nanev ^V275
+^B6 ^CMahmood-Robson ^K315 ^M14 ^OLambardi-Lucena ^V266
+^B7 ^CBertens-Nab ^K310 ^M15 ^OPasman-Simons ^V234
+^B8 ^CGullberg-Andersson ^K310 ^M16 ^OBerkowitz-Cohen ^V231
+|pg||st||nt||

@@ -1,0 +1,104 @@
+vg|3rd ING BANK Top Circuit 2000,Match 12A,P,11,20,Team 1,0,Team 2,0|
+rs|3NE+2,,2HN=,,2HE=,,2HS+1,,5HE-1,,3NN+2,,4SS=,,4HW=,,4HW=,,5CW=,|
+pw|Jialal,Ramer,Van Cleeff,Paulissen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|11,12,13,14,15,16,17,18,19,20|
+pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o11,BOARD 11|rh||ah|Board 11|md|1SA754HQJT92DJ9C82,SJ8HA5DAKQT7CA653,SKQ92H863D832CJ94|sv|0|
+sa|0|mb|p|mb|1D|mb|p|mb|1N|mb|2D|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|HA|pc|H8|pc|H4|pg||
+pc|DA|pc|D2|pc|D4|pc|D9|pg||
+pc|DK|pc|D3|pc|D5|pc|DJ|pg||
+pc|DQ|pc|D8|pc|D6|mc|11|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o12,BOARD 12|rh||ah|Board 12|md|2ST72HQ93DT63CQT65,SAQ98HADAJ972C943,SKJ3HKJ742DK5CJ82|sv|n|
+sa|0|mb|1D|mb|1H|mb|p|mb|p|mb|d|mb|p|mb|2D|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C5|pc|C9|pc|CJ|pg||
+pc|S6|pc|S2|pc|S8|pc|SJ|pg||
+pc|HJ|pc|H5|pc|H3|pc|HA|pg||
+pc|DA|pc|D5|pc|D8|pc|D3|pg||
+pc|D7|pc|DK|pc|D4|pc|D6|pg||
+pc|H2|pc|H6|pc|H9|pc|D2|pg||
+pc|CQ|pc|C4|pc|C2|pc|CA|pg||
+pc|DQ|pc|DT|pc|D9|pc|H4|pg||
+pc|C8|pc|C7|pc|CT|pc|C3|pg||
+pc|ST|pc|SA|pc|S3|pc|S5|pg||
+pc|DJ|pc|H7|pc|H8|pc|HQ|pg||
+pc|S7|pc|S9|pc|SK|pc|S4|pg||
+pc|HK|pc|HT|pc|C6|pc|SQ|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQT82HKJ9DT654CJ4,SJ73HT7654D7CKT86,S964HQ82DQJ82CAQ9|sv|b|
+sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|D5|pc|D7|pc|DJ|pc|DK|pg||
+pc|DA|pc|D4|pc|S3|pc|D2|pg||
+pc|D3|pc|D6|pc|H4|pc|D8|pg||
+pc|S7|pc|S6|pc|SA|pc|S2|pg||
+pc|D9|pc|DT|pc|H5|pc|DQ|pg||
+pc|SJ|pc|S4|pc|SK|pc|S8|pg||
+pc|S5|pc|ST|pc|H6|pc|S9|pg||
+pc|H7|pc|H2|pc|HA|pc|H9|pg||
+pc|H3|pc|HK|pc|HT|pc|HQ|pg||
+pc|HJ|pc|C6|pc|H8|pc|C2|pg||
+mc|8|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o14,BOARD 14|rh||ah|Board 14|md|4SJ86HJT75DQ7CQ987,SKT742HA4D9532CK6,SAQ3HK632DT8CAJT3|sv|0|
+sa|0|mb|p|mb|p|mb|1S|mb|d|mb|r|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|D5|pc|DT|pc|DK|pc|D7|pg||
+pc|S5|pc|S6|pc|S7|pc|SQ|pg||
+pc|H2|pc|H9|pc|HT|pc|HA|pg||
+pc|CK|pc|CA|pc|C4|pc|C7|pg||
+pc|HK|pc|H8|pc|H5|pc|H4|pg||
+mc|9|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o15,BOARD 15|rh||ah|Board 15|md|1SAJ2HJ9DJCAKJ7532,SK98HATDKT98732CT,SQT7653H75DQ64C96|sv|n|
+sa|0|mb|1C|mb|1D|mb|2S|mb|4H|mb|4S|mb|5H|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|CT|pc|C9|pc|C4|pg||
+pc|H9|pc|HA|pc|H7|pc|H2|pg||
+pc|HT|pc|H5|pc|HK|pc|HJ|pg||
+pc|HQ|pc|C2|pc|D2|pc|S6|pg||
+pc|DA|pc|DJ|pc|D3|pc|D6|pg||
+pc|D5|pc|C3|pc|DK|pc|D4|pg||
+pc|D8|pc|DQ|pc|H4|pc|C5|pg||
+pc|S4|pc|SA|pc|S8|pc|S3|pg||
+pc|CK|mc|10|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o16,BOARD 16|rh||ah|Board 16|md|2SAQ62HA53DQCQJT52,SK743H8642D432CK9,S8HQJTDAK98765CA7|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H7|pc|H3|pc|H2|pc|HQ|pg||
+pc|D5|pc|DT|pc|DQ|pc|D4|pg||
+pc|C2|pc|C9|pc|CA|pc|C3|pg||
+pc|DA|pc|DJ|pc|S2|pc|D3|pg||
+pc|DK|pc|SJ|pc|S6|pc|D2|pg||
+pc|D9|pc|C4|pc|C5|pc|H4|pg||
+pc|D7|pc|C8|pc|CJ|pc|H6|pg||
+pc|D6|pc|S5|pc|H5|pc|S3|pg||
+mc|11|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o17,BOARD 17|rh||ah|Board 17|md|3SAQT864H8DAKQJC32,S9753HK96D764CAJ6,SKH42DT985CQT8754|sv|0|
+sa|0|mb|p|mb|1H|mb|d|mb|2D|mb|3C|mb|3H|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H9|pc|H2|pc|HA|pc|H8|pg||
+pc|D2|pc|DA|pc|D7|pc|D5|pg||
+pc|S4|pc|S3|pc|SK|pc|S2|pg||
+pc|H4|pc|H3|pc|S6|pc|H6|pg||
+pc|SA|pc|S5|pc|C4|pc|SJ|pg||
+pc|SQ|pc|S7|pc|C5|pc|H5|pg||
+mc|10|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o18,BOARD 18|rh||ah|Board 18|md|4SJ5H2DAKT875CQ643,SK7HAQJ964D92CAKT,SA942H7D643CJ9752|sv|n|
+sa|0|mb|p|mb|1D|mb|d|mb|p|mb|2D|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|D3|pc|DQ|pc|DK|pc|D9|pg||
+pc|DA|pc|D2|pc|D6|pc|DJ|pg||
+pc|C4|pc|CA|pc|C5|pc|C8|pg||
+pc|HA|pc|H7|pc|H3|pc|H2|pg||
+pc|HQ|pc|D4|pc|HK|pc|D5|pg||
+pc|S3|pc|S5|pc|SK|pc|SA|pg||
+mc|10|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o19,BOARD 19|rh||ah|Board 19|md|1SA9H8764D532CKQT8,SKQ87HAT953DJ8CA3,SJ632H2DKQ964C652|sv|e|
+sa|0|mb|p|mb|1H|mb|2D|mb|2H|mb|3D|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D7|pc|D2|pc|DJ|pg||
+pc|C6|pc|C9|pc|CT|pc|CA|pg||
+pc|D8|pc|D6|pc|DT|pc|D3|pg||
+pc|DA|pc|D5|pc|C3|pc|D9|pg||
+pc|S4|pc|S9|pc|SK|pc|S2|pg||
+pc|SQ|pc|S6|pc|S5|pc|SA|pg||
+pc|CK|pc|H3|pc|C5|pc|C4|pg||
+mc|10|pg||
+pn|Jialal,Ramer,Van Cleeff,Paulissen|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQ4HAKJ9642DJ53CQ,SAK82HTDK86CAJ953,SJT965H75DQT94C72|sv|b|
+sa|0|mb|1C|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|4C|mb|p|mb|5C|mb|p|mb|p|mb|p|pg||
+pc|H7|pc|H3|pc|HJ|pc|HT|pg||
+pc|HA|pc|C3|pc|H5|pc|H8|pg||
+pc|CA|pc|C2|pc|C4|pc|CQ|pg||
+mc|11|pg||

@@ -1,0 +1,125 @@
+vg|2002 Melchemie Top Circuit,Final 2C,P,11,20,Team 1,0,Team 2,0|
+rs|3NW+1,,2SS+2,,3CN=,,1HE-2,,3NE+1,,3SN+1,,2HN=,,4SN+1,,4SW+2,,4HE-1,|
+pw|Ramondt,Van der Pas,Maas,Vriend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o11|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|1STHJ985DT65C98764,SK65HAK6DAQ2CAKQ2,SAQ42HQT42DK984C5,SJ9873H73DJ73CJT3|sv|0|
+mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|2N|mb|P|mb|3H|mb|P|mb|3S|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|H2|pc|H3|pc|HJ|pc|HA|pg||
+pc|SK|pc|S2|pc|S3|pc|ST|pg||
+pc|D2|pc|D4|pc|DJ|pc|D6|pg||
+pc|SJ|pc|C8|pc|S5|pc|SQ|pg||
+pc|HQ|pc|H7|pc|H9|pc|H6|pg||
+pc|SA|pc|S7|pc|C4|pc|S6|pg||
+mc|10|pg||
+qx|o12|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|2SKQ986HADAKT6CA86,SAT72HJ862D5C9432,SJ3HKT953D843CQJT,S54HQ74DQJ972CK75|sv|n|
+mb|P|mb|P|mb|1D|mb|D|mb|1H|mb|D|mb|P|mb|2S|mb|P|mb|P|mb|P|pg||
+pc|D5|pc|D3|pc|DJ|pc|DA|pg||
+pc|S6|pc|S2|pc|SJ|pc|S4|pg||
+pc|S3|pc|S5|pc|SK|pc|SA|pg||
+pc|H2|pc|HT|pc|HQ|pc|HA|pg||
+pc|SQ|pc|S7|pc|H3|pc|H7|pg||
+pc|C6|pc|C2|pc|CT|pc|CK|pg||
+pc|C5|pg||
+mc|10|pg||
+qx|o13|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|3S93H6DAKQ95CK9654,SQJ8HKT73D86CJT72,ST764HAQJ4D42CQ83,SAK52H9852DJT73CA|sv|b|
+mb|P|mb|1D|mb|P|mb|1H|mb|P|mb|2H|mb|2N|mb|P|mb|3C|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|C4|pc|C2|pc|C3|pg||
+pc|SA|pc|S3|pc|S8|pc|S6|pg||
+pc|SK|pc|S9|pc|SJ|pc|S4|pg||
+pc|H8|pc|H6|pc|H3|pc|HQ|pg||
+pc|S7|pc|S2|pc|C5|pc|SQ|pg||
+pc|CK|pc|C7|pc|C8|pc|S5|pg||
+pc|C6|pc|CT|pc|CQ|pc|H2|pg||
+pc|HA|pc|H5|pc|D5|pc|H7|pg||
+pc|ST|pc|H9|pc|D9|pc|D6|pg||
+mc|9|pg||
+qx|o14|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|4SA3H8754DA53CAK52,S752HQ3DQT8762CJ3,SQJT4HJT6DJ9CQT94,SK986HAK92DK4C876|sv|0|
+mb|1H|mb|P|mb|P|mb|P|pg||
+pc|C5|pc|C3|pc|C9|pc|C8|pg||
+pc|SQ|pc|SK|pc|SA|pc|S2|pg||
+pc|S3|pc|S5|pc|ST|pc|S9|pg||
+pc|H6|pc|H9|pc|H4|pc|H3|pg||
+pc|DK|pc|DA|pc|D2|pc|D9|pg||
+pc|CK|pc|CJ|pc|C4|pc|C7|pg||
+pc|H5|pc|HQ|pc|HT|pc|H2|pg||
+pc|DQ|pc|DJ|pc|D4|pc|D3|pg||
+pc|DT|pc|HJ|pc|C6|pc|D5|pg||
+pc|CQ|pc|HK|pc|C2|pc|D6|pg||
+pc|HA|pc|H7|pc|D7|pc|S4|pg||
+pc|S8|pg||
+mc|5|pg||
+qx|o15|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|1SA3HQJ72DK32CJ653,SQ87HAKT9DT874CQ9,ST9642H854D95C842,SKJ5H63DAQJ6CAKT7|sv|n|
+mb|P|mb|P|mb|P|mb|1C|mb|P|mb|1H|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|D2|pc|D7|pc|D9|pc|DQ|pg||
+pc|C7|pc|C3|pc|CQ|pc|C2|pg||
+pc|DT|pc|D5|pc|DJ|pc|DK|pg||
+pc|D3|pc|D4|pc|S4|pc|DA|pg||
+pc|D6|pc|H2|pc|D8|pc|S6|pg||
+pc|S7|pc|S2|pc|SJ|pc|SA|pg||
+pc|S3|pc|SQ|pc|S9|pc|S5|pg||
+pc|C9|pc|C4|pc|CT|pc|CJ|pg||
+mc|10|pg||
+qx|o16|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|2SAKT7HQ765DAQ96CJ,SQ3HK32DK4CQT9653,S98642HAJ84DT7C84,SJ5HT9DJ8532CAK72|sv|e|
+mb|P|mb|P|mb|P|mb|1D|mb|P|mb|1S|mb|P|mb|3S|mb|P|mb|P|mb|P|pg||
+pc|CA|pc|CJ|pc|C9|pc|C4|pg||
+pc|HT|pc|HQ|pc|HK|pc|HA|pg||
+pc|S2|pc|S5|pc|SA|pc|S3|pg||
+pc|SK|pc|SQ|pc|S4|pc|SJ|pg||
+pc|H6|pc|H3|pc|H4|pc|H9|pg||
+mc|10|pg||
+qx|o17|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|3SQT72H2DK7543C876,S96HJ9874D62CQJT2,SK54HAKQT63DQCK43,SAJ83H5DAJT98CA95|sv|0|
+mb|1H|mb|D|mb|P|mb|2C|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|H5|pc|H2|pc|H9|pc|HT|pg||
+pc|HA|pc|DT|pc|D3|pc|H4|pg||
+pc|DQ|pc|DA|pc|D4|pc|D2|pg||
+pc|CA|pc|C6|pc|CQ|pc|C3|pg||
+pc|C9|pc|C7|pc|C2|pc|CK|pg||
+pc|HK|pc|S3|pc|C8|pc|H7|pg||
+pc|HQ|pc|D8|pc|S2|pc|H8|pg||
+pc|S4|pc|S8|pc|SQ|pc|S6|pg||
+pc|DK|pc|D6|pc|C4|pc|D9|pg||
+mc|8|pg||
+qx|o18|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|4SA75H5432DKQ86CJ4,S632HJ98D75CA9762,SKQT9HQDA942CKQT8,SJ84HAKT76DJT3C53|sv|n|
+mb|P|mb|P|mb|1C|mb|1S|mb|D|mb|2C|mb|P|mb|2N|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|HA|pc|H2|pc|H8|pc|HQ|pg||
+pc|HK|pc|H3|pc|H9|pc|S9|pg||
+pc|SK|pc|S4|pc|S5|pc|S3|pg||
+pc|C8|pc|C3|pc|CJ|pc|CA|pg||
+pc|HJ|pc|ST|pc|H6|pc|H4|pg||
+pc|SQ|pc|S8|pc|S7|pc|S2|pg||
+pc|D4|pc|D3|pc|DK|pc|D5|pg||
+pc|SA|pc|S6|pc|D2|pc|SJ|pg||
+mc|11|pg||
+qx|o19|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|1S752H853DQ5C87654,SAKQ983HAQ4DT62C2,SJ4HKJ96DAJ83CKT3,ST6HT72DK974CAQJ9|sv|e|
+mb|P|mb|1S|mb|D|mb|R|mb|2C|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|C3|pc|CQ|pc|C6|pc|C2|pg||
+pc|S6|pc|S2|pc|SA|pc|S4|pg||
+pc|SK|pc|SJ|pc|ST|pc|S5|pg||
+pc|SQ|pc|D3|pc|H2|pc|S7|pg||
+pc|S9|pc|H9|pc|D4|pc|C4|pg||
+pc|D2|pc|DA|pc|D7|pc|D5|pg||
+pc|H6|pc|H7|pc|H8|pc|HQ|pg||
+mc|12|pg||
+qx|o20|
+pn|Ramondt,Van der Pas,Maas,Vriend,South,West,North,East|md|2S82HA4DAQJ542CK72,SAQJ754H5DKT98CA5,SK96HQ87D76CJT983,ST3HKJT9632D3CQ64|sv|b|
+mb|1S|mb|P|mb|3H|mb|P|mb|3S|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|DA|pc|D8|pc|D6|pc|D3|pg||
+pc|DQ|pc|DK|pc|D7|pc|C6|pg||
+pc|H5|pc|H8|pc|HJ|pc|HA|pg||
+pc|S8|pc|S4|pc|SK|pc|ST|pg||
+pc|CJ|pc|CQ|pc|CK|pc|CA|pg||
+pc|D9|pc|S6|pc|H3|pc|D5|pg||
+pc|HK|pc|H4|pc|S5|pc|H7|pg||
+pc|S3|pc|S2|pc|SA|pc|S9|pg||
+pc|SQ|pg||
+mc|9|pg||

@@ -1,0 +1,107 @@
+vg|Cap Gemini 2000,2000.03.24,P,1,10,Team 1,0,Team 2,0|
+rs|3SEx-1,,4HE=,,3CN-1,,4HW=,,4HW=,,2SS+1,,3NE-2,,1NS=,,4SN+1,,4HS-2,,|
+pw|Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,Mahmood,Greco,Robson,Hampson,|pg||bn|11,12,13,14,15,16,17,18,19,20,|pg||
+mp|,1,,10,,5,,2,0,,3,,0,,3,,0,,,4,|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o1|md|1SK5HAT7DAKJ75CK42,SA43HKJ43D8CT9753,ST7HQ652DQT932CAJ|sv|0|
+mb|1D|mb|p|mb|1H|mb|1S|mb|d|mb|2D|mb|3D|mb|3S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D8|pc|D2|pc|D4|pg||
+pc|C2|pc|C3|pc|CA|pc|C6|pg||
+pc|CJ|pc|CQ|pc|CK|pc|C5|pg||
+pc|HA|pc|H3|pc|H2|pc|H8|pg||
+pc|C4|pc|C7|pc|S7|pc|C8|pg||
+pc|DT|pc|D6|pc|DJ|pc|S3|pg||
+pc|HK|pc|H5|pc|H9|pc|H7|pg||
+pc|H4|pc|H6|pc|S2|pc|HT|pg||
+pc|SQ|pg||mc|8|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o2|md|2SAQJ954H9DQ9C8742,ST73HKJ75DT863CK3,SK86HQT84DK752CT6|sv|n|
+mb|p|mb|p|mb|1C|mb|1S|mb|d|mb|2S|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|D9|pc|D3|pc|D7|pc|DJ|pg||
+pc|HA|pc|H9|pc|H5|pc|H4|pg||
+pc|H2|pc|S4|pc|HK|pc|H8|pg||
+pc|CK|pc|C6|pc|C5|pc|C2|pg||
+pc|C3|pc|CT|pc|CJ|pc|C4|pg||
+pc|CQ|pc|C7|pg||mc|10|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o3|md|3SAT65HAK8DJT64C73,SK873HJT7D7CAKT98,S2H632DAQ8CQJ6542|sv|b|
+mb|p|mb|p|mb|1D|mb|d|mb|2D|mb|d|mb|p|mb|2S|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|SA|pc|S3|pc|S2|pg||
+pc|C7|pc|C8|pc|CQ|pc|D2|pg||
+pc|DA|pc|D3|pc|D4|pc|D7|pg||
+pc|DQ|pc|DK|pc|D6|pc|S7|pg||
+pc|D5|pc|DT|pc|C9|pc|D8|pg||
+pc|HJ|pc|H2|pc|H4|pc|HA|pg||
+pc|DJ|pc|H7|pc|H3|pc|D9|pg||
+pc|S5|pg||mc|8|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o4|md|4SKT97HJ93DQJ95CK9,SAHKQT64D83CJ8754,SQ8532H52DK764CAT|sv|0|
+mb|1C|mb|p|mb|1H|mb|1S|mb|d|mb|2C|mb|2S|mb|p|mb|3C|mb|3S|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|S4|pc|S9|pc|SA|pg||
+pc|HK|pc|H2|pc|H7|pc|H3|pg||
+pc|H4|pc|H5|pc|HA|pc|H9|pg||
+pc|H8|pc|HJ|pc|HQ|pc|S2|pg||
+pc|D3|pc|D4|pc|DA|pc|D5|pg||
+pc|C2|pg||mc|10|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o5|md|1SAJ7HT92DKJ962C95,SKT8HAJ753D85CKJ7,SQ963H8DQT3CT8642|sv|n|
+mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3C|mb|d|mb|3D|mb|d|mb|p|mb|p|mb|r|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|D4|pc|D2|pc|D5|pg||
+pc|D3|pc|DA|pc|D6|pc|D8|pg||
+pc|H4|pc|H2|pc|HA|pc|H8|pg||
+pc|H3|pc|C2|pc|HK|pc|H9|pg||
+pc|HQ|pc|HT|pc|H5|pc|C4|pg||
+mc|10|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o6|md|2SAJT632HKQJ2D83CT,SQHT4DKQ65CQJ7654,S97H953DAJT74CA83|sv|e|
+mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DA|pc|D2|pc|D3|pg||
+pc|S7|pc|S4|pc|SJ|pc|SQ|pg||
+pc|C6|pc|CA|pc|C2|pc|CT|pg||
+pc|S9|pc|S8|pc|S2|pc|D5|pg||
+pc|H3|pc|H6|pc|HJ|pc|H4|pg||
+pc|D8|pc|DQ|pc|D4|pc|D9|pg||
+pc|C7|pc|C3|pc|CK|pc|S3|pg||
+pc|HQ|pc|HT|pc|H5|pg||mc|9|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o7|md|3SAJ5HK876D3CJT872,SKT2HADAJ9875C964,S8763HT542D64CAK3|sv|0|
+mb|p|mb|1D|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C2|pc|C4|pc|CK|pc|C5|pg||
+pc|CA|pc|CQ|pc|C7|pc|C6|pg||
+pc|C3|pg||mc|7|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o8|md|4SAT62HAQDKT8CQJ52,SJ53HJ9875DA4C874,SKQ987HT64D762CT6|sv|n|
+mb|1D|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|H7|pc|H4|pc|HK|pc|HA|pg||
+pc|S6|pc|S3|pc|SK|pc|S4|pg||
+pc|S7|pc|D3|pc|SA|pc|S5|pg||
+pc|ST|pc|SJ|pc|SQ|pg||mc|7|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o9|md|1S963HA92DJ62CKQ75,S74HJ84DKQT7CJ842,SAKQJ85HQT5D83CA3|sv|e|
+mb|p|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CT|pc|C5|pc|C8|pc|CA|pg||
+pc|SA|pc|S2|pc|S3|pc|S4|pg||
+pc|SQ|pc|ST|pc|S6|pc|S7|pg||
+pc|C3|pc|C6|pc|CK|pc|C2|pg||
+pc|CQ|pc|C4|pc|D3|pc|C9|pg||
+pc|C7|pc|CJ|pc|D8|pc|D4|pg||
+pc|DQ|pc|S5|pc|D5|pc|D2|pg||
+pc|HQ|pg||mc|11|pg||
+pn|Mahmood,Greco,Robson,Hampson|qx|o10|md|2ST92HAK864DQTCJ53,SAKJ8743HT9DK8C86,SQ5H72DA96432CAKQ|sv|b|
+mb|1S|mb|2D|mb|p|mb|2H|mb|2S|mb|3S|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S5|pc|S6|pc|S2|pg||
+pc|SA|pc|SQ|pc|D7|pc|S9|pg||
+pc|SJ|pc|H7|pc|HQ|pc|ST|pg||
+pc|C4|pc|C3|pc|C6|pc|CQ|pg||
+pc|H2|pc|H3|pc|HA|pc|H9|pg||
+pc|HK|pc|HT|pc|D2|pc|H5|pg||
+pc|C5|pc|C8|pc|CK|pc|C2|pg||
+pc|CA|pc|C7|pc|CJ|pc|S3|pg||
+pc|D3|pc|D5|pc|DT|pc|DK|pg||
+pc|S4|pg||mc|8|pg||
+bt||mn|Cap Gemini 2000 R5 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DChagas-Branco ^K55 ^MRodwell-Meckstroth ^U45
+^B2 ^DWeinstein-Levin ^K77 ^MHackett Ju-Hackett Ja ^U23
+^B3 ^DBertens-Nab ^K49 ^MTuszynski-Jassem ^U51
+^B4 ^DMihov-Nanev ^K40 ^MPasman-Simons ^U60
+^B5 ^DWestra-Leufkens ^K60 ^MLauria-Versace ^U40
+^B6 ^DRobson-Mahmood ^K34 ^MHampson-Greco ^U66
+|pg||st||nt||

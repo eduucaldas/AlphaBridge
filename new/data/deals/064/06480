@@ -1,0 +1,131 @@
+vg|2002 Melchemie Top Circuit,Final 14A,P,11,20,Team 1,0,Team 2,0|
+rs|3NW-2,,3NS=,,4SW+1,,5SS-2,,1NW=,,5CS-1,,3NEx-2,,6DW=,,3NE=,,1SW-1,|
+pw|Brink,Bertens,Van Prooijen,Bakkeren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o11|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|1SQ86542HQJ6D5CJ92,SAKTH7DAKJ8643CT5,SJ9HAT2DQT9CKQ876,S73HK98543D72CA43|sv|0|
+mb|2S|mb|3D|mb|P|mb|3H|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|C7|pc|C3|pc|CJ|pc|C5|pg||
+pc|C9|pc|CT|pc|CQ|pc|CA|pg||
+pc|D2|pc|D5|pc|DA|pc|D9|pg||
+pc|DK|pc|DT|pc|D7|pc|S2|pg||
+pc|D3|pc|DQ|pc|H3|pc|S4|pg||
+pc|CK|pc|C4|pc|C2|pc|H7|pg||
+pc|C8|pc|H4|pc|H6|pc|ST|pg||
+pc|C6|pc|H5|pc|HJ|pc|D4|pg||
+pc|HA|pg||
+mc|7|pg||
+qx|o12|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|2SAT9HQ8752DAJCA96,S5432HATD876CKQT8,SKH963DKQT943C732,SQJ876HKJ4D52CJ54|sv|n|
+mb|P|mb|P|mb|P|mb|1N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|CK|pc|C2|pc|C4|pc|CA|pg||
+pc|ST|pc|S2|pc|SK|pc|S8|pg||
+pc|D3|pc|D2|pc|DA|pc|D6|pg||
+pc|SA|pc|S3|pc|H3|pc|S6|pg||
+pc|DJ|pc|D7|pc|DK|pc|D5|pg||
+pc|DQ|pg||
+mc|9|pg||
+qx|o13|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|3SK932HJT4DJ9CKQ82,SAQT654HK72D73C97,S8H9863DQT84CJT43,SJ7HAQ5DAK652CA65|sv|b|
+mb|P|mb|1D|mb|P|mb|1S|mb|P|mb|2N|mb|P|mb|3C|mb|P|mb|3D|mb|P|mb|3S|mb|P|mb|3N|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|CJ|pc|CA|pc|C2|pc|C7|pg||
+pc|S7|pc|S2|pc|ST|pc|S8|pg||
+pc|D3|pc|D4|pc|DA|pc|D9|pg||
+pc|SJ|pc|SK|pc|SA|pc|C4|pg||
+pc|SQ|pc|C3|pc|C5|pc|S3|pg||
+pc|D7|pc|D8|pc|DK|pc|DJ|pg||
+pc|D2|pc|H4|pc|S4|pc|DT|pg||
+pc|H7|pg||
+mc|11|pg||
+qx|o14|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|4SAJ653HK97DA62CK4,SQT97HT62DK7CJ873,SK42HJ8DQ9CAQT952,S8HAQ543DJT8543C6|sv|0|
+mb|P|mb|1S|mb|P|mb|2C|mb|2H|mb|P|mb|P|mb|4S|mb|P|mb|4N|mb|P|mb|5H|mb|P|mb|5S|mb|P|mb|P|mb|P|pg||
+pc|H2|pc|HJ|pc|HA|pc|H7|pg||
+pc|DT|pc|D2|pc|DK|pc|D9|pg||
+pc|D7|pc|DQ|pc|DJ|pc|D6|pg||
+pc|SK|pc|S8|pc|S3|pc|S7|pg||
+pc|S2|pc|D3|pc|SA|pc|S9|pg||
+mc|9|pg||
+qx|o15|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|1STHKT432DT984CAK9,SAQ6HAQ8DK652CQ32,SKJ987HJ5DQ3CJT54,S5432H976DAJ7C876|sv|n|
+mb|1H|mb|1N|mb|P|mb|P|mb|P|pg||
+pc|HJ|pc|H6|pc|H2|pc|H8|pg||
+pc|S8|pc|S2|pc|ST|pc|SQ|pg||
+pc|D5|pc|D3|pc|DA|pc|D4|pg||
+pc|H7|pc|HK|pc|HA|pc|H5|pg||
+pc|DK|pc|DQ|pc|D7|pc|D8|pg||
+pc|D6|pc|S7|pc|DJ|pc|D9|pg||
+pc|S3|pc|C9|pc|SA|pc|S9|pg||
+pc|HQ|pc|C4|pc|H9|pc|H3|pg||
+pc|S6|pc|SJ|pc|S4|pg||
+mc|7|pg||
+qx|o16|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|2SKTH6D9876CQT7542,S962HAKQ95DQJ43C3,SAJ754HJ82DA5CAK8,SQ83HT743DKT2CJ96|sv|e|
+mb|1H|mb|D|mb|2H|mb|4C|mb|P|mb|5C|mb|P|mb|P|mb|P|pg||
+pc|HK|pc|H2|pc|H3|pc|H6|pg||
+pc|DJ|pc|D5|pc|D2|pc|D8|pg||
+pc|D3|pc|DA|pc|DT|pc|D6|pg||
+pc|H8|pc|HT|pc|C2|pc|H5|pg||
+pc|D7|pc|D4|pc|C8|pc|DK|pg||
+pc|CA|pc|C6|pc|C4|pc|C3|pg||
+pc|CK|pc|C9|pc|C5|pc|H9|pg||
+pc|HJ|pc|H4|pc|C7|pc|HQ|pg||
+pc|CQ|pc|HA|pc|S4|pc|CJ|pg||
+pc|CT|pc|S2|pc|S5|pc|H7|pg||
+pc|SK|pc|S6|pc|S7|pc|S3|pg||
+pc|ST|pc|S9|pc|SA|pc|S8|pg||
+mc|10|pg||
+qx|o17|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|3SK54H5DAQ76CKT983,SQT87HA32DKJ9854C,SA6HQJ974DT2CJ754,SJ932HKT86D3CAQ62|sv|0|
+mb|2D|mb|P|mb|2H|mb|3D|mb|P|mb|3N|mb|D|mb|P|mb|P|mb|P|pg||
+pc|CT|pc|D4|pc|C4|pc|C2|pg||
+pc|C3|pc|D5|pc|CJ|pc|CQ|pg||
+pc|S3|pc|S5|pc|ST|pc|SA|pg||
+pc|C7|pc|CA|pc|C8|pc|H2|pg||
+pc|S2|pc|S4|pc|SQ|pc|S6|pg||
+pc|S7|pc|D2|pc|S9|pc|SK|pg||
+pc|CK|pc|D8|pc|C5|pc|C6|pg||
+pc|C9|pc|S8|pc|DT|pc|H6|pg||
+pc|DA|pc|D9|pc|H4|pc|D3|pg||
+mc|7|pg||
+qx|o18|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|4SA874HT843D9CQ843,S2HQJ75DKQJ8732CT,SKT6HK962DT65CJ95,SQJ953HADA4CAK762|sv|n|
+mb|1S|mb|P|mb|3D|mb|P|mb|4C|mb|P|mb|4D|mb|P|mb|4H|mb|P|mb|4N|mb|P|mb|5C|mb|P|mb|6D|mb|P|mb|P|mb|P|pg||
+pc|H2|pc|HA|pc|H8|pc|H5|pg||
+pc|CA|pc|C3|pc|CT|pc|C5|pg||
+pc|CK|pc|C4|pc|S2|pc|C9|pg||
+pc|S3|pc|S4|pc|D2|pc|S6|pg||
+pc|H7|pc|H6|pc|D4|pc|H3|pg||
+pc|DA|pc|D9|pc|D3|pc|D5|pg||
+mc|12|pg||
+qx|o19|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|1SK84H963D9843C973,SQJ653HJ75DJ2CAJ4,ST972HAQT2DKT5C85,SAHK84DAQ76CKQT62|sv|e|
+mb|P|mb|P|mb|1H|mb|2C|mb|P|mb|2S|mb|P|mb|3D|mb|P|mb|3H|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|H3|pc|H5|pc|HT|pc|HK|pg||
+pc|C2|pc|C3|pc|CA|pc|C5|pg||
+pc|CJ|pc|C8|pc|C6|pc|C9|pg||
+pc|D2|pc|D5|pc|DQ|pc|D3|pg||
+pc|CK|pc|C7|pc|C4|pc|S2|pg||
+pc|CQ|pc|S8|pc|S3|pc|S7|pg||
+pc|CT|pc|H6|pc|S5|pc|S9|pg||
+pc|SA|pc|S4|pc|S6|pc|ST|pg||
+pc|DA|pc|D4|pc|DJ|pc|DT|pg||
+mc|9|pg||
+qx|o20|
+pn|Brink,Bertens,Van Prooijen,Bakkeren,South,West,North,East|md|2SAKQ8HAK96D4CT952,SJ9754HJDKQ98CA74,S632HQT8DA76CJ863,STH75432DJT532CKQ|sv|b|
+mb|P|mb|P|mb|P|mb|1C|mb|1S|mb|P|mb|P|mb|P|pg||
+pc|C8|pc|CQ|pc|CT|pc|C4|pg||
+pc|D2|pc|D4|pc|DK|pc|DA|pg||
+pc|D7|pc|D3|pc|S8|pc|D8|pg||
+pc|HK|pc|HJ|pc|HQ|pc|H2|pg||
+pc|H6|pc|S4|pc|H8|pc|H3|pg||
+pc|S5|pc|S2|pc|ST|pc|SQ|pg||
+pc|C2|pc|C7|pc|C3|pc|CK|pg||
+pc|H4|pc|HA|pc|S7|pc|HT|pg||
+pc|SJ|pc|S3|pc|H5|pc|SK|pg||
+pc|H9|pc|S9|pc|C6|pc|H7|pg||
+pc|DQ|pc|D6|pc|D5|pc|SA|pg||
+pc|C5|pc|CA|pc|CJ|pc|DT|pg||
+pc|D9|pc|S6|pc|DJ|pc|C9|pg||
+mc|6|pg||

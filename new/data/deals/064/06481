@@ -1,0 +1,128 @@
+vg|2002 Melchemie Top Circuit,Final 4A,P,1,10,Team 1,0,Team 2,0|
+rs|4SS=,,3HN=,,1NW+1,,3DW=,,4SE+1,,2DN+1,,3DS+1,,4HN+1,,3NW=,,6DE=,|
+pw|Schippers H,Klaver,Schippers E,Ramer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o1|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|3SJ762HKJT7DA3CKQ7,SQTH8532DK864CJT4,SA954HA96DT952CA6,SK83HQ4DQJ7C98532|sv|0|
+mb|1C|mb|P|mb|2C|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|2N|mb|P|mb|3C|mb|P|mb|3D|mb|P|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|CJ|pc|CA|pc|C5|pc|C7|pg||
+pc|D2|pc|D7|pc|D3|pc|D4|pg||
+pc|C3|pc|CK|pc|C4|pc|C6|pg||
+pc|S2|pc|ST|pc|S4|pc|S3|pg||
+pc|D6|pc|D5|pc|DQ|pc|DA|pg||
+pc|S6|pc|SQ|pc|SA|pc|S8|pg||
+pc|HA|pc|H4|pc|H7|pc|H2|pg||
+pc|H6|pc|HQ|pc|HK|pg||
+mc|10|pg||
+qx|o2|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|4SKJ93HJ9843DA97CQ,ST875HQ5DJ83CA632,S62HAK762D542C975,SAQ4HTDKQT6CKJT84|sv|n|
+mb|1C|mb|D|mb|P|mb|1H|mb|D|mb|2H|mb|2S|mb|3H|mb|P|mb|P|mb|P|pg||
+pc|DK|pc|D7|pc|D3|pc|D5|pg||
+pc|DQ|pc|DA|pc|D8|pc|D2|pg||
+pc|HJ|pc|HQ|pc|HA|pc|HT|pg||
+pc|H6|pc|C4|pc|H9|pc|H5|pg||
+pc|CQ|pc|CA|pc|C5|pc|C8|pg||
+pc|DJ|pc|D4|pc|D6|pc|D9|pg||
+pc|S5|pc|S2|pc|SA|pc|S3|pg||
+mc|9|pg||
+qx|o3|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|1ST9873H9642DKTC65,SAJ65HK5DAQJ6CA82,SQ4HAQTD9854CKQ74,SK2HJ873D732CJT93|sv|e|
+mb|P|mb|1C|mb|P|mb|1D|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
+pc|D5|pc|D2|pc|DK|pc|DA|pg||
+pc|CA|pc|C4|pc|C3|pc|C5|pg||
+pc|C2|pc|CQ|pc|C9|pc|C6|pg||
+pc|D4|pc|D3|pc|DT|pc|DQ|pg||
+pc|C8|pc|CK|pc|CT|pc|S8|pg||
+pc|D8|pc|D7|pc|S3|pc|DJ|pg||
+pc|D6|pc|D9|pc|H3|pc|H6|pg||
+pc|C7|pc|CJ|pc|H2|pc|S5|pg||
+pc|SK|pc|S7|pc|S6|pc|S4|pg||
+pc|S2|pc|ST|pc|SJ|pc|SQ|pg||
+pc|HA|pg||
+mc|8|pg||
+qx|o4|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|2SQ83HKQJTD98C8432,ST7H9632DAKT6CAT9,SAK964H874D42CQJ7,SJ52HA5DQJ753CK65|sv|b|
+mb|1D|mb|1S|mb|2S|mb|D|mb|P|mb|P|mb|3D|mb|P|mb|P|mb|P|pg||
+pc|S4|pc|S2|pc|SQ|pc|S7|pg||
+pc|HK|pc|H2|pc|H8|pc|HA|pg||
+pc|S5|pc|S8|pc|ST|pc|SK|pg||
+pc|H7|pc|H5|pc|HT|pc|H3|pg||
+pc|S3|pc|DT|pc|S6|pc|SJ|pg||
+pc|H6|pc|H4|pc|DJ|pc|HJ|pg||
+pc|D3|pc|D8|pc|DA|pc|D2|pg||
+pc|DK|pc|D4|pc|D5|pc|D9|pg||
+pc|D6|pg||
+mc|9|pg||
+qx|o5|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|3SK6HQJT4DAK7C9643,SAJ52H2DJ654CAKJ2,S98HA983DQ9832CT5,SQT743HK765DTCQ87|sv|n|
+mb|P|mb|P|mb|1D|mb|P|mb|1H|mb|1S|mb|2H|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|DA|pc|D4|pc|D2|pc|DT|pg||
+pc|DK|pc|D5|pc|D3|pc|S3|pg||
+pc|SQ|pc|SK|pc|SA|pc|S8|pg||
+pc|D6|pc|D8|pc|S4|pc|D7|pg||
+pc|S7|pc|S6|pc|SJ|pc|S9|pg||
+pc|DJ|pc|DQ|pc|ST|pc|C3|pg||
+mc|11|pg||
+qx|o6|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|4SKQ6H963DJ85CAQT6,SJ732HJ754D42CJ83,ST9HQ8DAQ9763C952,SA854HAKT2DKTCK74|sv|e|
+mb|1C|mb|P|mb|1D|mb|P|mb|1N|mb|P|mb|P|mb|2D|mb|P|mb|P|mb|P|pg||
+pc|HK|pc|H3|pc|H4|pc|H8|pg||
+pc|HA|pc|H6|pc|H5|pc|HQ|pg||
+pc|H2|pc|H9|pc|HJ|pc|D3|pg||
+pc|ST|pc|S4|pc|SK|pc|S2|pg||
+pc|D5|pc|D2|pc|DA|pc|DT|pg||
+pc|S9|pc|SA|pc|S6|pc|S3|pg||
+pc|S5|pc|SQ|pc|S7|pc|C5|pg||
+pc|D8|pc|D4|pc|D9|pc|DK|pg||
+mc|9|pg||
+qx|o7|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|1S876HJ62DAQ87CAQ4,SAQT3HK8754D4C986,SK2H93DJT632CKT75,SJ954HAQTDK95CJ32|sv|b|
+mb|1D|mb|1H|mb|D|mb|R|mb|2D|mb|P|mb|P|mb|2H|mb|P|mb|P|mb|3D|mb|P|mb|P|mb|P|pg||
+pc|H5|pc|H3|pc|HQ|pc|H6|pg||
+pc|D5|pc|D7|pc|D4|pc|DT|pg||
+pc|D2|pc|D9|pc|DQ|pc|H4|pg||
+pc|DA|pc|S3|pc|D3|pc|DK|pg||
+pc|CA|pc|C6|pc|C5|pc|C2|pg||
+pc|CQ|pc|C8|pc|C7|pc|C3|pg||
+pc|C4|pc|C9|pc|CK|pc|CJ|pg||
+pc|CT|pc|S4|pc|H2|pc|H7|pg||
+pc|H9|pc|HA|pc|HJ|pc|H8|pg||
+pc|S5|pc|S6|pc|SA|pc|S2|pg||
+mc|10|pg||
+qx|o8|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|2SQ7HJ65DKJ5CT9872,SJ5HK84D874CAK654,SAT6HAQ932DAT62CJ,SK98432HT7DQ93CQ3|sv|0|
+mb|P|mb|1H|mb|2S|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|HT|pc|HJ|pc|HK|pc|HA|pg||
+pc|HQ|pc|H7|pc|H5|pc|H4|pg||
+pc|H9|pc|S4|pc|H6|pc|H8|pg||
+pc|S6|pc|SK|pc|S7|pc|S5|pg||
+pc|S3|pc|SQ|pc|SJ|pc|SA|pg||
+pc|D2|pc|D3|pc|DJ|pc|D4|pg||
+pc|DK|pc|D7|pc|D6|pc|D9|pg||
+pc|D5|pc|D8|pc|DA|pc|DQ|pg||
+mc|11|pg||
+qx|o9|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|3SAQT43H974DK8CQT4,SKJ7HKJDAJT3CAJ32,SH6532D96542CK987,S98652HAQT8DQ7C65|sv|e|
+mb|P|mb|P|mb|1S|mb|D|mb|P|mb|2H|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|D6|pc|D7|pc|D8|pc|DT|pg||
+pc|D3|pc|D2|pc|DQ|pc|DK|pg||
+pc|CT|pc|C2|pc|C7|pc|C5|pg||
+pc|CQ|pc|C3|pc|C8|pc|C6|pg||
+pc|SA|pc|S7|pc|H2|pc|S2|pg||
+mc|9|pg||
+qx|o10|
+pn|Schippers H,Klaver,Schippers E,Ramer,South,West,North,East|md|4SJ65HJ9863D832CT6,SA9432HDA65CAK983,SQT8HAQ72DJCQJ752,SK7HKT54DKQT974C4|sv|b|
+mb|1D|mb|P|mb|1S|mb|D|mb|2D|mb|P|mb|3C|mb|P|mb|3D|mb|P|mb|6D|mb|P|mb|P|mb|P|pg||
+pc|CT|pc|CA|pc|C2|pc|C4|pg||
+pc|C3|pc|C7|pc|D4|pc|C6|pg||
+pc|H4|pc|H3|pc|D5|pc|H2|pg||
+pc|C8|pc|CJ|pc|DQ|pc|H6|pg||
+pc|SK|pc|S5|pc|S2|pc|S8|pg||
+pc|S7|pc|S6|pc|SA|pc|ST|pg||
+pc|S3|pc|SQ|pc|D7|pc|SJ|pg||
+pc|H5|pc|H8|pc|D6|pc|H7|pg||
+pc|S4|pc|DJ|pc|DK|pc|H9|pg||
+pc|HT|pc|HJ|pc|DA|pc|HQ|pg||
+pc|CK|pc|C5|pc|HK|pc|D2|pg||
+mc|12|pg||

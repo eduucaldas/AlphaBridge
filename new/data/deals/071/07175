@@ -1,0 +1,115 @@
+vg|3rd ING BANK Top Circuit 2000,Match 13A,P,1,10,Team 1,0,Team 2,0|
+rs|4SN=,,2SE+1,,3NW=,,2SE+1,,1NSx-3,,3CEx-5,,2SE=,,2NE+2,,4SN=,,5HN=,|
+pw|Muller,Ramondt,De Boer,Maas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|1,2,3,4,5,6,7,8,9,10|
+pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o1,BOARD 1|rh||ah|Board 1|md|3S42HAKJ64DAQ7CQJ4,SQ86H95DT642CT985,SAKT753HQ3DJ93C72|sv|0|
+sa|0|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C4|pc|C5|pc|C7|pg||
+pc|CA|pc|CJ|pc|C8|pc|C2|pg||
+pc|C3|pc|CQ|pc|C9|pc|D9|pg||
+pc|S2|pc|S6|pc|SK|pc|S9|pg||
+pc|H3|pc|H2|pc|HA|pc|H5|pg||
+pc|S4|pc|S8|pc|SA|pc|SJ|pg||
+mc|10|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o2,BOARD 2|rh||ah|Board 2|md|4S95H98764DKQT6CQ5,SJ3HAKQ52D8542CK9,SQ876H3DAJ73CAJ63|sv|n|
+sa|0|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D2|pc|D3|pc|D9|pg||
+pc|S9|pc|S3|pc|S6|pc|ST|pg||
+pc|SA|pc|S5|pc|SJ|pc|S7|pg||
+pc|SK|pc|D6|pc|D4|pc|S8|pg||
+pc|S4|pc|DT|pc|D5|pc|SQ|pg||
+pc|DA|pc|S2|pc|DQ|pc|D8|pg||
+pc|HJ|pc|H4|pc|H2|pc|H3|pg||
+pc|HT|pc|H6|pc|HA|pc|C3|pg||
+mc|9|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o3,BOARD 3|rh||ah|Board 3|md|1SKQ63HT96DT543CT8,SA82HAJ5DKJ86C754,ST97HKQ72DA97CJ96|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|ST|pc|S4|pc|S3|pc|SA|pg||
+pc|C5|pc|C6|pc|CA|pc|CT|pg||
+pc|CK|pc|C8|pc|C4|pc|C9|pg||
+pc|CQ|pc|HT|pc|C7|pc|CJ|pg||
+pc|C2|pc|H9|pc|H5|pc|H2|pg||
+pc|C3|pc|D5|pc|S2|pc|D7|pg||
+pc|DQ|pc|D3|pc|D6|pc|DA|pg||
+pc|S9|pc|S5|pc|SQ|pc|S8|pg||
+pc|SK|pc|D8|pc|S7|pc|SJ|pg||
+pc|S6|mc|9|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o4,BOARD 4|rh||ah|Board 4|md|2S87HKJ8DT84CAQ853,SKQ6532H9DKJ72C96,SAT4HA765D653CJ42|sv|b|
+sa|0|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S2|pc|ST|pc|SJ|pg||
+pc|S9|pc|S7|pc|S3|pc|SA|pg||
+pc|C4|pc|CK|pc|CA|pc|C6|pg||
+mc|9|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o5,BOARD 5|rh||ah|Board 5|md|3SA65HQ96DJ7CAKQ42,S4HK43DAQ964CJT83,S982HT752DT832C76|sv|n|
+sa|0|mb|p|mb|1S|mb|1N|mb|d|mb|p|mb|p|mb|p|pg||
+pc|D4|pc|D2|pc|DK|pc|D7|pg||
+pc|SK|pc|S5|pc|S4|pc|S2|pg||
+pc|SQ|pc|SA|pc|H3|pc|S8|pg||
+pc|CA|pc|C3|pc|C6|pc|C5|pg||
+pc|CK|pc|C8|pc|C7|pc|C9|pg||
+pc|CQ|pc|CJ|pc|S9|pc|H8|pg||
+pc|C2|pc|CT|pc|H2|pc|D5|pg||
+pc|DA|pc|D3|pc|HJ|pc|DJ|pg||
+pc|DQ|pc|D8|pc|S3|pc|S6|pg||
+pc|H4|pc|H5|pc|HA|pc|H6|pg||
+mc|4|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o6,BOARD 6|rh||ah|Board 6|md|4SK875HT3D754CKQJ9,S2HAJ62DKQ982CT64,SAQT94HQ984DAJC85|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2S|mb|d|mb|p|mb|3C|mb|d|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C4|pc|C8|pc|C2|pg||
+pc|CQ|pc|C6|pc|C5|pc|CA|pg||
+pc|D6|pc|D7|pc|DK|pc|DA|pg||
+pc|S4|pc|SJ|pc|SK|pc|S2|pg||
+pc|CJ|pc|CT|pc|H9|pc|C3|pg||
+pc|C9|pc|H2|pc|HQ|pc|C7|pg||
+pc|S7|pc|D2|pc|SA|pc|S3|pg||
+mc|4|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o7,BOARD 7|rh||ah|Board 7|md|1SKHJ63DAQ85CJT873,SAJT976HQ975D3C96,SQ854HKTDT976CAQ4|sv|b|
+sa|0|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|CJ|pc|C6|pc|CA|pc|C5|pg||
+pc|C4|pc|CK|pc|C7|pc|C9|pg||
+pc|S3|pc|SK|pc|SA|pc|S5|pg||
+pc|SJ|pc|SQ|pc|S2|pc|D5|pg||
+pc|CQ|pc|C2|pc|C3|pc|S6|pg||
+pc|ST|pc|S4|pc|D4|pc|C8|pg||
+pc|S9|pc|S8|pc|H2|pc|D8|pg||
+pc|D3|pc|D6|pc|DJ|pc|DQ|pg||
+pc|CT|pc|H5|pc|D7|pc|H4|pg||
+pc|H3|pc|H7|pc|HT|pc|HA|pg||
+pc|H8|pc|H6|pc|H9|pc|HK|pg||
+pc|DT|pc|DK|pc|DA|pc|S7|pg||
+pc|HQ|pc|D9|pc|D2|pc|HJ|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o8,BOARD 8|rh||ah|Board 8|md|2SQ432H62DA876CQ75,ST865HJ73DT2CT643,SKHT985DJ543CKJ98|sv|0|
+sa|0|mb|p|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|S8|pc|SK|pc|SA|pg||
+pc|SJ|pc|S3|pc|S5|pc|HT|pg||
+pc|H4|pc|H2|pc|HJ|pc|H5|pg||
+pc|DT|pc|D3|pc|DK|pc|DA|pg||
+pc|SQ|pc|S6|pc|H8|pc|S7|pg||
+pc|C5|pc|C6|pc|CK|pc|CA|pg||
+pc|HA|pc|H6|pc|H3|pc|H9|pg||
+pc|HK|pc|D6|pc|H7|pc|D4|pg||
+pc|HQ|pc|D7|pc|D2|pc|C8|pg||
+pc|S9|pc|S4|pc|ST|pc|C9|pg||
+pc|C3|pc|CJ|pc|C2|pc|C7|pg||
+pc|D5|pc|D9|pc|D8|pc|C4|pg||
+pc|DQ|pc|CQ|pc|CT|pc|DJ|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o9,BOARD 9|rh||ah|Board 9|md|3SA3HAKQ74DT843CT2,S9864H8D972CQ8764,SKT752HJ3DAKQJCA9|sv|e|
+sa|0|mb|1S|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C5|pc|C2|pc|CQ|pc|CA|pg||
+pc|S2|pc|SJ|pc|SA|pc|S4|pg||
+pc|S3|pc|S8|pc|ST|pc|SQ|pg||
+pc|CK|pc|CT|pc|C4|pc|C9|pg||
+pc|CJ|pc|H4|pc|C6|pc|S5|pg||
+pc|SK|pc|C3|pc|D3|pc|S6|pg||
+pc|DA|mc|10|pg||
+pn|Muller,Ramondt,De Boer,Maas|qx|o10,BOARD 10|rh||ah|Board 10|md|4SHAQ4DA876CQT9853,SKQJ52HJ86DKJ5CK2,SATHK7532D43CA764|sv|b|
+sa|0|mb|p|mb|1C|mb|1S|mb|2H|mb|4S|mb|5H|mb|p|mb|p|mb|p|pg||
+pc|D9|pc|DA|pc|D5|pc|D4|pg||
+pc|HA|pc|H8|pc|H2|pc|H9|pg||
+pc|H4|pc|H6|pc|HK|pc|HT|pg||
+pc|H3|pc|S8|pc|HQ|pc|HJ|pg||
+pc|C8|pc|C2|pc|C7|pc|CJ|pg||
+pc|D2|pc|D6|pc|DK|pc|D3|pg||
+mc|11|pg||

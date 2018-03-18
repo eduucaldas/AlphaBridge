@@ -1,0 +1,116 @@
+vg|3rd ING BANK Top Circuit 2000,Match 12C,P,11,20,Team 1,0,Team 2,0|
+rs|4DW+1,,1NE+1,,2NE-1,,2HS=,,3HE+2,,6DN=,,5DS=,,4HW=,,4HW=,,3NE=,|
+pw|Jansma,De Bruyn,Verhees,Gosschalk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|11,12,13,14,15,16,17,18,19,20|
+pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o11,BOARD 11|rh||ah|Board 11|md|1SA754HQJT92DJ9C82,SJ8HA5DAKQT7CA653,SKQ92H863D832CJ94|sv|0|
+sa|0|mb|p|mb|1D|mb|p|mb|1N|mb|2D|mb|d|mb|2S|mb|3D|mb|p|mb|3S|mb|d|mb|4D|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S3|pc|S4|pc|S8|pg||
+pc|SQ|pc|S6|pc|S5|pc|SJ|pg||
+pc|H3|pc|H4|pc|H9|pc|HA|pg||
+pc|DK|pc|D2|pc|D4|pc|D9|pg||
+pc|DA|pc|D3|pc|D5|pc|DJ|pg||
+pc|DQ|pc|D8|pc|D6|pc|H2|pg||
+mc|11|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o12,BOARD 12|rh||ah|Board 12|md|2ST72HQ93DT63CQT65,SAQ98HADAJ972C943,SKJ3HKJ742DK5CJ82|sv|n|
+sa|0|mb|1D|mb|1H|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|HA|pc|H7|pc|H8|pg||
+pc|DA|pc|D5|pc|D4|pc|D6|pg||
+pc|D2|pc|DK|pc|DQ|pc|DT|pg||
+pc|C2|pc|CA|pc|C5|pc|C3|pg||
+pc|D8|pc|D3|pc|DJ|pc|C8|pg||
+pc|D7|pc|S3|pc|S6|pc|S7|pg||
+pc|D9|pc|CJ|pc|S4|pc|CQ|pg||
+pc|C4|pc|H2|pc|CK|pc|C6|pg||
+pc|S5|pc|S2|pc|SA|pc|SJ|pg||
+mc|8|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQT82HKJ9DT654CJ4,SJ73HT7654D7CKT86,S964HQ82DQJ82CAQ9|sv|b|
+sa|0|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|SJ|pc|S9|pc|S5|pg||
+pc|C6|pc|C9|pc|C7|pc|C4|pg||
+pc|S4|pc|SA|pc|S8|pc|S3|pg||
+pc|C3|pc|CJ|pc|CK|pc|CA|pg||
+pc|CQ|pc|C5|pc|SQ|pc|C8|pg||
+pc|H2|pc|H3|pc|HJ|pc|H4|pg||
+pc|HK|pc|H5|pc|H8|pc|HA|pg||
+pc|C2|pc|ST|pc|CT|pc|D8|pg||
+pc|S7|pc|S6|pc|SK|pc|H9|pg||
+mc|7|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o14,BOARD 14|rh||ah|Board 14|md|4SJ86HJT75DQ7CQ987,SKT742HA4D9532CK6,SAQ3HK632DT8CAJT3|sv|0|
+sa|0|mb|p|mb|p|mb|1S|mb|d|mb|r|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|CA|pc|C5|pc|C8|pg||
+pc|D8|pc|DK|pc|D7|pc|D2|pg||
+pc|S9|pc|SJ|pc|SK|pc|SA|pg||
+pc|DT|pc|DA|pc|DQ|pc|D3|pg||
+pc|S5|pc|S8|pc|ST|pc|SQ|pg||
+pc|S3|pc|C2|pc|S6|pc|S7|pg||
+pc|C6|pc|CJ|pc|C4|pc|CQ|pg||
+pc|H5|pc|H4|pc|HK|pc|H8|pg||
+pc|H2|pc|H9|pc|HT|pc|HA|pg||
+mc|8|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o15,BOARD 15|rh||ah|Board 15|md|1SAJ2HJ9DJCAKJ7532,SK98HATDKT98732CT,SQT7653H75DQ64C96|sv|n|
+sa|0|mb|1C|mb|3D|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|CT|pc|C9|pc|C4|pg||
+pc|DJ|pc|D2|pc|D6|pc|DA|pg||
+pc|S4|pc|S2|pc|SK|pc|S3|pg||
+pc|S9|pc|S7|pc|H2|pc|SA|pg||
+mc|11|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o16,BOARD 16|rh||ah|Board 16|md|2SAQ62HA53DQCQJT52,SK743H8642D432CK9,S8HQJTDAK98765CA7|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|2C|mb|p|mb|3D|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|6C|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
+pc|SJ|pc|SA|pc|S3|pc|S8|pg||
+pc|DQ|pc|D2|pc|D5|pc|DJ|pg||
+pc|S2|pc|S4|pc|D6|pc|S5|pg||
+pc|DA|pc|DT|pc|S6|pc|D3|pg||
+pc|DK|pc|S9|pc|SQ|pc|D4|pg||
+pc|CA|pc|C3|pc|C2|pc|C9|pg||
+pc|C7|pc|C4|pc|CQ|pc|CK|pg||
+mc|12|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o17,BOARD 17|rh||ah|Board 17|md|3SAQT864H8DAKQJC32,S9753HK96D764CAJ6,SKH42DT985CQT8754|sv|0|
+sa|0|mb|p|mb|1H|mb|d|mb|1S|mb|2C|mb|2H|mb|p|mb|p|mb|2N|mb|3H|mb|5D|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H2|pc|HA|pc|H8|pg||
+pc|HQ|pc|DJ|pc|H6|pc|H4|pg||
+pc|S4|pc|S3|pc|SK|pc|S2|pg||
+pc|D5|pc|D2|pc|DA|pc|D4|pg||
+pc|DK|pc|D6|pc|D8|pc|D3|pg||
+pc|SA|pc|S5|pc|C4|pc|SJ|pg||
+pc|DQ|pc|D7|pc|D9|pc|H3|pg||
+pc|SQ|pc|S7|pc|C5|pc|H5|pg||
+pc|ST|pc|S9|pc|C7|pc|H7|pg||
+pc|S8|pc|H9|pc|C8|pc|HJ|pg||
+pc|S6|pc|C6|pc|CT|pc|HT|pg||
+pc|C2|pc|CA|pc|CQ|pc|C9|pg||
+mc|11|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o18,BOARD 18|rh||ah|Board 18|md|4SJ5H2DAKT875CQ643,SK7HAQJ964D92CAKT,SA942H7D643CJ9752|sv|n|
+sa|0|mb|p|mb|2C|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|D3|pc|DJ|pc|DK|pc|D9|pg||
+pc|DA|pc|D2|pc|D6|pc|DQ|pg||
+pc|C3|pc|CA|pc|C7|pc|C8|pg||
+pc|HJ|pc|H7|pc|H3|pc|H2|pg||
+mc|10|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o19,BOARD 19|rh||ah|Board 19|md|1SA9H8764D532CKQT8,SKQ87HAT953DJ8CA3,SJ632H2DKQ964C652|sv|e|
+sa|0|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DA|pc|D5|pc|D8|pg||
+pc|D7|pc|D2|pc|DJ|pc|DQ|pg||
+pc|C2|pc|C9|pc|CT|pc|CA|pg||
+pc|H3|pc|H2|pc|HJ|pc|H4|pg||
+pc|DT|pc|D3|pc|C3|pc|D4|pg||
+pc|S4|pc|S9|pc|SK|pc|S2|pg||
+pc|H5|pc|D6|pc|HQ|pc|H6|pg||
+pc|S5|pc|SA|pc|S8|pc|S3|pg||
+pc|CK|pc|HT|pc|C5|pc|C4|pg||
+pc|HA|pc|D9|pc|HK|pc|H7|pg||
+pc|H9|mc|10|pg||
+pn|Jansma,De Bruyn,Verhees,Gosschalk|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQ4HAKJ9642DJ53CQ,SAK82HTDK86CAJ953,SJT965H75DQT94C72|sv|b|
+sa|0|mb|1C|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|HT|pc|H7|pc|H3|pg||
+pc|D3|pc|DK|pc|D4|pc|D7|pg||
+pc|CA|pc|C2|pc|C4|pc|CQ|pg||
+pc|C3|pc|C7|pc|CK|pc|HJ|pg||
+pc|C6|pc|D5|pc|CJ|pc|S5|pg||
+pc|C5|pc|D9|pc|C8|pc|DJ|pg||
+pc|CT|pc|H2|pc|C9|pc|H5|pg||
+pc|S3|pc|S4|pc|SA|pc|S6|pg||
+pc|SK|pc|S9|pc|S7|pc|SQ|pg||
+pc|D6|pc|DQ|pc|DA|pc|H4|pg||
+mc|9|pg||

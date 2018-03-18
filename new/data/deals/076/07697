@@ -1,0 +1,414 @@
+vg|1999 Euro Team Championships,Malta Rd01,I,1,20,Austria,0,Italy,0|
+rs|3NS-2,1NS=,4SNx=,4SN=,3HS-2,2HS-1,5DWx-3,4SS+1,3NN+2,3NN+2,6HS-1,6HN+1,3NE=,3NW+2,3NN-1,3NS=,4HE=,2NS-2,2CS-2,2CEx-2,4SN-1,2SS+1,6SWx-1,6SWx-1,6SSx-3,5CE=,4HSx=,4HS=,3CN-3,3NW-1,2SN-2,2SN-1,3NE+1,3NE+1,3HS-2,3NN-2,3SS-2,3SS-1,4SW=,3NW-1|
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N,Ferraro G,Umshaus P,De Falco S,Babsch A|pg||
+mn|European Team Championships '99 - 1999.06.13|pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o1,BOARD 1|rh||ah|Board 1|md|3SAQ32HAK97D72CQ62,SKJ654HJ83DJCAJ93,ST7HQT6DAQ985CT87|sv|0|
+sa|0|mb|p|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|ST|pc|S8|pc|S3|pg||
+pc|D5|pc|D4|pc|D7|pc|DJ|pg||
+pc|C3|pc|C7|pc|CK|pc|C6|pg||
+pc|C5|pc|CQ|pc|CA|pc|C8|pg||
+pc|CJ|pc|CT|pc|C4|pc|C2|pg||
+pc|C9|pc|D8|pc|H2|pc|S2|pg||
+pc|H3|pc|H6|pc|H4|pc|H9|pg||
+pc|H7|pc|H8|pc|HQ|pc|H5|pg||
+pc|HT|mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c1,BOARD 1|rh||ah|Board 1|md|3SAQ32HAK97D72CQ62,SKJ654HJ83DJCAJ93,ST7HQT6DAQ985CT87|sv|0|
+sa|0|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|ST|pc|S8|pc|S2|pg||
+pc|HT|pc|H5|pc|HA|pc|H8|pg||
+pc|D2|pc|DJ|pc|DQ|pc|DK|pg||
+pc|S9|pc|SA|pc|S5|pc|S7|pg||
+pc|D7|pc|S6|pc|DA|pc|D3|pg||
+pc|HQ|pc|H2|pc|H7|pc|H3|pg||
+mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o2,BOARD 2|rh||ah|Board 2|md|4ST75432HA9DCAQ863,SQ6HQT873DQ83CKJ2,SKJ8H5DK96542CT97|sv|n|
+sa|0|mb|1H|mb|2H|mb|4H|mb|p|mb|p|mb|d|mb|p|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|H4|pc|HA|pc|H3|pc|H5|pg||
+pc|H9|pc|H7|pc|S8|pc|H2|pg||
+pc|C9|pc|C4|pc|CQ|pc|CK|pg||
+pc|D3|pc|D6|pc|D7|pc|S2|pg||
+pc|S3|pc|S6|pc|SJ|pc|SA|pg||
+pc|C5|pc|CA|pc|C2|pc|CT|pg||
+pc|S4|pc|SQ|pc|SK|pc|S9|pg||
+mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c2,BOARD 2|rh||ah|Board 2|md|4ST75432HA9DCAQ863,SQ6HQT873DQ83CKJ2,SKJ8H5DK96542CT97|sv|n|
+sa|0|mb|1H|mb|2H|mb|4H|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|HA|pc|H8|pc|H5|pg||
+pc|H9|pc|HT|pc|S8|pc|H6|pg||
+pc|C9|pc|C4|pc|CQ|pc|CK|pg||
+pc|S6|pc|SJ|pc|SA|pc|S2|pg||
+pc|C5|pc|CA|pc|C2|pc|C7|pg||
+pc|S3|pc|SQ|pc|SK|pc|S9|pg||
+mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o3,BOARD 3|rh||ah|Board 3|md|1ST53HAJ8532D92C64,SQ4HKQ9DJ764CAJ97,SA876H7DAQTCKQ853|sv|e|
+sa|0|mb|p|mb|1N|mb|d|mb|r|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|D4|pc|DQ|pc|DK|pc|D2|pg||
+pc|CT|pc|C4|pc|CA|pc|C3|pg||
+pc|SQ|pc|SA|pc|S2|pc|S3|pg||
+pc|CK|pc|C2|pc|C6|pc|C7|pg||
+pc|CQ|pc|HT|pc|HJ|pc|C9|pg||
+pc|HA|pc|H9|pc|H7|pc|H4|pg||
+pc|H3|pc|HQ|pc|S6|pc|H6|pg||
+pc|S4|pc|S7|pc|SK|pc|S5|pg||
+pc|SJ|pc|ST|pc|D6|pc|S8|pg||
+pc|S9|mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c3,BOARD 3|rh||ah|Board 3|md|1ST53HAJ8532D92C64,SQ4HKQ9DJ764CAJ97,SA876H7DAQTCKQ853|sv|e|
+sa|0|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|SA|pc|S2|pc|S3|pg||
+pc|S6|pc|SK|pc|S5|pc|S4|pg||
+pc|SJ|pc|ST|pc|D4|pc|S7|pg||
+pc|S9|pc|H5|pc|H9|pc|S8|pg||
+pc|D6|pc|DQ|pc|DK|pc|D2|pg||
+pc|CT|pc|C4|pc|CA|pc|C3|pg||
+pc|D7|pc|DA|pc|D3|pc|D9|pg||
+pc|H7|pc|H4|pc|HA|pc|HQ|pg||
+pc|H2|pc|HK|pc|CK|pc|H6|pg||
+mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o4,BOARD 4|rh||ah|Board 4|md|2SAJ876HAT8D5CAT54,S5HK9DAKJT9CK9762,SQT432HQJ543D872C|sv|b|
+sa|0|mb|1D|mb|p|mb|1H|mb|1S|mb|2C|mb|3S|mb|4D|mb|4S|mb|5D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|SK|pc|SA|pc|S5|pg||
+pc|CA|pc|C2|pc|H5|pc|C3|pg||
+pc|C4|pc|C6|pc|D7|pc|C8|pg||
+pc|HQ|pc|H2|pc|HA|pc|H9|pg||
+pc|C5|pc|C7|pc|D2|pc|CJ|pg||
+mc|8|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c4,BOARD 4|rh||ah|Board 4|md|2SAJ876HAT8D5CAT54,S5HK9DAKJT9CK9762,SQT432HQJ543D872C|sv|b|
+sa|0|mb|1D|mb|p|mb|1N|mb|2S|mb|3C|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D2|pc|D3|pc|D5|pg||
+pc|DK|pc|D7|pc|D4|pc|S6|pg||
+pc|C4|pc|C2|pc|S2|pc|C3|pg||
+pc|SQ|pc|S9|pc|S7|pc|S5|pg||
+pc|S3|pc|SK|pc|SA|pc|D9|pg||
+pc|C5|pc|C6|pc|S4|pc|C8|pg||
+pc|HQ|pc|H2|pc|H8|pc|HK|pg||
+mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o5,BOARD 5|rh||ah|Board 5|md|3SAJ963HAKTD65C643,S52H9875DT83CJ975,SQTHQJ642DAK9CKT2|sv|n|
+sa|0|mb|1N|mb|2D|mb|d|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D5|pc|DT|pc|DK|pg||
+pc|SQ|pc|S4|pc|S3|pc|S2|pg||
+pc|ST|pc|S7|pc|S6|pc|S5|pg||
+pc|H2|pc|H3|pc|HA|pc|H5|pg||
+pc|SA|pc|D8|pc|C2|pc|S8|pg||
+pc|S9|pc|D3|pc|D9|pc|SK|pg||
+pc|DQ|pc|D6|pc|C5|pc|DA|pg||
+mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c5,BOARD 5|rh||ah|Board 5|md|3SAJ963HAKTD65C643,S52H9875DT83CJ975,SQTHQJ642DAK9CKT2|sv|n|
+sa|0|mb|1H|mb|d|mb|r|mb|p|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|1N|mb|d|mb|2D|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D5|pc|DT|pc|DA|pg||
+pc|SQ|pc|S4|pc|S3|pc|S2|pg||
+pc|ST|pc|S7|pc|S6|pc|S5|pg||
+pc|H2|pc|H3|pc|HA|pc|H5|pg||
+pc|SJ|pc|D3|pc|C2|pc|SK|pg||
+pc|DQ|pc|D6|pc|D8|pc|DK|pg||
+pc|H4|pc|C8|pc|HK|pc|H7|pg||
+pc|SA|pc|C5|mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o6,BOARD 6|rh||ah|Board 6|md|4SJHK98DKJ87CQT962,SK9654H63DQ965C43,SQ3HAT7542DACAKJ5|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|3S|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|H2|pc|HQ|pc|HK|pg||
+pc|H8|pc|H6|pc|H4|pc|HJ|pg||
+pc|SA|mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c6,BOARD 6|rh||ah|Board 6|md|4SJHK98DKJ87CQT962,SK9654H63DQ965C43,SQ3HAT7542DACAKJ5|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D7|pc|D6|pc|DA|pg||
+pc|HA|pc|HJ|pc|H8|pc|H3|pg||
+pc|H2|pc|HQ|pc|HK|pc|H6|pg||
+mc|13|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o7,BOARD 7|rh||ah|Board 7|md|1SKT7HJ87DQT86CQ73,SAJ92HA96DJ4CJ862,S643HQT432D532CT9|sv|b|
+sa|0|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H8|pc|H6|pc|HQ|pc|H5|pg||
+pc|H2|pc|HK|pc|H7|pc|H9|pg||
+pc|CA|pc|C7|pc|C2|pc|C9|pg||
+pc|CK|pc|C3|pc|C6|pc|CT|pg||
+pc|C4|pc|CQ|pc|C8|pc|D3|pg||
+pc|HJ|pc|HA|pc|H3|pc|D7|pg||
+pc|CJ|pc|S3|pc|C5|pc|D6|pg||
+pc|DJ|pc|D2|pc|DA|pc|D8|pg||
+pc|S5|pc|S7|pc|SJ|pc|S4|pg||
+pc|SA|pc|S6|pc|S8|pc|ST|pg||
+pc|D4|mc|9|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c7,BOARD 7|rh||ah|Board 7|md|1SKT7HJ87DQT86CQ73,SAJ92HA96DJ4CJ862,S643HQT432D532CT9|sv|b|
+sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|H5|pc|HJ|pc|H6|pg||
+pc|DQ|pc|D4|pc|D2|pc|DK|pg||
+pc|SQ|pc|SK|pc|SA|pc|S6|pg||
+pc|DJ|pc|D3|pc|D7|pc|D6|pg||
+pc|C2|pc|C9|pc|CA|pc|C3|pg||
+pc|S8|pc|S7|pc|S2|pc|S4|pg||
+pc|HK|pc|H7|pc|H9|pc|H3|pg||
+pc|S5|pc|ST|pc|SJ|pc|S3|pg||
+mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o8,BOARD 8|rh||ah|Board 8|md|2ST2HAK6DQ862CQJ86,SA75HJT84DT5C7532,SKQ93H9732DAK97C4|sv|0|
+sa|0|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|S2|pc|SA|pc|S3|pg||
+pc|S7|pc|SK|pc|S4|pc|ST|pg||
+pc|H3|pc|H5|pc|H6|pc|H8|pg||
+pc|S5|pc|SQ|pc|S8|pc|C6|pg||
+pc|H2|pc|HQ|pc|HK|pc|H4|pg||
+pc|HA|pc|HT|pc|H7|pc|C9|pg||
+pc|D2|pc|D5|pc|DA|pc|D4|pg||
+pc|D7|pc|D3|pc|DQ|pc|DT|pg||
+pc|D6|pc|C2|pc|DK|pc|DJ|pg||
+pc|D9|mc|8|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c8,BOARD 8|rh||ah|Board 8|md|2ST2HAK6DQ862CQJ86,SA75HJT84DT5C7532,SKQ93H9732DAK97C4|sv|0|
+sa|0|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S3|pc|S8|pc|ST|pg||
+pc|S2|pc|SA|pc|S9|pc|S4|pg||
+pc|H4|pc|H2|pc|HQ|pc|H6|pg||
+pc|H5|pc|HK|pc|H8|pc|H3|pg||
+pc|HA|pc|HT|pc|H7|pc|S6|pg||
+pc|D2|pc|D5|pc|DA|pc|D3|pg||
+pc|SQ|pc|SJ|pc|C6|pc|S7|pg||
+pc|SK|pc|C9|pc|C8|pc|C2|pg||
+pc|DK|pc|D4|pc|D6|pc|DT|pg||
+mc|9|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o9,BOARD 9|rh||ah|Board 9|md|3SK6HQ4DKQJ96CK643,SJ732HJ8653D5CA95,S984HA7DT42CQJT72|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|2D|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D5|pc|D4|pc|DA|pg||
+pc|C8|pc|C3|pc|CA|pc|C2|pg||
+pc|H3|pc|H7|pc|HT|pc|HQ|pg||
+pc|CK|pc|C5|pc|C7|pc|H2|pg||
+pc|D3|pc|D6|pc|H5|pc|D2|pg||
+pc|C9|pc|CT|pc|H9|pc|C4|pg||
+mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c9,BOARD 9|rh||ah|Board 9|md|3SK6HQ4DKQJ96CK643,SJ732HJ8653D5CA95,S984HA7DT42CQJT72|sv|e|
+sa|0|mb|p|mb|1D|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|H7|pc|HK|pc|H4|pg||
+pc|H2|pc|HQ|pc|H5|pc|HA|pg||
+pc|CQ|pc|C8|pc|C3|pc|C9|pg||
+pc|D2|pc|D3|pc|DK|pc|D5|pg||
+pc|C4|pc|C5|pc|CJ|pc|S5|pg||
+pc|D4|pc|DA|pc|D6|pc|S2|pg||
+pc|HT|pc|CK|pc|H6|pc|C2|pg||
+pc|H9|pc|C6|pc|HJ|pc|S4|pg||
+pc|H8|pc|S8|pc|D7|pc|D9|pg||
+mc|6|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o10,BOARD 10|rh||ah|Board 10|md|4SQ84H843DT2CKT942,S9HK952DQJ65CQ875,SK532HAQJTDK743C3|sv|b|
+sa|0|mb|1S|mb|p|mb|1N|mb|d|mb|p|mb|2C|mb|p|mb|p|mb|p|pg||
+pc|S9|pc|S2|pc|S7|pc|SQ|pg||
+pc|H4|pc|H2|pc|HT|pc|H6|pg||
+pc|C3|pc|C6|pc|CK|pc|C5|pg||
+pc|C2|pc|C7|pc|S3|pc|CJ|pg||
+pc|H7|pc|H3|pc|H5|pc|HJ|pg||
+pc|HA|pc|CA|pc|H8|pc|H9|pg||
+pc|SA|pc|S4|pc|D6|pc|S5|pg||
+pc|SJ|pc|S8|pc|C8|pc|SK|pg||
+pc|DQ|mc|6|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c10,BOARD 10|rh||ah|Board 10|md|4SQ84H843DT2CKT942,S9HK952DQJ65CQ875,SK532HAQJTDK743C3|sv|b|
+sa|0|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|DT|pc|DQ|pc|D4|pc|D8|pg||
+pc|D5|pc|D3|pc|D9|pc|D2|pg||
+pc|H6|pc|H8|pc|HK|pc|HA|pg||
+pc|C3|pc|C6|pc|CK|pc|C5|pg||
+pc|C2|pc|C7|pc|S2|pc|CJ|pg||
+pc|H7|pc|H4|pc|H2|pc|HT|pg||
+pc|D7|pc|DA|pc|C4|pc|D6|pg||
+pc|C9|pc|C8|pc|S3|pc|CA|pg||
+pc|SA|pc|S4|pc|S9|pc|S5|pg||
+pc|S6|pc|S8|pc|CQ|pc|SK|pg||
+mc|6|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o11,BOARD 11|rh||ah|Board 11|md|1SK963H43D8754CJ74,SAT8HJT85DKJ2CK85,SJ7542HA6DAQ3CAQ9|sv|0|
+sa|0|mb|p|mb|1N|mb|d|mb|2H|mb|p|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H3|pc|H5|pc|HA|pg||
+pc|S5|pc|SQ|pc|SK|pc|SA|pg||
+pc|HJ|pc|H6|pc|H2|pc|H4|pg||
+pc|D2|pc|DQ|pc|D6|pc|D4|pg||
+pc|DA|pc|D9|pc|D5|pc|DJ|pg||
+pc|SJ|pc|H7|pc|S3|pc|S8|pg||
+pc|S4|mc|9|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c11,BOARD 11|rh||ah|Board 11|md|1SK963H43D8754CJ74,SAT8HJT85DKJ2CK85,SJ7542HA6DAQ3CAQ9|sv|0|
+sa|0|mb|p|mb|1N|mb|d|mb|2H|mb|p|mb|p|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|HJ|pc|HA|pc|H7|pc|H3|pg||
+pc|S2|pc|SQ|pc|SK|pc|SA|pg||
+pc|HT|pc|H6|pc|H2|pc|H4|pg||
+pc|C5|pc|C9|pc|CT|pc|CJ|pg||
+pc|C4|pc|C8|pc|CQ|pc|C2|pg||
+pc|CA|pc|C3|pc|C7|pc|CK|pg||
+pc|SJ|pc|C6|pc|S3|pc|S8|pg||
+mc|9|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o12,BOARD 12|rh||ah|Board 12|md|2SHAQ8653DK72C7653,SAKT9765H74DAJCT8,S8HKJT92DQ65CAQJ2|sv|n|
+sa|0|mb|1S|mb|d|mb|4S|mb|5H|mb|5S|mb|p|mb|p|mb|6H|mb|p|mb|p|mb|6S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HJ|pc|S2|pc|H8|pc|H4|pg||
+pc|S3|pc|H3|pc|SK|pc|S8|pg||
+pc|H7|pc|H9|pc|S4|pc|H5|pg||
+pc|SJ|pc|C3|pc|S5|pc|H2|pg||
+pc|SQ|pc|H6|pc|SA|pc|D5|pg||
+mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c12,BOARD 12|rh||ah|Board 12|md|2SHAQ8653DK72C7653,SAKT9765H74DAJCT8,S8HKJT92DQ65CAQJ2|sv|n|
+sa|0|mb|1S|mb|2H|mb|4S|mb|4N|mb|5S|mb|d|mb|p|mb|6H|mb|p|mb|p|mb|6S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|S2|pc|HQ|pc|H4|pg||
+pc|S3|pc|C6|pc|S9|pc|S8|pg||
+pc|H7|pc|H9|pc|S4|pc|H3|pg||
+pc|SJ|pc|H5|pc|SK|pc|HT|pg||
+pc|C8|pc|CA|pc|C4|pc|C3|pg||
+pc|CQ|pc|CK|pc|C5|pc|CT|pg||
+pc|SQ|pc|H6|pc|SA|pc|HJ|pg||
+pc|ST|pc|HK|pc|D3|pc|C7|pg||
+pc|S7|mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o13,BOARD 13|rh||ah|Board 13|md|3SAKJT32H64DJT953C,SQ5HAK2D8CAKJ9654,S764HJT953DQ7642C|sv|b|
+sa|0|mb|p|mb|p|mb|4S|mb|5C|mb|5S|mb|6C|mb|6S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H3|pc|H8|pc|H6|pg||
+pc|D8|pc|D2|pc|DK|pc|DJ|pg||
+pc|DA|pc|D5|pc|C4|pc|D4|pg||
+pc|H7|pc|H4|pc|HA|pc|H5|pg||
+pc|H2|pc|H9|pc|HQ|pc|S2|pg||
+pc|SA|pc|S5|pc|S4|pc|S8|pg||
+mc|9|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c13,BOARD 13|rh||ah|Board 13|md|3SAKJT32H64DJT953C,SQ5HAK2D8CAKJ9654,S764HJT953DQ7642C|sv|b|
+sa|0|mb|p|mb|1N|mb|2D|mb|2N|mb|p|mb|3C|mb|3S|mb|5C|mb|p|mb|p|mb|p|pg||
+pc|SA|pc|S5|pc|S6|pc|S8|pg||
+pc|SK|pc|SQ|pc|S4|pc|S9|pg||
+pc|DJ|pc|D8|pc|D2|pc|DA|pg||
+mc|11|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o14,BOARD 14|rh||ah|Board 14|md|4S642HAKJT84DCA642,SQ873H96DAJT32CJ8,SKT5H532D94CQT953|sv|0|
+sa|0|mb|1D|mb|4H|mb|d|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D4|pc|D8|pc|H4|pg||
+pc|HA|pc|H6|pc|H2|pc|H7|pg||
+pc|HK|pc|H9|pc|H3|pc|HQ|pg||
+pc|CA|pc|C8|pc|C3|pc|C7|pg||
+pc|C2|pc|CJ|pc|C5|pc|CK|pg||
+pc|DK|pc|H8|pc|D2|pc|D9|pg||
+pc|C4|pc|S3|mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c14,BOARD 14|rh||ah|Board 14|md|4S642HAKJT84DCA642,SQ873H96DAJT32CJ8,SKT5H532D94CQT953|sv|0|
+sa|0|mb|1D|mb|1H|mb|1S|mb|2H|mb|2S|mb|3S|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S7|pc|S5|pc|S9|pc|S2|pg||
+pc|DK|pc|HJ|pc|D2|pc|D4|pg||
+pc|HK|pc|H6|pc|H2|pc|H7|pg||
+pc|HA|pc|H9|pc|H3|pc|HQ|pg||
+pc|CA|pc|C8|pc|C3|pc|C7|pg||
+pc|C2|pc|CJ|pc|CQ|pc|CK|pg||
+pc|SA|pc|S4|pc|S3|pc|ST|pg||
+mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o15,BOARD 15|rh||ah|Board 15|md|1SJT982H862DJ42C92,S3HT9543DQT865CKT,SQ5HAKQ7D97CAJ863|sv|n|
+sa|0|mb|p|mb|p|mb|2C|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S2|pc|S3|pc|SQ|pg||
+pc|DK|pc|D2|pc|D5|pc|D7|pg||
+pc|DA|pc|D4|pc|DT|pc|D9|pg||
+pc|SA|pc|S8|pc|D6|pc|S5|pg||
+pc|D3|pc|DJ|pc|DQ|pc|C3|pg||
+pc|HA|pc|HJ|pc|H2|pc|H3|pg||
+pc|HK|pc|C4|pc|H6|pc|H4|pg||
+pc|C5|pc|C2|pc|CK|pc|CA|pg||
+pc|HQ|pc|C7|pc|H8|pc|H5|pg||
+pc|S4|mc|6|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c15,BOARD 15|rh||ah|Board 15|md|1SJT982H862DJ42C92,S3HT9543DQT865CKT,SQ5HAKQ7D97CAJ863|sv|n|
+sa|0|mb|p|mb|p|mb|1H|mb|d|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|HJ|pc|H8|pc|H5|pg||
+pc|D7|pc|DA|pc|D4|pc|D5|pg||
+pc|C4|pc|C2|pc|CT|pc|CJ|pg||
+pc|D9|pc|DK|pc|D2|pc|D6|pg||
+pc|C5|pc|C9|pc|CK|pc|CA|pg||
+pc|HA|pc|S4|pc|H2|pc|H3|pg||
+pc|SQ|pc|SA|pc|S2|pc|S3|pg||
+pc|SK|pc|S8|pc|H4|pc|S5|pg||
+pc|CQ|pc|DJ|pc|HT|pc|C3|pg||
+pc|D3|pc|SJ|pc|DQ|pc|H7|pg||
+mc|8|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o16,BOARD 16|rh||ah|Board 16|md|2S7HKT82DAT532CJ93,S95HJ43DKJ86CAQ87,SAQT832H97D97CK54|sv|e|
+sa|0|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|D2|pc|D6|pc|D7|pg||
+pc|D4|pc|DA|pc|D8|pc|D9|pg||
+pc|S7|pc|S5|pc|SQ|pc|SK|pg||
+pc|HA|pc|H2|pc|H4|pc|H7|pg||
+pc|H5|pc|HK|pc|H3|pc|H9|pg||
+pc|C3|pc|CA|pc|C5|pc|C6|pg||
+pc|DK|pc|S8|pc|C2|pc|D3|pg||
+pc|SA|pc|S4|pc|H8|pc|S9|pg||
+pc|S3|pc|S6|pc|HT|pc|C8|pg||
+pc|SJ|pc|D5|mc|6|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c16,BOARD 16|rh||ah|Board 16|md|2S7HKT82DAT532CJ93,S95HJ43DKJ86CAQ87,SAQT832H97D97CK54|sv|e|
+sa|0|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|DA|pc|D6|pc|D7|pg||
+pc|S7|pc|S5|pc|ST|pc|SJ|pg||
+pc|D4|pc|D2|pc|DJ|pc|D9|pg||
+pc|DK|pc|S8|pc|C2|pc|D3|pg||
+pc|SA|pc|S4|pc|H2|pc|S9|pg||
+pc|S2|pc|S6|pc|D5|pc|H3|pg||
+pc|HA|pc|H8|pc|H4|pc|H7|pg||
+pc|C6|pc|C3|pc|CA|pc|C4|pg||
+pc|C7|pc|CK|pc|CT|pc|C9|pg||
+pc|H9|mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o17,BOARD 17|rh||ah|Board 17|md|3S83HK72DK3CQJ8543,S62HA86DJT52CA976,SKQT974HQ94D8764C|sv|0|
+sa|0|mb|2S|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|C6|pc|S4|pc|C2|pg||
+pc|DJ|pc|D4|pc|D9|pc|DK|pg||
+pc|S8|pc|S2|pc|SQ|pc|S5|pg||
+pc|ST|pc|SJ|pc|S3|pc|S6|pg||
+pc|HT|pc|H2|pc|H6|pc|HQ|pg||
+pc|S9|pc|SA|pc|C3|pc|H8|pg||
+pc|DA|pc|D3|pc|D2|pc|D6|pg||
+pc|DQ|mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c17,BOARD 17|rh||ah|Board 17|md|3S83HK72DK3CQJ8543,S62HA86DJT52CA976,SKQT974HQ94D8764C|sv|0|
+sa|0|mb|2S|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S2|pc|SQ|pc|S5|pg||
+pc|H4|pc|H3|pc|HK|pc|HA|pg||
+pc|D2|pc|D4|mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o18,BOARD 18|rh||ah|Board 18|md|4S9HAQT743DJT4CA87,SQ42HKJ92DA982CT9,SAJ53HDQ653CKQ543|sv|n|
+sa|0|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|CT|pc|CK|pc|C2|pc|C8|pg||
+pc|DQ|pc|DK|pc|D4|pc|D2|pg||
+pc|D7|pc|DT|pc|DA|pc|D3|pg||
+pc|D9|pc|D5|pc|H6|pc|DJ|pg||
+pc|C6|pc|CA|pc|C9|pc|C3|pg||
+pc|HA|pc|H2|pc|S3|pc|H5|pg||
+pc|H3|pc|H9|pc|C4|pc|H8|pg||
+pc|S2|pc|SA|pc|S7|pc|S9|pg||
+pc|S5|pc|SK|pc|H4|pc|S4|pg||
+pc|H7|pc|HJ|mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c18,BOARD 18|rh||ah|Board 18|md|4S9HAQT743DJT4CA87,SQ42HKJ92DA982CT9,SAJ53HDQ653CKQ543|sv|n|
+sa|0|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|S9|pc|SQ|pc|S3|pg||
+pc|S4|pc|S5|pc|S7|pc|D4|pg||
+pc|D7|pc|DT|pc|DA|pc|D3|pg||
+pc|S2|pc|SA|pc|ST|pc|H3|pg||
+pc|D5|pc|DK|pc|DJ|pc|D2|pg||
+pc|SK|pc|H4|pc|H2|pc|SJ|pg||
+pc|S8|pc|H7|pc|CT|pc|C3|pg||
+pc|H5|pc|HA|pc|H9|pc|D6|pg||
+pc|CA|pc|C9|pc|C4|pc|C2|pg||
+mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o19,BOARD 19|rh||ah|Board 19|md|1SKJ65HT42DT9CT876,SQ742HQ9753D8742C,SAT8HAJ86DKQJ3CQJ|sv|e|
+sa|0|mb|p|mb|p|mb|1C|mb|2C|mb|p|mb|p|mb|d|mb|r|mb|2S|mb|p|mb|p|mb|3C|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D3|pc|DA|pc|DT|pg||
+pc|CK|pc|C7|pc|D4|pc|CJ|pg||
+pc|CA|pc|C6|pc|D7|pc|CQ|pg||
+pc|HK|pc|H4|pc|H5|pc|HA|pg||
+pc|H6|pc|D6|pc|HT|pc|HQ|pg||
+pc|H3|pc|H8|pc|S9|pc|H2|pg||
+pc|D5|pc|D9|pc|D8|pc|DJ|pg||
+pc|SA|pc|S3|pc|S5|pc|S2|pg||
+pc|S8|pc|C2|pc|S6|pc|SQ|pg||
+mc|7|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c19,BOARD 19|rh||ah|Board 19|md|1SKJ65HT42DT9CT876,SQ742HQ9753D8742C,SAT8HAJ86DKQJ3CQJ|sv|e|
+sa|0|mb|p|mb|p|mb|1C|mb|3C|mb|p|mb|p|mb|d|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|D8|pc|D3|pc|DA|pc|D9|pg||
+pc|CA|pc|C6|pc|D2|pc|CJ|pg||
+pc|CK|pc|C7|pc|D4|pc|CQ|pg||
+pc|D6|pc|DT|pc|D7|pc|DJ|pg||
+pc|S8|pc|S3|pc|SK|pc|S2|pg||
+pc|S5|pc|S4|pc|ST|pc|S9|pg||
+pc|SA|pc|C5|pc|S6|pc|S7|pg||
+pc|DQ|pc|D5|pc|H2|pc|H3|pg||
+pc|DK|pc|C2|pc|H4|pc|H5|pg||
+pc|HA|pc|HK|pc|HT|pc|H7|pg||
+pc|H6|pc|C3|mc|8|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|o20,BOARD 20|rh||ah|Board 20|md|2S95H75432D764CAJ8,SKJT4HAT9DQ8CKQ73,S63HKJ6DAJT532C54|sv|b|
+sa|0|mb|1N|mb|p|mb|2H|mb|p|mb|3D|mb|d|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|C2|pc|CA|pc|C3|pg||
+pc|H4|pc|HA|pc|H6|pc|H8|pg||
+pc|SK|pc|S3|pc|S2|pc|S5|pg||
+pc|S4|pc|S6|pc|SA|pc|S9|pg||
+pc|C6|pc|C8|pc|CK|pc|C5|pg||
+pc|SJ|mc|10|pg||
+pn|Terraneo F,Duboin G,Feichtinger K,Bocchi N|qx|c20,BOARD 20|rh||ah|Board 20|md|2S95H75432D764CAJ8,SKJT4HAT9DQ8CKQ73,S63HKJ6DAJT532C54|sv|b|
+sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|2D|mb|d|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|DT|pc|DK|pc|D7|pc|D8|pg||
+pc|S2|pc|S5|pc|SK|pc|S3|pg||
+pc|SJ|pc|S6|pc|S7|pc|S9|pg||
+pc|ST|pc|H6|pc|S8|pc|H2|pg||
+pc|S4|pc|C4|pc|SQ|pc|H3|pg||
+pc|SA|pc|H4|pc|C3|pc|D3|pg||
+pc|C2|pc|CA|pc|C7|pc|C5|pg||
+pc|D6|pc|DQ|pc|DA|pc|D9|pg||
+pc|DJ|pc|C6|pc|D4|pc|H9|pg||
+pc|D5|pc|C9|pc|H5|pc|HT|pg||
+mc|8|pg||
