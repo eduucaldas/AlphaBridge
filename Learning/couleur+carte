@@ -6,13 +6,8 @@ import path_jupy
 sys.path.append(path_jupy.give_path())
 from Pickle_Data.extract_data import load_file, BridgeDeal
 
-%matplotlib inline
-
-
-
 filename = "Search.bin"
 data = load_file(filename)
-
 
 leads = [data[i].lead.upper() for i in range(len(data))]
 hands = [data[i].hands[0] for i in range(len(data))]
