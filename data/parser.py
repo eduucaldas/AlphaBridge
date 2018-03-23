@@ -17,9 +17,9 @@ def function_file(file):
         return [fvect(u) for u in parsed] 
     return None
 
-def parse_deal():
+def parse_deals(path):
     files = []
-    for (dirpath, dirnames, filenames) in walk("./deals"):
+    for (dirpath, dirnames, filenames) in walk(path):
         files.extend([dirpath+'/'+fname for fname in filenames])
 
     with Pool(5) as p:
@@ -75,20 +75,20 @@ def search_bidding(bidding):
     leader = [leader_hand(i, leader, south, west, north, east) for i in range(len(leader))]
     lead = list(dfq.lead.values)
     return pd.DataFrame({"south":south,"west":west,"north":north,"east":east,"leader":leader,"lead":lead}, dtype="int8")
-    
-    
-def create_dataframe2(pickle_name,store_name):
-    store = pd.HDFStore(store_name, "w", complib=str("zlib"), complevel=5)
-    with open(pickle_name, 'rb') as f:
-        data = pickle.load(f)
-    
-    data = [d for d in data if len(d.bidding) < 25]
-    d = map(convert_deal, data)
-    columns = []
-    for hand in ['south', 'west', 'north', 'east']:
-        columns.extend(['{1}{0}'.format(i+1, hand) for i in range(13)])
-    columns.extend(['bidding{0}'.format(i+1) for i in range(24)])
-    columns.extend(['dealer', 'leader', 'lead', 'vuln'])
-    df = pd.DataFrame(list(d), columns=columns, dtype='int32')
-    store.put('df', df, data_columns=df.columns)
-    store.close()
+
+def get_all_data():
+    df = pd.read_hdf('./data/store.hdfs')
+    df = df.dropna()
+    south = list(df[["south{i}".format(i=i) for i in range(1,14)]].values)
+    west = list(df[["west{i}".format(i=i) for i in range(1,14)]].values)
+    north = list(df[["north{i}".format(i=i) for i in range(1,14)]].values)
+    east = list(df[["east{i}".format(i=i) for i in range(1,14)]].values)
+    leader = df.leader.values
+    leader = [leader_hand(i, leader, south, west, north, east) for i in range(len(leader))]
+    lead = list(df.lead.values)
+    return pd.DataFrame({"south":south,"west":west,"north":north,"east":east,"leader":leader,"lead":lead}, dtype="int8")
+
+
+
+def search_biddings(biddings):
+    return pd.concat([search_bidding(b) for b in biddings])
