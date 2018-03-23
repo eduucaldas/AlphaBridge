@@ -1,0 +1,436 @@
+vg|CBF SF 1,2 of 4,I,1,36,Janicki,44,Gartaganis,31|
+rs|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PASS,,4SN=,4SN=,3NE=,3NE=,3NS=,3NS=,3SE=,2HN=,3SN-1,4SN-3,2HE-2,2SN-1,3DE=,2CN-1,3NS-1,4SN=,4HS+1,4HS+1,2HE=,4HE-2,6HE=,6HE=,4SW-2,4HW=,3CS-4,3DW+1,3NW-2,3NW-2,3NE+2,3NE+1,4HE-1,,3SE+1,3HW+1|
+pn|Senensky,Campbell,Bob Kuz,Klimowicz,J Gartagan,Priebe,N Gartagan,Janicki|pg||
+qx|o19|st||md|1SQ9HA65DJ7642CA94,SA8643H92DQ93CK62,SJ75HQT43DAK5CT53,SKT2HKJ87DT8CQJ87|sv|e|mb|p|mb|p|mb|p|mb|p|pg||
+qx|o20|st||md|2SJT7HQJ8DJT95CAK3,SQ2HT732DAQ2CQJ75,SA9843HA964DK63C9,SK65HK5D874CT8642|sv|b|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c4|pc|cA|pc|c5|pc|c9|pg||
+pc|sJ|pc|s2|pc|s3|pc|sK|pg||
+pc|c2|pc|cK|pc|c7|pc|h4|pg||
+mc|10|pg||
+qx|c20|st||md|2SJT7HQJ8DJT95CAK3,SQ2HT732DAQ2CQJ75,SA9843HA964DK63C9,SK65HK5D874CT8642|sv|b|mb|p|mb|1S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c4|mc|10|pg||
+qx|o21|st||md|3STHKQJDAQT9532CT6,S98765HA62DJ4CAKQ,SKJ432HT874D7C732,SAQH953DK86CJ9854|sv|n|mb|p|mb|1N|mb|3D|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hK|pc|h2|pc|h4|pc|h3|pg||
+pc|hJ|pc|h6|pc|h7|pc|h5|pg||
+pc|hQ|pc|hA|pc|h8|pc|h9|pg||
+pc|cA|pc|c2|pc|c4|pc|c6|pg||
+pc|cK|pc|c7|pc|c5|pc|cT|pg||
+pc|cQ|pc|c3|pc|c8|pc|d2|pg||
+pc|s5|pc|s2|pc|sA|pc|sT|pg||
+pc|cJ|pc|d3|pc|s6|pc|s3|pg||
+pc|c9|mc|9|pg||
+qx|c21|st||md|3STHKQJDAQT9532CT6,S98765HA62DJ4CAKQ,SKJ432HT874D7C732,SAQH953DK86CJ9854|sv|n|mb|p|mb|p|mb|3D|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|mc|9|pg||
+qx|o22|st||md|4SKJHKQ3DAJ86CAJ42,ST7HA9854DK92C753,S9832HJTDQT54CKT8,SAQ654H762D73CQ96|sv|e|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h5|pc|hT|pc|h7|pc|h3|pg||
+pc|dQ|pc|d7|pc|d6|pc|dK|pg||
+pc|d2|pc|d4|pc|d3|pc|d8|pg||
+pc|dA|pc|d9|pc|d5|pc|s4|pg||
+pc|dJ|pc|h4|pc|dT|pc|s5|pg||
+pc|c2|pc|c5|pc|cK|pc|c6|pg||
+pc|c8|pc|c9|pc|c4|pc|c7|pg||
+pc|cQ|pc|cA|pc|c3|pc|cT|pg||
+mc|9|pg||
+qx|c22|st||md|4SKJHKQ3DAJ86CAJ42,ST7HA9854DK92C753,S9832HJTDQT54CKT8,SAQ654H762D73CQ96|sv|e|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h5|nt|vugraphzjv: Janicki should be East and Priebe west --- can't change it --- sorry everyone.|pg||
+nt|vugraphzjv: Yes I could correct names.|pg||
+mc|9|pg||
+qx|o23|st||md|1S9753H52DKJ85CAK5,SQ2HKT64DA2C97632,STHAJ873DQ764CQJT,SAKJ864HQ9DT93C84|sv|b|mb|p|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|s3|pc|sQ|pc|sT|pc|sA|pg||
+mc|9|pg||
+qx|c23|st||md|1S9753H52DKJ85CAK5,SQ2HKT64DA2C97632,STHAJ873DQ764CQJT,SAKJ864HQ9DT93C84|sv|b|mb|1N|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|sA|pc|s3|pc|s2|pc|sT|pg||
+pc|sK|pc|s5|pc|sQ|pc|h3|pg||
+pc|d7|pc|d3|pc|dJ|pc|dA|pg||
+pc|c3|pc|cJ|pc|c4|pc|cA|pg||
+pc|h2|pc|h4|pc|hJ|pc|hQ|pg||
+pc|sJ|pc|s7|pc|d2|pc|h7|pg||
+pc|hA|pc|h9|pc|h5|pc|h6|pg||
+pc|h8|pc|s4|pc|d5|pc|hT|pg||
+mc|8|pg||
+qx|o24|st||md|2SJ7H43DAKT9873CK8,SQ984HAJ52D4CAT52,SAK6532HQ76DQJC94,STHKT98D652CQJ763|sv|o|mb|1C|mb|1S|mb|d|mb|2D|mb|2H|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|cQ|nt|starkist: double fit, make lots of @h|pg||
+pc|c8|pc|c5|pc|c4|pg||
+pc|c7|pc|cK|pc|cA|pc|c9|pg||
+pc|c2|pc|s2|pc|c6|pc|h3|pg||
+pc|hQ|pc|hK|pc|h4|pc|h2|pg||
+pc|h8|pc|s7|pc|h5|pc|h6|pg||
+pc|d3|pc|d4|pc|dJ|pc|d2|pg||
+pc|h7|pc|h9|pc|sJ|pc|hJ|pg||
+mc|8|pg||
+qx|c24|st||md|2SJ7H43DAKT9873CK8,SQ984HAJ52D4CAT52,SAK6532HQ76DQJC94,STHKT98D652CQJ763|sv|o|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cQ|pc|c8|pc|c2|pc|c4|pg||
+pc|c6|pc|cK|pc|cA|pc|c9|pg||
+pc|hA|pc|h7|pc|h9|pc|h3|pg||
+pc|h2|pc|h6|pc|hT|pc|h4|pg||
+pc|cJ|pc|s7|pc|c5|pc|hQ|pg||
+pc|sJ|pc|sQ|pc|sK|mc|7|pg||
+qx|o25|st||md|3SQT42HJ753DKJ542C,S85HK6DT83CAK8732,SA963HQTD7CQJT954,SKJ7HA9842DAQ96C6|sv|e|mb|p|mb|1H|mb|p|mb|1N|mb|2C|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|s2|pc|s5|pc|sA|pc|s7|pg||
+pc|d7|pc|d6|pc|dJ|pc|d3|pg||
+nt|starkist: this will start getting messy|pg||
+mc|6|pg||
+qx|c25|st||md|3SQT42HJ753DKJ542C,S85HK6DT83CAK8732,SA963HQTD7CQJT954,SKJ7HA9842DAQ96C6|sv|e|mb|p|mb|1H|mb|p|mb|1N|an|fcg|mb|2C|mb|2D|mb|p|mb|2H|mb|2S|mb|p|mb|p|mb|p|pc|dA|pc|d2|pc|d8|pc|d7|pg||
+pc|dQ|pc|dK|pc|d3|pc|hT|pg||
+pc|h3|pc|hK|pc|hQ|pc|h2|pg||
+pc|s5|pc|s3|pc|sK|pc|s2|pg||
+pc|s7|pc|s4|pc|s8|pc|s9|pg||
+pc|c9|pc|c6|pc|d4|pc|cA|pg||
+pc|h6|pc|c4|pc|hA|pc|h5|pg||
+pc|sJ|pc|sT|pc|c2|pc|sA|pg||
+pc|cQ|pc|h4|mc|7|pg||
+qx|o26|st||md|4S754HKQT6DQT8CT85,SQJ982HJ753DJ643C,SKT63HA4D75CAQ742,SAH982DAK92CKJ963|sv|b|mb|2D|mb|p|mb|2H|nt|starkist: 2@d?|pg||
+mb|p|mb|3C|nt|starkist: going into unchartered waters|pg||
+mb|p|mb|3D|mb|p|mb|p|mb|p|pc|s7|pc|s8|pc|sT|pc|sA|pg||
+pc|c3|pc|c5|pc|d3|pc|c2|pg||
+pc|sQ|pc|s3|pc|h2|pc|s4|pg||
+pc|sJ|pc|sK|pc|d2|pc|s5|pg||
+pc|c6|pc|c8|pc|d4|pc|c4|pg||
+pc|h3|nt|buffytvs: can anyone confirm the result here on Bd 31 -- was it 4S-5 EW?|pg||
+mc|9|pg||
+qx|c26|st||md|4S754HKQT6DQT8CT85,SQJ982HJ753DJ643C,SKT63HA4D75CAQ742,SAH982DAK92CKJ963|sv|b|mb|1D|mb|p|mb|1S|mb|2C|mb|p|mb|p|mb|p|nt|lml: hi|pg||
+pc|dA|nt|lml: a refugee from the womens table |pg||
+nt|lml: well they had a lot of commentators :)|pg||
+pc|d8|pc|d6|pc|d5|pg||
+pc|sA|pc|s4|pc|s2|pc|s3|pg||
+pc|h9|pc|h6|pc|h3|pc|hA|pg||
+pc|d7|nt|lml: the club suit is going to be an unpleasant surprise for Nick|pg||
+pc|dK|pc|dT|pc|d3|pg||
+pc|h2|pc|hK|pc|h5|pc|h4|pg||
+pc|dQ|pc|d4|pc|s6|pc|d2|pg||
+pc|hQ|nt|lml: that did look like an unlikely play|pg||
+pc|h7|pc|sT|pc|h8|pg||
+pc|c5|pc|s8|nt|vugraphzjv: sorry|pg||
+pc|c2|pc|c6|pg||
+pc|cK|pc|c8|nt|lml: I can see 7 tricks for Nick|pg||
+nt|lml: but no more|pg||
+pc|s9|pc|cA|pg||
+pc|c4|pc|cJ|pc|cT|pc|dJ|pg||
+nt|lml: two more trump tricks and we are done|pg||
+pc|d9|pc|s5|pc|sJ|pc|c7|pg||
+mc|7|pg||
+qx|o27|st||md|1SAK6HT86DA75CA654,SQ97HK93DKJ962C92,SJ8432HA54DTCKQ87,ST5HQJ72DQ843CJT3|sv|o|nt|starkist: seems|pg||
+mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d6|pc|dT|pc|dQ|pc|d5|pg||
+pc|d3|pc|d7|pc|dJ|pc|h4|pg||
+pc|d2|pc|h5|pc|d8|pc|dA|pg||
+pc|c4|pc|c2|pc|cK|pc|c3|pg||
+pc|c7|pc|cT|pc|cA|pc|c9|pg||
+pc|c6|pc|h3|pc|cQ|pc|cJ|pg||
+pc|c8|pc|h2|pc|c5|pc|s7|pg||
+mc|8|pg||
+qx|c27|st||md|1SAK6HT86DA75CA654,SQ97HK93DKJ962C92,SJ8432HA54DTCKQ87,ST5HQJ72DQ843CJT3|sv|o|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|nt|lml: they should find there way to 4@S one would think|pg||
+nt|buffytvs: surprised to see Gartaganis trailing -- they would be my pick to win the event looking at the four semifinalists|pg||
+nt|buffytvs: but there's a long way to go yet|pg||
+nt|lml: they are only down a little|pg||
+mb|2D|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|lml: actually you never know... the Cinderalla Korbel squad could surprise us all|pg||
+nt|lml: sneak into the knockouts and then win it all|pg||
+pc|hQ|nt|lml: In the womens for some reason they played this is 5@C but didn't get a heart lead|pg||
+pc|h6|pc|h3|pc|h5|pg||
+pc|h2|pc|h8|pc|hK|pc|hA|pg||
+pc|s2|pc|s5|pc|sA|nt|lml: this is of course the normal spot|pg||
+pc|s7|pg||
+pc|sK|pc|s9|pc|s3|pc|sT|pg||
+pc|s6|pc|sQ|pc|s4|pc|h7|pg||
+pc|h9|pc|h4|pc|hJ|pc|hT|pg||
+nt|buffytvs: as Joey Silver would say --- Next!|pg||
+pc|c3|pc|c4|pc|c9|nt|lml: well Nick doesnt know the clubs are breaking|pg||
+pc|cK|pg||
+pc|sJ|pc|d4|nt|lml: he washoping for a club lead to help him out if needed|pg||
+pc|c5|pc|d2|pg||
+pc|s8|pc|d3|pc|d5|pc|d6|pg||
+pc|c7|pc|cJ|nt|buffytvs: this would be a very esoteric squeeze...|pg||
+pc|cA|pc|c2|pg||
+nt|lml: a squeeze is almost impossible|pg||
+mc|10|nt|lml: but also not needed|pg||
+pg||
+qx|o28|st||md|2SAT9643HKT65DAKC6,SKHQJ9DJ64CKT9542,S2HA842DQ983CA873,SQJ875H73DT752CQJ|sv|n|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cT|pc|cA|pc|cJ|pc|c6|pg||
+pc|s2|pc|s5|pc|sA|pc|sK|pg||
+pc|s3|pc|hJ|pc|d3|pc|s7|pg||
+pc|cK|pc|c3|pc|cQ|pc|h5|pg||
+pc|dA|pc|d4|pc|d8|pc|d2|pg||
+pc|dK|pc|d6|pc|d9|pc|d5|pg||
+pc|s4|pc|dJ|pc|h2|pc|s8|pg||
+pc|c7|pc|d7|pc|h6|pc|c2|pg||
+pc|s6|pc|h9|pc|hA|pc|sJ|pg||
+pc|dQ|pc|dT|pc|s9|pc|hQ|pg||
+pc|c9|pc|c8|mc|11|pg||
+qx|c28|st||md|2SAT9643HKT65DAKC6,SKHQJ9DJ64CKT9542,S2HA842DQ983CA873,SQJ875H73DT752CQJ|sv|n|nt|buffytvs: i saw this board earlier in the oehr SF|pg||
+nt|lml: I have to say the womens is more interesting in that they are all the place in the bidding|pg||
+nt|buffytvs: East opened 2@S in 3rd, and ended up in 3@C dbld going for 500|pg||
+nt|buffytvs: NS can make 4@H fairly comfortably|pg||
+nt|lml: me too in the womens and they also opened 2@S|pg||
+nt|lml: but this time everybody sat for the double|pg||
+nt|buffytvs: and...?|pg||
+nt|lml: it could have been 1100 but somehow they managed only 800|pg||
+nt|buffytvs: lol|pg||
+nt|lml: so what is the "normal contract" 4@H I think|pg||
+nt|buffytvs: looks like it|pg||
+nt|lml: so -500 isnt a bad score at all|pg||
+nt|buffytvs: PO Sundelin thought they could get 800, but he didn't elaborate on how|pg||
+nt|lml: north south has 7 top tricks and needs to cross ruff 3 more|pg||
+nt|lml: for 4@H|pg||
+mb|p|nt|lml: why is 2@S so attractive... it must be the Marty Bergen influence|pg||
+mb|p|mb|p|mb|1S|mb|2C|nt|buffytvs: dunno -- don't like the clubs myself -- adn you know I'm not a shy preemptor|pg||
+nt|lml: Paul failed to find the obvious bid so Judy got to open 1@S|pg||
+mb|d|mb|p|nt|lml: I think they are about to bid the other major|pg||
+mb|3H|mb|p|nt|lml: I like 3@H good bid|pg||
+nt|buffytvs: playing a forcing club, Judy decides she's good enough to jump rebid hearts|pg||
+mb|4C|nt|lml: Judy has prime cards|pg||
+mb|p|mb|4H|mb|p|nt|lml: but with Nick as a passed hand she is DONE|pg||
+mb|p|mb|p|nt|buffytvs: they might get to 6 after this start... -- 1 loser, but do they have 12 tricks?|pg||
+pc|d4|nt|lml: a ninth heart would have made a big difference|pg||
+nt|lml: so now we get to see Judy play dummy|pg||
+nt|buffytvs: she didn't need that much -- Kx of spades, AQxx of hearts gives you a play|pg||
+nt|lml: you know what they say about perfect cards|pg||
+nt|lml: after the club cuebid her chances were a lot worse|pg||
+nt|buffytvs: yes -- actually, a club cuebid wasn't really good news -- 3@S would have been much more encouraging to hear|pg||
+nt|lml: yes|pg||
+nt|lml: with only an eight card fit it is hard to bring spades home when partner has shortness|pg||
+pc|d3|pc|d7|pc|dK|pg||
+nt|lml: you could draw 2 rounds of trump and then crossruff possibly|pg||
+pc|dA|pc|d6|pc|d8|pc|d2|pg||
+pc|c6|pc|c2|nt|lml: after cashing winners of course|pg||
+pc|cA|pc|cJ|pg||
+pc|d9|pc|d5|nt|lml: it looks like a Judy is ruffinf stuff|pg||
+pc|h5|pc|dJ|pg||
+pc|sA|pc|sK|pc|s2|pc|s5|pg||
+pc|s3|pc|hJ|pc|hA|pc|s7|pg||
+nt|buffytvs: with clubs on the left and spades on the right, this sets up very well|pg||
+pc|c3|pc|cQ|pc|h6|nt|lml: yes cross ruffs are fun|pg||
+pc|c4|pg||
+pc|s6|pc|h9|pc|c7|pc|s8|pg||
+pc|cK|pc|c8|pc|sJ|nt|lml: now you can yell NEXT|pg||
+pc|hT|pg||
+pc|sT|nt|lml: well maybe not now|pg||
+nt|buffytvs: no she's still ok|pg||
+nt|lml: I thought she might cash the !Q|pg||
+nt|lml: @HQ|pg||
+nt|lml: @HK|pg||
+nt|lml: third try lucky|pg||
+pc|c5|pc|h2|mc|11|nt|lml: making 5|pg||
+pg||
+qx|o29|st||md|3S53HAJT6DQ87CQ876,SJ8H9873DA542CKT2,SAK74H2DJT96CJ954,SQT962HKQ54DK3CA3|sv|b|mb|p|mb|2H|mb|p|mb|p|mb|p|nt|vugraphzjq: corrected board 31 to only down 2.|pg||
+pc|d7|mc|8|pg||
+qx|c29|st||md|3S53HAJT6DQ87CQ876,SJ8H9873DA542CKT2,SAK74H2DJT96CJ954,SQT962HKQ54DK3CA3|sv|b|nt|lml: so -500 wasnt all bad at the table you watched!|pg||
+nt|buffytvs: no- we knew that|pg||
+mb|p|nt|lml: this is a sad hand for people in hearts|pg||
+mb|1S|mb|p|mb|1N|nt|buffytvs: yes -- Darren and Dan got to 3@H|pg||
+nt|buffytvs: hearts 3-2 with the ace onside -- but there is real danger of a spade overruff|pg||
+mb|p|nt|lml: the other commentators though 4@H was gross but I dont mind it when the cards lie a bit better|pg||
+mb|2H|nt|buffytvs: or promotion|pg||
+mb|p|mb|3H|nt|lml: really!|pg||
+mb|p|nt|lml: yeah its aggressive but not "gross"|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|lml: and they get there at this table too|pg||
+pc|c6|nt|buffytvs: wouldn't want to be there not vul for sure|pg||
+nt|lml: some argument for doubling with the south hand|pg||
+nt|lml: yes only vulnerable|pg||
+nt|lml: but it was a husbands table and they were all rooting for north-south|pg||
+nt|lml: down 2?|pg||
+nt|buffytvs: Darren and Dan had a sequence that showed a very mild invite by West, and Dan passed it as East|pg||
+pc|cK|nt|lml: good job|pg||
+pc|c4|pc|c3|pg||
+nt|lml: and that team could win it... the stars are aligned their way|pg||
+pc|h3|pc|h2|nt|buffytvs: still went down of course :)|pg||
+pc|hK|pc|hA|pg||
+pc|c7|pc|c2|pc|c9|pc|cA|pg||
+pc|s6|pc|s3|pc|sJ|pc|sK|pg||
+pc|c5|pc|h4|pc|cQ|pc|cT|pg||
+pc|s2|pc|s5|pc|s8|pc|sA|pg||
+pc|dJ|nt|lml: brb .. coffee time|pg||
+pc|dK|pc|d7|pc|d2|pg||
+pc|hQ|pc|h6|pc|h7|pc|cJ|pg||
+pc|d3|pc|d8|pc|dA|pc|d6|pg||
+pc|d4|pc|d9|pc|h5|pc|dQ|pg||
+pc|sQ|pc|hT|mc|8|pg||
+qx|o30|st||md|4SJT876542H7D842C3,S9HT43DAQJ753CQJ4,SKQ3HQ62DT6CKT872,SAHAKJ985DK9CA965|sv|o|mb|1C|mb|3S|mb|d|mb|4S|mb|4N|mb|p|mb|5D|mb|p|mb|5N|mb|6C|mb|p|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|c3|pc|cQ|pc|c2|pc|c5|pg||
+pc|h3|pc|h2|pc|hK|pc|h7|pg||
+mc|12|pg||
+qx|c30|st||md|4SJT876542H7D842C3,S9HT43DAQJ753CQJ4,SKQ3HQ62DT6CKT872,SAHAKJ985DK9CA965|sv|o|mb|1H|mb|p|mb|1N|an|fcg|nt|buffytvs: when i saw this earlier, East opened 1@H, and South overcalled 3@S.  Eventually, East played 6@H, which he made comfortably.|pg||
+mb|p|mb|3C|nt|lml: yes I also saw the same overcall which does seem normal to me|pg||
+nt|buffytvs: I don't like passing 8-card suits...|pg||
+mb|p|nt|lml: well in Judys defence so 8 card suits are better than others|pg||
+mb|3D|mb|p|nt|buffytvs: remember the story of David Silver and the 9-card suit, which he never bid?  Playing with Bruce Gowdy|pg||
+nt|lml: 6 red seems normal but 7 hearts is possible|pg||
+mb|3H|mb|p|nt|lml: and if you bid 3@S I will make it on you|pg||
+nt|buffytvs: yes you will :)|pg||
+mb|4S|mb|p|nt|buffytvs: but we'll be in 7@S down 5|pg||
+nt|lml: janicki is wondering about that spade singleton|pg||
+mb|4N|nt|buffytvs: yes -- funny they have 11 spades and no-one bid them|pg||
+mb|p|nt|buffytvs: they'll stop in 6 when they find the @HQ is missing|pg||
+nt|lml: so knowing you are on a nine card fit do you want to be in grand missing the !Q?|pg||
+nt|lml: Q|pg||
+nt|buffytvs: no - not unless you're playing it|pg||
+nt|lml: :)|pg||
+nt|lml: you always did like doing that to me!|pg||
+nt|buffytvs: rofl|pg||
+nt|lml: its a surprise I dont have even more grey hair|pg||
+mb|5C|mb|p|nt|buffytvs: so 30 years of playing bridge with you is the reason I do have grey hair?|pg||
+nt|lml: you didnt know that|pg||
+nt|lml: ?|pg||
+nt|lml: why does answering aces take so long|pg||
+nt|lml: Priebe knows how many keycards he has |pg||
+nt|buffytvs: 1430 or 3014? must remember...|pg||
+nt|lml: Paul can't really count 13 tricks|pg||
+nt|lml: but he could take a GS try here|pg||
+nt|lml: and ask for the @HQ|pg||
+nt|buffytvs: doesn't need much -- the @HQ and a decent diamond suit|pg||
+mb|6H|nt|lml: he is thinking that right now|pg||
+mb|p|mb|p|nt|buffytvs: didn't even try|pg||
+mb|p|nt|buffytvs: I think he should try actually|pg||
+nt|lml: with partner having bid a forcing notrump I think he decided it was unlikely he could have enough|pg||
+nt|buffytvs: make the @CQ the @HQ and it's laydown|pg||
+nt|lml: but I agree with you ... except you know what happens to people who bid grand slams|pg||
+nt|lml: they find out the opponents were defending 3@S doubled or something|pg||
+nt|buffytvs: yeah - they're in game at the other table|pg||
+nt|buffytvs: but remember it was West who made the first slam try|pg||
+pc|sJ|nt|lml: interesting.   She didn't lead her singleton|pg||
+nt|buffytvs: let's be fair, this is the right contract -- just don't like the way they got there|pg||
+nt|lml: I think its okay|pg||
+nt|lml: bidding|pg||
+pc|s9|nt|lml: odd not to lead the stiff club though|pg||
+nt|lml: but east did bid clubs|pg||
+nt|buffytvs: Paul probably tanked over 5@C, so Judy inferred that they weren't missing any aces|pg||
+pc|s3|pc|sA|pg||
+nt|lml: and she didn't want to pick anything up|pg||
+pc|hA|pc|h7|pc|h3|pc|h2|pg||
+pc|hK|pc|s4|pc|h4|pc|h6|pg||
+nt|buffytvs: now Paul is happy|pg||
+nt|lml: yes ... its over and he knows he had the best normal result|pg||
+pc|dK|pc|d2|pc|d3|pc|d6|pg||
+pc|d9|pc|d4|pc|dA|pc|dT|pg||
+pc|dQ|nt|lml: claim!|pg||
+mc|12|nt|lml: thanks :)|pg||
+pg||
+qx|o31|st||md|1SKJ82H86DK752C842,SA63HKQJT32D63CK9,SQ5H9754DJT94CA73,ST974HADAQ8CQJT65|sv|n|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dJ|mc|5|pg||
+qx|c31|st||md|1SKJ82H86DK752C842,SA63HKQJT32D63CK9,SQ5H9754DJT94CA73,ST974HADAQ8CQJT65|sv|n|nt|lml: a strange result e-w|pg||
+nt|vugraphzjv: Idblu just played dummy   really well|pg||
+nt|lml: not at this table|pg||
+mb|p|mb|1H|mb|p|nt|lml: but the way Fred talks we could almost hear it here|pg||
+nt|buffytvs: isn't he playing the Seniors?|pg||
+nt|lml: yes|pg||
+mb|2C|mb|p|mb|2H|mb|p|nt|lml: dont think they are playing the same boards|pg||
+mb|2S|mb|p|nt|buffytvs: no -- they have only 2 sessions a day|pg||
+nt|lml: can east-west find a sensible contract like 4@H|pg||
+nt|lml: or 3NT|pg||
+mb|4H|mb|p|nt|buffytvs: note the @C9 here, which makes 3NT playable even after a spade lead|pg||
+mb|p|mb|p|nt|lml: east-west might be able to get their 4 tricks though|pg||
+pc|dJ|nt|lml: and that is a good start|pg||
+pc|dQ|pc|dK|pc|d3|pg||
+nt|lml: a diamond continuation makes it tough|pg||
+pc|s2|pc|s3|pc|sQ|pc|s4|pg||
+nt|buffytvs: 9 top tricks on a diamond|pg||
+pc|dT|pc|dA|nt|buffytvs: spade is a little tougher|pg||
+nt|lml: I mean in 4@h|pg||
+pc|d7|pc|d6|pg||
+pc|c5|pc|c4|pc|cK|pc|cA|pg||
+nt|lml: Here is the answer|pg||
+pc|s5|pc|s7|pc|s8|pc|sA|pg||
+nt|lml: he has kept his heart entry|pg||
+pc|h2|pc|h4|pc|hA|pc|h6|pg||
+pc|d8|pc|d2|pc|hT|pc|d4|pg||
+pc|hK|pc|h5|pc|sT|pc|h8|pg||
+nt|buffytvs: sorry -- still playing 3NT -- ignore me :(|pg||
+mc|10|nt|lml: as it turns out they both make|pg||
+pg||
+qx|o32|st||md|2SQJ8HQDKJ2CAQJT85,SA6HAKJTDAQ753C94,ST953H987632D84C2,SK742H54DT96CK763|sv|e|mb|p|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|dA|mc|5|pg||
+qx|c32|st||md|2SQJ8HQDKJ2CAQJT85,SA6HAKJTDAQ753C94,ST953H987632D84C2,SK742H54DT96CK763|sv|e|nt|lml: that lose was in the OR |pg||
+nt|lml: they dont have the bidding ... I wonder if that is the right score or not|pg||
+mb|1D|mb|p|mb|1S|mb|2C|nt|buffytvs: The auction I watched earlier here was very interesting|pg||
+mb|2H|nt|lml: if you get to game you can make it east-west|pg||
+mb|p|nt|buffytvs: It started 1@D-2@H-dbl-3@C and now West had a big problem|pg||
+nt|lml: so 5@D or 3NT?|pg||
+nt|buffytvs: He bid 3@H, and none of us we quite sure what that should mean|pg||
+nt|buffytvs: they got to 5@D|pg||
+mb|2N|nt|lml: 2@H!|pg||
+mb|p|nt|lml: abuse of vulnerability|pg||
+nt|buffytvs: lead-directing :)|pg||
+nt|lml: 3NT looks quite good on the lie of the cards|pg||
+mb|3D|mb|p|nt|lml: 2NT might have been Lebensohl here|pg||
+nt|lml: was it alerted operator?|pg||
+nt|vugraphzjv: yes i believe so|pg||
+mb|p|mb|p|nt|lml: so Paul has decided to just play a partscore with the @CK pretty ugly|pg||
+pc|c2|pc|c3|pc|cQ|pc|c9|pg||
+pc|hQ|pc|hA|pc|h9|pc|h4|pg||
+nt|lml: so Judy has a go at setting up the crossruff defensively|pg||
+pc|dA|pc|d4|pc|d6|pc|d2|pg||
+pc|s6|pc|s3|pc|sK|pc|s8|pg||
+pc|dT|pc|dK|pc|d3|pc|d8|pg||
+nt|lml: making 4|pg||
+nt|buffytvs: even with the @D8 coming down, declarer doesn't have the entries to pick up the suit -- and anyway, he's only in 3.|pg||
+pc|sQ|pc|sA|pc|s5|pc|s2|pg||
+nt|lml: it was the best line I agree|pg||
+pc|dQ|mc|10|nt|lml: so a small pickup|pg||
+pg||
+qx|o33|st||md|3SJ96HQJT3D953C832,SA82HK54DA876CK75,SKQT543H762DQ2CA6,S7HA98DKJT4CQJT94|sv|o|mb|p|mb|p|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sK|mc|7|pg||
+qx|c33|st||md|3SJ96HQJT3D953C832,SA82HK54DA876CK75,SKQT543H762DQ2CA6,S7HA98DKJT4CQJT94|sv|o|mb|1S|mb|d|mb|2S|an|  |mb|d|nt|lml: they are probably going to find the best spot east-west 5 of a minor for a nice pickup|pg||
+nt|buffytvs: if they guess trumps, EW can make 6@D here -- but impossible to bid it I suspect|pg||
+mb|p|mb|3C|mb|p|mb|3N|nt|lml: getting to 5@C is very decent|pg||
+mb|p|nt|lml: 3NT not so decent|pg||
+mb|p|mb|p|nt|lml: but it is reasonable for Paul to pass|pg||
+pc|sQ|nt|lml: he bid his hand|pg||
+nt|buffytvs: do you like Jim's first double?|pg||
+nt|lml: I guess he had to show soemthing and he didn't have anything to bid|pg||
+nt|buffytvs: I prefer 3@S|pg||
+nt|lml: yeah that does seem better|pg||
+pc|s7|pc|s6|nt|lml: here Paul took a big pusj with 3@C|pg||
+nt|buffytvs: You don't want to be in NT unless partner has a spade card (probably)|pg||
+pc|s2|pg||
+nt|lml: push |pg||
+pc|s5|pc|h8|pc|sJ|pc|s8|pg||
+pc|s9|pc|sA|pc|s3|pc|h9|pg||
+nt|lml: sorry wasnt a push|pg||
+pc|c5|nt|lml: misread it ... non jump|pg||
+pc|c6|pc|cQ|pc|c2|pg||
+pc|c4|pc|c3|pc|cK|pc|cA|pg||
+pc|sK|nt|lml: time for the spade avalanche|pg||
+mc|7|nt|lml: so who is at fault .. you think Jum?|pg||
+nt|buffytvs: did Nick really duck the C!A there?|pg||
+nt|buffytvs: with the setting tricks in hand?|pg||
+nt|buffytvs: @CA|pg||
+pg||
+qx|o34|st||md|4S984HQTDT764CKT63,SQ2H83DK9532CAQ95,SKT63HKJ9754D8CJ4,SAJ75HA62DAQJC872|sv|n|mb|1C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c3|pc|cQ|pc|c4|pc|c2|pg||
+pc|d2|pc|d8|pc|dA|pc|d4|pg||
+pc|dQ|pc|d6|pc|d3|pc|h4|pg||
+pc|h6|pc|hT|pc|h3|pc|hJ|pg||
+pc|hK|pc|hA|pc|hQ|pc|h8|pg||
+mc|11|pg||
+qx|c34|st||md|4S984HQTDT764CKT63,SQ2H83DK9532CAQ95,SKT63HKJ9754D8CJ4,SAJ75HA62DAQJC872|sv|n|nt|buffytvs: and yes, I think it's Jim's fault|pg||
+nt|lml: that you will have to ask the operator|pg||
+nt|vugraphzjv: yes he did duck|pg||
+mb|1N|mb|p|mb|3N|nt|lml: that is a bit like Eric's story where Bruce didnt cash 2 aces against a slam|pg||
+nt|buffytvs: wow -- when I do that they run for 9 tricks in the red suits :)|pg||
+mb|p|mb|p|nt|lml: but not as funny|pg||
+mb|p|nt|buffytvs: but that's probably why he's playing and I'm not|pg||
+pc|s9|nt|lml: you could be playing... I would play with you any day|pg||
+nt|buffytvs: ty dear|pg||
+pc|sQ|pc|sK|pc|sA|pg||
+pc|dQ|pc|d4|pc|d2|pc|d8|pg||
+pc|dA|pc|d6|pc|d3|pc|h5|pg||
+nt|lml: in a lot of ways with one or two exceptions this has been a pretty flat set|pg||
+nt|buffytvs: yes -- the first was too, except for that interesting slam deal|pg||
+pc|dJ|pc|d7|pc|d5|nt|buffytvs: this one's just about uptricks|pg||
+nt|lml: well does watching all of this make you want to play again?|pg||
+pc|h4|pg||
+nt|vugraphzjv: they played it|pg||
+nt|buffytvs: thx|pg||
+pc|c7|pc|c3|pc|cQ|pc|c4|pg||
+pc|dK|pc|h7|pc|h6|pc|dT|pg||
+pc|d9|pc|h9|pc|h2|nt|lml: we are fighting it out here for the overtricks but Nick has made the right pitches|pg||
+pc|s4|pg||
+nt|lml: and so has Judy|pg||
+pc|s2|pc|s3|pc|sJ|pc|s8|pg||
+pc|s5|pc|c6|pc|h3|pc|s6|pg||
+pc|hJ|pc|hA|pc|hQ|pc|h8|pg||
+pc|c2|mc|10|pg||
+qx|o35|st||md|1ST832HK2DAKJCQ976,SA4HT96D863CAJT54,SQJ75H74DQT95CK82,SK96HAQJ853D742C3|sv|e|mb|1N|mb|p|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|pc|d3|pc|dT|pc|d2|pg||
+pc|dK|pc|d6|pc|d5|pc|d4|pg||
+pc|dJ|pc|d8|pc|dQ|pc|d7|pg||
+pc|d9|pc|s6|pc|s2|mc|9|pg||
+qx|o36|st||md|2SJ2HA83DKQ63CAJ98,S83HKQJ94DA9754C7,S954H52DT82CKQ432,SAKQT76HT76DJCT65|sv|b|mb|1H|mb|p|mb|1S|mb|d|mb|p|mb|2C|mb|3S|mb|p|mb|p|mb|p|pc|dK|pc|dA|pc|d2|pc|dJ|pg||
+pc|hK|pc|h5|pc|hT|pc|hA|pg||
+pc|d3|pc|d4|pc|d8|pc|s6|pg||
+pc|c6|pc|cJ|pc|c7|pc|c4|pg||
+mc|10|pg||
+qx|c36|st||md|2SJ2HA83DKQ63CAJ98,S83HKQJ94DA9754C7,S954H52DT82CKQ432,SAKQT76HT76DJCT65|sv|b|nt|niclecuyer: yes you are right +170 on board 36 is not good at all|pg||
+nt|vugraphzjv: Paul picked up N's hand in error and saw a few cards|pg||
+nt|buffytvs: my goodness.  So Bd 35 has been thrown out -- will they redeal another board, or just let it go?|pg||
+nt|niclecuyer: what happened?|pg||
+nt|vugraphzjv: let it go I believe|pg||
+mb|3H|mb|p|mb|p|nt|buffytvs: a stroke of luck for the Gartaginis team :)|pg||
+nt|lml: so a different kind of luck|pg||
+mb|p|pc|cQ|nt|buffytvs: or, to spell them correctly, Gartaganis|pg||
+nt|lml: a table full of luck|pg||
+nt|niclecuyer: but thrown out for what reason?|pg||
+mc|10|nt|buffytvs: see a few lines above|pg||
+nt|lml: it could end up as an adjusted score perhaps|pg||
+nt|vugraphzjv: Paul was decl and had seen cards in op's suit|pg||
+pg||

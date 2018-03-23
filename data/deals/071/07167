@@ -1,0 +1,278 @@
+vg|2000 Cavendish Pairs,Session 3,P,1,27,Team 1,0,Team 2,0|
+rs|4SN+1,,1NS-2,,1NN=,,3NE=,,4SN-1,,,,4HW+2,,7HS=,,3DN=,,3DN+1,,3HE+1,,4SW=,,2SW-1,,3SW-2,,3HS-1,,3SS=,,3SS=,,3NS+3,,3DS=,,3NN-1,,6DS-1,,6DE-1,,6SW=,,3NW+2,,4HE=,,4CN=,,2DS+1,|
+pw|Simon De Wijs,Steve Garner,Ricco Van Prooijen,Howard Weinstein,,,,,,,,,Zia Mahmood,Charles Wigoder,Bob Hamman,Michael Courtney,,,,,,,,,Fred Hamilton,Kyle Larsen,Bill Eisenberg,Roger Bates,,,,,,,,,Kerri Sanborn,Piotr Gawrys,Steve Sanborn,Jacek Pszczola,,,,,,,,,Seymon Deutsch,Chris Convery,Paul Soloway,Craig Gower,,,,,,,,,Martin Fleisher,Sheila Ekeblad,Eric Rodwell,Michael Seamon,,,,,,,,,Adam Wildavsky,David Berkowitz,Dan Morse,Larry Cohen,,,,,,,,,George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi,,,,,,,,,Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+bn|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27|
+pg||
+pn|Simon De Wijs,Steve Garner,Ricco Van Prooijen,Howard Weinstein|qx|o1,BOARD 1|rh||ah|Board 1|md|3SK854HQ974DA94CA8,ST3H2DJ8752CJ9742,SAQ972HKJ6D63CQ65|sv|0|
+sa|0|mb|1S|mb|2H|mb|2N|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DA|pc|D2|pc|D3|pg||
+pc|SK|pc|ST|pc|S2|pc|S6|pg||
+pc|S4|pc|S3|pc|SA|pc|SJ|pg||
+pc|HK|pc|HA|pc|H4|pc|H2|pg||
+pc|H3|pc|H7|pc|C2|pc|HJ|pg||
+pc|H6|pc|H5|pc|H9|pc|C4|pg||
+mc|11|pg||
+pn|Simon De Wijs,Steve Garner,Ricco Van Prooijen,Howard Weinstein|qx|o2,BOARD 2|rh||ah|Board 2|md|4S762HAQ53DKJT6CQ9,SQTH742DAQ975CKJ2,SA543HT86D42CA874|sv|n|
+sa|0|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|D7|pc|D2|pc|D8|pc|DJ|pg||
+pc|S6|pc|ST|pc|S3|pc|SJ|pg||
+pc|D3|pc|DK|pc|DA|pc|D4|pg||
+pc|SQ|pc|S4|pc|SK|pc|S7|pg||
+pc|HJ|pc|HQ|pc|H2|pc|H6|pg||
+pc|S2|pc|D5|pc|SA|pc|S8|pg||
+pc|S5|pc|S9|pc|D6|pc|C2|pg||
+pc|C6|pc|CQ|pc|CK|pc|CA|pg||
+pc|C4|pc|C3|pc|C9|pc|CJ|pg||
+pc|DQ|pc|H8|pc|C5|pc|DT|pg||
+pc|D9|pc|HT|pc|CT|pc|H3|pg||
+pc|H4|pc|C7|pc|H9|pc|HA|pg||
+pc|H5|pc|H7|pc|C8|pc|HK|pg||
+pn|Simon De Wijs,Steve Garner,Ricco Van Prooijen,Howard Weinstein|qx|o3,BOARD 3|rh||ah|Board 3|md|1SQJ96H86DAKQT6CQ3,SAKT4HK952DJ82C82,S83HAT743D95CA754|sv|e|
+sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|CJ|pc|CQ|pc|C8|pc|C4|pg||
+pc|D6|pc|DJ|pc|D5|pc|D3|pg||
+pc|C2|pc|C5|pc|C6|pc|C3|pg||
+pc|HQ|pc|H6|pc|H2|pc|H4|pg||
+pc|HJ|pc|H8|pc|H5|pc|HA|pg||
+pc|CA|pc|C9|pc|S6|pc|S4|pg||
+pc|D9|pc|D4|pc|DT|mc|7|pg||
+pn|Zia Mahmood,Charles Wigoder,Bob Hamman,Michael Courtney|qx|o4,BOARD 4|rh||ah|Board 4|md|2SKQ9853HT76D6C987,SAHAKJ2D74CJT6432,ST642HQ84DAQJ98C5|sv|b|
+sa|0|mb|1C|mb|1D|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|SA|pc|S4|pc|S7|pg||
+pc|HA|pc|H4|pc|H3|pc|H6|pg||
+pc|C2|pc|C5|pc|CA|pc|C7|pg||
+pc|CK|pc|C8|pc|C3|pc|D9|pg||
+pc|CQ|pc|C9|pc|C4|pc|S2|pg||
+pc|H5|pc|HT|pc|HK|pc|H8|pg||
+pc|CJ|mc|9|pg||
+pn|Zia Mahmood,Charles Wigoder,Bob Hamman,Michael Courtney|qx|o5,BOARD 5|rh||ah|Board 5|md|3SAJ8HKJ874DJCQT98,ST6HA9652DAQ87C63,SKQ9532HQTDT65CK5|sv|n|
+sa|0|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|H8|pc|HA|pc|HQ|pg||
+pc|H9|pc|HT|pc|S4|pc|H4|pg||
+pc|CA|pc|C8|pc|C6|pc|C5|pg||
+pc|D9|pc|DJ|pc|DA|pc|D5|pg||
+pc|C3|pc|CK|pc|C7|pc|C9|pg||
+pc|SK|pc|S7|pc|S8|pc|S6|pg||
+pc|S2|pc|D2|pc|SJ|pc|ST|pg||
+mc|9|pg||
+pn|Zia Mahmood,Charles Wigoder,Bob Hamman,Michael Courtney|qx|o6,BOARD 6|rh||ah|Board 6|md|4SJ73HA6DKQJ84CJ86,S95HKJ753DA952C94,SAT64HT4DT76CAQT2|sv|e|
+sa|0|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pn|Fred Hamilton,Kyle Larsen,Bill Eisenberg,Roger Bates|qx|o7,BOARD 7|rh||ah|Board 7|md|1SAJT642H976D872C8,SK97HKJ432DJT653C,S853HT85D9CK76543|sv|b|
+sa|0|mb|p|mb|p|mb|p|mb|2C|mb|2S|mb|3H|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|SQ|pc|SA|pc|S7|pg||
+pc|D2|pc|D5|pc|D9|pc|DA|pg||
+pc|HA|pc|H6|pc|H2|pc|H5|pg||
+pc|HQ|pc|H7|pc|H3|pc|H8|pg||
+pc|CQ|pc|C8|pc|H4|pc|C3|pg||
+pc|HK|pc|HT|pc|C2|pc|H9|pg||
+mc|12|pg||
+pn|Fred Hamilton,Kyle Larsen,Bill Eisenberg,Roger Bates|qx|o8,BOARD 8|rh||ah|Board 8|md|2SAK64HAQT76DQ5CA3,ST83HJ92D83CT9872,S75HK53DAKT74CQ65|sv|0|
+sa|0|mb|p|mb|1D|mb|1S|mb|2H|mb|p|mb|3H|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6D|mb|p|mb|7H|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|S5|pc|SQ|pc|SA|pg||
+pc|HA|pc|H2|pc|H3|pc|H4|pg||
+pc|H6|pc|H9|pc|HK|pc|H8|pg||
+pc|H5|pc|C4|pc|HQ|pc|HJ|pg||
+pc|HT|pc|S8|pc|S7|pc|S2|pg||
+pc|H7|pc|C2|pc|C5|pc|D2|pg||
+pc|DQ|pc|D3|pc|D4|pc|D6|pg||
+pc|D5|pc|D8|pc|DA|pc|D9|pg||
+pc|DK|pc|DJ|mc|13|pg||
+pn|Fred Hamilton,Kyle Larsen,Bill Eisenberg,Roger Bates|qx|o9,BOARD 9|rh||ah|Board 9|md|3SK94H53DA8742CA84,SQT73HKT876DQ9CKQ,SA86HA94DKJT5CT97|sv|e|
+sa|0|mb|1D|mb|p|mb|2D|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|D3|pc|D2|pc|DQ|pc|DK|pg||
+pc|DJ|pc|D6|pc|D4|pc|D9|pg||
+mc|9|pg||
+pn|Kerri Sanborn,Piotr Gawrys,Steve Sanborn,Jacek Pszczola|qx|o10,BOARD 10|rh||ah|Board 10|md|4S987HA932DK753CJ4,SA54HJ87DQ92CAQ93,SKJTH4DAJ864CK752|sv|b|
+sa|0|mb|p|mb|p|mb|1C|mb|1D|mb|d|mb|2D|mb|p|mb|p|mb|2H|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|HA|pc|H8|pc|H4|pg||
+pc|C4|pc|C3|pc|CK|pc|C8|pg||
+pc|C2|pc|C6|pc|CJ|pc|CQ|pg||
+pc|D2|pc|D6|pc|DT|pc|DK|pg||
+pc|S7|pc|S5|pc|ST|pc|SQ|pg||
+pc|HQ|pc|H2|pc|H7|pc|D4|pg||
+pc|C5|pc|CT|pc|D3|pc|C9|pg||
+pc|D5|pc|D9|pc|DJ|pc|H5|pg||
+pc|C7|pc|H6|pc|D7|pc|CA|pg||
+pc|S8|pc|S4|pc|SJ|pc|S2|pg||
+mc|10|pg||
+pn|Kerri Sanborn,Piotr Gawrys,Steve Sanborn,Jacek Pszczola|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAQ973HQJ7DQ4C765,SK542H9DK9862CQ42,SJT6H6543DA753CK9|sv|0|
+sa|0|mb|1S|mb|p|mb|2S|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|C5|pc|C2|pc|CK|pc|CA|pg||
+pc|S8|pc|SA|pc|S2|pc|S6|pg||
+pc|S7|pc|SK|pc|SJ|pc|DJ|pg||
+pc|H9|pc|H3|pc|H2|pc|HJ|pg||
+pc|SQ|pc|S4|pc|ST|pc|H8|pg||
+pc|HA|pc|H7|pc|D2|pc|H4|pg||
+pc|HK|pc|HQ|pc|D6|pc|H5|pg||
+pc|HT|pc|C7|mc|10|pg||
+pn|Kerri Sanborn,Piotr Gawrys,Steve Sanborn,Jacek Pszczola|qx|o12,BOARD 12|rh||ah|Board 12|md|2S7HAT7642D843CT65,SQJ864HDAQT75C742,SKT92HQJ98DK62C93|sv|n|
+sa|0|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|H3|pc|H7|pc|S4|pg||
+pc|SJ|pc|S2|pc|S3|pc|S7|pg||
+pc|C4|pc|C3|pc|CA|pc|C5|pg||
+pc|CK|pc|C6|pc|C2|pc|C9|pg||
+pc|CQ|pc|CT|pc|C7|pc|S9|pg||
+pc|HJ|pc|H5|pc|H2|pc|S6|pg||
+pc|S8|pc|ST|pc|SA|pc|H6|pg||
+pc|CJ|pc|H4|pc|D5|pc|H8|pg||
+pc|C8|pc|D4|pc|D7|pc|D2|pg||
+pc|HK|pc|HA|pc|SQ|pc|H9|pg||
+pc|DA|pc|D6|pc|D9|mc|10|pg||
+pn|Seymon Deutsch,Chris Convery,Paul Soloway,Craig Gower|qx|o13,BOARD 13|rh||ah|Board 13|md|3SA96HJ2DT982CJ954,SQ7532H83DA73CA76,SKT4HQT965DQJ4CK2|sv|b|
+sa|0|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|D5|pc|D2|pc|DA|pg||
+pc|S2|pc|S4|pc|SJ|pc|SA|pg||
+pc|DT|pc|D3|pc|DJ|pc|DK|pg||
+pc|D6|pc|D8|pc|D7|pc|D4|pg||
+pc|S6|pc|S3|pc|ST|pc|S8|pg||
+pc|H5|pc|HA|pc|H2|pc|H3|pg||
+pc|HK|pc|HJ|pc|H8|pc|H6|pg||
+pc|H4|pc|C4|pc|S5|pc|H9|pg||
+pc|C6|pc|C2|pc|C3|pc|C9|pg||
+pc|C5|pc|CA|pc|CK|pc|C8|pg||
+pc|C7|pc|HT|pc|CT|pc|CJ|pg||
+pc|D9|pc|S7|pc|SK|pc|H7|pg||
+pc|HQ|pc|CQ|pc|S9|pc|SQ|pg||
+pn|Seymon Deutsch,Chris Convery,Paul Soloway,Craig Gower|qx|o14,BOARD 14|rh||ah|Board 14|md|4STHA53D9542CKJ965,S9753HT9DAQJT6C43,SAJ6HJ8642DKCAT87|sv|0|
+sa|0|mb|p|mb|p|mb|1S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C2|pc|C9|pc|C3|pg||
+pc|C7|pc|CQ|pc|CK|pc|C4|pg||
+pc|D5|pc|DQ|pc|DK|pc|D3|pg||
+pc|H8|pc|HK|pc|HA|pc|H9|pg||
+pc|D4|pc|DJ|pc|S6|pc|D7|pg||
+pc|H2|pc|HQ|pc|H3|pc|HT|pg||
+pc|SK|pc|ST|pc|S3|pc|SA|pg||
+pc|HJ|pc|H7|pc|H5|pc|S5|pg||
+pc|S7|pc|SJ|pc|SQ|mc|7|pg||
+pn|Seymon Deutsch,Chris Convery,Paul Soloway,Craig Gower|qx|o15,BOARD 15|rh||ah|Board 15|md|1S72HAQ76543D762CQ,SKQ84HT9D98CAK532,SAJTH82DQJ3CJT984|sv|n|
+sa|0|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|D9|pc|DQ|pc|DK|pc|D2|pg||
+pc|C7|pc|CQ|pc|CK|pc|C4|pg||
+pc|D8|pc|DJ|pc|DA|pc|D6|pg||
+pc|DT|pc|D7|pc|S8|pc|D3|pg||
+pc|C6|pc|S2|pc|CA|pc|C8|pg||
+pc|SK|pc|SA|pc|S3|pc|S7|pg||
+pc|H2|pc|HJ|pc|HQ|pc|H9|pg||
+pc|HA|pc|HT|pc|H8|pc|HK|pg||
+mc|8|pg||
+pn|Martin Fleisher,Sheila Ekeblad,Eric Rodwell,Michael Seamon|qx|o16,BOARD 16|rh||ah|Board 16|md|2SAK754HJ72D2CJ742,SJ82HQ63DKJ76C953,SQT96HA954DT4CAT8|sv|e|
+sa|0|mb|p|mb|p|mb|1D|mb|2S|mb|p|mb|2N|mb|3D|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|D7|pc|D4|pc|DA|pc|D2|pg||
+pc|CK|pc|C2|pc|C3|pc|CA|pg||
+pc|S6|pc|S3|pc|SA|pc|S2|pg||
+pc|S4|pc|S8|pc|SQ|pc|D3|pg||
+pc|S9|pc|D5|pc|SK|pc|SJ|pg||
+pc|C4|pc|C9|pc|CT|pc|CQ|pg||
+pc|D8|pc|S5|pc|D6|pc|DT|pg||
+pc|H2|pc|H3|pc|HA|pc|H8|pg||
+pc|C8|pc|C6|pc|CJ|pc|C5|pg||
+pc|C7|pc|DJ|pc|H4|pc|D9|pg||
+pc|H7|pc|H6|pc|H5|pc|HT|pg||
+pc|HK|pc|HJ|pc|HQ|pc|H9|pg||
+mc|9|pg||
+pn|Martin Fleisher,Sheila Ekeblad,Eric Rodwell,Michael Seamon|qx|o17,BOARD 17|rh||ah|Board 17|md|3SAQ32HA2D765432CT,S765HQ4DKQT9CA972,SKJ98HJ9875DJCK63|sv|0|
+sa|0|mb|p|mb|1N|mb|p|mb|p|mb|2C|mb|d|mb|2S|mb|3C|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DJ|pc|D8|pc|D7|pg||
+pc|HQ|pc|H5|pc|H3|pc|HA|pg||
+pc|H2|pc|H4|pc|H7|pc|HT|pg||
+pc|H6|pc|CT|pc|S6|pc|H8|pg||
+pc|DQ|pc|S8|pc|DA|pc|D2|pg||
+pc|SK|pc|S4|pc|S2|pc|S5|pg||
+pc|S9|pc|ST|pc|SQ|pc|S7|pg||
+pc|D3|pc|D9|pc|SJ|pc|C4|pg||
+pc|C3|pc|C5|pc|S3|mc|9|pg||
+pn|Martin Fleisher,Sheila Ekeblad,Eric Rodwell,Michael Seamon|qx|o18,BOARD 18|rh||ah|Board 18|md|4SAQ6HA86DT874CA75,SKT72HJ74DKQCT984,S983HKQ92DAJ92CKQ|sv|n|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|CT|pc|CK|pc|C6|pc|C5|pg||
+pc|H2|pc|H5|pc|HA|pc|H4|pg||
+pc|D4|pc|DK|pc|DA|pc|D3|pg||
+pc|DJ|pc|D5|pc|D7|pc|DQ|pg||
+pc|S2|pc|S3|pc|SJ|pc|SQ|pg||
+pc|C7|pc|C4|pc|CQ|pc|C2|pg||
+pc|D9|pc|D6|pc|DT|pc|S7|pg||
+pc|H8|pc|H7|pc|HK|pc|H3|pg||
+pc|D2|pc|S5|pc|D8|pc|C8|pg||
+pc|CA|pc|C9|pc|S8|pc|C3|pg||
+mc|12|pg||
+pn|Adam Wildavsky,David Berkowitz,Dan Morse,Larry Cohen|qx|o19,BOARD 19|rh||ah|Board 19|md|1SK3HJ43DAK85CJ965,S9872H752D62CKQT2,SJ54HAQ6DQJ743C84|sv|e|
+sa|0|mb|1D|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C4|pc|C7|pc|C9|pg||
+pc|S9|pc|S4|pc|S6|pc|SK|pg||
+pc|DA|pc|D2|pc|D3|pc|D9|pg||
+mc|9|pg||
+pn|Adam Wildavsky,David Berkowitz,Dan Morse,Larry Cohen|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQJ642HQ84DA95C96,SK3HJT53DK6CAJ875,SATHK6DQJ732CKQT3|sv|b|
+sa|0|mb|1D|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|H4|pc|HT|pc|HK|pg||
+pc|SA|pc|S7|pc|S2|pc|S3|pg||
+pc|ST|pc|S5|pc|SJ|pc|SK|pg||
+pc|H3|pc|H6|pc|H7|pc|H8|pg||
+pc|C9|pc|CJ|pc|CQ|pc|C4|pg||
+pc|DQ|pc|D4|pc|D5|pc|DK|pg||
+pc|HJ|pc|D2|pc|HA|pc|HQ|pg||
+pc|H9|pc|S4|pc|H5|pc|C3|pg||
+pc|C2|pc|C6|pc|CA|pc|CT|pg||
+mc|8|pg||
+pn|Adam Wildavsky,David Berkowitz,Dan Morse,Larry Cohen|qx|o21,BOARD 21|rh||ah|Board 21|md|3SHA832DJ95432CA84,SKQJ73H54DAQ6C732,SA865HQDKT87CKQ95|sv|n|
+sa|0|mb|1C|mb|2H|mb|3D|mb|p|mb|4H|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|S5|pc|S4|pc|D4|pg||
+pc|DJ|pc|D6|pc|DK|pc|H7|pg||
+mc|11|pg||
+pn|George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi|qx|o22,BOARD 22|rh||ah|Board 22|md|4S64HAJ875D97CJ963,SAQJT98H632DACKT5,SK752HQT9DJ65C874|sv|e|
+sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
+pc|C3|pc|C5|pc|C7|pc|CA|pg||
+pc|S3|pc|S6|pc|SA|pc|S2|pg||
+pc|S8|pc|S5|pc|D8|pc|S4|pg||
+pc|D2|pc|D7|pc|DA|pc|D5|pg||
+pc|S9|pc|S7|pc|DT|pc|H8|pg||
+pc|DK|pc|D9|pc|H2|pc|D6|pg||
+pc|DQ|pc|H7|pc|ST|pc|DJ|pg||
+pc|D4|pc|C6|pc|H3|pc|C8|pg||
+pc|C2|pc|CJ|pc|CK|pc|C4|pg||
+pc|H6|pc|H9|pc|HK|pc|HA|pg||
+mc|11|pg||
+pn|George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi|qx|o23,BOARD 23|rh||ah|Board 23|md|1S85HKJT653D54CT74,SKJT4HQ87DQ2CKQJ3,S63H942DKT9863C82|sv|b|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
+pc|D8|pc|DA|pc|D5|pc|D2|pg||
+mc|12|pg||
+pn|George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi|qx|o24,BOARD 24|rh||ah|Board 24|md|2SK943H763D43CT864,ST86HAQDAK95CAQ92,SQ2HKJ984D76CK753|sv|0|
+sa|0|mb|1D|mb|1H|mb|d|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|SQ|pc|SA|pc|S4|pc|S6|pg||
+pc|CJ|pc|C8|pc|C2|pc|CK|pg||
+pc|S2|pc|S5|pc|SK|pc|S8|pg||
+mc|11|pg||
+pn|Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein|qx|o25,BOARD 25|rh||ah|Board 25|md|3SK874HJDAT9732CA4,SAQJT6HAQ2DJCKQJ9,S932HK964D85CT763|sv|e|
+sa|0|mb|p|mb|p|mb|1D|mb|d|mb|p|mb|1H|mb|2D|mb|d|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|DJ|pc|D8|pc|D4|pg||
+pc|D7|pc|S6|pc|D5|pc|DQ|pg||
+pc|H3|pc|HJ|pc|HQ|pc|HK|pg||
+pc|C7|pc|C2|pc|CA|pc|C9|pg||
+pc|D3|pc|HA|pc|S2|pc|D6|pg||
+pc|H2|pc|H4|pc|H8|pc|D2|pg||
+pc|S5|pc|S4|pc|SQ|pc|S3|pg||
+pc|SA|pc|S9|pc|C5|pc|S7|pg||
+pc|ST|pc|C3|pc|H5|pc|S8|pg||
+pc|C8|pc|C4|pc|CK|pc|C6|pg||
+pc|CQ|pc|CT|pc|DK|pc|D9|pg||
+mc|10|pg||
+pn|Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein|qx|o26,BOARD 26|rh||ah|Board 26|md|4SA82HJT42DA8CK852,S975HQ87DKQ75CQ76,SQTH53DT93CAJT943|sv|b|
+sa|0|mb|1S|mb|d|mb|2S|mb|3C|mb|3S|mb|4C|mb|p|mb|p|mb|p|pg||
+pc|HA|pc|H2|pc|H8|pc|H3|pg||
+pc|HK|pc|H4|pc|H7|pc|H5|pg||
+pc|H9|pc|HT|pc|HQ|pc|C3|pg||
+pc|CJ|pc|S6|pc|CK|pc|C6|pg||
+pc|C2|pc|C7|pc|C9|mc|10|pg||
+pn|Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein|qx|o27,BOARD 27|rh||ah|Board 27|md|1SAQJHJT8DAQJ87CK3,ST8742HAQ75D3CAT5,SK63H642DKT6CJ642|sv|0|
+sa|0|mb|1D|mb|d|mb|p|mb|2C|mb|d|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|S3|pc|S9|pc|SJ|pg||
+pc|DA|pc|D3|pc|D6|pc|D2|pg||
+pc|D7|pc|S2|pc|DK|pc|D4|pg||
+pc|DT|pc|D5|pc|DQ|pc|H5|pg||
+pc|DJ|pc|S7|pc|H2|pc|D9|pg||
+pc|D8|pc|C5|pc|C2|pc|C7|pg||
+pc|SA|pc|S8|pc|S6|pc|S5|pg||
+pc|SQ|pc|ST|pc|SK|pc|C8|pg||
+pc|H4|pc|H3|pc|HT|pc|HQ|pg||
+pc|CA|pc|C4|pc|C9|pc|C3|pg||
+pc|CT|pc|C6|pc|CQ|pc|CK|pg||
+mc|9|pg||

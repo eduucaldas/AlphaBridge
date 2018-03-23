@@ -1,0 +1,345 @@
+vg|FB7-2017WBTC,OT-QF2,I,17,32,USA2,34,JAPAN,25|
+rs|4CS-1,5CSx-2,1NE=,1NE=,6SS-1,6SS-1,4HS+2,6HS=,1NE-1,3NN-2,4SSx-1,4SSx-1,6SW=,6SW=,1NE-2,3DW=,2CS+2,3CS+1,7DN-1,5DN+1,6NN+1,7NN=,5HS=,5HS=,4HE+1,4HE+1,3NS=,3NS=,2HW-2,1HW-2,3NW+1,3NE=|
+pn|GRAVES,OMASA,BECKER,IMAKURA,K YAMADA,SILVERMAN,INO,WOLFSON|pg||
+qx|o17|st||md|3ST52HTD72CAT98743,SAKHQ972DAJ863CKJ,SQJ98HAK843DK5CQ2,S7643HJ65DQT94C65|sv|o|mb|1N|mb|p|mb|2S!|mb|p|mb|2N!|mb|p|mb|3C|mb|d|mb|p|mb|3D|mb|4C|mb|p|mb|p|mb|p|pc|sA|pc|s8|pc|s7|pc|s2|pg||
+pc|dA|pc|d5|pc|d4|pc|d2|pg||
+pc|sK|pc|s9|pc|s3|pc|s5|pg||
+pc|d3|pc|dK|pc|d9|pc|d7|pg||
+pc|cQ|pc|c5|pc|c3|pc|cK|pg||
+pc|h7|pc|hA|pc|h5|pc|hT|pg||
+pc|c2|pc|c6|pc|cA|pc|cJ|pg||
+mc|9|pg||
+qx|c17|st||md|3ST52HTD72CAT98743,SAKHQ972DAJ863CKJ,SQJ98HAK843DK5CQ2,S7643HJ65DQT94C65|sv|o|mb|1H|mb|p|mb|1N!|an|forcing|mb|2D|mb|d!|an|values|mb|4D|mb|5C|mb|d|mb|p|mb|p|mb|p|pc|sK|pc|s8|pc|s3|pc|s5|pg||
+pc|dA|pc|d5|pc|d4|pc|d2|pg||
+pc|sA|pc|s9|pc|s4|pc|sT|pg||
+pc|h7|pc|hA|pc|h6|pc|hT|pg||
+pc|dK|pc|d9|pc|d7|pc|d8|pg||
+pc|cQ|pc|c5|pc|c3|pc|cK|pg||
+pc|h2|pc|hK|pc|h5|pc|s2|pg||
+pc|c2|pc|c6|pc|cA|pc|cJ|pg||
+mc|9|pg||
+qx|o18|st||md|4SQJHQT6DAQJT7CJT9,ST832HK98D652C852,SK54HJ43D983CK743,SA976HA752DK4CAQ6|sv|n|mb|1N|mb|p|mb|p|mb|p|pc|dQ|pc|d2|pc|d9|pc|dK|pg||
+pc|sA|pc|sQ|pc|s2|pc|s5|pg||
+pc|s7|pc|sJ|pc|s3|pc|s4|pg||
+pc|dA|pc|d5|pc|d3|pc|d4|pg||
+pc|dT|pc|d6|pc|d8|pc|c6|pg||
+pc|dJ|pc|c2|pc|c3|pc|s6|pg||
+pc|d7|pc|c5|pc|h3|pc|h5|pg||
+pc|cJ|pc|c8|mc|7|pg||
+qx|c18|st||md|4SQJHQT6DAQJT7CJT9,ST832HK98D652C852,SK54HJ43D983CK743,SA976HA752DK4CAQ6|sv|n|mb|1N|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|s4|pc|sA|pg||
+pc|s6|pc|sJ|pc|s3|pc|s5|pg||
+pc|cJ|pc|c2|pc|c3|pc|cQ|pg||
+pc|s7|pc|cT|pc|s8|pc|sK|pg||
+pc|c4|pc|c6|pc|c9|pc|c5|pg||
+pc|dQ|pc|d2|pc|d9|pc|dK|pg||
+pc|cA|pc|h6|pc|c8|pc|c7|pg||
+pc|s9|pc|d7|pc|sT|pc|d3|pg||
+pc|hK|pc|h3|pc|h2|pc|hT|pg||
+pc|h8|pc|h4|pc|hA|pc|hQ|pg||
+mc|7|pg||
+qx|o19|st||md|1SA842HJ7DQ64CKQ65,SQJ5H96D985C98432,SKT93HAQ85DAK2CA7,S76HKT432DJT73CJT|sv|e|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|5H|mb|d|mb|p|mb|p|nt|npcjpn:  needs 3-2 @s break and @hK onside, it is not a good slam.|pg||
+nt|npcjpn:  but after this double, north may stop at 5@s.|pg||
+nt|npcjpn:  now north knows @sQ missing, and may have a @h loser.|pg||
+mb|6D|mb|p|nt|drewsky:  North is angling for 6NT, which might be cold as the cards lie.|pg||
+nt|npcjpn:  can NS make 6NT?|pg||
+nt|drewsky:  probably not, but its close|pg||
+mb|6H|mb|p|nt|npcjpn:  closer than 6@s, may be.|pg||
+nt|drewsky:  In 6NT East would have to pklay small if north played  aheart towards the jack|pg||
+mb|6S|mb|p|mb|p|mb|p|pc|h9|nt|vugrapho7: imakura asking director for slow|pg||
+pc|h5|pc|hK|pc|h7|pg||
+pc|h2|pc|hJ|pc|h6|pc|h8|pg||
+pc|sA|pc|s5|pc|s3|pc|s6|pg||
+mc|11|nt|npcjpn:  if east going up with @hk, west may be squeezed, you mean.|pg||
+pg||
+qx|c19|st||md|1SA842HJ7DQ64CKQ65,SQJ5H96D985C98432,SKT93HAQ85DAK2CA7,S76HKT432DJT73CJT|sv|e|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D!|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5C!|mb|p|mb|5D!|an|queen ask|mb|p|mb|5H!|an|no queen|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|d5|pc|d2|pc|dT|pc|dQ|pg||
+pc|hJ|pc|h9|pc|h5|pc|hK|pg||
+pc|d3|pc|d6|pc|d9|pc|dK|pg||
+pc|sK|pc|s7|pc|s2|pc|s5|pg||
+pc|s3|pc|s6|pc|sA|pc|sJ|pg||
+mc|11|pg||
+qx|o20|st||md|2SKQHAKT5DQ62CAK64,S5H93DAJ9873CQT82,SA9876HQJ842D4C53,SJT432H76DKT5CJ97|sv|b|mb|2D|mb|p|mb|3D|mb|3N|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c8|nt|yasushimiz:  6NTãåºæ¥ããã¨ãDrew Casenãè¨ã£ã¦ããã©ããããã«ç¡çãã¨ã|pg||
+nt|npcjpn:  at the other table, after the same start, south doubled, north 4@D cuebid, south 5@h jump. north accepetd.|pg||
+pc|c3|pc|cJ|pc|cA|pg||
+pc|hA|pc|h3|pc|h2|pc|h6|pg||
+pc|hK|pc|h9|pc|h4|pc|h7|pg||
+pc|sK|pc|s5|pc|s6|pc|s2|pg||
+pc|sQ|pc|d3|pc|s7|pc|s3|pg||
+pc|cK|pc|c2|pc|c5|pc|c7|pg||
+pc|c4|pc|cT|pc|h8|pc|c9|pg||
+nt|npcjpn:  even @s 5-1. 2-2 ! break means 3@s, 5@h, 2@c and 2@s ruff means 12 tricks.|pg||
+mc|12|pg||
+qx|c20|st||md|2SKQHAKT5DQ62CAK64,S5H93DAJ9873CQT82,SA9876HQJ842D4C53,SJT432H76DKT5CJ97|sv|b|mb|2D|mb|p|mb|3D|mb|d|mb|p|mb|4D!|mb|p|mb|5H!|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|dA|pc|d4|pc|dT|pc|d2|pg||
+pc|s5|pc|s6|pc|s2|pc|sK|pg||
+pc|hA|pc|h3|pc|h2|pc|h6|pg||
+pc|h5|pc|h9|pc|hQ|pc|h7|pg||
+mc|12|pg||
+qx|o21|st||md|3SJ72H94DAQ7654CA7,SKT96HJ8DK3CT8532,SAQ5HT652D82CKQ96,S843HAKQ73DJT9CJ4|sv|n|mb|p|mb|1H|nt|npcjpn:  13 imps to Japan, the match getting closer.|pg||
+mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d6|pc|dK|pc|d8|pc|d9|pg||
+pc|hJ|pc|h6|pc|h3|pc|h4|pg||
+pc|h8|pc|h2|pc|hQ|pc|h9|pg||
+pc|hA|pc|s2|pc|d3|pc|h5|pg||
+pc|hK|pc|c7|pc|s6|pc|hT|pg||
+pc|h7|pc|s7|nt|npcjpn:  I'm surprised south pass.|pg||
+pc|c2|pc|c6|pg||
+pc|s3|pc|sJ|pc|sK|pc|sA|pg||
+pc|d2|pc|dT|mc|6|nt|npcjpn:  partner passed, and worst vul, but 6th @d.|pg||
+pg||
+qx|c21|st||md|3SJ72H94DAQ7654CA7,SKT96HJ8DK3CT8532,SAQ5HT652D82CKQ96,S843HAKQ73DJT9CJ4|sv|n|mb|1C|mb|1H|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h3|pc|h4|pc|hJ|pc|h5|pg||
+pc|s6|pc|s5|pc|s8|pc|sJ|pg||
+pc|s2|pc|s9|pc|sQ|pc|s4|pg||
+pc|d2|pc|dJ|pc|dQ|pc|dK|pg||
+pc|h8|pc|h2|pc|hQ|pc|h9|pg||
+pc|hA|pc|d4|pc|c2|pc|h6|pg||
+pc|hK|pc|d5|pc|d3|pc|hT|pg||
+pc|h7|pc|d6|pc|c3|pc|c6|pg||
+mc|7|pg||
+qx|o22|st||md|4SK98743HQT9D654CQ,SQT2H7653DK8CA972,SAJ6H4DAJ93CJT843,S5HAKJ82DQT72CK65|sv|e|mb|1H|mb|2S|mb|3H|nt|yasushimiz:  ä»åããã1@hãªã¼ãã³ãã¾ãããã©ãåå¯¾ãã¼ãã«ã§ã¯Northã®11ç¹ã@cãªã¼ãã³ãã¦3NTã§ãã¦ã³ã|pg||
+mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|h5|pc|h4|pc|hK|pc|h9|pg||
+pc|s5|pc|s3|pc|sQ|pc|sA|pg||
+pc|c3|pc|c6|pc|cQ|pc|cA|pg||
+pc|dK|nt|yasushimiz:  å¤§æ¿ããã¯ãã¼ããã¼ã®ãã«ã®1@hãªã¼ãã³ãå½ã¦ã«ãã¦ããã£ãããã§ãã|pg||
+pc|dA|pc|d2|pc|d4|pg||
+pc|cJ|pc|cK|pc|s4|pc|c2|pg||
+nt|npcjpn:  from now on, we will comment in Japanese, sorry for non Japanese audience,|pg||
+nt|npcjpn:  æ¸æ°´åº·è£ãããåå ã§ãã|pg||
+nt|yasushimiz:  ãã£ã¯ã¬ã¢ã©ã¼ã¯@hãåããã@sãç©ãããèãã¦ã¾ãã|pg||
+pc|s7|pc|s2|pc|sJ|pc|h2|pg||
+nt|npcjpn:  @sã2-2ãããªãã®ã§ã1ãã¦ã³ã§ããï¼|pg||
+pc|cT|pc|c5|pc|hT|nt|yasushimiz:  ãã®éç½®ã¯ãã®ããã§ãã­ã|pg||
+pc|c7|pg||
+pc|c4|pc|d7|pc|s8|pc|c9|pg||
+pc|hQ|pc|h3|pc|s6|pc|hA|pg||
+pc|c8|pc|h8|pc|d6|pc|sT|pg||
+mc|9|nt|yasushimiz:  ãã®ãã¼ãã¯ããã·ã¥ã§ãã|pg||
+pg||
+qx|c22|st||md|4SK98743HQT9D654CQ,SQT2H7653DK8CA972,SAJ6H4DAJ93CJT843,S5HAKJ82DQT72CK65|sv|e|mb|1H|mb|2S|mb|3H|mb|3S|mb|4H|mb|p|mb|p|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|h7|pc|h4|pc|hK|pc|h9|pg||
+pc|s5|pc|s7|pc|sT|pc|sJ|pg||
+pc|c3|pc|c5|pc|cQ|pc|cA|pg||
+pc|dK|pc|dA|pc|d7|pc|d4|pg||
+pc|cJ|pc|cK|pc|s4|pc|c2|pg||
+pc|s3|pc|s2|pc|sA|pc|h2|pg||
+pc|cT|pc|c6|pc|d5|pc|c7|pg||
+pc|c8|pc|h8|pc|s8|pc|c9|pg||
+pc|hT|pc|h3|pc|s6|pc|hJ|pg||
+mc|9|pg||
+qx|o23|st||md|1S952HJ762D9764C93,SKQJT7643HADAQCT6,SA8HKQ854DJ82CJ72,SHT93DKT53CAKQ854|sv|b|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4D|nt|yasushimiz:  6@sã7@cã«ã¯ãªããªãã§ããã|pg||
+nt|npcjpn:  @sAãï¼®ãªã®ã§ã7@cãã§ããã®ã§ããããããããã®ã¯é£ãããã§ãã@cã®ãã¬ã¤ã¯ãå¿è¦ãªã®ã§ã50ï¼ããã¾ãããã|pg||
+mb|p|mb|4H|nt|yasushimiz:  å¤§æ¿ããã4@hã4@sããèãã¦ãã¾ãã|pg||
+mb|p|mb|6C|mb|p|nt|yasushimiz:  ã¤ãã¤ããã|pg||
+mb|6S|mb|p|mb|p|mb|p|nt|yasushimiz:  7@sã«ãªã¼ãã¼ãã¼ããããã¨æãã¾ããã|pg||
+pc|hK|nt|npcjpn:  ï¼¥ã7@sã¨ãããããªãã¦ã»ã£ã¨ãã¾ãããããã@sAKQJã¨ãããã¨ãããããããã¾ããã|pg||
+pc|h3|pc|h2|pc|hA|pg||
+pc|sK|pc|sA|pc|d3|pc|s2|pg||
+pc|hQ|pc|h9|pc|h6|pc|s3|pg||
+mc|12|pg||
+qx|c23|st||md|1S952HJ762D9764C93,SKQJT7643HADAQCT6,SA8HKQ854DJ82CJ72,SHT93DKT53CAKQ854|sv|b|mb|p|mb|2C!|an|strong|mb|p|mb|3C!|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|5D|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|hK|pc|h3|pc|h2|pc|hA|pg||
+pc|sK|pc|sA|pc|c4|pc|s5|pg||
+pc|hQ|mc|12|pg||
+qx|o24|st||md|2SK52HT52DQ9CAKJT6,SJ864HKQ9DA7532C4,SAT3HJ43DT86C8732,SQ97HA876DKJ4CQ95|sv|o|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|nt|yasushimiz:  Eastã®1NTã«ãªãã¨è½ã¨ããã¾ãã|pg||
+mb|p|pc|cK|pc|c4|pc|c8|pc|c5|pg||
+pc|h2|nt|yasushimiz:  ãã®NSãã¢ã¯ãå¼·ãã¹ã¼ãã¯Kingã§ãAceã®ãªã¼ãã¯AKã®ããã§ãã­ã|pg||
+pc|hK|pc|hJ|pc|h8|pg||
+pc|dA|pc|d6|pc|d4|pc|d9|pg||
+pc|d2|pc|dT|pc|dJ|pc|dQ|pg||
+pc|s5|pc|s4|pc|sA|pc|s7|pg||
+pc|c2|pc|c9|nt|yasushimiz:  2ãã¦ã³ã¯ããããããªããã¨ã|pg||
+pc|cT|pc|s6|pg||
+pc|cA|pc|s8|pc|c3|pc|cQ|pg||
+pc|cJ|pc|d3|pc|c7|pc|dK|pg||
+pc|c6|pc|sJ|pc|d8|pc|h6|pg||
+pc|sK|mc|5|pg||
+qx|c24|st||md|2SK52HT52DQ9CAKJT6,SJ864HKQ9DA7532C4,SAT3HJ43DT86C8732,SQ97HA876DKJ4CQ95|sv|o|mb|1D|mb|p|mb|1H|mb|2C|mb|d!|an|3 !h|mb|3C|mb|d|mb|p|mb|3D|mb|p|mb|p|mb|p|pc|c3|pc|c5|pc|cT|pc|c4|pg||
+pc|cA|pc|d2|pc|c8|pc|c9|pg||
+pc|d3|pc|d6|pc|dJ|pc|dQ|pg||
+pc|cK|pc|d5|pc|c7|pc|cQ|pg||
+pc|s4|pc|s3|pc|s7|pc|sK|pg||
+pc|s5|pc|s8|pc|sA|pc|s9|pg||
+pc|sT|pc|sQ|pc|s2|pc|s6|pg||
+pc|dK|pc|d9|pc|d7|pc|d8|pg||
+mc|9|pg||
+qx|o25|st||md|3S64HA73DKTCAT7642,SJT8HK95DQJ9532CQ,SKQ52HQ42D864CKJ3,SA973HJT86DA7C985|sv|e|mb|p|mb|p|mb|1C|mb|1D|mb|1S|mb|p|mb|2C|nt|yasushimiz:  NS can take 10 tricks in clubs quite easily. How about EW?|pg||
+mb|p|mb|p|mb|p|pc|dQ|pc|d4|pc|dA|pc|dT|pg||
+pc|d7|pc|dK|pc|d2|pc|d6|pg||
+pc|c2|pc|cQ|pc|cK|pc|c5|pg||
+nt|yasushimiz:  At the other table, EW side took +110, so it's 6 IMPs|pg||
+pc|cJ|nt|npcjpn:  can east double 1@s to show this kind of hand?|pg||
+pc|c8|pc|c4|pc|d3|pg||
+pc|c3|pc|c9|pc|cA|pc|d5|pg||
+pc|s4|pc|s8|pc|sQ|nt|npcjpn:  showing some @h and some @d.|pg||
+pc|s3|pg||
+pc|h2|pc|hJ|pc|hA|pc|h5|pg||
+pc|h3|pc|hK|pc|h4|mc|10|pg||
+qx|c25|st||md|3S64HA73DKTCAT7642,SJT8HK95DQJ9532CQ,SKQ52HQ42D864CKJ3,SA973HJT86DA7C985|sv|e|mb|p|mb|p|mb|1C|mb|1D|mb|1S|mb|1N|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|dQ|pc|d4|pc|dA|pc|dT|pg||
+pc|d7|pc|dK|pc|d3|pc|d6|pg||
+pc|s6|pc|s8|pc|sK|pc|sA|pg||
+pc|h8|pc|h7|pc|hK|pc|h2|pg||
+pc|dJ|pc|d8|pc|h6|pc|c2|pg||
+pc|c4|pc|cQ|pc|cK|mc|10|pg||
+qx|o26|st||md|4SAKJHQT876DQJT62C,SQ52HK54D5CQJT964,S763HA9DAK743CAK8,ST984HJ32D98C7532|sv|b|nt|yasushimiz:  I think so. Snap dragon double or fourth suit double.|pg||
+mb|p|mb|1H|mb|p|nt|npcjpn:  then. wesy can compete to 2@d,|pg||
+mb|2D|nt|yasushimiz:  Slam again. This time in the diamonds.|pg||
+mb|p|mb|4C|nt|npcjpn:  some may go to 7@d.|pg||
+mb|p|mb|4N|nt|yasushimiz:  Without the @hK, they can stop at six.|pg||
+nt|npcjpn:  if they can comfirm it.|pg||
+mb|p|mb|6D|mb|p|mb|7D|nt|npcjpn:  6@d shows 1 key plus @c void.|pg||
+nt|yasushimiz:  OH|pg||
+mb|p|mb|p|mb|p|nt|npcjpn:  so couldn't confirm about @hK.|pg||
+pc|sT|pc|sA|pc|s2|pc|s3|pg||
+nt|yasushimiz:  In my opinion, without the @hAK and the @dAK, the 6@d bid is too much|pg||
+pc|h6|pc|h4|pc|h9|pc|hJ|pg||
+pc|s4|pc|sK|pc|s5|pc|s6|pg||
+pc|d2|pc|d5|pc|dA|mc|12|nt|yasushimiz:  16IMPs|pg||
+pg||
+qx|c26|st||md|4SAKJHQT876DQJT62C,SQ52HK54D5CQJT964,S763HA9DAK743CAK8,ST984HJ32D98C7532|sv|b|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|5C!|an|exclusion kcb|mb|p|mb|5D!|an|0-3|mb|p|mb|p|mb|p|pc|sT|pc|sA|pc|s2|pc|s6|pg||
+pc|dQ|pc|d5|pc|d3|pc|d8|pg||
+pc|d2|pc|cQ|pc|dA|pc|d9|pg||
+pc|hA|pc|h2|pc|h6|pc|h4|pg||
+mc|12|pg||
+qx|o27|st||md|1SAK6532H6DQ32CQ93,ST4HQT92DT864C876,SQ9HAKJ8DAJ7CAK42,SJ87H7543DK95CJT5|sv|o|nt|npcjpn:  so south should show 1 key, and north can ask further,|pg||
+nt|npcjpn:  another slam!|pg||
+mb|1S|mb|p|nt|yasushimiz:  This one is easy, but six or seven?|pg||
+nt|npcjpn:  @s 3-2. @c 3-3, 7@s or 7NT is cold, but....|pg||
+mb|2C|mb|p|mb|2S|mb|p|nt|npcjpn:  2@s promises 5-card or 6, that's the first question.|pg||
+nt|yasushimiz:  Sooner or later they knows that the @dK is missing.|pg||
+mb|2N|mb|p|mb|3C|nt|yasushimiz:  Ok, 2@s shows five.|pg||
+nt|npcjpn:  south may have !QJx...|pg||
+nt|npcjpn:  @cQJx|pg||
+mb|p|mb|3S|mb|p|nt|npcjpn:  on board 26, 12 imps to Japan, not 16, stopping at 5@D!|pg||
+mb|4S|mb|p|nt|yasushimiz:  Yes, in this auction North can count at least 12tricks. may bid a grand.|pg||
+mb|4N|mb|p|mb|5H|nt|yasushimiz:  At the other table on board 26, South first raised to 3@d and over North's 3@s fourth suit, jumped to 5@c to show shortness.|pg||
+nt|npcjpn:  but stopping at 5@d looks mysterious.|pg||
+mb|p|mb|5N|mb|p|mb|6S|mb|p|nt|npcjpn:  now north have to guess.|pg||
+nt|yasushimiz:  Some thing must be wrong.|pg||
+nt|npcjpn:  north knows @dK missing.|pg||
+mb|6N|mb|p|mb|p|mb|p|nt|npcjpn:  reasonable choice|pg||
+pc|d5|nt|yasushimiz:  With 22 HCP, 6NT is good shot. |pg||
+pc|d2|pc|dT|pc|dJ|pg||
+pc|sQ|nt|yasushimiz:  And brute lead....|pg||
+pc|s7|pc|s2|pc|s4|pg||
+pc|s9|pc|s8|pc|sK|pc|sT|pg||
+mc|13|nt|npcjpn:  1 down at 7 in 2 board in a low will be a nightmare.....|pg||
+pg||
+qx|c27|st||md|1SAK6532H6DQ32CQ93,ST4HQT92DT864C876,SQ9HAKJ8DAJ7CAK42,SJ87H7543DK95CJT5|sv|o|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6S|an|no king|mb|p|mb|7N|mb|p|mb|p|mb|p|pc|c5|pc|c3|pc|c6|pc|cK|pg||
+pc|sQ|pc|s7|pc|s2|pc|s4|pg||
+pc|s9|pc|s8|pc|sA|pc|sT|pg||
+pc|h6|pc|h2|pc|hA|pc|h3|pg||
+pc|hK|pc|h4|pc|d2|pc|h9|pg||
+pc|cA|pc|cT|pc|c9|pc|c7|pg||
+pc|c2|pc|cJ|pc|cQ|pc|c8|pg||
+mc|13|pg||
+qx|o28|st||md|2SQT7HKQJT87D8CAKJ,SK543H96DA6CT8743,SA98HA532DT75CQ96,SJ62H4DKQJ9432C52|sv|n|nt|npcjpn:  3@d looks normal to me, but white vs red in third seat.|pg||
+mb|p|nt|yasushimiz:  How many diamonds to bid by East?|pg||
+nt|yasushimiz:  At the other table, Bd 27 was 7NT!|pg||
+mb|p|mb|4D|mb|4H|mb|5D|mb|5H|mb|p|mb|p|mb|p|pc|dA|pc|d5|pc|d2|pc|d8|pg||
+pc|d6|pc|d7|pc|dJ|pc|h8|pg||
+pc|hK|pc|h6|pc|h2|pc|h4|pg||
+pc|hQ|pc|h9|pc|hA|pc|d3|pg||
+pc|dT|pc|dQ|nt|npcjpn:  north wants some imp back after the disaster at board 26, may be:|pg||
+nt|yasushimiz:  This one is easy. Eliminate, then end play.|pg||
+pc|hT|pc|c3|pg||
+pc|hJ|pc|c4|pc|h3|pc|d4|pg||
+nt|npcjpn:  textbook play.|pg||
+mc|11|pg||
+qx|c28|st||md|2SQT7HKQJT87D8CAKJ,SK543H96DA6CT8743,SA98HA532DT75CQ96,SJ62H4DKQJ9432C52|sv|n|mb|p|mb|p|mb|4D|mb|4H|mb|5D|mb|5H|mb|p|mb|p|mb|p|pc|dA|pc|d5|pc|d9|pc|d8|pg||
+pc|d6|pc|d7|pc|dQ|pc|h7|pg||
+pc|hK|pc|h6|pc|h2|pc|h4|pg||
+pc|hQ|pc|h9|pc|hA|pc|d2|pg||
+mc|11|pg||
+qx|o29|st||md|3SQ942HJDK654CJ842,SK3HAQ7DAT982CKQ6,SAT76HK65DQ73C753,SJ85HT98432DJCAT9|sv|b|mb|p|mb|p|mb|p|mb|1D|nt|yasushimiz:  This one is another easy play 4@h.|pg||
+nt|npcjpn:  normal 4@h, easy to reach, easy to play(?)|pg||
+nt|npcjpn:  needs.one @s ruff|pg||
+nt|npcjpn:  or set up @d.|pg||
+nt|yasushimiz:  What will South's opening lead?|pg||
+mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s4|pc|s3|nt|npcjpn:  now too easy.|pg||
+pc|sA|pc|s5|pg||
+nt|npcjpn:  11 tricks likely.|pg||
+pc|d7|pc|dJ|pc|dK|pc|dA|pg||
+pc|hA|pc|h5|pc|h2|pc|hJ|pg||
+pc|sK|pc|s6|pc|s8|pc|s2|pg||
+pc|d2|pc|dQ|pc|h3|pc|d4|pg||
+pc|sJ|pc|sQ|pc|h7|pc|s7|pg||
+pc|hQ|pc|hK|mc|11|pg||
+qx|c29|st||md|3SQ942HJDK654CJ842,SK3HAQ7DAT982CKQ6,SAT76HK65DQ73C753,SJ85HT98432DJCAT9|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3D!|an|transfer|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s4|pc|s3|pc|sA|pc|s5|pg||
+pc|c5|pc|c9|pc|cJ|pc|cK|pg||
+pc|hA|pc|h5|pc|h2|pc|hJ|pg||
+pc|sK|pc|s6|pc|s8|pc|s2|pg||
+pc|dA|pc|d3|pc|dJ|pc|d4|pg||
+pc|d2|pc|d7|pc|h4|pc|d5|pg||
+pc|sJ|pc|sQ|pc|hQ|pc|s7|pg||
+pc|h7|pc|hK|pc|h3|mc|11|pg||
+qx|o30|st||md|4SA973HAK54DT43CK3,SJ854HQJT7DKQ7C74,SQH83DAJ852CAQT52,SKT62H962D96CJ986|sv|o|nt|yasushimiz:  Was another push.|pg||
+mb|p|mb|1N|mb|p|nt|yasushimiz:  Slam again, but this one is hard to reach missing @dKQ.|pg||
+mb|3D!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|nt|yasushimiz:  How to play the diamond suiit?|pg||
+pc|h3|nt|drewsky:  low to the 8 ?|pg||
+pc|h6|pc|hA|pg||
+pc|d3|pc|d7|pc|d8|pc|d9|pg||
+pc|h9|nt|yasushimiz:  Now, in big trouble.|pg||
+pc|hK|pc|h7|pc|h8|pg||
+nt|npcjpn:  http://db.worldbridge.org/repository/tourn/lyon.17/microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=1445&qphase=QF|pg||
+pc|d4|pc|dQ|nt|npcjpn:  running score in senior bowl.|pg||
+nt|npcjpn:  three matches are close, except France-India.|pg||
+pc|dA|pc|d6|pg||
+pc|d2|pc|s6|pc|dT|pc|dK|pg||
+pc|hJ|pc|c2|pc|h2|pc|h5|pg||
+pc|hT|nt|yasushimiz:  Now, another push board.|pg||
+nt|yasushimiz:  How about BB and VC?|pg||
+mc|9|pg||
+qx|c30|st||md|4SA973HAK54DT43CK3,SJ854HQJT7DKQ7C74,SQH83DAJ852CAQT52,SKT62H962D96CJ986|sv|o|mb|p|mb|1D|mb|p|mb|2D!|an|game forcing|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|pc|h3|pc|h2|pc|hK|pg||
+pc|dT|pc|dK|pc|dA|pc|d6|pg||
+pc|c2|pc|c8|pc|cK|pc|c4|pg||
+pc|d3|pc|d7|pc|d8|pc|d9|pg||
+pc|h9|pc|hA|pc|h7|pc|h8|pg||
+pc|d4|pc|dQ|pc|d2|pc|h6|pg||
+pc|hJ|pc|c5|pc|s2|pc|h4|pg||
+pc|hT|pc|cT|mc|9|pg||
+qx|o31|st||md|1SAQH6432DJ4CKQ952,ST98HAJT85DATCAT4,SK63HQ7DK87652CJ8,SJ7542HK9DQ93C763|sv|n|mb|1C|mb|1H|nt|yasushimiz:  1@c(1@h)1NT?|pg||
+mb|d|mb|r|nt|npcjpn:  or double, with 1@s shows only 4.|pg||
+mb|p|mb|p|mb|2D|mb|p|nt|npcjpn:  some plays 1@s shows 3-@s.|pg||
+mb|p|nt|yasushimiz:  ReDBL shows top honor is the @h. |pg||
+nt|npcjpn:  or general strength, some plays.|pg||
+mb|2H|mb|p|mb|p|mb|p|pc|cJ|pc|c3|pc|c2|pc|c4|pg||
+pc|c8|pc|c6|pc|cQ|pc|cA|pg||
+nt|npcjpn:  even west drops @hQ, 2@h will go down.|pg||
+pc|h5|pc|h7|pc|hK|pc|h2|pg||
+pc|h9|pc|h3|pc|hJ|pc|hQ|pg||
+pc|d6|pc|d3|pc|dJ|pc|dA|pg||
+pc|hA|pc|d2|pc|s2|pc|h4|pg||
+pc|hT|pc|d7|pc|c7|pc|h6|pg||
+nt|npcjpn:  -2 now.|pg||
+pc|dT|pc|dK|pc|d9|pc|d4|pg||
+pc|s3|pc|s4|pc|sA|pc|s8|pg||
+pc|cK|pc|cT|pc|d5|pc|s5|pg||
+pc|c9|pc|h8|pc|d8|pc|s7|pg||
+pc|s9|pc|s6|pc|sJ|pc|sQ|pg||
+nt|npcjpn:  without @sQ, south will not open, it is not a guess.|pg||
+pc|c5|pc|sT|pc|sK|pc|dQ|pg||
+pg||
+qx|c31|st||md|1SAQH6432DJ4CKQ952,ST98HAJT85DATCAT4,SK63HQ7DK87652CJ8,SJ7542HK9DQ93C763|sv|n|mb|1C|mb|1H|mb|p|mb|p|mb|p|pc|cJ|pc|c3|pc|c2|pc|c4|pg||
+pc|c8|pc|c6|pc|cQ|pc|cA|pg||
+pc|h5|pc|h7|pc|hK|pc|h2|pg||
+pc|h9|pc|h3|pc|hT|pc|hQ|pg||
+pc|s3|pc|s2|pc|sA|pc|s9|pg||
+pc|cK|pc|cT|pc|d5|pc|c7|pg||
+pc|c9|pc|h8|pc|d7|pc|s4|pg||
+pc|hA|pc|d8|pc|s5|pc|h4|pg||
+pc|hJ|pc|d2|pc|s7|pc|h6|pg||
+pc|s8|pc|s6|pc|sJ|pc|sQ|pg||
+pc|c5|pc|sT|pc|sK|pc|d3|pg||
+mc|5|pg||
+qx|o32|st||md|2S9652HT7D8732CA96,SKQT8HAK96D96CQJ4,S73H85432DAQJCK85,SAJ4HQJDKT54CT732|sv|e|nt|npcjpn:  now last board of the 2nd segment, out of 6.|pg||
+mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|yasushimiz:  Looks like a routine 3NT.|pg||
+pc|h5|pc|hJ|pc|h7|pc|h9|pg||
+pc|c2|pc|c6|pc|cQ|pc|cK|pg||
+pc|h2|pc|hQ|pc|hT|pc|h6|pg||
+pc|c3|pc|c9|pc|cJ|pc|c5|pg||
+pc|c4|pc|c8|pc|cT|pc|cA|pg||
+nt|npcjpn:  thanks all, 64 boards more, 16 today, 48 tomorrow.|pg||
+mc|10|nt|yasushimiz:  Bye everyone. Thank you, Hayashi san.|pg||
+nt|npcjpn:  thanks, shimizu-san, and all the audience.|pg||
+pg||
+qx|c32|st||md|2S9652HT7D8732CA96,SKQT8HAK96D96CQJ4,S73H85432DAQJCK85,SAJ4HQJDKT54CT732|sv|e|mb|1C|mb|1H|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hT|pc|h6|pc|h4|pc|hQ|pg||
+pc|c2|pc|c6|pc|cQ|pc|cK|pg||
+pc|dA|pc|d4|pc|d8|pc|d6|pg||
+pc|dQ|pc|dK|pc|d2|pc|d9|pg||
+pc|hJ|pc|h7|pc|hA|pc|h2|pg||
+pc|hK|pc|h3|pc|c3|mc|9|pg||

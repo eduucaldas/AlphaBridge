@@ -1,0 +1,89 @@
+vg|Cap Gemini 2000,2000.03.24,P,1,10,Team 1,0,Team 2,0|
+rs|3NN=,,4SS=,,3SN=,,3HSx=,,1NN+1,,1NS+1,,3HN-1,,3SW+1,,3CS-1,,4SE=,,|
+pw|Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,Greco,Hackett Ja,Hampson,Hackett Ju,|pg||bn|1,2,3,4,5,6,7,8,9,10,|pg||
+mp|6,,,1,3,,12,,2,,0,,,3,,2,1,,,2,|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o1|md|3SJTHJ962DK7CKJ984,SQ754H874DA83CT32,SA962HKTDQJ952CA7|sv|0|
+mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D4|pc|D7|pc|DA|pc|D2|pg||
+pc|D8|pc|D9|pc|DT|pc|DK|pg||
+pc|ST|pc|S5|pc|S2|pc|S3|pg||
+pc|H2|pc|H7|pc|HK|pc|HA|pg||
+mc|9|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o2|md|4SAQT863HT74DJ9C63,SJ2HQ653D762CKJ97,SK95HAKJ2D543CAQ2|sv|n|
+mb|1D|mb|1S|mb|d|mb|2C|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D3|pc|DK|pc|D9|pg||
+pc|DA|pc|DJ|pc|D6|pc|D4|pg||
+pc|C5|pc|C3|pc|C7|pc|CQ|pg||
+pc|S5|pc|S4|pc|SA|pc|S2|pg||
+mc|10|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o3|md|1S93HT7542DQ64CQ84,S76HKQJ8DJ87CAK76,SKQJT852HA6DA92CJ|sv|e|
+mb|p|mb|1N|mb|d|mb|p|mb|2C|mb|p|mb|2S|mb|2N|mb|p|mb|3C|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|D3|pc|D4|pc|DJ|pc|DA|pg||
+pc|SK|pc|SA|pc|S3|pc|S7|pg||
+pc|H9|pc|H2|pc|H8|pc|H6|pg||
+pc|CT|pc|C4|pc|CK|pc|CJ|pg||
+mc|9|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o4|md|2SAT954HAQT876D5C6,SK762HKJ9D74CA972,SQH52DAKT863CJT85|sv|b|
+mb|1S|mb|2D|mb|p|mb|2H|mb|p|mb|3D|mb|d|mb|3H|mb|d|mb|p|mb|p|mb|p|pg||
+pc|D7|pc|DA|pc|D9|pc|D5|pg||
+pc|DK|pc|D2|pc|C6|pc|D4|pg||
+pc|SQ|pc|S3|pc|S4|pc|SK|pg||
+pc|CA|pc|C5|pc|C3|pc|H6|pg||
+mc|9|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o5|md|3SKJ52HK54D96CJT63,SA63H9632DAQT3C97,ST94HAQ7DK542CK52|sv|n|
+mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|HJ|pc|H4|pc|H2|pc|HQ|pg||
+pc|ST|pc|SQ|pc|SK|pc|S3|pg||
+pc|S2|pc|S6|pc|S9|pc|S7|pg||
+pc|CK|pc|CA|pc|C3|pc|C7|pg||
+mc|8|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o6|md|4S42HKQ2DK932CJ975,SAQ8HT874DJ5CKQ63,SKT95HA965DAQT4CT|sv|e|
+mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|H8|pc|H5|pc|H3|pc|HK|pg||
+pc|S4|pc|S8|pc|ST|pc|SJ|pg||
+pc|C4|pc|C5|pc|CQ|pc|CT|pg||
+pc|DJ|pc|DA|pc|D6|pc|D2|pg||
+mc|8|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o7|md|1SKJ52H765DK9CKQ98,SAQ76H84D763CA753,S94HKQJT32DQJ4C62|sv|b|
+mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|CJ|pc|CK|pc|CA|pc|C6|pg||
+pc|C7|pc|C2|pc|CT|pc|CQ|pg||
+pc|H5|pc|H8|pc|HK|pc|HA|pg||
+mc|8|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o8|md|2SQT9HT96532D92CK7,SJ87643HQJ4D5CAJ4,SA2HA8DKQJT74C952|sv|0|
+mb|p|mb|1D|mb|p|mb|1H|mb|1S|mb|2D|mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DA|pc|D2|pc|D5|pg||
+pc|D3|pc|D9|pc|S3|pc|DQ|pg||
+pc|H4|pc|H8|pc|HK|pc|H3|pg||
+pc|CQ|pc|CK|pc|CA|pc|C2|pg||
+mc|10|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o9|md|3SKQH972D982CJ8642,S6HJ843DAQJT54CKT,SAJ82HAKQ6D73CQ93|sv|e|
+mb|1N|mb|p|mb|p|mb|2D|mb|d|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|S8|pc|S3|pc|SK|pg||
+pc|SQ|pc|CT|pc|S2|pc|S4|pg||
+pc|DQ|pc|D3|pc|D6|pc|D2|pg||
+pc|DJ|pc|D7|pc|DK|pc|D8|pg||
+mc|8|pg||
+pn|Greco,Hackett Ja,Hampson,Hackett Ju|qx|o10|md|4SA63HK8DQ86CJ8543,SJ4HJT976D3CAT972,SKH432DKJT952CKQ6|sv|b|
+mb|1S|mb|p|mb|1N|mb|2D|mb|2S|mb|3D|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|D6|pc|D3|pc|DK|pc|DA|pg||
+pc|D4|pc|D8|pc|S4|pc|D2|pg||
+pc|CA|pc|C6|pc|H5|pc|C3|pg||
+pc|C2|pc|CQ|pc|S2|pc|C4|pg||
+pc|D7|pc|DQ|pc|SJ|pc|D5|pg||
+pc|H6|pc|H2|pc|HQ|pc|HK|pg||
+mc|10|pg||
+bt||mn|Cap Gemini 2000 R4 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DLevin-Weinstein ^K48 ^MMahmood-Robson ^U52
+^B2 ^DNab-Bertens ^K59 ^MNanev-Mihov ^U41
+^B3 ^DPasman-Simons ^K23 ^MTuszynski-Jassem ^U77
+^B4 ^DWestra-Leufkens ^K58 ^MLanzarotti-Buratti ^U42
+^B5 ^DHampson-Greco ^K66 ^MHackett Ju-Hackett Ja ^U34
+|pg||st||nt||

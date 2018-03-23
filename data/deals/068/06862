@@ -1,0 +1,92 @@
+vg|Cap Gemini 2000,2000.03.23,P,1,10,Team 1,0,Team 2,0|
+rs|3HS-1,,3NS-2,,3DE=,,2SS=,,3NE-3,,4SW-1,,3HW-1,,4HS=,,3CEx-4,,5CWx=,,|
+pw|Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,Buratti,Versace,Lanzarotti,Lauria,|pg||bn|1,2,3,4,5,6,7,8,9,10,|pg||
+mp|1,,,2,,1,3,,5,,11,,,8,0,,13,,,4,|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o1|md|3SJ6HAKQT763DQJC72,SKQT3H2D976532C83,SA94HJ84DT4CK9654|sv|0|
+mb|p|mb|1C|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|SA|pc|S2|pc|S6|pg||
+pc|S4|pc|S7|pc|SJ|pc|SQ|pg||
+pc|D7|pc|D4|pc|DK|pc|DJ|pg||
+pc|DA|pc|DQ|pc|D2|pc|DT|pg||
+pc|S5|pg||mc|8|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o2|md|4SQ72HKJ6DJ2CAK632,SAKJT3HT983DT4CT4,S965HA42DKQ73CQJ7|sv|n|
+mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S5|pc|S4|pc|S7|pg||
+pc|H9|pc|HA|pc|H5|pc|H6|pg||
+pc|D3|pc|DA|pc|D2|pc|D4|pg||
+pc|S8|pg||mc|7|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o3|md|1SQ985HJ653DA97C92,SAT4H97DKJ83CA753,SKJ32HK84DQ2CJT64|sv|e|
+mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S4|pc|SK|pc|S6|pg||
+pc|S2|pc|S7|pc|SQ|pc|SA|pg||
+pc|ST|pc|SJ|pc|D4|pc|S8|pg||
+pc|DT|pc|D7|pc|D3|pc|DQ|pg||
+pc|H8|pc|HQ|pc|H3|pc|H7|pg||
+pc|D5|pc|DA|pc|D8|pc|D2|pg||
+pc|D9|pg||mc|9|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o4|md|2SKQ42H9875DAQJC52,S7HJ3DKT952CKQJT3,SAJ65HQD843CA9864|sv|b|
+mb|p|mb|p|mb|2H|mb|p|mb|p|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|CA|pc|C7|pc|C2|pg||
+pc|C4|pc|D6|pc|C5|pc|CT|pg||
+pc|S7|pc|S5|pc|S3|pc|SQ|pg||
+pc|H5|pc|H3|pc|HQ|pc|HK|pg||
+pc|S8|pg||mc|8|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o5|md|3S62HQ43DQJT963C97,S93HA72D4CAT86532,SAJT54HT98DAK85CJ|sv|n|
+mb|1S|mb|p|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|DQ|pc|D4|pc|DK|pc|D2|pg||
+pc|DA|pc|D7|pc|D3|pc|C2|pg||
+pc|D8|pc|H5|pc|DT|pc|C3|pg||
+pc|DJ|pg||mc|6|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o6|md|4S92HAJ6DK8CQJT862,SAQ743HT2D53CA753,ST865H9854DQ742C9|sv|e|
+mb|1D|mb|2C|mb|d|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C9|pc|C4|pc|CT|pc|CA|pg||
+pc|D5|pc|D2|pc|D9|pc|DK|pg||
+pc|C2|pc|C7|pc|S5|pc|CK|pg||
+pc|D4|pc|DT|pc|D8|pc|D3|pg||
+pc|HK|pc|HA|pc|H2|pc|H4|pg||
+pc|CQ|pg||mc|9|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o7|md|1SKT974H3DQ9764CK5,S53HKJT54DATCAJ97,SAQ82HA96DJ3CQT82|sv|b|
+mb|p|mb|1H|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|DJ|pc|D2|pc|D4|pc|DA|pg||
+pc|HJ|pc|H6|pc|H2|pc|H3|pg||
+pc|H5|pc|HA|pc|H7|pc|S4|pg||
+pc|SA|pc|S6|pc|S7|pc|S3|pg||
+pc|C2|pc|C3|pc|CK|pc|CA|pg||
+mc|8|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o8|md|2S74HKT864DJ3CKJT2,SQ95H52DQ964C8653,S863HAJ7DAK82CAQ4|sv|0|
+mb|p|mb|1D|mb|1S|mb|d|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S5|pc|S3|pc|SK|pc|S4|pg||
+pc|SA|pc|S7|pc|S9|pc|S6|pg||
+pc|SJ|pc|H6|pc|SQ|pc|S8|pg||
+pc|HK|pc|H2|pc|H7|pc|H3|pg||
+pc|H4|pc|H5|pc|HJ|pc|HQ|pg||
+mc|10|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o9|md|3SK532HT4DAKQ2C742,SJT87H5DT9854CQ85,SA94HKQ932D76CKJ9|sv|e|
+mb|1N|mb|2H|mb|d|mb|2N|mb|p|mb|3C|mb|d|mb|p|mb|p|mb|p|pg||
+pc|C2|pc|C5|pc|CJ|pc|CA|pg||
+pc|S6|pc|SK|pc|S7|pc|S9|pg||
+pc|C4|pc|C8|pc|CK|pc|C3|pg||
+pc|C9|pc|C6|pc|C7|pc|CQ|pg||
+pc|S8|pc|SA|pg||mc|5|pg||
+pn|Buratti,Versace,Lanzarotti,Lauria|qx|o10|md|4SQJ863HAQT5D75CJ5,SKTHDKQJT96CA8632,SA7HKJ9862DA32C74|sv|b|
+mb|p|mb|p|mb|1D|mb|1H|mb|p|mb|4H|mb|5C|mb|d|mb|p|mb|p|mb|p|pg||
+pc|SA|pc|S2|pc|S8|pc|ST|pg||
+pc|S7|pc|S4|pc|SJ|pc|SK|pg||
+pc|C2|pc|C4|pc|CQ|pc|C5|pg||
+pc|C9|pc|CJ|pc|CA|pc|C7|pg||
+pc|DK|pc|DA|pg||mc|11|pg||
+bt||mn|Cap Gemini 2000 R1 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DBertens-Nab ^K72 ^MPasman-Simons ^U28
+^B2 ^DMihov-Nanev ^K48 ^MTuszynski-Jassem ^U52
+^B3 ^DWestra-Leufkens ^K51 ^MGullberg-Andersson ^U49
+^B4 ^DHampson-Greco ^K27 ^MLevin-Weinstein ^U73
+^B5 ^DLambardi-Lucena ^K35 ^MChagas-Branco ^U65
+^B6 ^DLanzarotti-Buratti ^K68 ^MLauria-Versace ^U32
+|pg||st||nt||

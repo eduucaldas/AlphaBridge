@@ -1,0 +1,51 @@
+Files related to BBO
+
+---------------------
+important links:
+
+the index of the database is a number:
+XXXXX=number
+
+get a specific lin file:
+-http://www.bridgebase.com/tools/vugraph_linfetch.php?id=XXXXX
+
+visual representation:
+-http://www.bridgebase.com/tools/handviewer.html?bbo=y&linurl=http://www.bridgebase.com/tools/vugraph_linfetch.php?id=XXXXX
+
+---------------------
+
+FOLDERS:
+
+--->raw_lin_data
+This directory contains the original files downloaded from Bridge Base Online (BBO).
+
+Each directory is the first three digits of the LIN file.
+Each directory contains 100 files.
+For example, the directory 289 contains all LIN files 28900-28999.
+
+"download_BBO_new_lins.py" was executed and the results are here.
+The only files present are the ones missing in "bridge_played_hands". If you need the entire database, download everything from the link "https://github.com/eitazhou/bridge_played_hands/tree/master/raw_lin_data" and put it together with the contents of this folder.
+
+Please do not alter the files in this folder.
+
+
+---------------------
+
+FILES:
+
+--->download_BBO_new_lins.py
+This script downloads the lin files that were uploaded after 2015 (bridge_played_hands database stops in file 42367)
+You don't need to run it again! The results are in the folder "raw_lin_data". But if you still want to, run it inside the folder "raw_lin_data".
+I ran it on 28/09/2017 (last file is 53439)
+
+--->downBBOp2.py
+This program will download in the format .lin all the results from a specific search from the URL:
+http://www.bridgebase.com/vugraph_archives/vugraph_archives.php
+Python v2.7
+
+--->downBBOp3.py
+This program will download in the format .lin all the results from a specific search from the URL:
+http://www.bridgebase.com/vugraph_archives/vugraph_archives.php
+Python v3.5
+
+

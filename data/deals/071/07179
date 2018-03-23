@@ -1,0 +1,116 @@
+vg|3rd ING BANK Top Circuit 2000,Match 4B,P,21,30,Team 1,0,Team 2,0|
+rs|4SN=,,4SN-2,,1NWx-2,,3DS-1,,2HW-1,,2SW=,,3CW+1,,4SE+2,,3NS=,,4SE+1,|
+pw|Oltmans,Ramer,Brink,Paulissen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|21,22,23,24,25,26,27,28,29,30|
+pg||
+mn|3rd ING BANK Top Circuit 2000 - 2000.06.10|pn|Oltmans,Ramer,Brink,Paulissen|qx|o21,BOARD 21|rh||ah|Board 21|md|3S86HKT85DAKT52C86,SJH932DQJ84CAKT92,SAKQ9742HQ64DCQ75|sv|n|
+sa|0|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|HA|pc|H5|pc|H9|pc|H6|pg||
+pc|CJ|pc|C8|pc|CK|pc|C7|pg||
+pc|CA|pc|C5|pc|C4|pc|C6|pg||
+pc|C9|pc|CQ|pc|C3|pc|D2|pg||
+pc|SA|pc|S3|pc|S6|pc|SJ|pg||
+mc|10|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o22,BOARD 22|rh||ah|Board 22|md|4SK74HA832DQ2CKQJ2,SQ983H4D875CAT875,SAT52HQTDK643C963|sv|e|
+sa|0|mb|2D|mb|d|mb|2H|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|CK|pc|CA|pc|C6|pg||
+pc|H4|pc|HQ|pc|HK|pc|HA|pg||
+pc|D2|pc|D7|pc|DK|pc|DA|pg||
+pc|H5|pc|H2|pc|S3|pc|HT|pg||
+pc|C8|pc|C9|pc|S6|pc|C2|pg||
+pc|HJ|pc|H3|pc|D5|pc|S2|pg||
+pc|SA|pc|SJ|pc|S4|pc|S8|pg||
+mc|8|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o23,BOARD 23|rh||ah|Board 23|md|1SAQJT2HKDA43CKQ96,SK973HAQ9DQJ8CAT3,S86H86432DKT9C852|sv|b|
+sa|0|mb|1S|mb|1N|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S5|pc|ST|pc|S3|pg||
+pc|SJ|pc|SK|pc|S6|pc|S4|pg||
+pc|HQ|pc|H6|pc|H5|pc|HK|pg||
+pc|SA|pc|S7|pc|C8|pc|D2|pg||
+pc|SQ|pc|S9|pc|H2|pc|D5|pg||
+pc|S2|pc|HA|pc|C2|pc|D6|pg||
+pc|D3|pc|DQ|pc|DK|pc|D7|pg||
+pc|DT|pc|C4|pc|DA|pc|D8|pg||
+pc|CK|pc|CA|pc|C5|pc|C7|pg||
+pc|DJ|pc|D9|pc|CJ|pc|D4|pg||
+pc|H9|pc|H3|pc|HJ|pc|C6|pg||
+pc|HT|pc|C9|pc|C3|pc|H4|pg||
+pc|H7|pc|CQ|pc|CT|pc|H8|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o24,BOARD 24|rh||ah|Board 24|md|2SAHJ8DAKJ932CJT75,SJ9863HK4DQTCAQ63,SKQ74HQ973D64C842|sv|0|
+sa|0|mb|1S|mb|p|mb|2S|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|S9|pc|S4|pc|S2|pc|SA|pg||
+pc|DA|pc|DT|pc|D4|pc|D5|pg||
+pc|DK|pc|DQ|pc|D6|pc|D7|pg||
+pc|DJ|pc|S3|pc|S7|pc|D8|pg||
+pc|HJ|pc|HK|pc|H3|pc|H6|pg||
+pc|C3|pc|C4|pc|CK|pc|C5|pg||
+pc|C9|pc|CT|pc|CQ|pc|C2|pg||
+pc|CA|pc|C8|pc|H2|pc|C7|pg||
+pc|H4|pc|HQ|pc|HA|pc|H8|pg||
+mc|8|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o25,BOARD 25|rh||ah|Board 25|md|3SAT84H974DA3CJ972,SK5HAQJ852D952C53,S932HKT63DJ84CKQT|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|d|mb|1S|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|CA|pc|C2|pc|C5|pg||
+pc|S6|pc|SA|pc|S5|pc|S9|pg||
+pc|DA|pc|D5|pc|D8|pc|D6|pg||
+pc|D3|pc|D9|pc|DJ|pc|DK|pg||
+pc|S7|pc|S4|pc|SK|pc|S2|pg||
+pc|HA|pc|H3|pc|C4|pc|H7|pg||
+pc|HJ|pc|HK|pc|C6|pc|H4|pg||
+pc|D4|pc|DQ|pc|H9|pc|D2|pg||
+pc|C7|pc|C3|pc|CT|pc|C8|pg||
+pc|S3|pc|SQ|pc|S8|pc|H2|pg||
+pc|HQ|pc|H6|pc|D7|pc|C9|pg||
+mc|7|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o26,BOARD 26|rh||ah|Board 26|md|4ST72HAT875DKCQJT2,SAHJ6432D653CAK53,S643HDAQJT97C9864|sv|b|
+sa|0|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|C9|pc|C7|pc|C2|pc|CA|pg||
+pc|SA|pc|S3|pc|S5|pc|S7|pg||
+pc|CK|pc|C4|pc|D2|pc|CT|pg||
+pc|H2|pc|S4|pc|H9|pc|H5|pg||
+pc|D9|pc|D4|pc|DK|pc|D3|pg||
+mc|8|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o27,BOARD 27|rh||ah|Board 27|md|1SA983HQJ52DT64CJ6,SQT764HT76DA92CT4,SKJ52HA84DJ53CQ95|sv|0|
+sa|0|mb|p|mb|p|mb|1N|mb|d|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|H3|pc|SA|pc|S6|pg||
+pc|H2|pc|H7|pc|HA|pc|H9|pg||
+pc|H8|pc|HK|pc|H5|pc|H6|pg||
+pc|CA|pc|C6|pc|C4|pc|C5|pg||
+pc|DK|pc|D6|pc|D2|pc|D5|pg||
+pc|D7|pc|DT|pc|DA|pc|D3|pg||
+pc|D9|pc|DJ|pc|DQ|pc|D4|pg||
+pc|CK|pc|CJ|pc|CT|pc|C9|pg||
+mc|10|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o28,BOARD 28|rh||ah|Board 28|md|2SJ954HAJ93DT4C542,SAT8H72DKQ8762CT9,S6HKQT85DJ953C863|sv|n|
+sa|0|mb|2C|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C5|pc|C9|pc|C8|pc|CA|pg||
+pc|SK|pc|S5|pc|S8|pc|S6|pg||
+pc|SQ|pc|S9|pc|ST|pc|H5|pg||
+pc|S2|pc|S4|pc|SA|pc|H8|pg||
+pc|D2|pc|D3|pc|DA|pc|D4|pg||
+pc|C7|pc|C2|pc|CT|pc|C3|pg||
+mc|12|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o29,BOARD 29|rh||ah|Board 29|md|3SKJ8HK432DAK2CJ84,SQ63HAJT8DJ85CKQ2,SAT54H5DQ963CA653|sv|b|
+sa|0|mb|p|mb|p|mb|1N|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HJ|pc|H5|pc|H6|pc|HK|pg||
+pc|DA|pc|D5|pc|D3|pc|D7|pg||
+pc|DK|pc|D8|pc|D9|pc|D4|pg||
+pc|D2|pc|DJ|pc|DQ|pc|DT|pg||
+pc|D6|pc|HQ|pc|H2|pc|C2|pg||
+pc|S4|pc|S2|pc|SJ|pc|SQ|pg||
+pc|CK|pc|CA|pc|C7|pc|C4|pg||
+pc|S5|pc|S7|pc|SK|pc|S3|pg||
+pc|S8|pc|S6|pc|SA|pc|S9|pg||
+pc|ST|mc|9|pg||
+pn|Oltmans,Ramer,Brink,Paulissen|qx|o30,BOARD 30|rh||ah|Board 30|md|4SJ2HAKT74DT973C86,SAQT53H95DQ64CK42,S9HQ63DA852CQT753|sv|0|
+sa|0|mb|1S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|HA|pc|H5|pc|H6|pc|H2|pg||
+pc|HK|pc|H9|pc|H3|pc|HJ|pg||
+pc|C8|pc|C2|pc|CQ|pc|CA|pg||
+pc|SK|pc|S2|pc|S3|pc|S9|pg||
+pc|S4|pc|SJ|pc|SA|pc|C3|pg||
+pc|D4|pc|D5|pc|DK|pc|D3|pg||
+pc|S6|pc|H4|pc|SQ|pc|C5|pg||
+pc|D6|pc|D8|pc|DJ|pc|D7|pg||
+mc|11|pg||

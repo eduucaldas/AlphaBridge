@@ -1,0 +1,110 @@
+vg|3rd ING BANK Top Circuit 2000,Match 10A,P,21,30,Team 1,0,Team 2,0|
+rs|5DN-2,,4HW+1,,5DW=,,1HS+2,,4SE+1,,4HW-1,,3NE+1,,3HS+1,,4HE-1,,4SW+1,|
+pw|Ramer,Engel,Paulissen,Van Middelem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|21,22,23,24,25,26,27,28,29,30|
+pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o21,BOARD 21|rh||ah|Board 21|md|3SJ942HKQ64D2CKJT3,SAK53HAJT53DK9C52,SH9872DAQJT875CA6|sv|n|
+sa|0|mb|1D|mb|2S|mb|d|mb|4S|mb|5D|mb|p|mb|p|mb|p|pg||
+pc|ST|pc|S2|pc|S5|pc|D5|pg||
+pc|DA|pc|D3|pc|D2|pc|D9|pg||
+pc|D7|pc|D4|pc|S4|pc|DK|pg||
+pc|SA|pc|D8|pc|S8|pc|S9|pg||
+pc|DQ|pc|D6|pc|H4|pc|H3|pg||
+pc|H2|pc|S6|pc|HK|pc|H5|pg||
+pc|C3|pc|C5|pc|CA|pc|C7|pg||
+pc|DJ|pc|S7|pc|H6|pc|S3|pg||
+pc|DT|pc|C4|pc|HQ|pc|HJ|pg||
+mc|9|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o22,BOARD 22|rh||ah|Board 22|md|4SAQ62H2DQ765CT986,S8HKQJ9764DK3CA74,SJT95HT5DA942CJ52|sv|e|
+sa|0|mb|1C|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|SJ|pc|S3|pc|S2|pc|S8|pg||
+pc|D2|pc|D8|pc|DQ|pc|DK|pg||
+pc|HK|pc|H5|pc|H3|pc|H2|pg||
+pc|HQ|pc|HT|pc|HA|pc|D5|pg||
+pc|S4|pc|S6|pc|H7|pc|S5|pg||
+pc|C7|mc|11|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o23,BOARD 23|rh||ah|Board 23|md|1SAJ9HJ653DJ42C875,S7H94DAQT653CAQT2,SKQT52HKQ8D8CJ943|sv|b|
+sa|0|mb|p|mb|1D|mb|1S|mb|d|mb|2S|mb|3C|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S3|pc|SA|pc|S7|pg||
+pc|S9|pc|D3|pc|S2|pc|S4|pg||
+pc|DA|pc|D8|pc|D7|pc|D2|pg||
+pc|D5|pc|S5|pc|DK|pc|D4|pg||
+pc|CK|pc|C5|pc|C2|pc|C3|pg||
+pc|C6|pc|C7|pc|CA|pc|C4|pg||
+pc|CT|pc|CJ|pc|D9|pc|C8|pg||
+pc|S6|pc|SJ|pc|D6|pc|ST|pg||
+mc|11|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o24,BOARD 24|rh||ah|Board 24|md|2SAKT6HK974D6CQ653,S973H86DQ9854CJ72,SQJHJ53DAKT73CT94|sv|0|
+sa|0|mb|p|mb|p|mb|1C|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|p|mb|p|pg||
+pc|C2|pc|C4|pc|CK|pc|C5|pg||
+pc|HQ|pc|HK|pc|H6|pc|H3|pg||
+pc|S6|pc|S3|pc|SQ|pc|S5|pg||
+pc|CT|pc|CA|pc|C6|pc|C7|pg||
+pc|S2|pc|SA|pc|S7|pc|SJ|pg||
+pc|CQ|pc|CJ|pc|C9|pc|C8|pg||
+pc|SK|pc|S9|pc|D3|pc|S4|pg||
+pc|D6|pc|D4|pc|DA|pc|D2|pg||
+pc|DK|pc|DJ|pc|C3|pc|D5|pg||
+pc|D7|pc|S8|pc|H4|pc|D8|pg||
+pc|ST|pc|H8|mc|9|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o25,BOARD 25|rh||ah|Board 25|md|3S4HKT9D643CAKJ754,SKQ98HJ87543D82C3,SJ532HA62DJTCQ982|sv|e|
+sa|0|mb|p|mb|1D|mb|2C|mb|d|mb|3C|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C3|pc|C2|pc|C6|pg||
+pc|HT|pc|H3|pc|HA|pc|HQ|pg||
+pc|C8|pc|CT|pc|CJ|pc|S8|pg||
+pc|SK|pc|S3|pc|S6|pc|S4|pg||
+pc|SQ|pc|S2|pc|S7|pc|C4|pg||
+pc|S9|pc|SJ|pc|SA|pc|C5|pg||
+pc|ST|pc|H9|pc|H4|pc|S5|pg||
+mc|11|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o26,BOARD 26|rh||ah|Board 26|md|4S9762H94DKT5CAJT6,SQJ4HQJ765DA72CQ8,ST83HA8DQ96C75432|sv|b|
+sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|D6|pc|D3|pc|DT|pc|DA|pg||
+pc|H5|pc|H8|pc|HK|pc|H4|pg||
+pc|SA|pc|S2|pc|S4|pc|S3|pg||
+pc|SK|pc|S6|pc|SJ|pc|S8|pg||
+pc|S5|pc|S7|pc|SQ|pc|ST|pg||
+pc|HJ|pc|HA|pc|H2|pc|H9|pg||
+pc|C7|pc|C9|pc|CT|pc|CQ|pg||
+pc|C8|pc|C4|pc|CK|pc|CA|pg||
+pc|DK|pc|D2|pc|D9|pc|D4|pg||
+pc|D5|pc|D7|pc|DQ|pc|D8|pg||
+mc|9|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o27,BOARD 27|rh||ah|Board 27|md|1SAQ93H63DQ732CT94,SJT7HK95DAT9854C5,S842HJT84DJ6CJ832|sv|0|
+sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D4|pc|D6|pc|DK|pg||
+pc|SK|pc|SA|pc|S7|pc|S2|pg||
+pc|D3|pc|DA|pc|DJ|pc|S6|pg||
+pc|DT|pc|S4|pc|C6|pc|DQ|pg||
+pc|SQ|pc|ST|pc|S8|pc|S5|pg||
+mc|10|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o28,BOARD 28|rh||ah|Board 28|md|2SJT85HJT9832D7C72,SAK9H65DK942CKQ43,S4HAQ74DAJ83CAJ86|sv|n|
+sa|0|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|d|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S4|pc|S3|pc|S5|pg||
+pc|H5|pc|H4|pc|HK|pc|H2|pg||
+pc|S7|pc|S8|pc|S9|pc|H7|pg||
+pc|DA|pc|D6|pc|D7|pc|D2|pg||
+pc|D3|pc|D5|pc|H3|pc|D4|pg||
+pc|ST|pc|SA|pc|HQ|pc|S2|pg||
+pc|D8|pc|DT|pc|H8|pc|D9|pg||
+pc|SJ|pc|DK|pc|HA|pc|S6|pg||
+pc|DJ|pc|DQ|pc|HJ|pc|C3|pg||
+mc|10|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o29,BOARD 29|rh||ah|Board 29|md|3S873H72DA7652CA87,SAQT54HJ43DTCT953,S62HA6DKQJ94CKQ64|sv|b|
+sa|0|mb|1D|mb|1H|mb|3D|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|DT|pc|D9|pc|D8|pg||
+pc|H2|pc|H3|pc|HA|pc|H5|pg||
+pc|CK|pc|CJ|pc|C7|pc|C3|pg||
+pc|C4|pc|C2|pc|CA|pc|C5|pg||
+mc|9|pg||
+pn|Ramer,Engel,Paulissen,Van Middelem|qx|o30,BOARD 30|rh||ah|Board 30|md|4SQJ2HQJ54DKT43C84,SA9543HAD9862CT92,STHT73DQJ75CKQJ75|sv|0|
+sa|0|mb|1H|mb|p|mb|1S|mb|2C|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|CA|pc|C4|pc|C2|pg||
+pc|H2|pc|H4|pc|HA|pc|H3|pg||
+pc|S3|pc|ST|pc|SK|pc|S2|pg||
+pc|HK|pc|H5|pc|CT|pc|H7|pg||
+pc|H6|pc|HQ|pc|S4|pc|HT|pg||
+pc|SA|pc|C5|pc|S6|pc|SJ|pg||
+pc|D2|pc|D5|pc|DA|pc|D3|pg||
+mc|11|pg||

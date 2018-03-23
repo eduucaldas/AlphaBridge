@@ -1,0 +1,398 @@
+vg|D 2017 Vanderbilt QF,3 of 4,I,1,15,Schwartz,58,Lall,13|
+rs|3NE+2,3NE+2,5HEx-3,4HEx-2,3CN=,2HW+2,4SE=,4SW+1,7DE=,3NE+3,3NE-2,3NE-2,3SS-2,5CE=,2SW-1,2DE-1,5HW=,6HW=,3NN-1,2SS+1,3NN+3,3NN+2,6HE-1,4HW+1,4HE+2,2DE+3,2DS-2,2DE-1,4HE-2,4HE-2|
+pn|Brogeland,Zhao,Lindqvist,Ginossar,Wrang,Bakhshi,Sylvan,Gold|pg||
+qx|o1|st||md|3SAT97HA92D9754C98,SJ65HKQDAKJT2CAT5,S842HJ8743DQ6CJ73,SKQ3HT65D83CKQ642|sv|o|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sT|pc|s5|pc|s8|pc|sK|pg||
+pc|d3|pc|d4|pc|dT|pc|dQ|pg||
+pc|h3|pc|h5|pc|h2|pc|hQ|pg||
+pc|dA|pc|d6|pc|d8|pc|d7|pg||
+pc|dK|pc|s4|pc|s3|pc|d5|pg||
+pc|dJ|pc|s2|pc|sQ|pc|d9|pg||
+pc|d2|pc|h7|pc|h6|pc|s9|pg||
+pc|cA|pc|c3|pc|c2|pc|c8|pg||
+pc|cT|pc|c7|pc|cQ|pc|c9|pg||
+pc|cK|mc|11|pg||
+qx|c1|st||md|3SAT97HA92D9754C98,SJ65HKQDAKJT2CAT5,S842HJ8743DQ6CJ73,SKQ3HT65D83CKQ642|sv|o|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s9|pc|s5|pc|s8|pc|sK|pg||
+pc|d3|pc|d4|pc|dJ|pc|dQ|pg||
+pc|h4|pc|h5|pc|h2|pc|hQ|pg||
+pc|dA|pc|d6|pc|d8|pc|d5|pg||
+pc|dK|pc|s4|pc|h6|pc|d7|pg||
+pc|dT|pc|s2|pc|s3|pc|d9|pg||
+pc|d2|pc|h3|pc|hT|pc|s7|pg||
+pc|cA|pc|c3|pc|c2|pc|c8|pg||
+pc|c5|pc|c7|pc|cK|pc|c9|pg||
+mc|11|pg||
+qx|o2|st||md|4SAKT753HDKT876CK9,S9842HKQT7DQ32C72,SQ6HJ6DA9CAJT8543,SJHA985432DJ54CQ6|sv|n|mb|3H|mb|4D!|an|D+S 5+|mb|5H|mb|d|mb|p|mb|p|mb|p|pc|sA|pc|s2|pc|s6|pc|sJ|pg||
+pc|s5|pc|s4|pc|sQ|pc|h2|pg||
+pc|h3|pc|s7|pc|hK|pc|h6|pg||
+pc|s8|pc|c3|pc|h4|pc|s3|pg||
+mc|8|pg||
+qx|c2|st||md|4SAKT753HDKT876CK9,S9842HKQT7DQ32C72,SQ6HJ6DA9CAJT8543,SJHA985432DJ54CQ6|sv|n|mb|3H|mb|4D|mb|4H|mb|d|mb|p|mb|p|mb|p|pc|sK|pc|s2|pc|s6|pc|sJ|pg||
+pc|s7|pc|s8|pc|sQ|pc|h2|pg||
+pc|h8|pc|s5|pc|hK|pc|h6|pg||
+pc|s4|pc|c3|pc|h5|pc|sT|pg||
+pc|h4|pc|d6|pc|hQ|pc|hJ|pg||
+pc|s9|pc|c4|pc|hA|pc|sA|pg||
+pc|c6|pc|c9|pc|c2|mc|8|pg||
+qx|o3|st||md|1SQ73HKQ7D65CK9872,SJH9865DKQ974C543,SA862HJ4DJT3CAQJT,SKT954HAT32DA82C6|sv|e|mb|p|mb|p|mb|1C|mb|d|mb|r|mb|2D|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|dA|pc|d5|pc|d9|pc|dT|pg||
+pc|d8|pc|d6|pc|dQ|pc|d3|pg||
+pc|sJ|pc|sA|pc|sT|pc|s3|pg||
+pc|cQ|pc|c6|pc|c2|pc|c3|pg||
+pc|cA|pc|s5|pc|c7|pc|c4|pg||
+pc|cJ|pc|d2|pc|c8|pc|c5|pg||
+pc|hJ|pc|hA|pc|h7|pc|h5|pg||
+mc|9|pg||
+qx|c3|st||md|1SQ73HKQ7D65CK9872,SJH9865DKQ974C543,SA862HJ4DJT3CAQJT,SKT954HAT32DA82C6|sv|e|mb|p|mb|p|mb|1C|mb|2C|mb|d|mb|2H|mb|p|mb|p|mb|p|pc|dJ|pc|d2|pc|d5|pc|dK|pg||
+pc|h5|pc|h4|pc|hT|pc|hQ|pg||
+pc|c7|pc|c4|pc|cT|pc|c6|pg||
+pc|d3|pc|d8|pc|d6|pc|d9|pg||
+pc|sJ|pc|s2|pc|sK|pc|s7|pg||
+pc|hA|pc|h7|pc|h6|pc|hJ|pg||
+pc|dA|pc|hK|pc|d4|pc|dT|pg||
+mc|10|pg||
+qx|o4|st||md|2S52HJ8754DK96CJ82,SKQT9HAQDAQT75CQT,SJHKT6D8432CAK653,SA87643H932DJC974|sv|b|mb|1D|mb|p|mb|1S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|d6|pc|dA|pc|d8|pc|dJ|pg||
+pc|sK|pc|sJ|pc|s3|pc|s5|pg||
+pc|sQ|pc|c3|pc|s4|pc|s2|pg||
+pc|dQ|pc|d2|pc|h2|pc|dK|pg||
+mc|10|pg||
+qx|c4|st||md|2S52HJ8754DK96CJ82,SKQT9HAQDAQT75CQT,SJHKT6D8432CAK653,SA87643H932DJC974|sv|b|mb|2N|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cA|pc|c4|pc|c8|nt|Chick: 4@D is South African transfer, similar to Texas transfer, only showing spades|pg||
+pc|cT|pg||
+pc|cK|pc|c7|pc|c2|pc|cQ|pg||
+nt|marlowepi:  hi all|pg||
+pc|c6|pc|c9|pc|cJ|nt|Chick: Hi Marshall :)|pg||
+pc|s9|pg||
+pc|sK|pc|sJ|pc|s3|pc|s2|pg||
+nt|marlowepi:  evnin :)|pg||
+pc|dA|pc|d2|pc|dJ|pc|d6|pg||
+pc|d5|pc|d3|pc|s6|pc|d9|pg||
+pc|s4|pc|s5|pc|sQ|pc|c3|pg||
+pc|d7|pc|d4|nt|marlowepi:  not the most riveting of deals|pg||
+pc|s7|pc|dK|pg||
+mc|11|nt|Chick: worth 1 imp :)|pg||
+pg||
+qx|o5|st||md|3SJ642H762D7642CKJ,SAK93HKJ5DA53CQ62,SQT87HQ98DCT98543,S5HAT43DKQJT98CA7|sv|n|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2D|nt|Vugraphzfu: board 2 other room played only 4HX!|pg||
+mb|p|mb|2H|an|like checkback|mb|p|mb|3H|mb|p|nt|Vugraphzfu: so Schwartz racked 5|pg||
+mb|4D|nt|Vugraphzfu: Im sure theyre thinking they lost imps on that hand...|pg||
+mb|p|mb|4N|mb|p|mb|5H|mb|p|nt|Vugraphzfu: 6@D is makeable|pg||
+mb|5N|mb|p|mb|7D|mb|p|mb|p|mb|p|nt|Vugraphzfu: 7 also ...|pg||
+pc|cJ|nt|Vugraphzfu: Another 7 for Schwartz on bd 3 with a part score on both directions|pg||
+pc|cQ|pc|c3|pc|c7|pg||
+nt|Vugraphzfu: Still needs the hearts...|pg||
+pc|d3|pc|c4|pc|dK|pc|d2|pg||
+pc|d8|pc|d4|pc|dA|pc|c5|pg||
+pc|d5|pc|c8|pc|d9|pc|d6|pg||
+pc|dT|pc|d7|pc|hJ|pc|c9|pg||
+pc|cA|pc|cK|pc|c2|pc|cT|pg||
+pc|dJ|pc|h6|pc|s3|pc|s7|pg||
+nt|Vugraphzfu: i might have missed a sp discard by lindqvist... otherwise doesnt make sense for ginossar to be thinking|pg||
+nt|Vugraphzfu: so lindqvist probably has @s QT @H Q98 @c 8|pg||
+pc|h3|pc|h2|pc|hK|pc|h8|pg||
+pc|c6|pc|s8|pc|h4|pc|s2|pg||
+nt|Vugraphzfu: so actually I was right, the club was high |pg||
+mc|13|pg||
+qx|c5|st||md|3SJ642H762D7642CKJ,SAK93HKJ5DA53CQ62,SQT87HQ98DCT98543,S5HAT43DKQJT98CA7|sv|n|mb|p|nt|marlowepi:  Both E and W have played with Tony Forrester. That name would have made a nice match for Sylvan sitting N|pg||
+mb|1D|mb|p|mb|1S|mb|p|mb|2D|nt|marlowepi:  expect EW to reach this slam|pg||
+mb|p|mb|3C|nt|Chick: don't you love to have 17 HCP and see partner open :)|pg||
+nt|marlowepi:  frankly i like it even when she passes :)|pg||
+nt|Chick: lol|pg||
+mb|p|mb|3N|mb|p|mb|p|nt|marlowepi:  guessing 2H wouldnt have been forcing, otherwise W might have preferred that much more economical rebid|pg||
+mb|p|nt|marlowepi:  that prediction went up in smoke in short order|pg||
+pc|h7|nt|Chick: this is pretty hard to believe, both E and W have big hands for their bids|pg||
+pc|h5|nt|Chick: with this lead, will take all the tricks when the hearts split|pg||
+pc|h8|pc|hT|pg||
+pc|h3|pc|h6|pc|hJ|pc|hQ|pg||
+mc|12|nt|marlowepi:  must concede to your superior knowledge of their methods|pg||
+pg||
+qx|o6|st||md|4S92HKJ8DT764CKJ98,SQ4HA762DJ53CQT53,SAJT87HT54DQ982C2,SK653HQ93DAKCA764|sv|e|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|2N|mb|p|nt|Vugraphzfu: lind apologized for taking so lond|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|Vugraphzfu: long|pg||
+pc|d7|pc|d3|pc|d2|pc|dK|pg||
+pc|cA|pc|c8|pc|c3|pc|c2|pg||
+pc|c7|pc|cK|pc|c5|pc|hT|pg||
+pc|d4|pc|d5|pc|d8|pc|dA|pg||
+pc|c6|pc|c9|pc|cT|pc|s7|pg||
+pc|cQ|pc|s8|pc|c4|pc|cJ|pg||
+pc|s4|pc|sT|pc|sK|pc|s9|pg||
+pc|s3|pc|s2|pc|sQ|pc|sA|pg||
+pc|dQ|pc|h3|pc|dT|pc|dJ|pg||
+pc|d9|pc|s5|pc|d6|pc|h2|pg||
+pc|sJ|pc|s6|pc|h8|pc|h6|pg||
+mc|7|pg||
+qx|c6|st||md|4S92HKJ8DT764CKJ98,SQ4HA762DJ53CQT53,SAJT87HT54DQ982C2,SK653HQ93DAKCA764|sv|e|nt|marlowepi:  sorry that was private for an English Captain|pg||
+mb|1N|mb|p|mb|2C|an|forces 2!d|mb|p|mb|2D|mb|p|mb|2N|an|game forcing|mb|p|mb|3C|an|asking|mb|p|mb|3S|an|shows hearts|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s9|nt|marlowepi:  some may be surprised that N did not double 3S. Can only surmise lack of re-entry inhibted him|pg||
+nt|marlowepi:  unnecessary anyway as it turns out :)|pg||
+pc|sQ|pc|sA|pc|s3|pg||
+nt|marlowepi:  but depending on lead agreements, E may draw the correct conclusions about N hand from lack of a double|pg||
+pc|sJ|nt|marlowepi:  not that it will do him much good|pg||
+pc|sK|pc|s2|pc|s4|pg||
+pc|cA|pc|c8|pc|c3|pc|c2|pg||
+pc|c6|pc|c9|pc|cQ|nt|marlowepi:  eventually E may led diamond knave hoping to endplay S with the queen to lead hearts|pg||
+pc|h5|pg||
+nt|marlowepi:  bad deal to be vul|pg||
+pc|h2|pc|h4|pc|h9|pc|hJ|pg||
+pc|cJ|pc|c5|pc|hT|pc|c4|pg||
+pc|cK|pc|cT|pc|d2|pc|c7|pg||
+pc|d6|pc|d3|pc|d8|pc|dK|pg||
+pc|hQ|pc|hK|pc|h6|pc|s7|pg||
+pc|d4|pc|d5|pc|d9|pc|dA|pg||
+pc|h3|pc|h8|pc|hA|pc|s8|pg||
+pc|h7|pc|sT|pc|s5|pc|d7|pg||
+pc|dJ|pc|dQ|pc|s6|pc|dT|pg||
+pg||
+qx|o7|st||md|1SKJ764H92DKJ98CA9,S8H6DA76532CKT752,SQT53HKJT74DT4CJ3,SA92HAQ853DQCQ864|sv|b|mb|1S|mb|p|mb|3H!|mb|p|mb|3S|nt|Vugraphzfu: 4-card mixed raise i think|pg||
+mb|p|mb|p|mb|p|pc|h6|pc|h4|pc|hQ|pc|h9|pg||
+pc|dQ|pc|dK|pc|dA|pc|d4|pg||
+pc|d7|pc|dT|pc|s2|pc|d8|pg||
+pc|c4|pc|cA|pc|c7|pc|c3|pg||
+pc|dJ|pc|d6|pc|cJ|pc|s9|pg||
+pc|hA|pc|h2|pc|d5|pc|h7|pg||
+pc|h3|pc|sJ|mc|7|pg||
+qx|c7|st||md|1SKJ764H92DKJ98CA9,S8H6DA76532CKT752,SQT53HKJT74DT4CJ3,SA92HAQ853DQCQ864|sv|b|mb|1S|mb|p|nt|marlowepi:  defensive singletons limit NS potential|pg||
+mb|3S!|an|4 trumps, 7-9|mb|p|nt|marlowepi:  EW likely to buy in clubs, may make game|pg||
+nt|marlowepi:  W had key decision and was dissuaded by the crimson hue|pg||
+mb|p|mb|3N|nt|marlowepi:  back door|pg||
+nt|marlowepi:  why contest at three level when you can do so at 4|pg||
+nt|Chick: I can't imgine not getting into the auction with 6-5 of anything|pg||
+nt|Vugraphzfe: Gold alerted on his side, Bakhshi didn't, but, on prompting from Wrang, wrote that it should be minors|pg||
+nt|marlowepi:  you would have a lot of company. Still, we must acknowledge there are numerous downsides to 2N -- terrible suits, blood-red colors, and you are very likely to be outbid which means you give blueprint to opposing declarer|pg||
+nt|marlowepi:  2N could lead to 1100 against nothing. The hand is basically a Rohrshach test|pg||
+nt|marlowepi:  you do or you dont|pg||
+nt|marlowepi:  worst case scenario isnt even 100. It is -620 vs. +100|pg||
+nt|marlowepi:  worst case scenario isnt even 1100, I meant to write|pg||
+mb|p|mb|5C|nt|Chick: it could also lead to -1100 against 1430|pg||
+mb|p|mb|p|mb|p|nt|marlowepi:  true. that is why there is no ironclad answer|pg||
+nt|Chick: which is why I'd get in earlier|pg||
+pc|s4|nt|Chick: then shut up if things didn't look good|pg||
+pc|s8|pc|sQ|pc|sA|pg||
+pc|dQ|pc|dK|pc|dA|pc|d4|pg||
+pc|d2|pc|dT|pc|c4|pc|d8|pg||
+pc|s2|pc|s6|pc|c2|pc|s3|pg||
+pc|d3|pc|h4|pc|c8|pc|d9|pg||
+nt|Vugraphzfe: Gold is still thinking|pg||
+nt|marlowepi:  a bit surprised N discarded heart instead of spade|pg||
+nt|marlowepi:  but no doubt there was a good reason|pg||
+nt|Vugraphzfe: Sylvan did contemplate his discard before finally playing the heart|pg||
+nt|Vugraphzfe: Still thinking|pg||
+nt|marlowepi:  still drinking|pg||
+pc|cQ|pc|cA|pc|c5|pc|c3|pg||
+pc|c9|pc|cK|pc|cJ|pc|c6|pg||
+pc|d5|mc|11|pg||
+qx|o8|st||md|2SAT52HKQ3DT87C976,SKQ976HJT5DA52CA3,SJ8H642DKJ9CKQJT4,S43HA987DQ643C852|sv|o|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|2C|mb|p|mb|p|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|cK|pc|c2|pc|c7|pc|c3|pg||
+pc|cT|pc|c5|pc|c9|pc|cA|pg||
+pc|hJ|pc|h2|pc|h7|pc|hK|pg||
+pc|c6|pc|s6|pc|c4|pc|c8|pg||
+pc|d5|pc|d9|pc|dQ|pc|d7|pg||
+pc|s3|pc|s5|pc|sK|pc|s8|pg||
+pc|dA|pc|dJ|pc|d3|pc|d8|pg||
+pc|d2|pc|dK|pc|d4|pc|dT|pg||
+pc|h6|pc|hA|pc|h3|pc|h5|pg||
+pc|d6|pc|hQ|pc|hT|pc|sJ|pg||
+mc|7|pg||
+qx|c8|st||md|2SAT52HKQ3DT87C976,SKQ976HJT5DA52CA3,SJ8H642DKJ9CKQJT4,S43HA987DQ643C852|sv|o|mb|1S|mb|p|mb|1N|an|forcing|mb|p|mb|2C!|an|4+!d or 15-17 balanced|mb|d|mb|2D|mb|p|mb|p|mb|p|pc|d7|pc|d2|pc|dK|pc|d3|pg||
+pc|d9|pc|d4|pc|d8|pc|dA|pg||
+nt|marlowepi:  in at least one way this is an interesting board. one can imagine that if played at numerous tables the final contract might be a partial in all of the five strains|pg||
+pc|hJ|pc|h6|pc|h7|pc|hQ|pg||
+pc|dT|pc|d5|pc|dJ|pc|dQ|pg||
+pc|s4|pc|s2|pc|sK|pc|s8|pg||
+pc|hT|pc|h2|pc|h8|pc|hK|pg||
+pc|c6|pc|c3|pc|cT|pc|c2|pg||
+pc|c4|pc|c5|pc|c7|pc|cA|pg||
+pc|h5|pc|h4|pc|hA|pc|h3|pg||
+pc|h9|pc|s5|pc|s6|pc|cJ|pg||
+pc|s3|pc|sA|pc|s7|pc|sJ|pg||
+pc|c9|pc|s9|pc|cQ|pc|c8|pg||
+pc|cK|pc|d6|pc|sT|pc|sQ|pg||
+pg||
+qx|o9|st||md|3SAJ986H8DQJ965CJT,S432HAKQ74D3CKQ85,SKQT5HT5DAT8C6432,S7HJ9632DK742CA97|sv|e|mb|p|mb|p|mb|1S|mb|2H|mb|3H!|an|3+s inv+|mb|3S|mb|4S|mb|5H|mb|p|mb|p|mb|p|pc|sK|pc|s7|pc|sA|pc|s4|pg||
+pc|d5|pc|d3|pc|dA|pc|d2|pg||
+pc|d8|pc|d4|pc|dQ|pc|h4|pg||
+pc|hK|pc|h5|pc|h2|pc|h8|pg||
+mc|11|pg||
+qx|c9|st||md|3SAJ986H8DQJ965CJT,S432HAKQ74D3CKQ85,SKQT5HT5DAT8C6432,S7HJ9632DK742CA97|sv|e|mb|p|mb|p|mb|3S|mb|4H|mb|4S|mb|5C|nt|marlowepi:  usually in this situation it is better to open at the one level than a preempt. You think the enemy are likely to make a game, you try not to push them there. opening 1S leaves more room for doubt on their part about how much your side has. |pg||
+mb|p|nt|marlowepi:  3S certainly better than 2S, but the call is more effective when the hand has more in the way of defensive teeth|pg||
+nt|marlowepi:  Here didnt matter. Meanwhile E scored a goal with 5C bid|pg||
+nt|marlowepi:  Now all clear to W|pg||
+mb|5D|mb|p|nt|marlowepi:  5D dangerous with only one ace, facing passed hand|pg||
+mb|6H|mb|p|mb|p|nt|Chick: this will not end well|pg||
+nt|marlowepi:  W didnt have anything extra after the 4H overcall|pg||
+nt|marlowepi:  but was hoping E had both minor aces|pg||
+nt|Vugraphzfe: Sylvan thinking|pg||
+nt|Chick: about the only hope I see is to pitch a spade on the @C8, and that requires NS to not cash their aces right away|pg||
+nt|marlowepi:  the problem with 5D (or a problem, among multiples) is that it puts E in a position of having to make final decision. There is no LT-ish bid available to him. And that is why 5D holding but one ace is a doubtful idea|pg||
+nt|marlowepi:  who knows maybe N will save|pg||
+nt|marlowepi:  then the 3S bid will have come home to roost|pg||
+mb|p|pc|sK|nt|marlowepi:  letÃ¨s face it, this is really fun :)|pg||
+nt|Chick: N has probably seen S's 3rd seat preempts before :)|pg||
+pc|s7|pc|s9|pc|s4|pg||
+nt|marlowepi:  yes, and may have also been iunfluenced by fact that nobody cued spades|pg||
+pc|c3|pc|c7|pc|cT|pc|cK|pg||
+pc|hA|pc|h5|pc|h2|pc|h8|pg||
+pc|hK|pc|hT|pc|h3|pc|s6|pg||
+pc|d3|nt|Chick: seriously he's playing a @D?|pg||
+nt|marlowepi:  it takes more than same first name for a partnership to be glued into same wavelength|pg||
+nt|Chick: that's pure give-up when there is a play to make, no matter how remote|pg||
+nt|marlowepi:  what should he do Ã|pg||
+nt|marlowepi:  what should he do seriously|pg||
+nt|Chick: draw trump and play clubs?|pg||
+nt|marlowepi:  and then ...|pg||
+nt|Chick: that would be the only chance to make, and he should at least try it|pg||
+nt|marlowepi:  how would he make|pg||
+nt|Chick: oh never mind, they cashed the spade ace early, so now he can't|pg||
+nt|Chick: I was still looking to pitch the spade loser :) :)|pg||
+nt|marlowepi:  everyone loves a dreamer|pg||
+nt|Chick: it's late here :)|pg||
+pc|d8|pc|dK|pc|d5|pg||
+mc|12|nt|Vugraphzfe: bathroom break for Wrang|pg||
+pg||
+qx|o10|st||md|4SAKT84HAJ98DJ6CA6,SJ5HKT63DAK72CT95,SQ7HQ72DQ843CJ874,S9632H54DT95CKQ32|sv|b|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2N|an|GF no 5-5|mb|p|mb|3S|an|2344|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cQ|pc|cA|pc|c5|pc|c4|pg||
+pc|c6|pc|cT|pc|cJ|pc|cK|pg||
+pc|h5|pc|h8|pc|hK|pc|h7|pg||
+pc|dK|pc|d3|pc|d5|pc|d6|pg||
+pc|c9|pc|c7|pc|c2|pc|s4|pg||
+mc|8|pg||
+qx|c10|st||md|4SAKT84HAJ98DJ6CA6,SJ5HKT63DAK72CT95,SQ7HQ72DQ843CJ874,S9632H54DT95CKQ32|sv|b|mb|p|nt|Vugraphzfe: I went with Wrang, he was concerned that Sylvan would duck|pg||
+mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|nt|marlowepi:  2C doubtless Gazilli-esque|pg||
+mb|p|mb|p|pc|dA|pc|d3|pc|dT|pc|d6|pg||
+pc|cT|pc|cJ|pc|cQ|pc|cA|pg||
+pc|s4|pc|s5|pc|sQ|pc|s2|pg||
+pc|s7|pc|s3|pc|sA|pc|sJ|pg||
+pc|sK|pc|h3|pc|d4|pc|s6|pg||
+pc|sT|pc|d2|pc|c4|pc|s9|pg||
+pc|h9|pc|h6|pc|hQ|pc|h4|pg||
+pc|h2|pc|h5|pc|hA|pc|hT|pg||
+pc|h8|pc|hK|pc|h7|pc|c2|pg||
+pc|c5|pc|c7|pc|cK|pc|c6|pg||
+pc|d5|pc|dJ|pc|dK|pc|d8|pg||
+mc|9|pg||
+qx|o11|st||md|1SQJ853HJ932DACAT8,ST6HT8765DQJ94C63,SA7HAKQDK87532CQ9,SK942H4DT6CKJ7542|sv|o|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|pc|c8|pc|c6|pc|c9|pg||
+pc|d3|pc|d6|pc|dA|pc|d4|pg||
+pc|h2|pc|h5|pc|hA|pc|h4|pg||
+pc|hK|pc|c7|pc|h3|pc|h8|pg||
+pc|hQ|pc|s4|pc|h9|pc|h6|pg||
+pc|dK|pc|dT|pc|cT|pc|dQ|pg||
+pc|sA|pc|s2|pc|s3|pc|s6|pg||
+pc|s7|pc|s9|pc|sQ|pc|sT|pg||
+pc|s5|pc|c3|pc|d2|pc|sK|pg||
+mc|12|pg||
+qx|c11|st||md|1SQJ853HJ932DACAT8,ST6HT8765DQJ94C63,SA7HAKQDK87532CQ9,SK942H4DT6CKJ7542|sv|o|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|nt|marlowepi:  tricky hand to bid|pg||
+mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|pc|c8|nt|marlowepi:  3N by sheer power|pg||
+pc|c6|pc|c9|pg||
+nt|Chick: they had plenty, N was considering bidding again |pg||
+nt|marlowepi:  no doubt. but he had nothing intelligent to do, however justifiably wistful he may have been|pg||
+pc|hA|pc|h4|pc|h2|pc|h5|pg||
+pc|hK|pc|c2|pc|h3|pc|h6|pg||
+pc|d2|pc|d6|pc|dA|pc|d4|pg||
+pc|h9|pc|h7|pc|hQ|pc|s4|pg||
+pc|sA|pc|s2|pc|s3|pc|s6|pg||
+pc|s7|pc|sK|pc|s5|pc|sT|pg||
+pc|s9|pc|sQ|mc|11|pg||
+qx|o12|st||md|2S652H754DQ8765CAT,SAK87HK832D93CK76,SQJT943HJDKCJ9832,SHAQT96DAJT42CQ54|sv|n|mb|1C|mb|2S|mb|3H|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|5N|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|s2|nt|Vugraphzfu: Looks like a bridge bit too far... |pg||
+pc|sA|pc|s3|pc|c4|pg||
+pc|c6|pc|c2|pc|cQ|pc|cA|pg||
+pc|s6|pc|sK|pc|s4|pc|d2|pg||
+pc|h2|pc|hJ|pc|hQ|pc|h4|pg||
+pc|hT|pc|h5|pc|hK|pc|s9|pg||
+pc|d9|pc|dK|pc|dA|pc|d5|pg||
+pc|dT|pc|dQ|mc|11|pg||
+qx|c12|st||md|2S652H754DQ8765CAT,SAK87HK832D93CK76,SQJT943HJDKCJ9832,SHAQT96DAJT42CQ54|sv|n|nt|marlowepi:  EW may avoid the slam trap|pg||
+mb|1N|an|11-14|nt|Chick: another 6-5 weak hand decision|pg||
+mb|2D|an|one major|mb|3D|an|hearts|nt|marlowepi:  another way to look at it is that N has a one-suiter, with a side suit|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|nt|marlowepi:  morceau de gateau|pg||
+pc|sQ|pc|c4|pc|s6|pc|sA|pg||
+pc|h3|pc|hJ|pc|hA|pc|h5|pg||
+pc|h6|pc|h4|pc|h8|pc|s3|pg||
+pc|d9|pc|dK|pc|dA|pc|d5|pg||
+pc|h9|pc|h7|pc|hK|pc|c2|pg||
+pc|d3|pc|s4|pc|dJ|pc|dQ|pg||
+pc|d8|pc|s8|pc|sJ|pc|dT|pg||
+pc|cQ|pc|cA|pc|c6|pc|c3|pg||
+mc|11|pg||
+qx|o13|st||md|3SQJ52HJ4DQJCJT932,SA43HAQ96DAT83C87,ST97HK872D4CAK654,SK86HT53DK97652CQ|sv|b|mb|1C|mb|1D|mb|1H|mb|d|mb|1S|mb|4H|nt|Vugraphzfu: anoter boatload of imps for Schwartz after a slam off two cashing aces made|pg||
+mb|p|mb|p|mb|p|pc|sQ|pc|s3|pc|s7|pc|sK|pg||
+pc|h3|pc|h4|pc|h9|pc|h2|pg||
+nt|Vugraphzfu: sorry missed ppart of the auction|pg||
+nt|Vugraphzfu: first five bids ok|pg||
+nt|Vugraphzfu: Then I think it was 2H P 2NT P 4H P P P|pg||
+pc|hQ|pc|hK|pc|h5|pc|hJ|pg||
+pc|c4|pc|cQ|pc|c2|pc|c7|pg||
+pc|hT|pc|cJ|pc|h6|pc|h7|pg||
+pc|d2|pc|dQ|pc|dA|pc|d4|pg||
+pc|hA|pc|h8|pc|s6|mc|12|nt|Vugraphzfu: Play is accurate|pg||
+pg||
+qx|c13|st||md|3SQJ52HJ4DQJCJT932,SA43HAQ96DAT83C87,ST97HK872D4CAK654,SK86HT53DK97652CQ|sv|b|mb|p|nt|marlowepi:  Lall team making no headway, au contraire. So we beat on, boats against the current|pg||
+mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2C|mb|p|nt|marlowepi:  5D here for EW, they are off to a very slow start|pg||
+mb|2D|nt|marlowepi:  well, no need to bid it i guess :)|pg||
+nt|Chick: I guess the bidding is off by one Pass?|pg||
+mb|p|mb|p|mb|p|pc|dQ|nt|marlowepi:  1C opening by N much better bid than P|pg||
+pc|d3|pc|d4|pc|dK|pg||
+pc|h5|pc|h4|pc|h9|pc|hK|pg||
+pc|cK|pc|cQ|pc|c2|pc|c7|pg||
+pc|cA|pc|d5|pc|c3|pc|c8|pg||
+pc|d6|pc|dJ|pc|dA|pc|c6|pg||
+pc|hA|nt|marlowepi:  looks like methods hurt EW here|pg||
+pc|h2|pc|h3|pc|hJ|pg||
+nt|marlowepi:  guessing W was systemically unable to open 1D|pg||
+mc|11|nt|Vugraphzfe: sorry about that :)|pg||
+pg||
+qx|o14|st||md|4SJ8H73DT8643C9864,ST975H865DQ97CKT5,SA643HK942DA2CAJ7,SKQ2HAQJTDKJ5CQ32|sv|o|mb|1C|mb|p|nt|Vugraphzfu: Lindqvist: Sorry|pg||
+mb|1S|mb|1N|mb|d|an|3 spades|mb|2D|mb|p|mb|p|mb|p|pc|sT|pc|s3|pc|sK|pc|s8|pg||
+pc|sQ|pc|sJ|pc|s5|pc|sA|pg||
+pc|s4|pc|s2|pc|d3|pc|s7|pg||
+pc|h7|pc|h5|pc|hK|pc|hA|pg||
+pc|hQ|pc|h3|pc|h6|pc|h2|pg||
+pc|hJ|pc|d4|pc|h8|pc|h4|pg||
+pc|c4|pc|c5|pc|c7|pc|cQ|pg||
+pc|hT|pc|d8|pc|d9|pc|h9|pg||
+pc|s9|pc|s6|pc|c2|pc|d6|pg||
+pc|dT|pc|d7|pc|dA|pc|d5|pg||
+pc|d2|pc|dJ|pc|c6|pc|dQ|pg||
+mc|6|pg||
+qx|c14|st||md|4SJ8H73DT8643C9864,ST975H865DQ97CKT5,SA643HK942DA2CAJ7,SKQ2HAQJTDKJ5CQ32|sv|o|nt|marlowepi:  not as sorry as EW|pg||
+mb|1D|mb|p|mb|1S|nt|Chick: :)|pg||
+mb|d|mb|r|mb|p|mb|2D|mb|p|mb|p|mb|p|nt|marlowepi:  would expect a schism at top level with W hand, pass versus bid. With only 5 points and equal green (white), and having to bid bad suit if you respond, the proposition is not compellingly attractive. Having said all that, we are in who-knows ter|pg||
+nt|marlowepi:  territory|pg||
+nt|Vugraphzfe: same contract at both tables, just not the same way!|pg||
+pc|h7|nt|marlowepi:  4333 also not a selling point|pg||
+pc|h5|pc|hK|pc|hA|pg||
+pc|dK|pc|d4|pc|d7|pc|dA|pg||
+pc|h2|pc|hQ|pc|h3|pc|h6|pg||
+pc|hT|pc|d3|pc|h8|pc|h9|pg||
+nt|marlowepi:  E will be careful here|pg||
+pc|c9|pc|cT|pc|cJ|pc|cQ|pg||
+pc|hJ|pc|d6|pc|d9|pc|h4|pg||
+pc|s5|pc|s3|pc|sK|pc|s8|pg||
+pc|d5|pc|d8|pc|dQ|pc|d2|pg||
+pc|s7|pc|sA|pc|s2|pc|sJ|pg||
+pc|s4|pc|sQ|pc|dT|pc|s9|pg||
+pc|c8|pc|c5|pc|c7|pc|c2|pg||
+pc|c4|pc|cK|pc|cA|pc|c3|pg||
+pc|s6|pc|dJ|pc|c6|pc|sT|pg||
+pg||
+qx|o15|st||md|1SAHKT5DQT9763CQ62,SJT94HJ2D8542CA84,SQ87632H974DJCJT3,SK5HAQ863DAKCK975|sv|n|nt|Vugraphzfu: last. after both tables finish a 10 minutes break and we are back forthe last set|pg||
+mb|1D!|mb|p|mb|1S|mb|d|mb|p|an|max 2 spades|mb|2C|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sA|pc|s4|pc|s7|pc|s5|pg||
+pc|d7|pc|d2|pc|dJ|pc|dA|pg||
+pc|h3|pc|hK|pc|h2|pc|h9|pg||
+pc|d9|pc|d4|pc|h4|pc|dK|pg||
+pc|s6|pc|sK|pc|h5|pc|s9|pg||
+pc|dQ|pc|d5|pc|s2|pc|h6|pg||
+pc|cK|pc|c2|pc|c4|pc|c3|pg||
+pc|c5|pc|c6|pc|cA|pc|cT|pg||
+pc|d8|pc|cJ|pc|h8|pc|d6|pg||
+pc|c7|pc|cQ|pc|c8|pc|h7|pg||
+pc|s3|mc|8|nt|Vugraphzfu: ok, done for now. back 10 minutes after closed room finishes|pg||
+pg||
+qx|c15|st||md|1SAHKT5DQT9763CQ62,SJT94HJ2D8542CA84,SQ87632H974DJCJT3,SK5HAQ863DAKCK975|sv|n|mb|1D|mb|p|nt|marlowepi:  EW have partscore, game if defense errant|pg||
+nt|marlowepi:  Schwartz team will exit quarter in comfort zone, come what may here|pg||
+mb|1S|mb|d|mb|2C!|an|6+ !d|mb|p|mb|2D|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sA|nt|marlowepi:  a bit of overreach here|pg||
+pc|s4|pc|s6|pc|s5|pg||
+pc|d7|pc|d2|pc|dJ|pc|dA|pg||
+nt|Vugraphzfe: both tables|pg||
+nt|marlowepi:  cost of doing IMP business|pg||
+pc|h3|pc|hK|pc|h2|pc|h4|pg||
+pc|dT|pc|d4|pc|h7|pc|dK|pg||
+pc|s7|pc|sK|pc|h5|pc|s9|pg||
+pc|d9|nt|Chick: yep, all vul invitations forcing :)|pg||
+pc|d5|pc|h9|pc|hQ|pg||
+pc|h6|pc|hT|pc|hJ|pc|s2|pg||
+pc|sT|pc|sQ|pc|h8|pc|d3|pg||
+pc|hA|pc|d6|pc|c4|pc|s3|pg||
+mc|8|nt|gosia: not vul|pg||
+pg||

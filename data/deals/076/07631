@@ -1,0 +1,209 @@
+vg|ING Bank Top Circuit Final,1998 Session 5,P,1,16,Team 1,0,Team 2,0|
+rs|4DE-10,,4SN-10,,4HE-10,,2HS-8,,4SN-10,,4DNx-10,,3NE-9,,1NE-7,,4HE-10,,2NW-8,,4SW-10,,3NE-9,,4HW-10,,3NS-9,,4HE-10,,3DS-9,|
+pw|Timmer,Verhees,Daemen,Hoogenkamp,,,,,Verhees,De Wijs,Hoogenkamp,Van Prooijen,,,,,De Wijs,Westra,Van Prooijen,Leufkens,,,,,Leufkens,Paping,Westra,Berendregt,,,,,Paping,Jansma,Berendregt,Van Cleeff,,,,,Jansma,Engel,Van Cleeff,Kaplan,,,,,Engel,Zandvoort,Kaplan,Benthem,,,,,Zandvoort,Everts,Benthem,Mulder,,,,|
+mp|1,,11,,11,,-3,,-4,,3,,9,,1,,0,,4,,6,,0,,1,,2,,5,,3,|
+bn|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16|
+pg||
+pn|Timmer,Verhees,Daemen,Hoogenkamp|qx|o1,BOARD 1|rh||ah|Board 1|md|3SAQJ98743H93D3CT7,S52HAQ864D82CK964,ST6HK52DQJ5CQ8532|sv|0|
+em|NS 1|
+sa|0|mb|p|mb|1D|mb|3S|mb|d|mb|p|mb|4D|mb|p|mb|p|mb|p|pg||
+pc|SA|pc|S2|pc|ST|pc|SK|pg||
+pc|CT|pc|C4|pc|C2|pc|CJ|pg||
+pc|DA|pc|D3|pc|D2|pc|D5|pg||
+pc|DK|pc|S3|pc|D8|pc|DJ|pg||
+pc|CA|pc|C7|pc|C6|pc|C3|pg||
+pc|DT|pc|S4|pc|H4|pc|DQ|pg||
+pc|S6|pc|D7|pc|SJ|pc|S5|pg||
+pc|D9|pc|H9|pc|H6|pc|C5|pg||
+pc|D6|pc|H3|mc|0|pg||
+pn|Timmer,Verhees,Daemen,Hoogenkamp|qx|o2,BOARD 2|rh||ah|Board 2|md|4SJT9HAKJ6DJ54CA93,SAQ65HT754DT2C872,SK742H82DA96CKJT4|sv|n|
+em|NS 11|
+sa|0|mb|2C|mb|d|mb|3D|mb|d|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D4|pc|D2|pc|DA|pg||
+pc|C4|pc|C6|pc|CA|pc|C8|pg||
+pc|SJ|pc|SA|pc|S2|pc|S3|pg||
+pc|DT|pc|D6|pc|DQ|pc|D5|pg||
+pc|D7|pc|DJ|pc|S5|pc|D9|pg||
+pc|C2|pc|CT|pc|CQ|pc|C3|pg||
+pc|C5|pc|C9|pc|C7|pc|CJ|pg||
+mc|0|pg||
+pn|Verhees,De Wijs,Hoogenkamp,Van Prooijen|qx|o3,BOARD 3|rh||ah|Board 3|md|1SQT86HDAJ94CT9743,SAJ3HA987D763CQJ8,S9HKJ54DT852CA652|sv|e|
+em|NS 11|
+sa|0|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|CT|pc|C8|pc|CA|pc|CK|pg||
+pc|D8|pc|DK|pc|DA|pc|D3|pg||
+pc|DJ|pc|D6|pc|D5|pc|DQ|pg||
+pc|HQ|pc|C3|pc|H7|pc|HK|pg||
+pc|H4|pc|H2|pc|C7|pc|H8|pg||
+pc|CQ|pc|C2|pc|S2|pc|C4|pg||
+pc|CJ|pc|C5|pc|S4|pc|C9|pg||
+pc|HA|pc|H5|pc|H3|pc|D4|pg||
+pc|D7|pc|D2|pc|H6|pc|D9|pg||
+mc|0|pg||
+pn|Verhees,De Wijs,Hoogenkamp,Van Prooijen|qx|o4,BOARD 4|rh||ah|Board 4|md|2SKT6HAT852DJ92CQ6,S953H943DA7CAK873,SAQJ2HQ76D865CJT9|sv|b|
+em|NS -3|
+sa|0|mb|1C|mb|p|mb|1D|mb|1H|mb|p|mb|2D|mb|d|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C9|pc|C5|pc|C6|pg||
+pc|CK|pc|CT|pc|C2|pc|CQ|pg||
+pc|DA|pc|D5|pc|D3|pc|D2|pg||
+pc|D7|pc|D8|pc|DQ|pc|D9|pg||
+pc|DK|pc|DJ|pc|C3|pc|D6|pg||
+pc|C4|pc|S6|pc|C7|pc|CJ|pg||
+pc|S2|pc|S8|pc|ST|pc|S5|pg||
+pc|H2|pc|H4|pc|HQ|pc|HK|pg||
+pc|D4|pc|H8|pc|H9|pc|SJ|pg||
+mc|0|pg||
+pn|De Wijs,Westra,Van Prooijen,Leufkens|qx|o5,BOARD 5|rh||ah|Board 5|md|3S7642H84DA74CAQ43,SHAQJ97DT98CKT765,SKQJ83HK3D632CJ82|sv|n|
+em|NS -4|
+sa|0|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|DA|pc|D8|pc|D2|pg||
+pc|H4|pc|H9|pc|HK|pc|H2|pg||
+pc|SK|pc|SA|pc|S2|pc|C5|pg||
+pc|DQ|pc|D4|pc|D9|pc|D3|pg||
+pc|DJ|pc|D7|pc|DT|pc|D6|pg||
+pc|ST|pc|S4|pc|H7|pc|SQ|pg||
+pc|C2|pc|C9|pc|CQ|pc|CK|pg||
+pc|HA|pc|H3|pc|H5|pc|H8|pg||
+mc|0|pg||
+pn|De Wijs,Westra,Van Prooijen,Leufkens|qx|o6,BOARD 6|rh||ah|Board 6|md|4SA84H983D7CAKT963,SQT976HKT6DQCQ854,SKHA54DKT96542CJ2|sv|e|
+em|NS 3|
+sa|0|mb|p|mb|1C|mb|1S|mb|2D|mb|3D|mb|p|mb|3S|mb|4D|mb|d|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|S4|pc|SQ|pc|SK|pg||
+pc|C2|pc|C7|pc|CA|pc|C5|pg||
+pc|SA|pc|S6|pc|H4|pc|S3|pg||
+pc|D7|pc|DQ|pc|DK|pc|DA|pg||
+pc|H2|pc|H3|pc|HK|pc|HA|pg||
+pc|CJ|pc|S5|pc|CK|pc|C4|pg||
+pc|H8|pc|H6|pc|H5|pc|HJ|pg||
+pc|HQ|pc|H9|pc|HT|pc|D2|pg||
+pc|DT|pc|DJ|pc|C3|pc|C8|pg||
+mc|0|pg||
+pn|Leufkens,Paping,Westra,Berendregt|qx|o7,BOARD 7|rh||ah|Board 7|md|1S4HAK654DK75CKJ92,SAK972H932DAQJ4CQ,SJ8653HTDT63CT873|sv|b|
+em|NS 9|
+sa|0|mb|1H|mb|1S|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|HA|pc|H2|pc|HT|pc|H7|pg||
+pc|CK|pc|CQ|pc|C8|pc|C5|pg||
+pc|C2|pc|D4|pc|CT|pc|CA|pg||
+pc|D8|pc|D5|pc|DJ|pc|D3|pg||
+pc|S2|pc|S3|pc|ST|pc|S4|pg||
+pc|D2|pc|D7|pc|DQ|pc|D6|pg||
+pc|S7|pc|S5|pc|SQ|pc|DK|pg||
+mc|0|pg||
+pn|Leufkens,Paping,Westra,Berendregt|qx|o8,BOARD 8|rh||ah|Board 8|md|2S84H98654DAJ73CJT,SQ752HKQJTDQT6CQ5,SAJT63HA2D982CK64|sv|0|
+em|NS 1|
+sa|0|mb|1H|mb|1S|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|S8|pc|S2|pc|ST|pc|SK|pg||
+pc|H7|pc|H4|pc|HK|pc|H2|pg||
+pc|HQ|pc|HA|pc|H3|pc|H9|pg||
+pc|D8|pc|D4|pc|D3|pc|DT|pg||
+pc|HJ|pc|S3|pc|C2|pc|H6|pg||
+pc|HT|pc|C4|pc|C3|pc|H5|pg||
+pc|DQ|pc|D9|pc|D5|pc|D7|pg||
+pc|C5|pc|C6|pc|CA|pc|CJ|pg||
+mc|0|pg||
+pn|Paping,Jansma,Berendregt,Van Cleeff|qx|o9,BOARD 9|rh||ah|Board 9|md|3SKT85H7DJT876C843,SAJ92HKQJ43D93CT5,SQ743H2DQ42CAQJ62|sv|e|
+em|NS 0|
+sa|0|mb|1C|mb|1H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|C3|pc|CT|pc|CA|pc|C7|pg||
+pc|CQ|pc|CK|pc|C4|pc|C5|pg||
+mc|0|pg||
+pn|Paping,Jansma,Berendregt,Van Cleeff|qx|o10,BOARD 10|rh||ah|Board 10|md|4SQ9H62D8642CQJT72,SAT3HK73DJ53CK963,S42HAQT854DAQTC84|sv|b|
+em|NS 4|
+sa|0|mb|1S|mb|p|mb|1N|mb|2H|mb|2S|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|H5|pc|HJ|pc|H2|pc|H7|pg||
+pc|SJ|pc|SQ|pc|SA|pc|S4|pg||
+pc|ST|pc|S2|pc|S5|pc|S9|pg||
+pc|S3|pc|C8|pc|S6|pc|C7|pg||
+pc|S7|pc|C2|pc|C3|pc|H4|pg||
+pc|SK|pc|D2|pc|C6|pc|DT|pg||
+pc|S8|pc|D4|pc|D5|pc|H8|pg||
+pc|CA|pc|CQ|pc|C9|pc|C4|pg||
+pc|C5|pc|CT|pc|CK|pc|HT|pg||
+pc|D3|pc|DA|pc|D7|pc|D6|pg||
+pc|HA|pc|H9|pc|H6|pc|H3|pg||
+mc|0|pg||
+pn|Jansma,Engel,Van Cleeff,Kaplan|qx|o11,BOARD 11|rh||ah|Board 11|md|1SQ84HAT72DAJ862C5,SKT763H6DKQ5CK872,S95HQ843DT7CQJ963|sv|0|
+em|NS 6|
+sa|0|mb|1D|mb|1S|mb|d|mb|2D|mb|2H|mb|3C|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DT|pc|D3|pc|DA|pc|D5|pg||
+pc|D8|pc|DQ|pc|D7|pc|D4|pg||
+pc|SK|pc|S5|pc|S2|pc|S4|pg||
+pc|S6|pc|S9|pc|SJ|pc|SQ|pg||
+pc|D2|pc|DK|pc|C6|pc|D9|pg||
+pc|S3|pc|H3|pc|SA|pc|S8|pg||
+pc|C4|pc|C5|pc|CK|pc|C3|pg||
+pc|H6|pc|H4|pc|HJ|pc|HA|pg||
+pc|DJ|pc|S7|pc|H8|pc|H5|pg||
+pc|ST|pc|HQ|pc|CT|pc|D6|pg||
+pc|C2|pc|CJ|pc|CA|pc|H2|pg||
+mc|0|pg||
+pn|Jansma,Engel,Van Cleeff,Kaplan|qx|o12,BOARD 12|rh||ah|Board 12|md|2S743H842D9864CKQ9,SK952HKJ6DAKQ73C2,SAJT8HT93DJT5CT73|sv|n|
+em|NS 0|
+sa|0|mb|1D|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C2|pc|C3|pc|C6|pg||
+pc|S7|pc|S2|pc|SJ|pc|SQ|pg||
+pc|D2|pc|D4|pc|D7|pc|DT|pg||
+pc|CT|pc|CA|pc|C9|pc|S5|pg||
+pc|H5|pc|H4|pc|HK|pc|HT|pg||
+pc|DA|pc|D5|pc|C8|pc|D6|pg||
+pc|DK|pc|DJ|pc|C5|pc|D8|pg||
+pc|DQ|pc|S8|pc|C4|pc|D9|pg||
+pc|D3|pc|C7|pc|S6|pc|S4|pg||
+pc|HJ|pc|H3|pc|H7|pc|H2|pg||
+mc|0|pg||
+pn|Engel,Zandvoort,Kaplan,Benthem|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQ85HT532DA8CAJ97,SK62HA864D42CKT86,SJ743H9DT9763C543|sv|b|
+em|NS 1|
+sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|S9|pc|SQ|pc|SK|pg||
+pc|H4|pc|H9|pc|HQ|pc|H2|pg||
+pc|HK|pc|H3|pc|H6|pc|C4|pg||
+pc|DK|pc|D8|pc|D4|pc|D3|pg||
+pc|CQ|pc|CA|pc|C6|pc|C5|pg||
+pc|H5|pc|H8|pc|DT|pc|H7|pg||
+pc|S2|pc|S3|pc|ST|pc|S8|pg||
+pc|DQ|pc|DA|pc|D2|pc|D6|pg||
+pc|HT|pc|HA|pc|D7|pc|HJ|pg||
+pc|S6|pc|SJ|pc|SA|pc|S5|pg||
+pc|DJ|pc|C7|pc|C8|pc|D9|pg||
+pc|C2|pc|C9|pc|CK|pc|C3|pg||
+mc|0|pg||
+pn|Engel,Zandvoort,Kaplan,Benthem|qx|o14,BOARD 14|rh||ah|Board 14|md|4SJ62HKT943DJCAQ43,ST7HQJ7DQ952CK752,SAK4HA2DAKT43CT86|sv|0|
+em|NS 2|
+sa|0|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C5|pc|C8|pc|C9|pc|CQ|pg||
+pc|DJ|pc|DQ|pc|DA|pc|D7|pg||
+pc|DK|pc|D6|pc|H3|pc|D2|pg||
+pc|DT|pc|D8|pc|C3|pc|D5|pg||
+pc|D3|pc|S3|pc|C4|pc|D9|pg||
+pc|ST|pc|SA|pc|S5|pc|S2|pg||
+pc|D4|pc|S8|pc|H4|pc|C2|pg||
+pc|HA|pc|H6|pc|H9|pc|H7|pg||
+pc|H2|pc|H5|pc|HK|pc|HQ|pg||
+pc|CA|pc|C7|pc|C6|pc|CJ|pg||
+pc|S6|pc|S7|pc|SK|pc|S9|pg||
+mc|0|pg||
+pn|Zandvoort,Everts,Benthem,Mulder|qx|o15,BOARD 15|rh||ah|Board 15|md|1SQT75H98DK85CQJ98,SA962H7DA6432C732,SJ83HQT62DQJ9CA65|sv|n|
+em|NS 5|
+sa|0|mb|p|mb|p|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|CQ|pc|C2|pc|CA|pc|C4|pg||
+pc|C6|pc|CK|pc|C9|pc|C3|pg||
+pc|HA|pc|H8|pc|H7|pc|H2|pg||
+pc|HK|pc|H9|pc|D2|pc|H6|pg||
+pc|H3|pc|C8|pc|S2|pc|HT|pg||
+pc|C5|pc|CT|pc|CJ|pc|C7|pg||
+pc|S7|pc|S6|pc|SJ|pc|SK|pg||
+pc|H4|pc|S5|pc|D3|pc|HQ|pg||
+pc|S8|pc|S4|pc|ST|pc|SA|pg||
+mc|0|pg||
+pn|Zandvoort,Everts,Benthem,Mulder|qx|o16,BOARD 16|rh||ah|Board 16|md|2SAQ62HQ6DAQ82CQ98,SJ753HAJT54D74CA3,ST8H983DT953CK764|sv|e|
+em|NS 3|
+sa|0|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pc|D4|pc|DT|pc|DJ|pc|DQ|pg||
+pc|C8|pc|C3|pc|CK|pc|C2|pg||
+pc|S8|pc|S9|pc|SQ|pc|S3|pg||
+pc|SA|pc|S5|pc|ST|pc|S4|pg||
+pc|S2|pc|S7|pc|D3|pc|SK|pg||
+pc|D5|pc|D6|pc|DA|pc|D7|pg||
+pc|S6|pc|SJ|pc|D9|pc|DK|pg||
+pc|C5|pc|C9|pc|CA|pc|C4|pg||
+mc|0|pg||

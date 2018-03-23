@@ -1,0 +1,84 @@
+vg|Cap Gemini 2000,2000.03.25,P,1,10,Team 1,0,Team 2,0|
+rs|3NS+1,,4SE+1,,2SS-2,,3NS=,,6HS-2,,3NS+1,,6SN-2,,4HS=,,3NN+1,,4SN+1,,|
+pw|Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,Weinstein,Branco,Levin,Chagas,|pg||bn|1,2,3,4,5,6,7,8,9,10,|pg||
+mp|0,,0,,,3,11,,,12,,3,,12,0,,1,,0,,|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o1|md|3SA8HKT6D74CAKJT86,SKT762H42DKJ3C974,S53HAQ75DQT982CQ5|sv|0|
+mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S6|pc|S3|pc|SJ|pc|SA|pg||
+pc|HK|pc|H2|pc|H5|pc|H9|pg||
+pc|H6|pc|H4|pc|HA|pc|H3|pg||
+mc|10|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o2|md|4SK85HKT865D98763C,S643HA93D4CA98732,SJTH742DQJ52CKT54|sv|n|
+mb|1S|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H5|pc|H3|pc|H7|pc|HQ|pg||
+pc|SA|pc|S5|pc|S3|pc|ST|pg||
+pc|DA|pc|D3|pc|D4|pc|D2|pg||
+pc|DT|pc|D6|pc|S4|pc|D5|pg||
+pc|S6|pc|SJ|pc|SQ|pc|SK|pg||
+mc|11|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o3|md|1SAKQ8HAKQ72DQT7C2,SJT652H5DJ96CQ854,S74H84D8432CJT963|sv|e|
+mb|1H|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|CJ|pc|CK|pc|C2|pg||
+pc|S3|pc|SA|pc|S2|pc|S4|pg||
+pc|HK|pc|H5|pc|H4|pc|H3|pg||
+pc|HA|pc|S5|pc|H8|pc|H6|pg||
+mc|6|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o4|md|2SAJ98H4DQJT5CQJT6,SKQT72H963DK4C542,S643HKJ875DA97CK9|sv|b|
+mb|p|mb|p|mb|p|mb|1D|mb|1S|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S3|pc|S5|pc|S8|pg||
+pc|H3|pc|H7|pc|HT|pc|H4|pg||
+pc|C8|pc|C6|pc|C2|pc|CK|pg||
+pc|C9|pc|C3|pc|CJ|pc|C4|pg||
+mc|9|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o5|md|3S94HAJ942DT754CKT,SJ762HT5DQ863C643,SATHKQ3DAK92CAJ75|sv|n|
+mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
+pc|S2|pc|SA|pc|S5|pc|S4|pg||
+pc|HK|pc|H6|pc|H2|pc|H5|pg||
+pc|HQ|pc|H7|pc|H4|pc|HT|pg||
+pc|H3|pc|H8|pc|HJ|pc|S6|pg||
+mc|10|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o6|md|4SA4HAKQ3DQT4CQ765,SQT8652HJT974DAC4,SJ73H8DK983CAKJT9|sv|e|
+mb|p|mb|1N|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+mc|10|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o7|md|1SKQ72HAKT93DA5CA9,SA8HQJ864D4CKJ432,SJT9653H75DK98C75|sv|b|
+mb|1H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3S|mb|3N|mb|4N|mb|5C|mb|d|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
+pc|C6|pc|CA|pc|C4|pc|C7|pg||
+pc|HA|pc|H4|pc|H5|pc|H2|pg||
+pc|HK|pc|H6|pc|H7|pc|S4|pg||
+pc|CQ|pc|C9|pc|C2|pc|C5|pg||
+mc|10|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o8|md|2SK9HAQ987DK7CAT62,SJ54HJ52DQJ95CJ43,S832HKT43DT862CK7|sv|0|
+mb|p|mb|p|mb|1S|mb|2H|mb|2S|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|S2|pc|SA|pc|S9|pg||
+pc|D3|pc|DK|pc|D5|pc|D2|pg||
+pc|H9|pc|H2|pc|HK|pc|H6|pg||
+mc|10|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o9|md|3ST7H9854DAKQ82CAT,SKQJ965HQ62D6CJ74,SA2HA3DJ97543CK62|sv|e|
+mb|1D|mb|p|mb|2D|mb|2S|mb|3C|mb|3S|mb|d|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|ST|pc|SJ|pc|S2|pg||
+pc|SK|pc|SA|pc|S4|pc|S7|pg||
+pc|D5|pc|DT|pc|DA|pc|D6|pg||
+pc|DK|pc|C7|pc|D3|pc|C3|pg||
+mc|10|pg||
+pn|Weinstein,Branco,Levin,Chagas|qx|o10|md|4SKJ83HKQDQT952C87,S4H87652DA643CJT3,SAT97652H93D7CAQ9|sv|b|
+mb|1C|mb|1D|mb|1H|mb|1S|mb|2H|mb|2S|mb|3H|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|C7|pc|C3|pc|CQ|pg||
+pc|S5|pc|SQ|pc|SK|pc|S4|pg||
+pc|C8|pc|CT|pc|CA|pc|C2|pg||
+mc|11|pg||
+bt||mn|Cap Gemini 2000 R10 results|
+tu|y|nt|
+
+
+
+
+^BTable ^DNS-Pair ^KScore ^MEW-Pair ^UScore
+
+^B1 ^DTuszynski-Jassem ^K74 ^MGullberg-Andersson ^U26
+^B2 ^DNab-Bertens ^K61 ^MBuratti-Lanzarotti ^U39
+^B3 ^DWestra-Leufkens ^K31 ^MNanev-Mihov ^U69
+^B4 ^DBerkowitz-Cohen ^K41 ^MMahmood-Robson ^U59
+^B5 ^DLambardi-Lucena ^K70 ^MHampson-Greco ^U30
+^B6 ^DLauria-Versace ^K51 ^MPasman-Simons ^U49
+^B7 ^DLevin-Weinstein ^K32 ^MChagas-Branco ^U68
+|pg||st||nt||

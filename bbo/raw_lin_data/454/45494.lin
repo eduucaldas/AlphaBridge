@@ -1,0 +1,404 @@
+vg|BBO3-2016EBTC,S-RR11,I,1,16,PORTUGAL,0,BELGIUM,0|
+rs|3HS-2,2HN-1,4SE+2,4SE+1,4SE-2,4SE-2,1NN=,1NN-1,1NN-1,PASS,6HS-1,4HS+3,3CN+1,2SN+2,5DW=,2DE+3,3NW+1,3NW=,3HW-1,3HW-1,3NN=,2DS+1,1NE+1,1NE+1,4SN+1,4SN+1,1NS=,1NS=,1SW=,1SW=,PASS,PASS|
+pn|CASTANHEIR,POLET,CAPUCHO,KAPLAN,LAFOURCADE,J SANTOS,BIGDELI,PINTO|pg||
+qx|o1|st||md|3SQ52HJ5DAQT76CKQ3,SAKT97HA92D83CJT9,SJ86HKT8763D2C742,S43HQ4DKJ954CA865|sv|o|mb|2D|an| |mb|p|mb|2H|mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|cJ|pc|c2|pc|cA|pc|c3|pg||
+pc|s4|pc|s5|pc|sK|pc|s6|pg||
+pc|sA|pc|s8|pc|s3|pc|s2|pg||
+pc|s7|pc|sJ|pc|h4|pc|sQ|pg||
+pc|c5|pc|cQ|pc|c9|pc|c4|pg||
+pc|h5|pc|h2|pc|hT|pc|hQ|pg||
+pc|c6|pc|cK|pc|cT|pc|c7|pg||
+pc|hJ|pc|hA|pc|h3|pc|d5|pg||
+mc|7|pg||
+qx|c1|st||md|3SQ52HJ5DAQT76CKQ3,SAKT97HA92D83CJT9,SJ86HKT8763D2C742,S43HQ4DKJ954CA865|sv|o|mb|p|mb|p|mb|1D|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|s4|pc|s2|pc|sK|pc|s8|pg||
+pc|sA|pc|s6|pc|s3|pc|s5|pg||
+pc|s9|pc|sJ|pc|h4|pc|sQ|pg||
+pc|d9|pc|dA|pc|d3|pc|d2|pg||
+pc|hJ|pc|h2|pc|h3|pc|hQ|pg||
+pc|dK|pc|d6|pc|d8|pc|h8|pg||
+pc|h6|pc|c5|pc|h5|pc|hA|pg||
+pc|cJ|pc|c2|pc|cA|pc|c3|pg||
+pc|c6|pc|cQ|pc|cT|pc|c4|pg||
+pc|d7|mc|7|pg||
+qx|o2|st||md|4S98HAT984D76CKQ63,SQ543HKJDJ3C97542,ST62H7632DK9542CT,SAKJ7HQ5DAQT8CAJ8|sv|n|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cK|pc|c2|pc|cT|pc|cA|pg||
+pc|sK|pc|s8|pc|s3|pc|s6|pg||
+pc|sA|pc|s9|pc|s4|pc|s2|pg||
+pc|sJ|pc|h9|pc|s5|pc|sT|pg||
+pc|cJ|pc|cQ|pc|c4|pc|d5|pg||
+pc|d7|pc|dJ|pc|dK|pc|dA|pg||
+pc|c8|pc|c3|pc|c9|pc|h3|pg||
+pc|c7|mc|12|nt|calabres: making +2 now|pg||
+pg||
+qx|c2|st||md|4S98HAT984D76CKQ63,SQ543HKJDJ3C97542,ST62H7632DK9542CT,SAKJ7HQ5DAQT8CAJ8|sv|n|mb|2N|mb|p|mb|3C!|mb|p|mb|3D!|mb|p|mb|3H!|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|s9|pc|s3|pc|s2|pc|sA|pg||
+pc|sK|pc|s8|pc|s4|pc|s6|pg||
+pc|sJ|pc|h4|pc|s5|pc|sT|pg||
+pc|h5|pc|h8|pc|hJ|pc|h3|pg||
+pc|hK|pc|h2|pc|hQ|pc|hA|pg||
+pc|d7|pc|dJ|pc|dK|pc|dA|pg||
+pc|cA|pc|c3|pc|c2|pc|cT|pg||
+pc|c8|pc|c6|pc|c4|pc|h6|pg||
+pc|dQ|pc|d6|pc|d3|pc|d2|pg||
+pc|dT|pc|h9|pc|c5|pc|d4|pg||
+mc|11|pg||
+qx|o3|st||md|1SQ8752HJ93DQ2CA64,ST3H87642DAJT87C9,S6HAT5DK9643CJ732,SAKJ94HKQD5CKQT85|sv|e|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3C|mb|p|nt|calabres: signoff?|pg||
+mb|3S|mb|p|nt|calabres: yes|pg||
+mb|4C|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h3|nt|calabres: expected down one|pg||
+pc|h2|pc|hA|pc|hQ|pg||
+pc|s6|pc|s4|pc|sQ|pc|s3|pg||
+pc|h9|pc|h4|pc|h5|pc|hK|pg||
+pc|s9|pc|s2|pc|sT|pc|d3|pg||
+pc|c9|pc|c7|pc|cT|pc|cA|pg||
+pc|hJ|pc|h6|pc|hT|pc|sJ|pg||
+pc|sA|pc|s5|pc|d7|pc|d6|pg||
+pc|sK|pc|s7|pc|d8|pc|d4|pg||
+pc|cK|pc|c4|pc|dT|pc|c3|pg||
+pc|cQ|pc|c6|pc|dJ|pc|c2|pg||
+pc|d5|pc|d2|pc|dA|pc|d9|pg||
+mc|8|pg||
+qx|c3|st||md|1SQ8752HJ93DQ2CA64,ST3H87642DAJT87C9,S6HAT5DK9643CJ732,SAKJ94HKQD5CKQT85|sv|e|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h3|pc|h2|pc|hA|pc|hQ|pg||
+pc|s6|pc|s4|pc|sQ|pc|s3|pg||
+pc|s2|pc|sT|pc|d3|pc|s9|pg||
+pc|c9|pc|c3|pc|cT|pc|cA|pg||
+pc|d2|pc|dA|pc|d6|pc|d5|pg||
+pc|h4|pc|h5|pc|hK|pc|h9|pg||
+pc|sA|pc|s5|pc|d7|pc|d4|pg||
+pc|sK|pc|s8|pc|h6|pc|d9|pg||
+pc|sJ|pc|s7|pc|h7|pc|hT|pg||
+pc|cK|pc|c4|pc|d8|pc|c2|pg||
+pc|cQ|pc|c6|pc|dT|pc|c7|pg||
+pc|c5|mc|8|pg||
+qx|o4|st||md|2SKQ9HJ73DAQ963C64,SAJ64H864DKT7CK83,S752HAT2D542CAQ52,ST83HKQ95DJ8CJT97|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|cJ|pc|c4|pc|c3|pc|cQ|pg||
+pc|d2|pc|d8|pc|dQ|pc|dK|pg||
+pc|cK|pc|c2|pc|c7|pc|c6|pg||
+pc|c8|pc|cA|pc|cT|pc|h3|pg||
+pc|d4|pc|dJ|pc|d3|pc|dT|pg||
+pc|c9|pc|s9|pc|h8|pc|c5|pg||
+pc|hK|pc|h7|pc|h6|pc|hA|pg||
+pc|d5|pc|s8|pc|dA|pc|d7|pg||
+pc|d9|pc|s4|pc|s2|pc|sT|pg||
+pc|d6|pc|s6|pc|s7|pc|h5|pg||
+pc|hJ|pc|h4|pc|h2|pc|hQ|pg||
+pc|s3|pc|sQ|mc|7|pg||
+qx|c4|st||md|2SKQ9HJ73DAQ963C64,SAJ64H864DKT7CK83,S752HAT2D542CAQ52,ST83HKQ95DJ8CJT97|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|cJ|pc|c4|pc|cK|pc|cA|pg||
+pc|d2|pc|d8|pc|dQ|pc|dK|pg||
+pc|c8|pc|c2|pc|c7|pc|c6|pg||
+pc|h8|pc|h2|pc|hQ|pc|h3|pg||
+pc|sT|pc|sK|pc|s6|pc|s2|pg||
+pc|d3|pc|d7|pc|d5|pc|dJ|pg||
+pc|s8|pc|sQ|pc|sA|pc|s5|pg||
+pc|sJ|pc|s7|pc|s3|pc|s9|pg||
+pc|s4|pc|c5|pc|h5|pc|h7|pg||
+pc|h4|pc|hA|pc|h9|pc|hJ|pg||
+mc|6|pg||
+qx|o5|st||md|3SAJ93HQ97DJ98CA85,ST84HA42DA654CQJ6,S65HK85DK732CKT97,SKQ72HJT63DQTC432|sv|n|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|hJ|pc|h7|pc|h2|pc|hK|pg||
+pc|c9|pc|c2|pc|c5|pc|cJ|pg||
+pc|d4|nt|aurora:  @H Hello all, welcome to the 53rd European Team Championships Round 23|pg||
+pc|d2|pc|dQ|pc|d8|pg||
+nt|calabres: I think +1, so more IMPs to Portugal|pg||
+pc|s2|nt|aurora:  Running score Seniors http://www.eurobridge.org/repository/competitions/16budapest/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1211&qshowflag=1|pg||
+pc|s9|pc|sT|pc|s6|pg||
+nt|STRIK3R: Hi Luis, hi all, it will make and more imps to Portugal|pg||
+nt|calabres: lol Ronny|pg||
+nt|aurora:  live video for this room http://www.youtube.com/watch?v=DCoH37mkB5U|pg||
+nt|STRIK3R: I dont like to pass when I hold a opening hand, especialy not in a Team match|pg||
+nt|calabres: in fact|pg||
+nt|aurora:  @H For those who dont know the operator from this table is the youngest operator we ever had - 14 yo :) Well done Zsolt http://livebridge.net/mobile/operator.php?opid=10250|pg||
+nt|STRIK3R: west felt endplayed in trick 2, and have the same feeling now|pg||
+nt|calabres: do you continue calm like a bomb?:)|pg||
+nt|STRIK3R: always :)|pg||
+nt|calabres: :)|pg||
+pc|d5|pc|d3|pc|dT|nt|STRIK3R: the feeling of being endplayed....sigh, not a good one|pg||
+pc|dJ|pg||
+pc|d9|pc|dA|pc|d7|pc|c4|pg||
+pc|s8|pc|s5|nt|calabres: yes|pg||
+pc|sQ|pc|sA|pg||
+nt|calabres: its not pleasent|pg||
+pc|cA|pc|c6|pc|c7|pc|c3|pg||
+pc|c8|pc|cQ|pc|cK|pc|s7|pg||
+pc|cT|pc|h3|pc|h9|pc|h4|pg||
+pc|h5|pc|h6|pc|hQ|pc|hA|pg||
+mc|6|nt|STRIK3R: ups|pg||
+pg||
+qx|c5|st||md|3SAJ93HQ97DJ98CA85,ST84HA42DA654CQJ6,S65HK85DK732CKT97,SKQ72HJT63DQTC432|sv|n|mb|p|mb|p|mb|p|mb|p|pg||
+qx|o6|st||md|4SJ85HAKQ8742DAC86,S942HTDQT654CA975,SAKQ73HJ9D82CQJ32,ST6H653DKJ973CKT4|sv|e|nt|calabres: humm|pg||
+mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|4H|mb|p|nt|STRIK3R: Normal game this time, 4@h, when you have 7 cards trump on your hand, there is where you want to be, especialy when it is lead by AKQ|pg||
+mb|4N|mb|p|nt|STRIK3R: avoid @c lead and you are good for slam|pg||
+mb|5D|mb|p|mb|6H|mb|p|mb|p|mb|p|nt|STRIK3R: do they play 0314 or 1430, 1430 it is and dident get the lead directing dbl of a possible 5@c bid|pg||
+nt|STRIK3R: sorry, west on lead|pg||
+nt|calabres: 0314|pg||
+pc|cA|pc|c2|nt|calabres: costly hand|pg||
+pc|cT|pc|c8|pg||
+pc|c5|pc|cQ|pc|cK|pc|c6|pg||
+pc|d7|pc|dA|mc|11|nt|STRIK3R: North liked his 5 card @s I guess|pg||
+pg||
+qx|c6|st||md|4SJ85HAKQ8742DAC86,S942HTDQT654CA975,SAKQ73HJ9D82CQJ32,ST6H653DKJ973CKT4|sv|e|mb|p|mb|2C!|mb|p|mb|2S!|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d4|pc|d2|pc|dK|pc|dA|pg||
+pc|h2|pc|hT|pc|hJ|pc|h3|pg||
+pc|h9|pc|h5|pc|hA|pc|c5|pg||
+pc|hK|nt|aurora:  @H Hello all, welcome to the 53rd European Team Championships Round 23|pg||
+nt|aurora:  Running score Seniors http://www.eurobridge.org/repository/competitions/16budapest/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1211&qshowflag=1|pg||
+mc|13|nt|aurora:  live video for this room https://www.youtube.com/watch?v=AY0ehMS-W00|pg||
+pg||
+qx|o7|st||md|1S84HA754D652CKJ95,SQ53HKT2DAQ943CT6,SAJT97H96DK7CA743,SK62HQJ83DJT8CQ82|sv|b|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|nt|STRIK3R: all the keycards are placed nicely for N/S here, missing Q of @c, and not having the T for option of finessing two ways, A of @d in front of K... but not enough points or good ...|pg||
+nt|STRIK3R: enough hands to go for game|pg||
+mb|3C|mb|p|mb|p|mb|p|pc|dJ|pc|d2|pc|dA|pc|d7|pg||
+pc|d4|pc|dK|pc|dT|pc|d5|pg||
+pc|c3|pc|c2|pc|cJ|pc|c6|pg||
+pc|s4|pc|s3|pc|s7|pc|sK|pg||
+nt|STRIK3R: making 11 tricks now, if double finessing @s, and that is normal, avoiding the @h looser|pg||
+pc|d8|pc|d6|pc|dQ|nt|STRIK3R: might play safe for 10 cashing A of @s and @s to ruff|pg||
+nt|STRIK3R: probabbly will in teams|pg||
+nt|calabres: t|pg||
+pc|c4|pg||
+pc|sA|pc|s6|pc|s8|pc|s5|pg||
+pc|sJ|pc|s2|pc|h4|pc|sQ|pg||
+pc|d9|pc|h9|pc|h3|pc|c5|pg||
+pc|cK|pc|cT|pc|c7|pc|c8|pg||
+pc|c9|mc|10|pg||
+qx|c7|st||md|1S84HA754D652CKJ95,SQ53HKT2DAQ943CT6,SAJT97H96DK7CA743,SK62HQJ83DJT8CQ82|sv|b|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C!|mb|p|mb|2S!|mb|p|mb|p|mb|p|pc|hQ|pc|h4|pc|hT|pc|h6|pg||
+pc|h3|pc|hA|pc|h2|pc|h9|pg||
+pc|s4|pc|s3|pc|sJ|pc|sK|pg||
+pc|hJ|pc|h5|pc|hK|pc|s7|pg||
+pc|sA|pc|s2|pc|s8|pc|s5|pg||
+pc|c3|pc|c2|pc|cJ|pc|c6|pg||
+mc|10|pg||
+qx|o8|st||md|2SK943HQ953D952C65,SJT2H4DJ873CKJT87,SAQ76HJ76DKCQ9432,S85HAKT82DAQT64CA|sv|o|mb|p|mb|1C|mb|2N|nt|calabres: big hand E|pg||
+mb|p|mb|3D|nt|STRIK3R: unusual 2NT to show @h and @d, I like that bid|pg||
+nt|STRIK3R: and will make a invitational bid after 3@d to show strength|pg||
+mb|p|mb|4C|mb|p|nt|STRIK3R: will east follow up with a cuebid in @h?|pg||
+nt|STRIK3R: west ...|pg||
+nt|calabres: control showing force|pg||
+mb|5D|mb|p|mb|p|mb|p|nt|STRIK3R: 5@d is as good as any bid, nicely bid |pg||
+nt|calabres: indeed|pg||
+nt|STRIK3R: to bad we cant see the auction in closed room|pg||
+pc|sA|nt|calabres: very strange to stay in 2@Ds|pg||
+pc|s5|pc|s3|pc|s2|pg||
+nt|STRIK3R: yes, I am trying to figure out how the auction may have gone, cant work it out|pg||
+pc|sQ|pc|s8|pc|s4|pc|sJ|pg||
+nt|calabres: me neither|pg||
+nt|STRIK3R: 1@c - 1@h - pass pass dbl 2@d all pass?|pg||
+nt|calabres: maybe|pg||
+pc|s7|pc|d4|pc|s9|pc|sT|pg||
+nt|STRIK3R: thx|pg||
+pc|cA|pc|c5|pc|c7|pc|c2|pg||
+pc|hA|pc|h3|pc|h4|pc|h7|pg||
+nt|STRIK3R: pass pass 1@h - pass - 1NT - dbl - 2@d all pass I am told|pg||
+nt|calabres: ty|pg||
+pc|h2|pc|h5|pc|d7|pc|h6|pg||
+nt|STRIK3R: a rdbl or 3@d was what the hand was worth after the dbl|pg||
+nt|calabres: agree|pg||
+pc|dJ|pc|dK|pc|dA|pc|d2|pg||
+pc|dQ|pc|d5|pc|d3|pc|s6|pg||
+pc|h8|pc|h9|pc|d8|pc|hJ|pg||
+pc|cT|pc|c3|pc|d6|pc|c6|pg||
+pc|dT|pc|d9|pc|c8|pc|c4|pg||
+mc|11|pg||
+qx|c8|st||md|2SK943HQ953D952C65,SJT2H4DJ873CKJT87,SAQ76HJ76DKCQ9432,S85HAKT82DAQT64CA|sv|o|mb|p|mb|p|mb|1H|mb|p|mb|1N|mb|d|mb|2D|mb|p|mb|p|mb|p|pc|d2|pc|d8|pc|dK|pc|dA|pg||
+pc|cA|pc|c6|pc|c7|pc|c2|pg||
+pc|d6|pc|d5|pc|dJ|pc|s7|pg||
+pc|cK|pc|c3|pc|s5|pc|c5|pg||
+pc|cJ|pc|c4|pc|s8|pc|d9|pg||
+pc|s4|mc|12|pg||
+qx|o9|st||md|3S654H632DJ75CK876,SKQT7HQ5DQT8CAJ43,SJ983HAKJD943CQT9,SA2HT9874DAK62C52|sv|e|nt|calabres: and a good timing play|pg||
+nt|STRIK3R: one spec told me this: Julius Caesar siad " Of all the peoples of the Gaule, Belgian are the bravest ones !" |pg||
+nt|STRIK3R: said|pg||
+nt|STRIK3R: to explain the bidding of board 8|pg||
+mb|p|mb|1H|nt|calabres: So Asterix is a myth?|pg||
+mb|p|mb|1S|mb|p|mb|2D|nt|STRIK3R: fortune favours the brave, bridge is the bidders game, there are many good sayings|pg||
+nt|STRIK3R: hehe, Asterix must be, to bad, I like him and Obelix|pg||
+mb|p|mb|3N|mb|p|mb|p|mb|p|nt|STRIK3R: 3NT is not a gimmy|pg||
+nt|STRIK3R: need some work|pg||
+pc|c9|nt|calabres: tough|pg||
+nt|STRIK3R: West counting tricks, and hope to score either 4 in @d or in @s(J can fall)|pg||
+nt|STRIK3R: Attacking @H dont look to tempting, so two tricks in @c is always good, but as we see, as soon as south has used his K of @c, he will never get back in|pg||
+nt|calabres: normal test @Ds first|pg||
+pc|c2|pc|cK|nt|STRIK3R: agreed|pg||
+pc|cA|pg||
+pc|d8|pc|d3|pc|dA|pc|d7|pg||
+pc|d2|pc|d5|pc|dQ|pc|d9|pg||
+pc|dT|pc|d4|pc|dK|pc|dJ|pg||
+pc|d6|nt|STRIK3R: off to a good start now|pg||
+pc|h2|pc|c4|nt|STRIK3R: feel sorry for North now|pg||
+nt|STRIK3R: what to pitch?|pg||
+pc|hK|pg||
+nt|STRIK3R: trying to avoid being endplayed, hoping partner have Q of @H|pg||
+nt|STRIK3R: good thinking|pg||
+nt|STRIK3R: If declarer play T of @H and let it run...|pg||
+nt|STRIK3R: North will use ace and escape with the J|pg||
+pc|hT|pc|h3|pc|h5|pc|hJ|pg||
+pc|s8|nt|STRIK3R: I thought|pg||
+pc|s2|pc|s6|pc|sT|pg||
+pc|hQ|pc|hA|pc|h4|pc|h6|pg||
+pc|cQ|pc|c5|pc|c6|pc|c3|pg||
+mc|10|pg||
+qx|c9|st||md|3S654H632DJ75CK876,SKQT7HQ5DQT8CAJ43,SJ983HAKJD943CQT9,SA2HT9874DAK62C52|sv|e|mb|1C|mb|1H|mb|p|mb|2C!|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s9|pc|s2|pc|s4|pc|sT|pg||
+pc|s7|pc|s3|pc|sA|pc|s5|pg||
+pc|dA|pc|d5|pc|d8|pc|d3|pg||
+pc|d2|pc|d7|pc|dQ|pc|d4|pg||
+pc|sK|pc|s8|pc|h4|pc|s6|pg||
+pc|sQ|pc|sJ|pc|c2|pc|h2|pg||
+pc|dT|pc|d9|pc|dK|pc|dJ|pg||
+pc|d6|pc|c7|pc|c4|pc|c9|pg||
+pc|c5|pc|c6|pc|cA|pc|cT|pg||
+mc|9|pg||
+qx|o10|st||md|4ST42H98DQT97CAKT6,SKQJHKQJT75D8CQ43,S8653HA3DAKJ32CJ8,SA97H642D654C9752|sv|b|nt|STRIK3R: Nicely played by west, good hand read|pg||
+nt|calabres: yep|pg||
+mb|p|mb|p|mb|1H|mb|d|mb|p|mb|2C|mb|2H|mb|p|mb|p|mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|dA|nt|calabres: pushing them to level 3|pg||
+pc|d4|pc|d7|pc|d8|pg||
+pc|dK|pc|d5|pc|d9|nt|STRIK3R: yes, and need to find the @c ruff to take 5 tricks|pg||
+pc|h5|pg||
+pc|hJ|pc|h3|pc|h2|pc|h8|pg||
+pc|hQ|pc|hA|pc|h4|pc|h9|pg||
+pc|d2|pc|d6|pc|dT|pc|h7|pg||
+nt|STRIK3R: no, wait, he only have one entrance in dummy when he failed to unblock the @h's|pg||
+pc|sK|pc|s6|pc|s7|pc|s4|pg||
+pc|sQ|pc|s3|pc|s9|pc|s2|pg||
+pc|sJ|pc|s5|pc|sA|pc|sT|pg||
+pc|c7|nt|STRIK3R: sorry no, south have to escape a @c|pg||
+pc|c6|pc|c4|pc|c8|pg||
+nt|STRIK3R: good job south|pg||
+nt|calabres: yes|pg||
+mc|8|pg||
+qx|c10|st||md|4ST42H98DQT97CAKT6,SKQJHKQJT75D8CQ43,S8653HA3DAKJ32CJ8,SA97H642D654C9752|sv|b|mb|p|mb|p|mb|1H|mb|d|mb|2H|mb|d|mb|3H|mb|p|mb|p|mb|p|pc|dK|pc|d4|pc|d9|pc|d8|pg||
+pc|dA|pc|d5|pc|d7|pc|h7|pg||
+pc|hK|pc|hA|pc|h2|pc|h8|pg||
+pc|h3|pc|h4|pc|h9|pc|hT|pg||
+pc|sQ|pc|s6|pc|sA|pc|s2|pg||
+pc|d6|pc|dT|pc|hJ|pc|d2|pg||
+pc|sK|pc|s3|pc|s7|pc|s4|pg||
+pc|sJ|pc|s5|pc|s9|pc|sT|pg||
+pc|c3|pc|c8|pc|c9|pc|cT|pg||
+pc|cA|pc|c4|pc|cJ|pc|c2|pg||
+pc|cK|pc|cQ|pc|d3|pc|c5|pg||
+mc|8|pg||
+qx|o11|st||md|1SA72H6DAKQ642CK42,SQ85HAKQT5DJ85CQ9,ST93HJ9873D73CA86,SKJ64H42DT9CJT753|sv|o|mb|1D|mb|1H|nt|STRIK3R: North had showed 11 hcp up to the point of the @c play, was room for A or K of @c|pg||
+mb|p|mb|p|mb|d|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h4|nt|STRIK3R: nice pickup here, 3NT will make, 9 top tricks as the cards are layed|pg||
+pc|h6|pc|hQ|pc|h3|pg||
+nt|calabres: great bid|pg||
+nt|STRIK3R: other table, same start, south choosed to rebid 2@d instead of a dbl|pg||
+pc|hA|pc|h9|pc|h2|pc|c2|pg||
+pc|s5|pc|s9|pc|sJ|pc|sA|pg||
+pc|dA|nt|calabres: X is what S hand worth|pg||
+pc|d5|pc|d7|pc|d9|pg||
+pc|dK|pc|d8|pc|d3|pc|dT|pg||
+pc|dQ|pc|dJ|pc|h8|pc|c3|pg||
+pc|d2|pc|h5|pc|s3|nt|STRIK3R: totaly agree, you never know what your passed hand partner have, and when looking at only one @H, your partners pass could very easily be a penalty pass|pg||
+pc|s4|pg||
+pc|d4|pc|hT|pc|h7|nt|calabres: rite|pg||
+nt|calabres: routine to play that|pg||
+pc|s6|pg||
+pc|d6|pc|c9|pc|sT|pc|c5|pg||
+pc|cK|pc|cQ|pc|c6|pc|c7|pg||
+pc|c4|pc|s8|pc|cA|pc|cT|pg||
+nt|STRIK3R: so, Portugal fighting back, but of course they dont know the score, only we do :)|pg||
+nt|STRIK3R: brb|pg||
+mc|9|pg||
+qx|c11|st||md|1SA72H6DAKQ642CK42,SQ85HAKQT5DJ85CQ9,ST93HJ9873D73CA86,SKJ64H42DT9CJT753|sv|o|mb|1D|mb|1H|mb|p|mb|p|mb|2D|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|h4|pc|h6|pg||
+pc|hK|pc|h7|pc|h2|pc|d2|pg||
+pc|dA|pc|d5|pc|d3|pc|d9|pg||
+pc|dK|pc|d8|pc|d7|pc|dT|pg||
+pc|dQ|pc|dJ|pc|h8|pc|c3|pg||
+mc|9|pg||
+qx|o12|st||md|2SAQTHK52DKJ86C432,S9763HAQJ8DAQ9CJ6,S854H9743D42CAQ85,SKJ2HT6DT753CKT97|sv|n|nt|calabres: well deserved 7 IMPs|pg||
+mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|nt|STRIK3R: choice of lead? @d would be natural without the @d opening|pg||
+pc|h2|pc|h8|pc|h9|pc|hT|pg||
+pc|h6|pc|hK|pc|hA|pc|h3|pg||
+nt|aurora:  Running score Seniors http://www.eurobridge.org/repository/competitions/16budapest/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1212&qshowflag=1|pg||
+nt|STRIK3R: went for the attacking lead, probably dont excpect your partner to hold to many hcp, looking at 13 hcp on you own hand|pg||
+pc|cJ|pc|c5|pc|c7|pc|c4|pg||
+pc|c6|pc|cA|pc|cT|pc|c2|pg||
+pc|s4|pc|s2|pc|sT|pc|s3|pg||
+mc|8|pg||
+qx|c12|st||md|2SAQTHK52DKJ86C432,S9763HAQJ8DAQ9CJ6,S854H9743D42CAQ85,SKJ2HT6DT753CKT97|sv|n|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|sQ|pc|s3|pc|s4|pc|sK|pg||
+pc|d3|pc|d6|pc|dQ|pc|d2|pg||
+pc|dA|pc|d4|pc|d5|pc|d8|pg||
+pc|d9|pc|h4|pc|d7|pc|dK|pg||
+pc|dJ|pc|c6|pc|h3|pc|dT|pg||
+pc|c4|pc|cJ|pc|cA|pc|c7|pg||
+pc|s8|pc|sJ|pc|sA|pc|s6|pg||
+pc|sT|pc|s7|pc|s5|pc|s2|pg||
+pc|h2|pc|h8|pc|h9|pc|hT|pg||
+pc|cK|pc|c3|pc|hJ|pc|c5|pg||
+mc|8|pg||
+qx|o13|st||md|3SQT73HA75D86CAKT8,S84H863DKQ9CJ9732,SAKJ6HKJTDJ75CQ54,S952HQ942DAT432C6|sv|b|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|nt|STRIK3R: I see 10 easy tricks in @s N/S, a @H lead or a @H switch from opponents will give you the 11th, you can of course get the @H suit correct your self for 11 tricks|pg||
+mb|4S|mb|p|mb|p|mb|p|pc|c6|pc|cT|pc|cJ|pc|cQ|pg||
+pc|sA|pc|s5|pc|s3|pc|s4|pg||
+pc|sK|pc|s2|pc|s7|pc|s8|pg||
+pc|sJ|pc|s9|pc|sT|pc|c2|pg||
+pc|c5|pc|d3|pc|cA|pc|c3|pg||
+pc|d6|pc|dQ|pc|d5|pc|d4|pg||
+pc|dK|pc|d7|pc|d2|pc|d8|pg||
+pc|d9|pc|dJ|pc|dA|pc|sQ|pg||
+pc|h5|pc|h6|pc|hK|pc|h2|pg||
+pc|hJ|pc|h4|pc|h7|pc|h3|pg||
+mc|11|pg||
+qx|c13|st||md|3SQT73HA75D86CAKT8,S84H863DKQ9CJ9732,SAKJ6HKJTDJ75CQ54,S952HQ942DAT432C6|sv|b|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c6|pc|c8|pc|c9|pc|cQ|pg||
+pc|sK|pc|s2|pc|s3|pc|s4|pg||
+pc|sA|pc|s5|pc|s7|pc|s8|pg||
+pc|s6|pc|s9|pc|sQ|pc|c2|pg||
+pc|cA|pc|c7|pc|c4|pc|d3|pg||
+pc|d6|pc|dQ|pc|d5|pc|d4|pg||
+pc|dK|pc|dJ|pc|d2|pc|d8|pg||
+pc|d9|pc|d7|pc|dT|pc|sT|pg||
+pc|h5|pc|h3|pc|hK|pc|h2|pg||
+pc|hJ|pc|h4|pc|h7|pc|h6|pg||
+mc|11|pg||
+qx|o14|st||md|4S97H862DAK65CAKQT,SAK2HAK97DQ9842C9,SQJT4HQT4DJTCJ632,S8653HJ53D73C8754|sv|o|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d2|pc|dT|pc|d7|pc|d6|pg||
+pc|c2|pc|c4|pc|cA|pc|c9|pg||
+pc|cK|pc|s2|pc|c3|pc|c5|pg||
+pc|cQ|pc|h9|pc|c6|pc|c7|pg||
+pc|cT|pc|h7|pc|cJ|pc|c8|pg||
+pc|dJ|pc|d3|pc|dK|pc|d4|pg||
+pc|dA|pc|d8|mc|7|pg||
+qx|c14|st||md|4S97H862DAK65CAKQT,SAK2HAK97DQ9842C9,SQJT4HQT4DJTCJ632,S8653HJ53D73C8754|sv|o|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d2|pc|dT|pc|d7|pc|d6|pg||
+pc|c2|pc|c5|pc|cA|pc|c9|pg||
+pc|cK|pc|s2|pc|c3|pc|c4|pg||
+pc|cQ|pc|h7|pc|c6|pc|c7|pg||
+pc|cT|pc|h9|pc|cJ|pc|c8|pg||
+pc|dJ|pc|d3|pc|dA|pc|d4|pg||
+pc|dK|pc|d8|mc|7|pg||
+qx|o15|st||md|1ST3HQ986DJT6CAQ54,S8652HT75DKQ3CK97,SQ94HKJ4DA752CJ83,SAKJ7HA32D984CT62|sv|n|nt|STRIK3R: a more aggressive declarer in MP tourney would probably make 8 tricks attacking @s in trick 2|pg||
+mb|p|mb|p|nt|STRIK3R: or even 9|pg||
+nt|aurora:  last 2 hands Many thanks to all commentators for sharing with us your experience, to the operator  and to the kibitzers. See you in about 95 minutes for next round|pg||
+mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|p|nt|STRIK3R: Thx to aurora for the job in informing us, I know that is hard work|pg||
+mb|p|nt|calabres: ty Aura, ty Ronny|pg||
+nt|STRIK3R: tu Luis|pg||
+nt|aurora:  Thank you Ronny and Luis for  all :)|pg||
+pc|c3|pc|c2|pc|cA|pc|c7|pg||
+pc|c4|pc|cK|pc|c8|pc|c6|pg||
+pc|s6|pc|s4|pc|sA|pc|s3|pg||
+nt|aurora:  nect on vugraph http://livebridge.net/bbo/wbf/2016ebtc.php?dsp=sch&sid=24|pg||
+nt|STRIK3R: thx|pg||
+pc|d4|pc|d6|pc|dK|pc|dA|pg||
+pc|cJ|pc|cT|pc|cQ|pc|c9|pg||
+pc|dJ|pc|dQ|pc|d2|pc|d8|pg||
+pc|s5|pc|s9|pc|sJ|pc|sT|pg||
+nt|STRIK3R: next board was another all pass in closed room, will it happen here?|pg||
+pc|sK|pc|c5|pc|s2|pc|sQ|pg||
+pc|d9|pc|dT|pc|d3|pc|d5|pg||
+pc|h8|pc|h7|pc|h4|nt|STRIK3R: claim|pg||
+nt|STRIK3R: :)|pg||
+pc|hA|pg||
+mc|7|pg||
+qx|c15|st||md|1ST3HQ986DJT6CAQ54,S8652HT75DKQ3CK97,SQ94HKJ4DA752CJ83,SAKJ7HA32D984CT62|sv|n|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|p|mb|p|pc|c3|pc|c2|pc|cA|pc|c7|pg||
+pc|c4|pc|cK|pc|c8|pc|c6|pg||
+pc|s5|pc|s4|pc|sA|pc|s3|pg||
+pc|d4|pc|d6|pc|dQ|pc|dA|pg||
+pc|cJ|pc|cT|pc|cQ|pc|c9|pg||
+pc|h8|pc|hT|pc|hJ|pc|h2|pg||
+pc|s9|pc|sJ|pc|sT|pc|s6|pg||
+pc|sK|pc|c5|pc|s2|pc|sQ|pg||
+pc|d8|pc|dT|pc|dK|pc|d2|pg||
+pc|h5|pc|h4|pc|hA|pc|h6|pg||
+pc|h3|pc|h9|pc|h7|pc|hK|pg||
+pc|d5|pc|d9|pc|dJ|pc|d3|pg||
+pc|hQ|pc|s8|pc|d7|pc|s7|pg||
+pg||
+qx|o16|st||md|2SK7H643DK632CAJ76,SJ83HK87DQ987CKQT,SAQ965HQJ92DJC843,ST42HAT5DAT54C952|sv|e|nt|STRIK3R: any bets, North to open 1@s?|pg||
+nt|STRIK3R: Luis?|pg||
+mb|p|mb|p|mb|p|mb|p|nt|calabres: ty|pg||
+nt|STRIK3R: wouldent think before doing it :)|pg||
+nt|STRIK3R: later all :)|pg||
+pg||
+qx|c16|st||md|2SK7H643DK632CAJ76,SJ83HK87DQ987CKQT,SAQ965HQJ92DJC843,ST42HAT5DAT54C952|sv|e|mb|p|nt|aurora:  Running score Seniors http://www.eurobridge.org/repository/competitions/16budapest/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1212&qshowflag=1|pg||
+nt|aurora:  Many thanks to all commentators for sharing with us your experience, to the operator  and to the kibitzers. See you in about 110 minutes for next round|pg||
+mb|p|mb|p|mb|p|pg||

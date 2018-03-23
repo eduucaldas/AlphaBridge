@@ -1,0 +1,113 @@
+vg|3rd ING BANK Top Circuit 2000,Match 7A,P,11,20,Team 1,0,Team 2,0|
+rs|5HS-2,,3NN+4,,2SS+2,,2SE+2,,4HW+1,,6DSx-3,,4SE-2,,4HE+1,,2CEx-1,,1NW=,|
+pw|Jansma,Daemen,Verhees,Oosthoek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|11,12,13,14,15,16,17,18,19,20|
+pg||
+mn|3rd ING BANK Top Circuit 2000 - 2000.06.11|pn|Jansma,Daemen,Verhees,Oosthoek|qx|o11,BOARD 11|rh||ah|Board 11|md|1SA74HA9654DJCKT42,SJ53HK7DAT952C983,SKT986HQJ832D8CQ7|sv|0|
+sa|0|mb|1H|mb|p|mb|3N|mb|4D|mb|4H|mb|5D|mb|5H|mb|p|mb|p|mb|p|pg||
+pc|DA|pc|D8|pc|D3|pc|DJ|pg||
+pc|C9|pc|C7|pc|CA|pc|C4|pg||
+pc|C5|pc|C2|pc|C8|pc|CQ|pg||
+pc|HQ|pc|HT|pc|H5|pc|HK|pg||
+pc|H7|pc|H2|pc|DK|pc|H9|pg||
+pc|CK|pc|C3|pc|S6|pc|C6|pg||
+pc|CT|pc|DT|pc|H3|pc|CJ|pg||
+pc|H8|pc|D4|pc|HA|pc|D2|pg||
+mc|9|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o12,BOARD 12|rh||ah|Board 12|md|2SAQ983HTDKQTCQJ52,ST764HQ863DA6CT86,SK52HAKJ5DJ82CAK3|sv|n|
+sa|0|mb|2C|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|H4|pc|HT|pc|HQ|pc|HK|pg||
+pc|D2|pc|D3|pc|DK|pc|D6|pg||
+pc|SA|pc|S4|pc|S5|pc|SJ|pg||
+pc|S9|pc|S6|pc|S2|pc|D4|pg||
+pc|S3|pc|S7|pc|SK|pc|D5|pg||
+pc|HJ|pc|H2|pc|DT|pc|H3|pg||
+pc|HA|pc|H7|pc|DQ|pc|H6|pg||
+mc|13|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o13,BOARD 13|rh||ah|Board 13|md|3SKJT652HT43DA953C,SA974HAJ9DTCAT876,SQ3HKQDKJ4CJ95432|sv|b|
+sa|0|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|DT|pc|DJ|pc|DQ|pc|DA|pg||
+pc|H4|pc|HA|pc|HQ|pc|H2|pg||
+pc|S4|pc|S3|pc|S8|pc|ST|pg||
+pc|H3|pc|H9|pc|HK|pc|H5|pg||
+pc|C2|pc|CQ|pc|S2|pc|C6|pg||
+pc|HT|pc|HJ|pc|SQ|pc|H6|pg||
+pc|C3|pc|CK|pc|S5|pc|C7|pg||
+pc|SJ|pc|S7|pc|C4|pc|H8|pg||
+pc|D3|pc|C8|pc|DK|pc|D6|pg||
+pc|D4|pc|D2|pc|D5|pc|S9|pg||
+pc|SA|pc|C5|pc|D7|pc|S6|pg||
+mc|10|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o14,BOARD 14|rh||ah|Board 14|md|4SK6H842DA63CK9432,SATHK53DKQJ72CAT6,S9875HAQT9D85C875|sv|0|
+sa|0|mb|p|mb|p|mb|1D|mb|1H|mb|1S|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|H3|pc|HQ|pc|H6|pg||
+pc|C5|pc|CJ|pc|C3|pc|C6|pg||
+pc|CQ|pc|C2|pc|CT|pc|C8|pg||
+pc|S2|pc|S6|pc|ST|pc|S5|pg||
+pc|SA|pc|S9|pc|S3|pc|SK|pg||
+pc|CA|pc|C7|pc|H7|pc|CK|pg||
+pc|D2|pc|D5|pc|DT|pc|DA|pg||
+pc|H4|pc|H5|pc|HA|pc|HJ|pg||
+mc|10|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o15,BOARD 15|rh||ah|Board 15|md|1S43HJT6DA3C976432,SKQ2HKQ83DQT754CQ,SJ9865H97D86CAKJ8|sv|n|
+sa|0|mb|p|mb|1D|mb|1S|mb|d|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|CA|pc|C5|pc|C2|pc|CQ|pg||
+pc|CK|pc|CT|pc|C3|pc|H3|pg||
+pc|HK|pc|H7|pc|H2|pc|H6|pg||
+pc|HQ|pc|H9|pc|H4|pc|HT|pg||
+mc|11|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o16,BOARD 16|rh||ah|Board 16|md|2SQ54HJ65DQT9432CA,SAK87HT872DCQ6542,S93H4DKJ8765CKJT9|sv|e|
+sa|0|mb|p|mb|p|mb|1H|mb|3D|mb|4D|mb|5C|mb|p|mb|5D|mb|5H|mb|6D|mb|d|mb|p|mb|p|mb|p|pg||
+pc|SK|pc|S3|pc|S6|pc|S5|pg||
+pc|SA|pc|S9|pc|SJ|pc|S4|pg||
+pc|H8|pc|H4|pc|HQ|pc|HJ|pg||
+pc|DA|pc|D2|pc|S7|pc|D5|pg||
+mc|9|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o17,BOARD 17|rh||ah|Board 17|md|3SQ97HJ7DJT9843CQ8,SJ542HAQ9864D5C94,SA3HK532DK6CT7532|sv|0|
+sa|0|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|DJ|pc|D5|pc|D6|pc|DQ|pg||
+pc|D7|pc|D8|pc|S2|pc|DK|pg||
+pc|C4|pc|C7|pc|CA|pc|C8|pg||
+pc|DA|pc|D3|pc|C9|pc|S3|pg||
+pc|SA|pc|S6|pc|S7|pc|S4|pg||
+pc|C5|pc|CJ|pc|CQ|pc|S5|pg||
+pc|HA|pc|H2|pc|HT|pc|H7|pg||
+pc|H8|pc|H3|pc|S8|pc|HJ|pg||
+pc|CK|pc|SQ|pc|H4|pc|C2|pg||
+mc|8|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o18,BOARD 18|rh||ah|Board 18|md|4SK62H532DJ73CQ932,S4HAK98D862CKT854,SQJ9HQTDKQT95CJ76|sv|n|
+sa|0|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|C3|pc|C4|pc|C6|pc|CA|pg||
+pc|H4|pc|H3|pc|HA|pc|HQ|pg||
+pc|CK|pc|C7|pc|D4|pc|C2|pg||
+pc|D2|pc|DK|pc|DA|pc|D7|pg||
+pc|SA|pc|S6|pc|S4|pc|S9|pg||
+pc|S3|pc|S2|pc|H8|pc|SJ|pg||
+pc|D6|pc|DQ|pc|H6|pc|D3|pg||
+pc|S5|pc|SK|pc|H9|pc|SQ|pg||
+pc|C5|pc|CJ|pc|HJ|pc|C9|pg||
+pc|S7|pc|DJ|pc|D8|pc|HT|pg||
+pc|DT|pc|H7|pc|CQ|pc|C8|pg||
+mc|11|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o19,BOARD 19|rh||ah|Board 19|md|1S8743HK76DT83CAQ5,SJ2HJT8432DK2CJ87,S65HAQ95DAQ976CK6|sv|e|
+sa|0|mb|p|mb|p|mb|1N|mb|d|mb|r|mb|p|mb|p|mb|2C|mb|d|mb|p|mb|p|mb|p|pg||
+pc|H6|pc|H2|pc|HA|pc|C2|pg||
+pc|D4|pc|D8|pc|DK|pc|DA|pg||
+pc|H5|pc|C3|pc|H7|pc|H3|pg||
+pc|S9|pc|S3|pc|SJ|pc|S5|pg||
+pc|S2|pc|S6|pc|SA|pc|S7|pg||
+pc|SK|pc|S8|pc|D2|pc|C6|pg||
+pc|CK|pc|C4|pc|C5|pc|C7|pg||
+pc|H9|pc|C9|pc|HK|pc|H4|pg||
+pc|SQ|pc|S4|pc|H8|pc|D6|pg||
+pc|D5|pc|DT|pc|C8|pc|D7|pg||
+mc|7|pg||
+pn|Jansma,Daemen,Verhees,Oosthoek|qx|o20,BOARD 20|rh||ah|Board 20|md|2SK742HQ76DJ6CA862,SQJ63HA9DAKT9CJ95,SA8HKJ85D853CK743|sv|b|
+sa|0|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|CQ|pc|CA|pc|C5|pg||
+pc|C2|pc|C9|pc|CK|pc|CT|pg||
+pc|C3|pc|D2|pc|C6|pc|CJ|pg||
+pc|DA|pc|D3|pc|D4|pc|D6|pg||
+pc|D9|pc|D5|pc|DQ|pc|DJ|pg||
+mc|7|pg||

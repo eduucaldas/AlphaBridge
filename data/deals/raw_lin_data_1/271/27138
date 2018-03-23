@@ -1,0 +1,558 @@
+vg|Zurich International Festival,1st Session,P,1,32,Team 1,0,Team 2,0|
+rs|3NW+1,3NS+1,4SE=,PASS,4SS=,2SN+1,3NE+2,3SN+1,3NW+1,4HN=,3SS=,4SWx-3,2SE=,6CN=,2SE+1,4HS-3,5DSx+1,4HE=,2SE=,2NN=,3CN-2,4HS+1,4NN+2,3SW+1,2SS+2,2HS+2,3NE+1,4SE-1,3NW-2,1NW+2,3NE+4,2SN+2,1NWx-1,4SE=,1NW-2,5SS-2,2HW-1,3HN-1,4SE-1,4HE-2,1NE-1,3SE-1,3SE=,,4SE+1,1NS-3,1NE+2,3NW=,2SE-1,3NS-1,6HE=,4SE=,3NW+1,3HN+1,3DW=,,2SE+2,,1NE+1,,,,,3NW+1|
+pn|Link,Gwinner,Terrettaz,Kunzli,South,West,North,East|pg||
+qx|o1|st||md|3SAT3HA82DK53C9876,SJ9875H73DA2CAQT3,SQ642HQ65DT974CJ5,SKHKJT94DQJ86CK42|sv|o|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dT|pc|dQ|pc|d3|pc|d2|pg||
+pc|c2|pc|c7|pc|cQ|pc|c5|pg||
+pc|h3|pc|h5|pc|hT|pc|h2|pg||
+pc|d6|pc|d5|pc|dA|pc|d4|pg||
+pc|h7|pc|h6|pc|hJ|pc|hA|pg||
+pc|sA|pc|s5|pc|s2|pc|sK|pg||
+pc|sT|pc|sJ|pc|sQ|pc|h4|pg||
+pc|s4|mc|10|pg||
+qx|o2|st||md|4ST97HKQJT64D652C5,SK6HA83DAKJCQJ632,SAQ2H752D97CK9874,SJ8543H9DQT843CAT|sv|n|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|3H|mb|4S|mb|p|mb|p|mb|p|pc|c5|pc|c2|pc|c4|pc|cT|pg||
+pc|s4|pc|s9|pc|sK|pc|sA|pg||
+pc|c7|pc|cA|pc|s7|pc|c3|pg||
+pc|hK|pc|hA|pc|h2|pc|h9|pg||
+pc|s6|pc|s2|pc|sJ|pc|sT|pg||
+mc|10|pg||
+qx|o3|st||md|1SKQJ54H52DK43CT95,S86HJT83DT872C743,SAT72HAK974D9CKJ8,S93HQ6DAQJ65CAQ62|sv|e|mb|p|mb|p|mb|1H|mb|2D|mb|2S|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c4|nt|jules101: x|pg||
+pc|cJ|pc|cQ|pc|c5|pg||
+pc|cA|pc|c9|pc|c3|pc|c8|pg||
+pc|dA|pc|d3|pc|d7|pc|d9|pg||
+pc|c6|pc|cT|pc|c7|pc|cK|pg||
+mc|10|pg||
+qx|o4|st||md|2S763H942DK7543C42,SKQJ85H85D86CJ753,SAT92HQT63DT2CA86,S4HAKJ7DAQJ9CKQT9|sv|b|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s7|pc|sK|pc|sA|pc|s4|pg||
+pc|c6|pc|cK|pc|c4|pc|c3|pg||
+pc|cQ|pc|c2|pc|c5|pc|c8|pg||
+pc|cT|pc|s6|pc|c7|pc|cA|pg||
+pc|dT|pc|dQ|pc|d3|pc|d6|pg||
+pc|d9|pc|d4|pc|d8|pc|d2|pg||
+pc|dA|pc|d5|pc|s5|pc|h3|pg||
+pc|hA|pc|h2|pc|h5|pc|h6|pg||
+pc|c9|pc|s3|pc|cJ|pc|hT|pg||
+pc|sQ|pc|s2|pc|dJ|mc|11|pg||
+qx|o5|st||md|3SJ73HT9854D76CQ87,S864HAJDQT5CKJ964,SAQT9HKQ76DJ8CT52,SK52H32DAK9432CA3|sv|n|mb|1C|mb|1D|mb|p|mb|1N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sQ|pc|sK|pc|s3|pc|s4|pg||
+pc|dA|pc|d7|pc|d5|pc|d8|pg||
+pc|d2|pc|d6|pc|dQ|pc|dJ|pg||
+pc|dT|pc|h7|pc|dK|pc|h4|pg||
+pc|d9|pc|h5|pc|s6|pc|s9|pg||
+pc|d3|pc|h8|pc|c4|pc|c2|pg||
+pc|d4|pc|h9|pc|s8|pc|h6|pg||
+pc|cA|pc|c7|pc|c6|pc|c5|pg||
+pc|c3|pc|c8|pc|cK|pc|cT|pg||
+pc|hA|pc|hQ|pc|h2|pc|hT|pg||
+mc|10|pg||
+qx|o6|st||md|4SKQ9HKJT8DQ43CA54,S643H9643DJCT9873,SJT8752HAQ5D976C2,SAH72DAKT852CKQJ6|sv|e|mb|1D|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|dJ|pc|d6|pc|dK|pc|d4|pg||
+pc|dA|pc|d3|pc|cT|pc|d7|pg||
+pc|d2|pc|dQ|pc|s3|pc|d9|pg||
+pc|c8|pc|c2|pc|cJ|pc|cA|pg||
+pc|sQ|pc|s4|pc|s2|pc|sA|pg||
+mc|9|nt|vugraphzas: they play 6 boards/turn|pg||
+nt|vugraphzas: waiting for the next turn|pg||
+pg||
+qx|o7|st||md|1SQ96HAK874DJ5CJT7,SAT8743H2DT7CA932,SJ52H9DK9862CKQ65,SKHQJT653DAQ43C84|sv|b|mb|p|mb|2D!|an|multi|mb|p|mb|2S!|mb|p|mb|p|mb|p|pc|hK|pc|h2|pc|h9|pc|h3|pg||
+pc|c7|pc|c2|pc|cQ|pc|c4|pg||
+pc|d6|pc|dQ|pc|d5|pc|d7|pg||
+pc|hQ|pc|hA|pc|s3|pc|s5|pg||
+pc|d2|pc|dA|pc|dJ|pc|dT|pg||
+pc|hT|pc|h4|pc|c3|pc|s2|pg||
+pc|dK|pc|d3|pc|h7|pc|s4|pg||
+pc|s7|pc|sJ|pc|sK|pc|s6|pg||
+pc|hJ|pc|h8|pc|c9|pc|c5|pg||
+pc|c8|pc|cT|pc|cA|pc|c6|pg||
+pc|sA|pc|d8|pc|d4|pc|s9|pg||
+mc|8|pg||
+qx|o8|st||md|2ST97H953DAK82CAJ7,SKJHQT8D74CKT8653,S842HK764DJ63C942,SAQ653HAJ2DQT95CQ|sv|o|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|sT|pc|sJ|pc|s2|pc|s3|pg||
+pc|c3|pc|c2|pc|cQ|pc|cA|pg||
+pc|s7|pc|sK|pc|s4|pc|s5|pg||
+pc|cK|pc|c4|pc|d5|pc|c7|pg||
+pc|hT|pc|h4|pc|h2|pc|h3|pg||
+pc|h8|pc|h6|pc|hJ|pc|h5|pg||
+pc|sA|pc|s9|pc|hQ|pc|s8|pg||
+pc|hA|pc|h9|pc|c5|pc|h7|pg||
+pc|dT|pc|d2|pc|d4|pc|dJ|pg||
+mc|9|pg||
+qx|o9|st||md|3SHQT95DAQJT6542C5,SA85HAK2D7CAQT632,SKT642H8DK9CKJ987,SQJ973HJ7643D83C4|sv|e|mb|1S|mb|p|mb|2D|mb|d|mb|p|mb|2H|nt|adonis18:  3nt:)|pg||
+mb|3D|mb|4C|mb|d|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|hA|pc|h8|pc|h3|pc|h5|pg||
+pc|sA|pc|s2|pc|s3|pc|d2|pg||
+pc|h9|pc|h2|pc|d9|pc|h4|pg||
+pc|sK|pc|s7|pc|c5|pc|s5|pg||
+pc|c7|pc|c4|pc|d4|pc|c3|pg||
+pc|hT|pc|hK|pc|dK|pc|h6|pg||
+mc|12|nt|vugraphzas: contract was doubled (sorry)|pg||
+pg||
+qx|o10|st||md|4SJ5HAQ42DKQ75CJ93,S98HK7DJT943CAT82,S7643H986D6CKQ754,SAKQT2HJT53DA82C6|sv|b|mb|1S|mb|d|mb|1N|mb|2C|mb|2S|mb|p|mb|p|mb|p|pc|c9|pc|cA|pc|c4|pc|c6|pg||
+pc|dJ|pc|d6|pc|d8|pc|dK|pg||
+nt|fluffy: finding out the biddins without convention cards won't be easy|pg||
+pc|cJ|pc|c2|pc|c5|pc|s2|pg||
+pc|sA|pc|s5|pc|s8|pc|s3|pg||
+nt|fluffy: previous board 5@dX should go down if Link had switched to trump|pg||
+pc|sK|pc|sJ|pc|s9|pc|s4|pg||
+nt|fluffy: but @sA was fatal|pg||
+nt|fluffy: but anyway 4@c X was even better|pg||
+pc|dA|pc|d5|pc|d3|pc|s6|pg||
+nt|fluffy: here Terrettaz has made a decision to hide 4@h, perhaps based on LHO's double as well as difference in suit quality|pg||
+nt|adonis18:  you take d-shift in hand and play a club, what can west do?|pg||
+pc|h8|pc|h5|pc|hA|pc|h7|pg||
+pc|h4|pc|hK|pc|h6|pc|h3|pg||
+pc|dT|pc|s7|pc|d2|pc|d7|pg||
+nt|W I T H:  N is in struggle since his p played @DK instead of @DQ|pg||
+pc|cK|pc|sT|pc|c3|nt|fluffy: ruffing was not good|pg||
+pc|c8|pg||
+pc|hJ|pc|hQ|pc|d4|nt|W I T H:  so he assumes that his p does not hold @DQ|pg||
+pc|h9|pg||
+mc|8|nt|fluffy: good point|pg||
+nt|fluffy: concealing the suit to opps costs sometimes|pg||
+nt|W I T H:  I think the reason that S plays @DK instead of @DQ is that he wants the declarer to take another finesse|pg||
+nt|W I T H:  exactlyu|pg||
+pg||
+qx|o11|st||md|1ST53HKQJ96DKQ74CJ,SKQ72HA83DAT9CA95,SJ98H2D865CKQT742,SA64HT754DJ32C863|sv|o|nt|W I T H:  exactly|pg||
+mb|1H|mb|d|nt|fluffy: Link makes another double |pg||
+mb|3C|mb|p|nt|W I T H:  I would bid 1NT here|pg||
+nt|fluffy: Link makes another double I disagree with, if you don't bid 1NT with 17 balanced and a stopper bridge becomes too hard for me|pg||
+mb|p|mb|p|nt|W I T H:  3@C is preempt|pg||
+pc|d2|pc|dK|pc|dA|pc|d5|pg||
+pc|sK|pc|s8|pc|s4|pc|s3|pg||
+pc|s2|pc|s9|pc|sA|pc|s5|pg||
+nt|fluffy: and now he needs to pass as if he had some 4432 12 count, this time doesn't matter, but getting your hand in 1 shot is very good when the auction gets compettive|pg||
+pc|s6|pc|sT|pc|sQ|pc|sJ|pg||
+pc|cA|pc|c2|pc|c3|pc|cJ|pg||
+pc|s7|pc|cK|pc|d3|pc|h6|pg||
+pc|cQ|pc|c6|pc|d4|pc|c5|pg||
+pc|cT|pc|c8|pc|h9|pc|c9|pg||
+pc|h2|pc|h7|pc|hJ|pc|hA|pg||
+nt|W I T H:  W cannot be too conservative here. A @D return is needed before @HA is played|pg||
+mc|7|pg||
+qx|o12|st||md|2S32HAKJ8DQ3CJ8632,SKT9HT732D862C954,SAQJHQ9DAKT975CKQ,S87654H654DJ4CAT7|sv|n|mb|p|mb|2N|mb|p|mb|3C|an|muppet|mb|p|mb|3H|an|no 4-cards or 5cards Major|nt|fluffy: 21 'balanced' its a mistake to treat this hand as 21 or even 22, good 6 card minors are worth more than 2 HCP on a big balanced hand|pg||
+nt|W I T H:  right, especially with KQ in @C and Qx in @H|pg||
+mb|p|nt|fluffy: here you will see just one more example of that theory, 20+11 without fit is no slam|pg||
+mb|4C|nt|fluffy: south is overbidding IMO|pg||
+mb|p|nt|W I T H:  a lucky overbid|pg||
+nt|fluffy: is this the muppet convention? I m not familiar with it, but I know there is something where 3@h denies 5@s or 4@h and 3@d shows 4+ hearts or something|pg||
+nt|fluffy: yes this is the muppet thing|pg||
+nt|W I T H:  the danger of bidding 2NT is that you will never have a chance to show your @D|pg||
+nt|fluffy: 4@c is probably natural, and north will surelly realice his hand is wonderful for slam... but in diamonds|pg||
+mb|4D|mb|p|mb|4H|nt|W I T H:  hard for S to imagine his p holds 6 diamonds|pg||
+mb|p|mb|4N|nt|adonis18:  with a @s lead 6@c comes down to less than 16%|pg||
+mb|p|nt|fluffy: the normal meaning of 4@d here is to show a cuebid in support for clubs, remmeber that after denying 4c Major south thinks you will 90% have support for clubs|pg||
+mb|p|nt|W I T H:  oops|pg||
+mb|p|nt|fluffy: they had a disagreement somehow|pg||
+nt|fluffy: perhaps 4@d kickback?|pg||
+nt|fluffy: I hate kickback|pg||
+pc|s4|pc|s2|pc|s9|nt|fluffy: 4NT is suposed to be a slow down bid over 4@c|pg||
+pc|sQ|pg||
+pc|cK|pc|cA|pc|c2|pc|c4|pg||
+pc|s5|nt|fluffy: 4@c-4NT = partner I don't want to play in clubs and specially not slam|pg||
+pc|s3|pc|sT|pc|sJ|pg||
+nt|fluffy: but this is diferent after 2 cuebids!|pg||
+pc|cQ|pc|c7|pc|c3|pc|c5|pg||
+nt|bigtrain: kickback is the best RKC optio by a good amount|pg||
+mc|12|nt|fluffy: for 4NT to be taken as natural south must have though 4@d was kickback (key card blackwood in clubs)|pg||
+nt|vugraphzas: bid were optional |pg||
+nt|fluffy: and as I said at the start.... bid north's hand as 23 and your troubles are gone|pg||
+nt|vugraphzas: w'ere waiting for the next round to start|pg||
+nt|bigtrain: this problem stems from opening NTs with good suits in offshape hands....  its rarely correct to open 2NT (or2@C-2@D//2NT) with a good 6-card minor|pg||
+nt|fluffy: I disagree Walter, not because 2Nt is great, but because of lack of alternatives, I would rather show 23 balanced than a big hand with diamonds|pg||
+nt|fluffy: but there is obvious many examples where you are right :)|pg||
+nt|fluffy: this is not something extremelly clear, you can convince me the other way around without much effort|pg||
+nt|bigtrain: the hand is worth mor than 22 definitely|pg||
+nt|vugraphzas: there is still a few tables that are playing the current round|pg||
+nt|Henryb:  FWIW, K-R says 22.1|pg||
+nt|bigtrain: i'm surprised its not a bit more...  eally banging the KQ and Q9 becaue i know it LOVES the AK109xx|pg||
+nt|Henryb:  As do you and I @h|pg||
+nt|vugraphzas: we'll start the next round soon|pg||
+nt|Henryb:  If you swapped the two queens for the @hA, it would be over 24|pg||
+nt|Henryb:  the two short queens|pg||
+nt|bigtrain: 24.35|pg||
+nt|fluffy: and what about just @cAQ instead of KQ?|pg||
+nt|fluffy: protected doubleton queen gotta be good|pg||
+nt|bigtrain: 23,3|pg||
+nt|Henryb:  Which high card do you want to take away? the @sJ?|pg||
+nt|bigtrain: 22,50 substracting @sJ|pg||
+nt|fluffy: none, but means KQ vs AQ its only 1.2 HCP, I would have said 1.5 or so|pg||
+nt|bigtrain: short suit...  would have a  bigger impact with length|pg||
+nt|vugraphzas: starting 3rd round|pg||
+pg||
+qx|o13|st||md|3SJT53HJT82DKQ7CK6,S42HK9653D852CQ92,SKQ98HADJ943CJT73,SA76HQ74DAT6CA854|sv|b|nt|Henryb:  BTW, good morning Walter|pg||
+nt|Henryb:  and hello to everyone else|pg||
+mb|p|mb|1C!|an|2+club|mb|p|mb|1D!|mb|p|mb|1H|an|natural or 12-14 balanced|nt|fluffy: 1@h probably transfer|pg||
+nt|fluffy: 1@h 3 cards|pg||
+mb|p|mb|1S|an|transfert to 1nt|mb|d|mb|1N|nt|Henryb:  Where was N with a t.o. double of hearts?|pg||
+mb|2S|mb|p|mb|p|nt|fluffy: or they play polish club?|pg||
+nt|Henryb:  ah. there he is.|pg||
+mb|p|pc|d5|nt|fluffy: kibitzers say 1@d negative or diamonds|pg||
+nt|fluffy: not familiar with this methods|pg||
+pc|d3|nt|fluffy: 1@c is forcing then|pg||
+nt|vugraphzas: diamond vas neg or heart or both major If I heard correctly|pg||
+pc|dA|pc|d7|pg||
+pc|c4|pc|cK|pc|c2|pc|c3|pg||
+pc|c6|pc|cQ|nt|fluffy: so after 5 bids they didn't find they have heart fit?|pg||
+pc|c7|pc|c5|pg||
+pc|s2|pc|sK|nt|Henryb:  hard to beat 10 tricks from here|pg||
+nt|fluffy: Harari sets up the club ruffs before tackling trumps, opponents didn't go for diamond ruffs so he is trusting them|pg||
+pc|s6|pc|s3|pg||
+pc|s8|pc|sA|pc|s5|pc|s4|pg||
+pc|s7|pc|sT|pc|h3|pc|sQ|pg||
+pc|cT|pc|c8|pc|sJ|nt|fluffy: when LHO produced @cQ he know only needs 1@c ruff|pg||
+mc|10|nt|Henryb:  surely not the @sJ here, operator|pg||
+nt|vugraphzas: he made 4|pg||
+nt|Henryb:  right|pg||
+pg||
+qx|o14|st||md|4SK87H92D964CQT953,SAT6532HJT73DQC82,SJ94HKQ85D87CAJ74,SQHA64DAKJT532CK6|sv|o|mb|1D|mb|p|mb|1S|mb|d|nt|fluffy: another bid diamond hand for EW|pg||
+mb|2N!|an|15+ 6+ diamond no 3spade|nt|fluffy: 3NT rebid would be normal for me at MPs, but they play very artificial so that could be a support bid|pg||
+mb|3C|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cT|pc|c2|nt|fluffy: I think 3@d is a negative bid, 2NT being forcing to 3@d, normal bridge principle says that the sooner you bid your minimum forcing level the weaker you are|pg||
+pc|cA|pc|c6|pg||
+pc|c4|pc|cK|pc|c3|pc|c8|pg||
+nt|fluffy: there is really not much to play here|pg||
+pc|d3|pc|d4|pc|dQ|pc|d7|pg||
+pc|hJ|pc|hQ|pc|hA|pc|h9|pg||
+pc|dA|pc|d6|pc|s2|pc|d8|pg||
+pc|dK|pc|d9|pc|s3|pc|h5|pg||
+pc|dJ|pc|c5|pc|s5|pc|c7|pg||
+pc|dT|pc|s7|pc|h3|pc|h8|pg||
+pc|d5|pc|c9|pc|s6|pc|s4|pg||
+pc|d2|pc|h2|pc|h7|pc|cJ|pg||
+pc|h4|pc|s8|pc|hT|pc|hK|pg||
+pc|s9|pc|sQ|pc|sK|pc|sA|pg||
+pc|sT|pc|sJ|pc|h6|pc|cQ|pg||
+pg||
+qx|o15|st||md|1SK952HK96DK72CT92,SJ63H52DAJT98CAJ3,S84HAT87D6543CK75,SAQT7HQJ43DQCQ864|sv|n|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|fluffy: I don't understand this, if he treats the hand as 12-14 balanced why not open 1@c?|pg||
+nt|vugraphzas: 1 diamond is 5+ diamond or 4-4-4-1|pg||
+pc|c7|nt|fluffy: and 1NT is a precise bid showing 3153 + 1 card?|pg||
+nt|vugraphzas: I believe|pg||
+pc|c8|pc|c9|pc|cJ|pg||
+pc|dA|pc|d3|pc|dQ|pc|d2|pg||
+pc|dJ|pc|d4|nt|fluffy: a spade to the queen is 'safe' if @sQ doesn't hold, he has @sJ as entry later|pg||
+pc|h3|nt|fluffy: but tackling diamonds its natural anyway|pg||
+pc|dK|pg||
+pc|hK|pc|h2|nt|fluffy: heart discard not very good, sets up another way for 5 tricks for defence|pg||
+pc|h8|pc|h4|pg||
+pc|h9|pc|h5|pc|h7|pc|hJ|pg||
+pc|c4|nt|fluffy: now the normal line goes 2 down|pg||
+pc|c2|pc|cA|pc|c5|pg||
+pc|dT|pc|d5|pc|hQ|pc|d7|pg||
+pc|d9|pc|d6|pc|c6|pc|s5|pg||
+pc|d8|pc|s4|pc|cQ|mc|7|pg||
+qx|o16|st||md|2S982HQ982D7CKJ763,SJHA73DJT8432CQT9,SQT753HT64DK6C854,SAK64HKJ5DAQ95CA2|sv|e|mb|p|mb|p|mb|2N|mb|p|mb|3C!|mb|p|mb|3D!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c6|nt|fluffy: a reminder, 3@c is muppet, 3@d denies 5cM but promises 4c on at least 1|pg||
+pc|c9|pc|c4|pc|c2|pg||
+pc|dJ|pc|d6|pc|d5|nt|fluffy: the lead is unlucky, now south is squeezed for the 13th trick|pg||
+pc|d7|pg||
+pc|d2|pc|dK|pc|dA|nt|fluffy: if van label wants to try that line|pg||
+pc|c3|pg||
+nt|fluffy: althou heart finese looks better|pg||
+pc|dQ|pc|s8|pc|d3|pc|s3|pg||
+pc|d9|pc|s2|pc|dT|pc|s5|pg||
+pc|d4|pc|c8|pc|s4|pc|h8|pg||
+pc|sJ|pc|sQ|pc|sA|nt|fluffy: when south partner with the spades now a double squeze makes 13 regardless or where @hQ is|pg||
+pc|s9|pg||
+pc|sK|nt|fluffy: @sKA @cA @hA and @d8|pg||
+pc|c7|pc|h3|pc|s7|pg||
+pc|cA|pc|cJ|pc|cT|pc|c5|pg||
+pc|h5|pc|h2|pc|hA|pc|h4|pg||
+pc|d8|pc|sT|pc|s6|pc|h9|pg||
+mc|13|pg||
+qx|o17|st||md|3SK53HAK4DK865CJ43,SJ42H873DAQJCAKQT,SAQT6HQJT2D974C96,S987H965DT32C8752|sv|o|mb|p|mb|p|mb|1D|mb|1N|mb|d|mb|p|mb|p|mb|p|pc|hQ|pc|h5|nt|fluffy: dissapointing dummy|pg||
+pc|hA|pc|h3|pg||
+pc|hK|pc|h7|pc|h2|pc|h6|pg||
+nt|fluffy: running to 2@c would had worked really nicelly this time, althou I wouldn't do it|pg||
+pc|h4|pc|h8|pc|hT|pc|h9|pg||
+pc|hJ|pc|c2|pc|d6|pc|dJ|pg||
+nt|fluffy: anythig but a diamonds seems to lead to 5 tricks for declarer|pg||
+pc|d4|pc|d2|pc|d5|pc|dQ|pg||
+pc|cA|pc|c6|pc|c5|pc|c3|pg||
+pc|cK|pc|c9|pc|c7|pc|c4|pg||
+pc|cQ|nt|fluffy: its always hard to discard with honnors on all suits, you can't imagine partner has @sAQ10x|pg||
+pc|d7|pc|c8|pc|cJ|pg||
+pc|cT|pc|d9|pc|s7|pc|s3|pg||
+pc|dA|pc|s6|pc|d3|pc|d8|pg||
+pc|s2|pc|sT|pc|s8|mc|6|nt|fluffy: perhaps harari can foresee this problem and switch to a club at trick 2 or 3, but that tactic is also often fatal becausea single discard for west is often extremelly painy, and ...|pg||
+nt|fluffy: switching might prevent it|pg||
+pg||
+qx|o18|st||md|4ST87HQ8764DJ85CA8,SKJ3HKJTDKT97CK53,SA542HDAQ6CT97642,SQ96HA9532D432CQJ|sv|n|mb|p|mb|p|mb|1C!|mb|p|mb|1H!|an|may have more diamond than heart|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|cT|pc|cJ|pc|cA|pc|c3|pg||
+pc|c8|pc|c5|pc|c2|pc|cQ|pg||
+nt|fluffy: I would certainly try to play 2@h with east's hand|pg||
+pc|s6|pc|s7|pc|sK|pc|sA|pg||
+pc|c4|pc|d2|pc|d5|pc|cK|pg||
+nt|fluffy: van den bo has taken a very conservative line going for spades before hearts|pg||
+nt|fluffy: perhaps he just wanted to get 1 spade before going for hearts|pg||
+nt|fluffy: now he should decide to play hearts from the top or finese south (who is suposed to have @hQ given the 6-2 club break)|pg||
+pc|hK|pc|s2|pc|h2|pc|h4|pg||
+pc|hJ|nt|fluffy: @hK is not the way to go|pg||
+pc|s4|pc|h3|pc|hQ|pg||
+pc|d8|pc|dK|pc|dA|pc|d3|pg||
+pc|c6|pc|d4|pc|dJ|pc|s3|pg||
+pc|c7|pc|h5|pc|h6|pc|hT|pg||
+pc|c9|pc|s9|pc|h7|mc|5|nt|vugraphzas: ok round has finished, a few tables are still playing|pg||
+nt|vugraphzas: next round in a moment|pg||
+nt|fluffy: even with the 5-0 break it looks like 2@h makes|pg||
+nt|Henryb:  1N was cold|pg||
+nt|fluffy: perhaps not on perfect defence (@c lead)|pg||
+nt|Henryb:  silly play|pg||
+nt|HedyG: salut Jerome :) was that player in W Van Den Borre ?|pg||
+nt|fluffy: but you need 8 tricksto beat 2@h|pg||
+nt|vugraphzas: Van den Bos|pg||
+nt|HedyG: ok ty|pg||
+nt|vugraphzas: young pair|pg||
+nt|Henryb:  but they are playing imps, I think|pg||
+nt|vugraphzas: yes|pg||
+nt|Henryb:  so going + was first concern|pg||
+nt|fluffy: are they? I don't know|pg||
+nt|HedyG: the operator can only use the space of 10 letters on the banner so if the name is longer we cannot see it|pg||
+nt|fluffy: patton or IMPs?|pg||
+nt|vugraphzas: IMP|pg||
+nt|vugraphzas: pair tournament|pg||
+nt|Henryb:  'Allo @h|pg||
+nt|fluffy: ah thank you|pg||
+nt|Henryb:  Butler scoring|pg||
+nt|Henryb:  How many tables?|pg||
+nt|Henryb:  And why aren't you playing, Hedy?|pg||
+nt|HedyG: hi Henry, cause you didnt come to be my partner :(|pg||
+nt|Henryb:  you did not ask :(|pg||
+nt|HedyG: also i am not in Zurich but in Geneva|pg||
+nt|HedyG: ohhhhhh ok, next time i'll ask|pg||
+nt|Henryb:  I'd rather come for Crans|pg||
+nt|Henryb:  prettier than Zurich|pg||
+nt|HedyG: that is over :( the tournament died|pg||
+nt|Henryb:  very sad|pg||
+nt|Henryb:  my ex went once|pg||
+nt|HedyG: indeed, was a great event|pg||
+nt|Henryb:  in the 80's|pg||
+nt|Henryb:  I couldn't because of work|pg||
+nt|HedyG: i think by the 90s it was on the way out|pg||
+pg||
+qx|o19|st||md|1SQJ5HT953DA853CK3,SA74HAKJ74D42C982,SK98H8DKQ6CJT7654,ST632HQ62DJT97CAQ|sv|e|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|cJ|nt|fluffy: gotta be IMPs, nobody passes out 2@h at MPs :)|pg||
+pc|cQ|nt|fluffy: specially nor Romanski lol|pg||
+pc|cK|pc|c2|pg||
+pc|sQ|pc|s4|pc|s9|pc|s2|pg||
+pc|d3|pc|d4|pc|dQ|pc|d7|pg||
+nt|fluffy: bt even at IMPs its a bad idea to pass out, as the cards lie -110 instead of +130|pg||
+pc|c6|pc|cA|pc|c3|pc|c8|pg||
+nt|fluffy: even -50 on 3@d was better|pg||
+pc|h2|pc|h3|pc|hK|pc|h8|pg||
+pc|c9|pc|cT|pc|h6|pc|hT|pg||
+pc|h5|pc|h4|nt|fluffy: mmm I misscounted declarer's trick sorry|pg||
+pc|c4|pc|hQ|pg||
+pc|s3|pc|s5|pc|sA|mc|7|pg||
+qx|o20|st||md|2SQ3HJ76DKJ2CAQT43,SA52HAT8DAT963C95,ST98HK42DQ754C762,SKJ764HQ953D8CKJ8|sv|b|mb|1D|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h7|nt|Henryb:  this will probably go down when declarer misguesses spades|pg||
+pc|hT|pc|hK|pc|h3|pg||
+pc|c6|nt|fluffy: I know its IMPs but really 4@s looks like an overbid to me|pg||
+pc|cJ|pc|cQ|pc|c5|pg||
+pc|cA|pc|c9|pc|c2|nt|fluffy: its a quacky 10 count with just 5431|pg||
+pc|c8|pg||
+pc|c3|nt|fluffy: and the singleton is in partner's suit|pg||
+pc|d3|pc|c7|pc|cK|pg||
+nt|Henryb:  Knowing Adam Wildavsky fairly well, I suspect West's hand was close to the minimum he expected|pg||
+pc|s4|pc|s3|pc|sA|pc|s8|pg||
+pc|s2|pc|sT|pc|sJ|pc|sQ|pg||
+pc|h6|nt|fluffy: this is a guilemard's position?|pg||
+pc|h8|pc|h2|pc|hQ|pg||
+pc|sK|mc|9|nt|fluffy: well nto any more, but I am not used to 2/4 leads, so maybe he was planning on ruffinga heart in dummy|pg||
+pg||
+qx|o21|st||md|3ST84H76432DK3C964,S53HJ9D9642CQJT32,SAQ92HKQT8DQT7CA7,SKJ76HA5DAJ85CK85|sv|n|mb|1C!|mb|1N|nt|HedyG: Chubukov won the Swiss pairs with Alex Fettes a few weeks ago|pg||
+mb|p|mb|p|mb|p|nt|fluffy: normally the guy who bids first is the one to declare 1NT when both pairs have a 1NT opener :) not with polish club|pg||
+pc|h6|pc|hJ|pc|hQ|pc|hA|pg||
+pc|cK|pc|c6|pc|c2|pc|c7|pg||
+pc|c5|pc|c4|pc|cQ|pc|cA|pg||
+pc|hK|pc|h5|nt|fluffy: Romanski will need to find the diamond switch after winning his hearts, interpreting the low pips shouldn't be hard for a pair this level|pg||
+pc|h4|pc|h9|pg||
+pc|hT|pc|s6|pc|h2|pc|d2|pg||
+pc|h8|pc|d5|pc|h3|pc|d4|pg||
+pc|d7|pc|dJ|pc|dK|pc|d6|pg||
+pc|h7|pc|s3|nt|fluffy: romanski si squeezed if grzelak returns his @c9, but that makes no sense|pg||
+pc|s2|pc|s7|pg||
+pc|d3|pc|d9|pc|dT|pc|dA|pg||
+mc|6|pg||
+qx|o22|st||md|4S5HAKJ982DT6CK973,SAKJ86H73D98CJT42,SQ72HT5DK532CAQ85,ST943HQ64DAQJ74C6|sv|e|mb|p|mb|1H|mb|1S|mb|d|nt|fluffy: spades versus hearts but the bad vulneraibility for spades should be a fair fight|pg||
+mb|3D!|nt|fluffy: as the cards lie I think 4@s X -1 is the best par contract|pg||
+mb|p|mb|3S|mb|p|nt|fluffy: 3@d is a fit bid, showing both spades and diamonds|pg||
+mb|p|mb|p|pc|hT|pc|h6|pc|hJ|pc|h3|pg||
+pc|hA|pc|h7|pc|h5|pc|h4|pg||
+pc|hK|nt|fluffy: hearts will be tapping the wrong hand I think, maybe clubs put more pressure to the contract|pg||
+pc|s8|pc|sQ|pc|hQ|pg||
+pc|s2|pc|s3|pc|s5|pc|sJ|pg||
+pc|d8|pc|d3|pc|dQ|pc|d6|pg||
+pc|s4|pc|h2|pc|sA|pc|s7|pg||
+pc|d9|mc|10|nt|fluffy: he only made 9 tricks jean|pg||
+nt|Henryb:  140, operator|pg||
+nt|fluffy: jerome sorry|pg||
+nt|Henryb:  makes little difference|pg||
+pg||
+qx|o23|st||md|1S3HT93DA542CK9865,SK64H874DKQ9CA743,SQ872HAJ5DJT76CT2,SAJT95HKQ62D83CQJ|sv|b|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D!|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|fluffy: 2@d could be 1 of 2 conventions: transfer of 2 way checkback|pg||
+pc|h9|pc|h4|nt|fluffy: regardless chubukov shows 3@s and sets the contract|pg||
+nt|Henryb:  or new minor forcing|pg||
+pc|hA|pc|h2|pg||
+nt|fluffy: probably 2@d was not transfer, or a heart lead would not be appealing|pg||
+nt|fluffy: yes NMF as well, but that is not popular in europe|pg||
+pc|cT|pc|cQ|pc|cK|pc|cA|pg||
+nt|fluffy: to behonest I have never found tht convention being played except online|pg||
+nt|Henryb:  But Wildavsky and Chubukov are both American|pg||
+nt|HedyG: it was 2 way checkback, asking opener to describe his hand showing a gf hand|pg||
+nt|fluffy: had no idea!|pg||
+nt|HedyG: they are both Americans living in Zurich|pg||
+nt|Henryb:  even if they look like a Russian and a Pole|pg||
+nt|HedyG: LOL|pg||
+nt|fluffy: :)|pg||
+pc|s4|pc|s2|pc|sJ|pc|s3|pg||
+nt|HedyG: have you found a picture of Victor?|pg||
+nt|Henryb:  have not looked|pg||
+pc|d8|pc|dA|pc|d9|pc|d6|pg||
+pc|c6|pc|c3|pc|c2|pc|cJ|pg||
+pc|s5|pc|c5|pc|sK|pc|s7|pg||
+pc|s6|mc|11|pg||
+qx|o24|st||md|2ST96HAJ74D86CQ862,SQ4HQ65DAQT932CAT,SKJ532HKT3DK54CJ5,SA87H982DJ7CK9743|sv|o|mb|1N|mb|p|mb|p|mb|p|pc|s3|nt|Henryb:  1N = 15-17?|pg||
+nt|Henryb:  I agree with the evaluation|pg||
+nt|fluffy: the hand certainly qualifies as 15-17, but wildavsky's passivity makes me thinkg of 14-16 as an option|pg||
+pc|s7|pc|s9|pc|sQ|pg||
+pc|cT|pc|c5|pc|cK|pc|c2|pg||
+pc|dJ|pc|d6|pc|d3|pc|dK|pg||
+nt|Henryb:  not me. Opposite 15-17, staying in 1N is probably better odds than raising to two|pg||
+pc|sK|pc|sA|pc|s6|pc|s4|pg||
+mc|12|nt|Henryb:  150|pg||
+nt|Henryb:  laimed 9 tricks|pg||
+nt|Henryb:  not 12|pg||
+nt|fluffy: but maybe that's becaus eyou upgrade many 14?|pg||
+nt|Henryb:  nope|pg||
+nt|vugraphzas: sorry|pg||
+nt|vugraphzas: round has ended, but a few table are still playing|pg||
+nt|Henryb:  thats because half of all 15-17s are 15|pg||
+nt|fluffy: nothing to do with you, but I heard an american friend complaining that he knew many american pairs that upgraded somane 14s and 17s that 14-16 was a more accurate description than ...|pg||
+nt|fluffy: 15-17 for them|pg||
+nt|Henryb:  and opposite 15 you probably do not want to be in game|pg||
+nt|fluffy: opposite 15 you don't want to be in 2NT you mena, and I totally agree|pg||
+nt|Henryb:  or even 2N|pg||
+nt|fluffy: I would take responder's hand as a good 8 count, because of the 5 card minor, despite a @dJ that looks bad..... it turns out the 5 card is useless and @dJ is the key to 9 tricks ...|pg||
+nt|fluffy: how little I know :P|pg||
+nt|Henryb:  That and the fact that the opponents can't take five quick hearts and that they can't take four hearts and a pointed king|pg||
+nt|fluffy: I guess you would accept an invitation with west's hand wouldn't you? I think I would, its either we run diamonds before they run something or not, and 1 HCP is not going ot matter ...|pg||
+nt|fluffy: much on that race|pg||
+nt|vugraphzas: after next round, there will be a break|pg||
+nt|Henryb:  My favorite toy, the Kaplan-Rubens hand evaluator, says the W hand is worth 15.65 points|pg||
+nt|Henryb:  Sad that the tournament does not have a website to look at results and standings|pg||
+nt|vugraphzas: 5th round will start shortly|pg||
+nt|Henryb:  Operator, do you know how many pairs are entered in the event?|pg||
+nt|vugraphzas: Terrettaz and Link are leading|pg||
+nt|vugraphzas: 22 pairs|pg||
+nt|Henryb:  thanks|pg||
+nt|vugraphzas: Harrari Doussot are second|pg||
+nt|vugraphzas: Van den Bos and Van Lankveld are 3rd|pg||
+nt|Henryb:  Gwinner is a wonderful bridge name: who won? Gwinner of course :)|pg||
+pg||
+qx|o25|st||md|3SA7HKT92DT5CKJ865,ST32HAQJ8DAQ83CT2,SK854H543DKJ72C43,SQJ96H76D964CAQ97|sv|e|mb|p|mb|p|mb|1C|mb|d|mb|p|nt|fluffy: :)|pg||
+mb|2S|mb|p|mb|p|mb|p|pc|dT|nt|fluffy: the bidding is pretty straightforward, except for north's pass maybe, I would bid something with his cards|pg||
+pc|dA|pc|d7|pc|d4|pg||
+pc|c2|pc|c4|pc|cA|pc|c5|pg||
+pc|h7|pc|h2|pc|hJ|nt|fluffy: this guy doesn't like fineses|pg||
+pc|h3|pg||
+nt|Henryb:  Passivity worked well, and the high cards are mostly foul for declarer|pg||
+nt|fluffy: ahh only the ones that are onside!|pg||
+nt|fluffy: very clever, I want this kunzli on my team :)|pg||
+pc|cT|pc|c3|pc|c7|pc|cJ|pg||
+pc|d5|pc|d3|pc|dJ|pc|d6|pg||
+pc|dK|pc|d9|pc|c6|pc|d8|pg||
+pc|d2|pc|s9|pc|c8|pc|dQ|pg||
+pc|h6|pc|h9|pc|hQ|pc|h4|pg||
+pc|hA|pc|h5|pc|c9|pc|hT|pg||
+pc|h8|pc|s8|pc|sJ|pc|hK|pg||
+nt|Henryb:  Kunzli is playing this very well|pg||
+nt|Henryb:  but the @s8 was a great play|pg||
+nt|fluffy: @s7 beats @s6 grrrr|pg||
+pc|cQ|pc|cK|pc|s2|pc|s4|pg||
+pc|s5|pc|s6|pc|sA|pc|s3|pg||
+pc|s7|pc|sT|pc|sK|pc|sQ|pg||
+pg||
+qx|o26|st||md|4SJ743HQJDJT985C52,S9HA8742DAK2CA964,ST652HT9D763CKQ73,SAKQ8HK653DQ4CJT8|sv|b|nt|fluffy: yesterday I had a hand where the way to make was to double finese LHO's @s108x after ruffing twice in hand with @sAK, was interesting http://www.bridgebase.com/f...|pg||
+nt|fluffy: orums/topic/58833-dont-mess-this-ending/|pg||
+nt|Henryb:  dreadful but making 6@h|pg||
+nt|fluffy: http://www.bridgebase.com/forums/topic/58833-dont-mess-this-ending/|pg||
+mb|1N|nt|Henryb:  dreadful is overkill: needs 2-2 trumps|pg||
+mb|p|mb|2D|nt|fluffy: default but in the end it will make because @h2-2! :) @s singleton opposite @sAKQ8 is not very good|pg||
+mb|p|mb|3H|an|not max 4-heart|nt|Henryb:  not when you need three pitches|pg||
+mb|p|mb|4N|mb|p|nt|Henryb:  If W had three clubs and four diamonds, they would be very useful|pg||
+mb|5H|mb|p|mb|6H|mb|p|mb|p|mb|p|nt|fluffy: just giving tips for novicces, having AKQ opposite singleton is bad holding, notice that @sAxxx @hKQxx and @cKxx makes grand slam on anything but @h4-0, but @sAKQ means instead ...|pg||
+nt|fluffy: that you need @h2-2 to even make 6|pg||
+pc|dJ|pc|d2|pc|d3|pc|dQ|pg||
+pc|h3|pc|hQ|pc|hA|pc|h9|pg||
+pc|h7|pc|hT|pc|hK|nt|fluffy: anything was overkill :) that would require spades breaking as well :)|pg||
+pc|hJ|pg||
+nt|fluffy: or clubs, or soemthing|pg||
+pc|sA|pc|s4|pc|s9|pc|s5|pg||
+pc|sK|pc|s3|pc|c4|pc|s2|pg||
+nt|Henryb:  why are we still playing?|pg||
+pc|sQ|pc|s7|pc|c6|pc|s6|pg||
+mc|12|nt|fluffy: he could had played club to the 9 long ago, now there is not even a point for it|pg||
+pg||
+qx|o27|st||md|1SQ98HT63DKQ8CKT84,SKJ76HAQDJT9CJ952,S432H942D65432CA7,SAT5HKJ875DA7CQ63|sv|o|mb|p|mb|1N!|an|10-12|mb|p|nt|Henryb:  an upgrade because of all those jacks :)|pg||
+mb|2D|nt|fluffy: was trying to see where the upgrade came fom :)|pg||
+nt|vugraphzas: 10-12|pg||
+mb|p|nt|Henryb:  ah|pg||
+mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|vugraphzas: they play weak no-trump when not vulnerable and strong when vulnerable|pg||
+nt|Henryb:  wrong sided|pg||
+pc|d3|nt|Henryb:  better for E to play this hand|pg||
+nt|fluffy: wasn't there someone who advotated playing 4M after a transfer when holding 2 stiff honnors? that was for 15-17 NT due to entries issue though|pg||
+pc|d7|pc|dQ|pc|d9|pg||
+pc|d8|pc|dT|pc|d2|pc|dA|pg||
+nt|Henryb:  I advocate it after opening 2N|pg||
+nt|fluffy: wow I think I would walys return @dK on this situation|pg||
+pc|h5|pc|h3|pc|hA|pc|h2|pg||
+pc|hQ|pc|h4|pc|h7|pc|h6|pg||
+pc|s6|pc|s2|pc|sA|pc|s8|pg||
+pc|hK|pc|hT|pc|c5|pc|h9|pg||
+pc|hJ|pc|c8|pc|c2|pc|s3|pg||
+pc|h8|pc|c4|pc|dJ|pc|d4|pg||
+pc|sT|pc|s9|pc|s7|pc|s4|pg||
+pc|s5|pc|sQ|pc|sK|nt|Henryb:  in standard the auction might go 1@c-1@h-1@s-2@d(fsf)-2@h-2!n-3!n|pg||
+mc|10|pg||
+qx|o28|st||md|2SKQ8HAQ84DJ9CT963,ST2HK532DAKQ65CA8,SA964HJT9D73CKQ42,SJ753H76DT842CJ75|sv|n|nt|fluffy: gwiner guessed the spades and that's what mattered|pg||
+nt|Henryb:  he has gwonnen|pg||
+mb|1D|mb|p|mb|p|mb|d|mb|1H|mb|1S|mb|2D|mb|p|mb|p|mb|2S|nt|fluffy: unless you play a extremelly agressive style notice that the 1@h bid shows a 2 suiter type hand, with 5+@d|pg||
+mb|p|mb|p|nt|fluffy: you won :(|pg||
+mb|3D|mb|p|mb|p|nt|Henryb:  I think South passed and West bid 3@d|pg||
+nt|fluffy: I bet the final contract is 3@s|pg||
+mb|p|pc|cK|nt|vugraphzas: sorry =)|pg||
+pc|c5|nt|Henryb:  np|pg||
+pc|c3|pc|cA|pg||
+pc|c8|pc|cQ|pc|c7|pc|c6|pg||
+pc|sA|pc|s3|pc|s8|pc|s2|pg||
+pc|s4|pc|s5|nt|fluffy: this is a typical sitation where you don't need to show attitude under @cK lead|pg||
+pc|sQ|pc|sT|pg||
+nt|fluffy: declarer is always going to play @cA having @cJxx in dummy, so if you happen to win @cK you know where @cA lies|pg||
+nt|Henryb:  Notice that with the extra club trick declarer only needs one ruff in dummy|pg||
+pc|d9|pc|dA|pc|d3|pc|d2|pg||
+pc|dQ|pc|d7|pc|d4|pc|dJ|pg||
+pc|d5|pc|c2|pc|d8|pc|h8|pg||
+pc|cJ|pc|c9|pc|h5|pc|c4|pg||
+pc|h6|pc|h4|pc|hK|pc|h9|pg||
+pc|h2|pc|hT|pc|h7|pc|hQ|pg||
+mc|9|nt|fluffy: so in the end @cK lead gave away the contract I think|pg||
+nt|fluffy: @h lead would give it as well|pg||
+pg||
+qx|o29|st||md|3S96HJT75DT752CK32,SA72H8643DQ3CT965,S85HAQDK86CAQJ874,SKQJT43HK92DAJ94C|sv|b|mb|1N|mb|d|an|DONT|nt|fluffy: this time I think north's hand is too strong for 1NT opening|pg||
+mb|p|mb|2C!|mb|d|nt|fluffy: DONT looks like disturbing oneself's bidding looking at kunzli's hand|pg||
+nt|Henryb:  3@s?|pg||
+mb|2S|nt|fluffy: certainly worth it IMO|pg||
+mb|p|mb|p|mb|p|pc|c2|pc|c5|pc|cA|pc|s3|pg||
+nt|fluffy: the heart and diamond holdings improve when RHO opens 1NT, and when he asks for clubs even more|pg||
+pc|s4|pc|s6|nt|fluffy: kibitzers informs me that since direct 2@s in DONT is nat, 2@s later shows something good|pg||
+pc|sA|pc|s5|pg||
+pc|dQ|pc|dK|pc|dA|pc|d2|pg||
+nt|fluffy: I don't think this good, but makes a bit more sense now|pg||
+pc|dJ|pc|d5|pc|d3|pc|d6|pg||
+pc|d4|pc|d7|pc|s2|pc|d8|pg||
+pc|h3|pc|hA|pc|h2|pc|h5|pg||
+pc|hQ|pc|hK|pc|h7|pc|h4|pg||
+nt|Henryb:  depends on definitions - some play 2@s shows @s and a shorter minor, say 5=4 so partner removes only with short spades and support for both minors|pg||
+pc|sK|mc|10|pg||
+qx|o30|st||md|4SKT9H9752DKJ72CJ4,SJ6HKTD9853CAT952,SA872HQ843DQ64CKQ,SQ543HAJ6DATC8763|sv|o|mb|1N!|an|10-12|mb|p|mb|p|mb|p|pc|d2|pc|d3|pc|dQ|pc|dA|pg||
+pc|c7|pc|c4|pc|cA|pc|cQ|pg||
+pc|c2|pc|cK|pc|c3|pc|cJ|pg||
+pc|d6|pc|dT|pc|dJ|pc|d5|pg||
+pc|h2|pc|hT|pc|hQ|pc|hA|pg||
+pc|h6|pc|h5|pc|hK|pc|h3|pg||
+pc|c5|pc|s2|pc|c6|pc|sT|pg||
+pc|hJ|pc|h7|pc|s6|pc|h4|pg||
+pc|c8|pc|d7|pc|c9|pc|d4|pg||
+pc|cT|pc|s7|pc|s3|pc|h9|pg||
+mc|8|nt|vugraphzas: we have a break now (eating) we'll come back for the next round later|pg||
+nt|fluffy: thanks Jerome great work|pg||
+nt|vugraphzas: Break now (later for the next rounds)|pg||
+pg||

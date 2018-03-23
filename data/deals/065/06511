@@ -1,0 +1,124 @@
+vg|2002 Melchemie Top Circuit,Final 7A,P,1,10,Team 1,0,Team 2,0|
+rs|2HN+1,,3NW+2,,4SSx-1,,6DS=,,3CEx-2,,2DN+3,,4HN-1,,3SW+1,,4SW+1,,4SE-3,|
+pw|Van Luijk,Bertens,Ter Laare,Bakkeren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+pg||
+qx|o1|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|3SJ94HJT954DA4CQ74,SAKTHAQDJT983CJ98,SQ65HK7DK762CAK62,S8732H8632DQ5CT53|sv|0|
+mb|1N|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
+pc|C3|pc|C4|pc|CJ|pc|CK|pg||
+pc|HK|pc|H2|pc|H4|pc|HA|pg||
+pc|DT|pc|DK|pc|D5|pc|D4|pg||
+pc|H7|pc|H3|pc|HJ|pc|HQ|pg||
+pc|SA|pc|S6|pc|S8|pc|S4|pg||
+pc|SK|pc|S5|pc|S2|pc|S9|pg||
+pc|ST|pc|SQ|pc|S3|pc|SJ|pg||
+pc|D2|pc|DQ|pc|DA|pc|D3|pg||
+pc|HT|pg||
+mc|9|pg||
+qx|o2|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|4SA873HKQ87DCJ9842,SKQJ2HAJTDA43CA73,S64H962DJT862CQT5,ST95H543DKQ975CK6|sv|n|
+mb|P|mb|P|mb|1C|mb|P|mb|1D|mb|D|mb|1N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
+pc|H6|pc|H3|pc|HQ|pc|HA|pg||
+pc|SK|pc|S4|pc|S5|pc|SA|pg||
+pc|HK|pc|HJ|pc|H2|pc|H4|pg||
+pc|H7|pc|HT|pc|H9|pc|H5|pg||
+pc|S2|pc|S6|pc|ST|pc|S3|pg||
+pc|S9|pc|S7|pc|SQ|pc|D2|pg||
+pc|SJ|pc|C5|pc|D5|pc|S8|pg||
+pc|DA|pc|D6|pc|D7|pc|C2|pg||
+mc|11|pg||
+qx|o3|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|1SKQJ87HTD82CAQ763,ST6HJ853D95CT9842,S954HK642DAT73CKJ,SA32HAQ97DKQJ64C5|sv|e|
+mb|2S|mb|P|mb|3S|mb|D|mb|P|mb|4H|mb|D|mb|P|mb|4S|mb|P|mb|P|mb|D|mb|P|mb|P|mb|P|pg||
+pc|D9|pc|DA|pc|D4|pc|D2|pg||
+pc|S4|pc|S3|pc|SQ|pc|S6|pg||
+pc|SK|pc|ST|pc|S5|pc|SA|pg||
+pc|DJ|pc|D8|pc|D5|pc|D3|pg||
+pc|DK|pc|S7|pc|H3|pc|D7|pg||
+pc|SJ|pc|C2|pc|S9|pc|S2|pg||
+pc|C3|pc|C4|pc|CK|pc|C5|pg||
+mc|9|pg||
+qx|o4|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|2SKH863DKQ976CAJ75,S985432HJ42DTCQT8,SJ7HAKQ75DAJ85CK6,SAQT6HT9D432C9432|sv|b|
+mb|P|mb|1H|mb|P|mb|2D|mb|P|mb|3D|mb|P|mb|3S|mb|P|mb|4C|mb|P|mb|4D|mb|P|mb|4N|mb|P|mb|5S|mb|P|mb|6D|mb|P|mb|P|mb|P|pg||
+pc|S9|pc|S7|pc|SA|pc|SK|pg||
+pc|C2|pc|CJ|pc|CQ|pc|CK|pg||
+pc|DA|pc|D2|pc|D6|pc|DT|pg||
+mc|12|pg||
+qx|o5|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|3SAHAJ32DQ543CA865,S9HK85DAJ8762CKT3,SKT8732HQT76DKTC2,SQJ654H94D9CQJ974|sv|n|
+mb|P|mb|2S|mb|D|mb|2N|mb|D|mb|3C|mb|D|mb|P|mb|P|mb|P|pg||
+pc|HA|pc|H5|pc|H6|pc|H4|pg||
+pc|C5|pc|C3|pc|C2|pc|C7|pg||
+pc|D9|pc|D3|pc|DA|pc|DT|pg||
+pc|D2|pc|DK|pc|C4|pc|D4|pg||
+pc|C9|pc|CA|pc|CT|pc|S2|pg||
+pc|H2|pc|HK|pc|H7|pc|H9|pg||
+pc|D6|pc|S3|pc|S5|pc|DQ|pg||
+pc|C6|pc|CK|pc|S7|pc|CJ|pg||
+pc|DJ|pc|HQ|pc|S4|pc|D5|pg||
+pc|D7|pc|S8|pc|S6|pc|C8|pg||
+pc|HJ|pc|H8|pc|HT|pc|CQ|pg||
+pc|SQ|pc|SA|pc|S9|pc|ST|pg||
+pc|H3|pc|D8|pc|SK|pc|SJ|pg||
+mc|7|pg||
+qx|o6|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|4SKQ4HAQ53DT854CT6,SAT9HJ762DJ9CAJ75,SJ8753H4DAQ7632CQ,S62HKT98DKCK98432|sv|e|
+mb|P|mb|P|mb|P|mb|1D|mb|P|mb|2D|mb|P|mb|P|mb|P|pg||
+pc|C3|pc|C6|pc|CA|pc|CQ|pg||
+pc|C5|pc|D2|pc|C2|pc|CT|pg||
+pc|DA|pc|DK|pc|D4|pc|D9|pg||
+pc|DQ|pc|C4|pc|D5|pc|DJ|pg||
+pc|S3|pc|S2|pc|SK|pc|SA|pg||
+mc|11|pg||
+qx|o7|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|1S6HAK9DA9652CAQ64,SA97HJT7DJT8C7532,SQ843HQ852D3CKJT9,SKJT52H643DKQ74C8|sv|b|
+mb|1D|mb|P|mb|1H|mb|1S|mb|2C|mb|2S|mb|P|mb|P|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
+pc|C8|pc|CA|pc|C2|pc|C9|pg||
+pc|DA|pc|D8|pc|D3|pc|D4|pg||
+pc|D2|pc|DJ|pc|H2|pc|D7|pg||
+pc|CT|pc|H6|pc|C4|pc|C7|pg||
+pc|SJ|pc|S6|pc|SA|pc|S3|pg||
+pc|C5|pc|CK|pc|H3|pc|C6|pg||
+pc|H4|pc|HK|pc|H7|pc|H5|pg||
+pc|D5|pc|DT|pc|H8|pc|DQ|pg||
+pc|CJ|pc|S2|pc|CQ|pc|C3|pg||
+pc|D6|pg||
+mc|9|pg||
+qx|o8|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|2SQ73HJ42DT62CAQ96,SKJT9H53DAK843C75,SA8HK876DQ5CKJT83,S6542HAQT9DJ97C42|sv|0|
+mb|1D|mb|2C|mb|D|mb|3C|mb|3S|mb|P|mb|P|mb|P|pg||
+pc|CJ|pc|C2|pc|CQ|pc|C5|pg||
+pc|D6|pc|DA|pc|D5|pc|D7|pg||
+pc|H5|pc|H6|pc|HQ|pc|H2|pg||
+pc|S2|pc|S7|pc|SJ|pc|SA|pg||
+pc|C3|pc|C4|pc|CA|pc|C7|pg||
+pc|D2|pc|DK|pc|DQ|pc|D9|pg||
+pc|H3|pc|H7|pc|HA|pc|H4|pg||
+pc|S4|pc|S3|pc|ST|pc|S8|pg||
+mc|10|pg||
+qx|o9|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|3ST84HJT932DQ62CK4,SAKQJ96HAK8DKCA73,S7HQ754DA85CJ9852,S532H6DJT9743CQT6|sv|e|
+mb|P|mb|P|mb|P|mb|2C|mb|P|mb|2D|mb|P|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|C9|pc|CT|pc|CK|pc|CA|pg||
+pc|HA|pc|H4|pc|H6|pc|H2|pg||
+pc|H8|pc|H5|pc|S2|pc|H3|pg||
+pc|CQ|pc|C4|pc|C3|pc|C2|pg||
+pc|S3|pc|S4|pc|SA|pc|S7|pg||
+pc|HK|pc|H7|pc|C6|pc|H9|pg||
+pc|C7|pc|C8|pc|S5|pc|S8|pg||
+mc|11|pg||
+qx|o10|
+pn|Van Luijk,Bertens,Ter Laare,Bakkeren,South,West,North,East|md|4SJT64HAJT2DKQ52C5,SA95H85DAJ643CKJ9,SK8H97643DT7CQ742,SQ732HKQD98CAT863|sv|b|
+mb|1C|mb|D|mb|R|mb|2H|mb|P|mb|P|mb|3C|mb|P|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
+pc|DK|pc|DA|pc|D7|pc|D8|pg||
+pc|S5|pc|SK|pc|S2|pc|S4|pg||
+pc|H9|pc|HQ|pc|HA|pc|H5|pg||
+pc|HJ|pc|H8|pc|H7|pc|HK|pg||
+pc|C3|pc|C5|pc|CJ|pc|CQ|pg||
+pc|DT|pc|D9|pc|DQ|pc|D3|pg||
+pc|D5|pc|D6|pc|S8|pc|SQ|pg||
+pc|C6|pc|S6|pc|C9|pc|C2|pg||
+pc|SJ|pc|SA|pc|H3|pc|S3|pg||
+mc|7|pg||

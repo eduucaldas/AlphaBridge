@@ -1,0 +1,107 @@
+vg|3rd ING BANK Top Circuit 2000,Match 4A,P,11,20,Team 1,0,Team 2,0|
+rs|4SS+2,,4SWx=,,1NS+2,,4SEx-1,,2CS+2,,3NW=,,4SS+1,,4SNxx-2,,4HW+1,,4HN+1,|
+pw|Drijver,Jialal,Markovic,Van Cleeff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
+mp|,,,,,,,,,,,,,,,,,,,|
+bn|11,12,13,14,15,16,17,18,19,20|
+pg||
+mn|3rd ING BANK Top Circuit 2000 - 2000.06.10|pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o11,BOARD 11|rh||ah|Board 11|md|1SKQ9752HA2DQ2CT83,SJTHKJ97DJ93CK762,SA63HQDKT864CAQJ9|sv|0|
+sa|0|mb|1S|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|H9|pc|HQ|pc|HT|pc|H2|pg||
+pc|SA|pc|S4|pc|S2|pc|SJ|pg||
+pc|S3|pc|S8|pc|SQ|pc|ST|pg||
+pc|CT|pc|C2|pc|C9|pc|C4|pg||
+pc|D2|pc|D3|pc|DK|pc|DA|pg||
+pc|D7|pc|DQ|pc|D9|pc|D4|pg||
+pc|HA|pc|H7|pc|D6|pc|H3|pg||
+mc|12|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o12,BOARD 12|rh||ah|Board 12|md|2S5HJT873DQT98CJ92,SQJT743HDAKJ3CQ63,SA98HAK654D652CKT|sv|n|
+sa|0|mb|1S|mb|2H|mb|2S|mb|4H|mb|4S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H2|pc|H8|pc|S3|pg||
+pc|DA|pc|D6|pc|D4|pc|D8|pg||
+pc|DK|pc|D2|pc|D7|pc|DT|pg||
+pc|D3|pc|D5|pc|S2|pc|D9|pg||
+pc|H9|pc|HT|pc|S4|pc|H4|pg||
+pc|DJ|pc|H6|pc|S6|pc|DQ|pg||
+pc|SK|pc|S5|pc|S7|pc|SA|pg||
+pc|HA|pc|HQ|pc|H3|pc|ST|pg||
+pc|SQ|pc|S8|pc|C4|pc|H7|pg||
+pc|SJ|pc|S9|pc|C5|pc|HJ|pg||
+mc|10|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o13,BOARD 13|rh||ah|Board 13|md|3SHA862DAT9CJT9852,SA9743HQJ93DJ6C74,SKJ62H74DK743CA63|sv|b|
+sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|H4|pc|HK|pc|H2|pg||
+pc|HT|pc|HA|pc|H3|pc|H7|pg||
+pc|CJ|pc|C4|pc|CA|pc|CQ|pg||
+pc|C3|pc|CK|pc|C8|pc|C7|pg||
+pc|H5|pc|H6|pc|H9|pc|D3|pg||
+pc|HJ|pc|D4|pc|D2|pc|H8|pg||
+pc|S3|pc|SK|pc|S5|pc|D9|pg||
+mc|9|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o14,BOARD 14|rh||ah|Board 14|md|4S7HKT96532DK6CAJT,SK96H7DAJ873C9864,SJ8543HAQ8DT954C3|sv|0|
+sa|0|mb|1N|mb|3H|mb|d|mb|p|mb|3S|mb|p|mb|p|mb|4H|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pc|H2|pc|H7|pc|HA|pc|H4|pg||
+pc|HQ|pc|HJ|pc|H3|pc|S6|pg||
+pc|C9|pc|C3|pc|CK|pc|CA|pg||
+pc|CJ|pc|C4|pc|D4|pc|CQ|pg||
+pc|DQ|pc|DK|pc|DA|pc|D5|pg||
+pc|DJ|pc|D9|pc|D2|pc|D6|pg||
+pc|SK|pc|S3|pc|S2|pc|S7|pg||
+pc|C6|pc|S4|pc|C7|pc|CT|pg||
+pc|DT|pc|ST|pc|H5|pc|D3|pg||
+pc|C5|pc|H6|pc|C8|pc|S5|pg||
+pc|H8|pc|C2|pc|H9|pc|S9|pg||
+pc|D7|pc|S8|pc|SQ|pc|HT|pg||
+pc|SA|pc|HK|pc|D8|pc|SJ|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o15,BOARD 15|rh||ah|Board 15|md|1SAKQT9542HK3DT96C,S73HAT64DK52C9863,S8HQ5DAQ873CAQJT5|sv|n|
+sa|0|mb|2C|mb|p|mb|p|mb|p|pg||
+pc|C3|pc|CQ|pc|CK|pc|S2|pg||
+pc|SJ|pc|SA|pc|S3|pc|S8|pg||
+pc|D9|pc|D5|pc|D3|pc|DJ|pg||
+pc|H8|pc|H3|pc|HA|pc|H5|pg||
+pc|H4|pc|HQ|pc|H7|pc|HK|pg||
+pc|D6|pc|D2|pc|DQ|pc|D4|pg||
+mc|10|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o16,BOARD 16|rh||ah|Board 16|md|2SJ9HJ873D42CAT642,ST64HAKT62DKQ7CQ3,S7532HQ54DAJ95CJ9|sv|e|
+sa|0|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|D5|pc|D3|pc|D2|pc|D7|pg||
+pc|DK|pc|DA|pc|D6|pc|D4|pg||
+pc|D9|pc|DT|pc|C6|pc|DQ|pg||
+pc|S4|pc|S2|pc|SA|pc|S9|pg||
+pc|D8|pc|H3|pc|H2|pc|DJ|pg||
+pc|S7|pc|SK|pc|SJ|pc|S6|pg||
+pc|C5|pc|C2|pc|CQ|pc|C9|pg||
+pc|ST|pc|S3|pc|SQ|pc|C4|pg||
+pc|S8|pc|H7|pc|H6|pc|S5|pg||
+pc|H9|pc|H8|pc|HA|pc|H4|pg||
+pc|HK|pc|H5|pc|C7|pc|HJ|pg||
+mc|9|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o17,BOARD 17|rh||ah|Board 17|md|3S8542HT42DKTCKQJ4,ST7HQJ73D974CT863,SAK93HA65DAQJ65C5|sv|0|
+sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|4C|mb|d|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|C6|pc|C5|pc|CA|pc|C4|pg||
+pc|H8|pc|H4|pc|H3|pc|HA|pg||
+pc|SA|pc|S6|pc|S2|pc|S7|pg||
+pc|SK|pc|SJ|pc|S4|pc|ST|pg||
+mc|11|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o18,BOARD 18|rh||ah|Board 18|md|4SAT32HAJ85D42CA84,SQJ97H763DKQ53CK2,SK865HKQTDJT6CQ93|sv|n|
+sa|0|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|4S|mb|d|mb|p|mb|p|mb|r|mb|p|mb|p|mb|p|pg||
+pc|C5|pc|C4|pc|CK|pc|C9|pg||
+pc|DK|pc|D6|pc|D7|pc|D2|pg||
+pc|DQ|pc|DJ|pc|D8|pc|D4|pg||
+pc|C2|pc|C3|pc|CT|pc|CA|pg||
+pc|SA|pc|S7|pc|S5|pc|S4|pg||
+pc|S2|pc|S9|pc|SK|pc|H2|pg||
+mc|8|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o19,BOARD 19|rh||ah|Board 19|md|1SAJT9H74DT84CJ654,SK2HAKQT986DACAK2,S85H32DKQ9753CQ83|sv|e|
+sa|0|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D2|pc|DT|pc|DA|pg||
+pc|HA|pc|H2|pc|H5|pc|H4|pg||
+pc|H6|pc|H3|pc|HJ|pc|H7|pg||
+mc|11|pg||
+pn|Drijver,Jialal,Markovic,Van Cleeff|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQJ6HT8654DA863C3,S9852H93DJ952CQT6,SAK7HAK7DK7CKJ872|sv|b|
+sa|0|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|S3|pc|S6|pc|S8|pc|SA|pg||
+pc|HA|pc|H2|pc|H4|pc|H3|pg||
+pc|HK|pc|HJ|pc|H5|pc|H9|pg||
+pc|S7|pc|S4|pc|SJ|pc|S2|pg||
+pc|C3|pc|C6|pc|CJ|pc|CA|pg||
+mc|11|pg||

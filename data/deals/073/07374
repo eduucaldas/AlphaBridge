@@ -1,0 +1,185 @@
+vg|2001 Cavendish Teams,Round 7,I,1,9,Deutsch,0,Kasle,0|
+rs|1NN+2,2HN=,4HE+1,4HE+1,1HW=,1NS=,2SN=,1NS=,1NE+1,2NE=,4SW+1,4SE+1,5SEx-2,6DNx-1,1NE-2,2CN+1,3NW=,3NW=|
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle,Mark Lair,Paul Chemla,George Steiner,Alain Levy|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o1,BOARD 1|rh||ah|Board 1|md|3SK872H7DT43CAJT43,SAJ65HJT6DA9C7652,SQ9HAKQ52D8765CK8|sv|0|
+sa|0|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|DK|pc|D3|pc|DA|pc|D6|pg||
+pc|D9|pc|D8|pc|DJ|pc|D4|pg||
+pc|S3|pc|S2|pc|SJ|pc|SQ|pg||
+pc|D5|pc|DQ|pc|DT|pc|C2|pg||
+pc|ST|pc|SK|pc|SA|pc|S9|pg||
+pc|HJ|pc|HA|pc|H4|pc|H7|pg||
+pc|D7|pc|D2|pc|C3|pc|S6|pg||
+pc|HK|pc|H3|pc|C4|pc|H6|pg||
+pc|HQ|pc|H8|pc|CT|pc|HT|pg||
+mc|9|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c1,BOARD 1|rh||ah|Board 1|md|3SK872H7DT43CAJT43,SAJ65HJT6DA9C7652,SQ9HAKQ52D8765CK8|sv|0|
+sa|0|mb|1H|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
+pc|DJ|pc|D4|pc|DA|pc|D7|pg||
+pc|H6|pc|HA|pc|H3|pc|H7|pg||
+pc|HK|pc|H4|pc|C3|pc|HT|pg||
+pc|HQ|pc|H9|pc|S2|pc|HJ|pg||
+pc|D6|pc|DQ|pc|D3|pc|D9|pg||
+pc|H8|pc|S7|pc|C2|pc|H2|pg||
+pc|S3|pc|S8|pc|SA|pc|S9|pg||
+mc|8|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o2,BOARD 2|rh||ah|Board 2|md|4SAJ6HTDQT97432CT9,S42HKQ432DA5C8732,SK8753H86DJ8CJ654|sv|n|
+sa|0|mb|1H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|CT|pc|C2|pc|C6|mc|11|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c2,BOARD 2|rh||ah|Board 2|md|4SAJ6HTDQT97432CT9,S42HKQ432DA5C8732,SK8753H86DJ8CJ654|sv|n|
+sa|0|mb|1H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pc|DT|mc|11|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o3,BOARD 3|rh||ah|Board 3|md|1S9HKJ43D932CQT965,SAK6HT982DJ864CK3,SQ8743HQ5DQT5CAJ4|sv|e|
+sa|0|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|p|mb|p|pg||
+pc|S4|pc|ST|pc|S9|pc|S6|pg||
+pc|DA|pc|D2|pc|D4|pc|D5|pg||
+pc|DK|pc|D3|pc|D8|pc|DT|pg||
+pc|D7|pc|D9|pc|DJ|pc|DQ|pg||
+pc|C4|pc|C2|pc|CQ|pc|CK|pg||
+pc|SA|pc|S3|pc|S2|pc|H3|pg||
+pc|C6|pc|C3|pc|CJ|pc|C7|pg||
+pc|SQ|pc|S5|pc|H4|pc|SK|pg||
+pc|CT|pc|HT|pc|CA|pc|C8|pg||
+pc|D6|pc|S8|pc|H6|pc|HJ|pg||
+pc|C5|pc|H2|pc|S7|pc|SJ|pg||
+pc|H8|pc|H5|pc|HA|pc|HK|pg||
+mc|7|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c3,BOARD 3|rh||ah|Board 3|md|1S9HKJ43D932CQT965,SAK6HT982DJ864CK3,SQ8743HQ5DQT5CAJ4|sv|e|
+sa|0|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|HT|pc|HQ|pc|HA|pc|H4|pg||
+pc|H7|pc|HJ|pc|H2|pc|H5|pg||
+pc|CT|pc|CK|pc|CA|pc|C2|pg||
+pc|CJ|pc|C7|pc|C6|pc|C3|pg||
+pc|C4|pc|C8|pc|CQ|pc|S6|pg||
+pc|C9|pc|H8|pc|S3|pc|S5|pg||
+pc|C5|pc|D4|pc|S4|pc|D7|pg||
+pc|HK|pc|H9|pc|S7|pc|H6|pg||
+pc|S9|pc|SK|pc|S8|pc|S2|pg||
+pc|SA|pc|SQ|pc|SJ|pc|H3|pg||
+pc|D6|mc|7|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o4,BOARD 4|rh||ah|Board 4|md|2S9853HAJ97DQ9CJ76,SAQ7H32DAT754CT98,SKT62HT5DJ3CAKQ52|sv|b|
+sa|0|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pc|D2|pc|D9|pc|DA|pc|D3|pg||
+pc|CT|pc|C2|pc|C4|pc|CJ|pg||
+pc|S3|pc|S7|pc|SK|pc|S4|pg||
+pc|S2|pc|SJ|pc|S5|pc|SQ|pg||
+pc|SA|pc|S6|pc|H6|pc|S8|pg||
+pc|D5|pc|DJ|pc|DK|pc|DQ|pg||
+pc|HK|pc|HA|pc|H3|pc|H5|pg||
+pc|C6|pc|C8|pc|CA|pc|C3|pg||
+mc|8|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c4,BOARD 4|rh||ah|Board 4|md|2S9853HAJ97DQ9CJ76,SAQ7H32DAT754CT98,SKT62HT5DJ3CAKQ52|sv|b|
+sa|0|mb|p|mb|1C|mb|1H|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|H3|pc|H5|pc|HQ|pc|H7|pg||
+pc|H4|pc|HJ|pc|H2|pc|HT|pg||
+pc|C7|pc|C8|pc|CA|pc|C3|pg||
+pc|C2|pc|C4|pc|CJ|pc|C9|pg||
+pc|HA|pc|S7|pc|S2|pc|H6|pg||
+pc|C6|pc|CT|pc|CK|pc|D8|pg||
+pc|C5|pc|S4|pc|S8|pc|D7|pg||
+pc|D3|pc|D6|pc|DQ|pc|DA|pg||
+pc|D4|pc|DJ|pc|DK|pc|D9|pg||
+pc|HK|pc|H9|pc|D5|pc|S6|pg||
+pc|SJ|pc|S3|pc|SA|pc|ST|pg||
+pc|DT|mc|7|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o5,BOARD 5|rh||ah|Board 5|md|3SJ2HAKQ54DAT3CT92,SA94HJT93DJ94CQ87,SQ8763H87DQ762C64|sv|n|
+sa|0|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H3|pc|H8|pc|H6|pg||
+pc|H5|pc|H9|pc|H7|pc|H2|pg||
+pc|C7|pc|C4|pc|CK|pc|C2|pg||
+pc|C3|pc|C9|pc|CQ|pc|C6|pg||
+pc|C8|pc|S3|pc|CA|pc|CT|pg||
+pc|CJ|pc|DT|pc|HT|pc|D2|pg||
+pc|C5|pc|D3|pc|D4|pc|S6|pg||
+pc|SK|pc|S2|pc|S4|pc|S7|pg||
+pc|S5|pc|SJ|pc|SA|pc|S8|pg||
+pc|HJ|mc|8|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c5,BOARD 5|rh||ah|Board 5|md|3SJ2HAKQ54DAT3CT92,SA94HJT93DJ94CQ87,SQ8763H87DQ762C64|sv|n|
+sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|H3|pc|H7|pc|H2|pg||
+pc|HK|pc|H9|pc|H8|pc|H6|pg||
+pc|HA|pc|HT|pc|S6|pc|D5|pg||
+pc|H5|pc|HJ|pc|S3|pc|D8|pg||
+pc|CQ|pc|C4|pc|C3|pc|C2|pg||
+pc|C7|pc|C6|pc|CK|pc|C9|pg||
+pc|CA|pc|CT|pc|C8|pc|D2|pg||
+pc|CJ|pc|D3|pc|D4|pc|D6|pg||
+pc|C5|pc|DT|pc|D9|pc|D7|pg||
+pc|S5|pc|S2|pc|SA|pc|S7|pg||
+pc|S4|pc|S8|pc|SK|pc|SJ|pg||
+pc|DK|mc|8|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o6,BOARD 6|rh||ah|Board 6|md|4S53HQJ96DJ854CQJ8,SAJ62H52DAQT62CAT,SKTHAT874DK97C653|sv|e|
+sa|0|mb|p|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|D7|pc|D3|pc|DJ|pc|DQ|pg||
+pc|DA|pc|D9|pc|H3|pc|D4|pg||
+pc|SA|pc|ST|pc|S4|pc|S3|pg||
+pc|CA|pc|C3|pc|C4|pc|CQ|pg||
+pc|S2|pc|SK|pc|S7|pc|S5|pg||
+pc|HA|pc|HK|pc|H6|pc|H2|pg||
+pc|C6|pc|CK|pc|C8|pc|CT|pg||
+pc|C9|pc|CJ|mc|11|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c6,BOARD 6|rh||ah|Board 6|md|4S53HQJ96DJ854CQJ8,SAJ62H52DAQT62CAT,SKTHAT874DK97C653|sv|e|
+sa|0|mb|p|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|H2|pc|HA|pc|H3|pg||
+pc|H7|pc|HK|pc|H9|pc|H5|pg||
+pc|S4|pc|S3|pc|SJ|pc|SK|pg||
+pc|D7|pc|D3|pc|DJ|pc|DQ|pg||
+pc|SA|pc|ST|pc|S8|pc|S5|pg||
+mc|11|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o7,BOARD 7|rh||ah|Board 7|md|1S3HAK62DJ3CJ87652,SK98765HT87DA5C43,SHQ943DKQT8762CA9|sv|b|
+sa|0|mb|p|mb|p|mb|1D|mb|1S|mb|d|mb|4S|mb|5H|mb|5S|mb|d|mb|p|mb|p|mb|p|pg||
+pc|HK|pc|H7|pc|H9|pc|H5|pg||
+pc|HA|pc|H8|pc|H3|pc|HJ|pg||
+pc|DJ|pc|DA|pc|DT|pc|D9|pg||
+pc|SK|pc|D8|pc|ST|pc|S3|pg||
+pc|C3|pc|CA|pc|CT|pc|C2|pg||
+pc|DK|mc|9|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c7,BOARD 7|rh||ah|Board 7|md|1S3HAK62DJ3CJ87652,SK98765HT87DA5C43,SHQ943DKQT8762CA9|sv|b|
+sa|0|mb|p|mb|p|mb|1D|mb|1S|mb|d|mb|4S|mb|5D|mb|5S|mb|6D|mb|d|mb|p|mb|p|mb|p|pg||
+pc|CK|pc|C2|pc|C4|pc|CA|pg||
+pc|D2|pc|D4|pc|DJ|pc|DA|pg||
+pc|C3|pc|C9|pc|CQ|pc|C5|pg||
+pc|SA|pc|S3|pc|S5|mc|11|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o8,BOARD 8|rh||ah|Board 8|md|2ST5HAK743DT9873CA,SK874HT5DA2CKJ862,SAQ63H2DQJCQT9743|sv|0|
+sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pc|DT|pc|D2|pc|DQ|pc|D5|pg||
+pc|DJ|pc|D6|pc|D3|pc|DA|pg||
+pc|S4|pc|SQ|pc|S9|pc|S5|pg||
+pc|H2|pc|H6|pc|HK|pc|H5|pg||
+pc|D7|pc|C2|pc|C7|pc|DK|pg||
+pc|HQ|pc|HA|pc|HT|pc|C3|pg||
+pc|D9|pc|C6|pc|C4|pc|D4|pg||
+pc|D8|pc|S7|pc|S3|pc|H9|pg||
+pc|CA|pc|C8|pc|C9|pc|C5|pg||
+pc|ST|pc|SK|pc|SA|pc|S2|pg||
+mc|5|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c8,BOARD 8|rh||ah|Board 8|md|2ST5HAK743DT9873CA,SK874HT5DA2CKJ862,SAQ63H2DQJCQT9743|sv|0|
+sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|2C|mb|p|mb|p|mb|p|pg||
+pc|HQ|pc|HA|pc|H5|pc|H2|pg||
+pc|HK|pc|HT|pc|S3|pc|H6|pg||
+pc|S5|pc|S7|pc|SQ|pc|S2|pg||
+pc|SA|pc|SJ|pc|ST|pc|S4|pg||
+pc|S6|pc|S9|pc|CA|pc|S8|pg||
+pc|H3|pc|D2|pc|C3|pc|H8|pg||
+pc|DQ|pc|D6|pc|D3|pc|DA|pg||
+pc|SK|pc|CT|pc|D4|pc|D7|pg||
+pc|DJ|pc|DK|pc|D8|pc|C2|pg||
+pc|C6|pc|C9|pc|C5|pc|H4|pg||
+pc|C4|mc|9|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|o9,BOARD 9|rh||ah|Board 9|md|3SK983HQ8762DQ8CQ3,ST4HAKT43DJTCJ985,SA62HJ95D642CT764|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|C2|pc|CQ|pc|C9|pg||
+pc|H6|pc|HK|pc|H5|pc|S5|pg||
+pc|DJ|pc|D2|pc|D3|pc|DQ|pg||
+pc|C3|pc|C5|pc|C6|pc|CK|pg||
+pc|D5|pc|D8|pc|DT|pc|D4|pg||
+pc|HA|mc|9|pg||
+pn|Paul Soloway,Bobby Wolff,Seymon Deutsch,Gaylor Kasle|qx|c9,BOARD 9|rh||ah|Board 9|md|3SK983HQ8762DQ8CQ3,ST4HAKT43DJTCJ985,SA62HJ95D642CT764|sv|e|
+sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pc|C4|pc|C2|pc|CQ|pc|C8|pg||
+pc|H6|pc|HA|pc|H5|pc|S5|pg||
+pc|DJ|pc|D4|pc|D3|pc|DQ|pg||
+pc|C3|pc|C5|pc|C6|pc|CA|pg||
+pc|D5|pc|D8|pc|DT|pc|D2|pg||
+pc|HK|pc|H9|pc|S7|pc|H2|pg||
+pc|C9|pc|C7|pc|CK|mc|9|pg||
