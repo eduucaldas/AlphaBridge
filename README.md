@@ -58,9 +58,6 @@ Folder with learning methods based on CNNs and ML:
 
 
 
-## Bridge Vocabulary:
-[TODO]
-
 ## Aknowledgements
 Thank you Véronique Ventos and Tristan for the guidance in this daring project
 And specially to every member of the team: 
