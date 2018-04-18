@@ -181,11 +181,21 @@ def build_act(make_obs_ph, q_func, num_actions, scope="deepq", reuse=None):
         eps = tf.get_variable("eps", (), initializer=tf.constant_initializer(0))
 
         q_values = q_func(observations_ph.get(), num_actions, scope="q_func")
+        #inpt = observations_ph.get()
+        #q_values = q_values + 10000 * inpt[:,-1,:36]
         deterministic_actions = tf.argmax(q_values, axis=1)
 
         batch_size = tf.shape(observations_ph.get())[0]
+
+        #v = tf.cast(tf.argmax(inpt[:,-1,:36], axis=1), tf.float32)
+        #w = 35 - v 
+
+        #random_actions = tf.random_uniform(tf.stack([batch_size])) * w
+        #random_actions = tf.ceil(random_actions) + v 
+        #random_actions = tf.cast(random_actions, tf.int64)
+        #print("ok")
         random_actions = tf.random_uniform(tf.stack([batch_size]), minval=0, maxval=num_actions, dtype=tf.int64)
-        chose_random = tf.random_uniform(tf.stack([batch_size]), minval=0, maxval=1, dtype=tf.float32) < eps
+        chose_random = tf.random_uniform(tf.stack([batch_size]), minval=0, maxval=1, dtype=tf.float32) < eps 
         stochastic_actions = tf.where(chose_random, random_actions, deterministic_actions)
 
         output_actions = tf.cond(stochastic_ph, lambda: stochastic_actions, lambda: deterministic_actions)
