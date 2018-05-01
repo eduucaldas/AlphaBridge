@@ -12,6 +12,7 @@ from sklearn.metrics import classification_report,confusion_matrix
 from keras.layers import Conv2D, Dense, Flatten, InputLayer, Reshape, Dropout
 from math import ceil
 import data.enums
+from treat_biddings import encode_contract, encode_sequence, encode_reduce
 
 def get_model(num_classes, size_flat = 52, shape_full = (4, 13, 1)):
     
@@ -37,8 +38,8 @@ def get_model(num_classes, size_flat = 52, shape_full = (4, 13, 1)):
     model.add(Conv2D(kernel_size=4, strides=1, filters=32, padding='same',
                      activation='relu', name='layer_conv4'))
 
-    # Flatten the 4-rank output of the convolutional layers
-    # to 2-rank that can be input to a fully-connected / dense layer
+#    # Flatten the 4-rank output of the convolutional layers
+#    # to 2-rank that can be input to a fully-connected / dense layer
     model.add(Flatten())
     
     # First fully-connected / dense layer with ReLU-activation
@@ -68,9 +69,9 @@ def compute_model(BIDDING):
     y = (df["lead"]//13).values    
     y = np.stack(np_utils.to_categorical(y, num_classes = 4))
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
-    epochs = 20
+    epochs = 15
     batch_size = 256
 
 
@@ -112,7 +113,7 @@ def compute_model_long(BIDDING):
     
     X, y = all_symetries(X, y)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
 #    epochs = max(5, min(ceil(len(X_train) / 500.), 15))
     epochs = 20
@@ -198,7 +199,7 @@ def compute_model_8(BIDDING):
     y = (df["lead"]).values    
     y = np.stack(np_utils.to_categorical([classe8(lead) for lead in y], num_classes = 8))
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
     epochs = 20
     batch_size = 256
@@ -227,7 +228,7 @@ def compute_model_highLow(bid):
     y = (df["lead"]).values 
     X, y = add_color(X, y)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
     epochs = 10
     batch_size = 256
@@ -247,15 +248,87 @@ def compute_model_highLow(bid):
     print(classification_report(y_, y_pred,target_names=target_names))
     print(confusion_matrix(y_, y_pred))
     
+def compute_model_contract():
+    
+    X, y = encode_contract()
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+    epochs = 10
+    batch_size = 256
+
+
+    model = get_model(4, 56, (4, 14, 1))
+    model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_split=0.2)
+    score = model.evaluate(X_test, y_test, batch_size=batch_size, verbose=0)
+    print("Accuracy: ", score[1]*100)
+    
+    Y_pred = model.predict(X_test)
+    y_pred = np.argmax(Y_pred, axis=1)
+    y_=np.argmax(y_test,axis=1)
+
+    target_names = ['S', 'H', 'D', 'C']
+    print("\nCorrélation prédiction / true:\n")
+    print(classification_report(y_, y_pred,target_names=target_names))
+    print(confusion_matrix(y_, y_pred))
+    
+def compute_model_seq():
+    
+    X, y = encode_sequence()
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+    epochs = 20
+    batch_size = 256
+
+
+    model = get_model(4, 68, (4, 17, 1))
+    model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_split=0.2)
+    score = model.evaluate(X_test, y_test, batch_size=batch_size, verbose=0)
+    print("Accuracy: ", score[1]*100)
+    
+    Y_pred = model.predict(X_test)
+    y_pred = np.argmax(Y_pred, axis=1)
+    y_=np.argmax(y_test,axis=1)
+
+    target_names = ['S', 'H', 'D', 'C']
+    print("\nCorrélation prédiction / true:\n")
+    print(classification_report(y_, y_pred,target_names=target_names))
+    print(confusion_matrix(y_, y_pred))
+    
+def compute_model_reduce():
+    
+    X, y = encode_reduce()
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+    epochs = 20
+    batch_size = 256
+
+
+    model = get_model(4, 36, (4, 9, 1))
+    model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_split=0.2)
+    score = model.evaluate(X_test, y_test, batch_size=batch_size, verbose=0)
+    print("Accuracy: ", score[1]*100)
+    
+    Y_pred = model.predict(X_test)
+    y_pred = np.argmax(Y_pred, axis=1)
+    y_=np.argmax(y_test,axis=1)
+
+    target_names = ['S', 'H', 'D', 'C']
+    print("\nCorrélation prédiction / true:\n")
+    print(classification_report(y_, y_pred,target_names=target_names))
+    print(confusion_matrix(y_, y_pred))
+    
 
 def main():
-    BIDDINGS = [
-                ["1N,P,P,P", "P,1N,P,P,P", "P,P,1N,P,P,P", "P,P,P,1N,P,P,P"]]
+    BIDDINGS = [["P"]]
+#                ["1N,P,P,P", "P,1N,P,P,P", "P,P,1N,P,P,P", "P,P,P,1N,P,P,P"]]
 #                ["1N,P,P,P", "P,1N,P,P,P"],
 #                ["1N,P,P,P"],
 #                ["1N,P,2C,P,2S,P,3N,P,P,P"],
 #                ["1N,P,2C,P,2H,P,3N,P,P,P"],
-#                ["1N,P,3N,P,P,P", "P,1N,P,3N,P,P,P", "P,P,1N,P,3N,P,P,P", "P,P,P,1N,P,3N,P,P,P"],
+#                ["1N,P,3N,P,P,P", "P,1N,P,3N,P,P,P", "P,P,1N,P,3N,P,P,P", "P,P,P,1N,P,3N,P,P,P"]]
 #                ["1H,P,2H,P,4H,P,P,P"],
 #                ["1C,P,1H,P,1N,P,P,P"],
 #                ["1C,P,1S,P,1N,P,P,P"],
@@ -263,7 +336,9 @@ def main():
 #    BIDDINGS = [[x for x in data.enums.BIDSMAP]]
     for BIDDING in BIDDINGS:
         print("\n" + " - ".join(BIDDING))
-        compute_model_highLow(BIDDING)
+        print(len(search_biddings(BIDDING)))
+#        compute_model_8(BIDDING)
+#    compute_model_reduce()
 
 
 
